@@ -71,6 +71,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Point-Based_Multi-View_Stereo_Network_ICCV_2019_paper.pdf)] Point-based Multi-view Stereo Network [[pytorch](https://github.com/callmeray/PointMVSNet)] :star:
 - [[Arxiv](https://arxiv.org/pdf/1911.07401.pdf)] TSRNet: Scalable 3D Surface Reconstruction Network for Point Clouds using Tangent Convolution
 - [[Arxiv](https://arxiv.org/ftp/arxiv/papers/1911/1911.09204.pdf)] DR-KFD: A Differentiable Visual Metric for 3D Shape Reconstruction
+- [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_GraphX-Convolution_for_Point_Cloud_Deformation_in_2D-to-3D_Conversion_ICCV_2019_paper.pdf)] GraphX-Convolution for Point Cloud Deformation in 2D-to-3D Conversion
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wen_Pixel2Mesh_Multi-View_3D_Mesh_Generation_via_Deformation_ICCV_2019_paper.pdf)] Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation [[pytorch](https://github.com/walsvid/Pixel2MeshPlusPlus)]
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wallace_Few-Shot_Generalization_for_Single-Image_3D_Reconstruction_via_Priors_ICCV_2019_paper.pdf)] Few-Shot Generalization for Single-Image 3D Reconstruction via Priors
 - [[ICCV2019](https://arxiv.org/pdf/1909.00321.pdf)] Deep Mesh Reconstruction from Single RGB Images via Topology Modification Networks
@@ -134,7 +135,6 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[Arxiv](https://arxiv.org/pdf/1608.01807.pdf)] SIFT Meets CNN:
 A Decade Survey of Instance Retrieval
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Uy_Revisiting_Point_Cloud_Classification_A_New_Benchmark_Dataset_and_Classification_ICCV_2019_paper.pdf)] Revisiting Point Cloud Classification: A New Benchmark Dataset and Classification Model on Real-World Data [[tensorflow](https://github.com/hkust-vgd/scanobjectnn)]
-- [[Arxiv](https://arxiv.org/pdf/1911.10127.pdf)] BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks [[dataset](https://github.com/YoYo000/BlendedMVS)]
 - [[Arxiv](https://arxiv.org/pdf/1911.10127.pdf)] BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks [[dataset](https://github.com/YoYo000/BlendedMVS)]
 - [[Arxiv](https://arxiv.org/pdf/1909.00169.pdf)] Imbalance Problems in Object Detection: A Review [[repository](https://github.com/kemaloksuz/ObjectDetectionImbalance)]
 - [[IJCV](https://link.springer.com/content/pdf/10.1007/s11263-019-01247-4.pdf)] Deep Learning for Generic Object Detection: A Survey
