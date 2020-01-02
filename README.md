@@ -1,5 +1,5 @@
 # 3D-Shape-Analysis-Paper-List
-A list of recent papers, libraries and datasets I recently read is collected for anyone who shows interest at **3D detection**, **shape representation**, **shape completion**, **shape reconstruction**, **3D scene understanding**, **3D scene reconstruction**.
+A list of papers, libraries and datasets I recently read is collected for anyone who shows interest at **3D detection**, **shape representation**, **shape completion**, **shape reconstruction**, **3D scene understanding**, **3D scene reconstruction**.
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
