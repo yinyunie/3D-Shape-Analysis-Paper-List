@@ -5,6 +5,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[Arxiv](https://arxiv.org/pdf/1912.13192.pdf)] PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection
+- [[Arxiv](https://arxiv.org/pdf/1912.12791.pdf)] Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots
 - [[Arxiv](https://arxiv.org/pdf/1912.11803.pdf)] SESS: Self-Ensembling Semi-Supervised 3D Object Detection
 - [[NeurIPS2019](https://papers.nips.cc/paper/9093-perspectivenet-3d-object-detection-from-a-single-rgb-image-via-perspective-points)] PerspectiveNet: 3D Object Detection from a Single RGB Image via Perspective Points
 - [[NeurIPS2019](https://arxiv.org/pdf/1906.01140.pdf)] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds
@@ -25,17 +27,30 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[CVPRW2019](http://openaccess.thecvf.com/content_CVPRW_2019/papers/SkelNetOn/Demir_SkelNetOn_2019_Dataset_and_Challenge_on_Deep_Learning_for_Geometric_CVPRW_2019_paper.pdf)] SkelNetOn 2019: Dataset and Challenge on Deep Learning for Geometric Shape Understanding [[project](http://ubee.enseeiht.fr/skelneton/)]
 - [[Arxiv](https://arxiv.org/pdf/1912.11932.pdf)] Skeleton Extraction from 3D Point Clouds by Decomposing the Object into Parts
 - [[Arxiv](https://arxiv.org/pdf/1912.11606.pdf)] InSphereNet: a Concise Representation and Classification Method for 3D Object
 - [[Arxiv](https://arxiv.org/pdf/1912.06126v1.pdf)] Deep Structured Implicit Functions
+- [[CVIU](https://reader.elsevier.com/reader/sd/pii/S1077314218303606?token=0CC172174E5193815DEF57234C50AD55CFA60AAB3672EAC166AEFF051C2021E08D78D78CC1A4716A2317128070FF756C)] 3D articulated skeleton extraction using a single consumer-grade depth camera
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Genova_Learning_Shape_Templates_With_Structured_Implicit_Functions_ICCV_2019_paper.pdf)] Learning Shape Templates with Structured Implicit Functions
 - [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf)] DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation [[pytorch](https://github.com/facebookresearch/DeepSDF)] :fire: :star:
 - [[SIGGRAPH Asia2019](https://arxiv.org/pdf/1903.10170.pdf)] LOGAN: Unpaired Shape Transform in Latent Overcomplete Space [[tensorflow](https://github.com/kangxue/LOGAN)]
+- [[TOG](https://www.researchgate.net/profile/Yajie_Yan2/publication/326726499_Voxel_cores_efficient_robust_and_provably_good_approximation_of_3D_medial_axes/links/5b7712cd4585151fd11b316a/Voxel-cores-efficient-robust-and-provably-good-approximation-of-3D-medial-axes.pdf)] Voxel Cores: Efficient, robust, and provably good approximation of 3D medial axes
 - [[SIGGRAPH2018](https://arxiv.org/pdf/1803.09263.pdf)] P2P-NET: Bidirectional Point Displacement Net for Shape Transform [[tensorflow](https://github.com/kangxue/P2P-NET)]
+- [[AAAI2018](http://graphics.cs.uh.edu/wp-content/papers/2018/2018-AAAI-SkeletonExtractionFromDepthCamera.pdf)] Unsupervised Articulated Skeleton Extraction from Point Set Sequences Captured by a Single Depth Camera
 - [[3DV2018](https://arxiv.org/pdf/1808.01337.pdf)] Parsing Geometry Using Structure-Aware Shape Templates
+- [[TOG](https://pdfs.semanticscholar.org/cc9a/2d7aff3a4238812c29e7d7525b4e4794fffc.pdf)] Erosion Thickness on Medial Axes of 3D Shapes
+- [[Vis Comput](https://link.springer.com/content/pdf/10.1007%2Fs00371-016-1331-z.pdf)] Distance field guided L1-median skeleton extraction
+- [[CGF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13098)] Contracting Medial Surfaces Isotropically for Fast Extraction of Centred Curve Skeletons
+- [[CGF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13570)] Improved Use of LOP for Curve Skeleton Extraction
 - [[SIGGRAPH Asia2015](https://boris.unibe.ch/81116/1/dpoints.pdf)] Deep Points Consolidation [[C++ & Qt](https://www.dropbox.com/s/hroijgjajj4cadi/point-cloud-processing-vs2013-201908.zip?dl=0)]
+- [[SIGGRAPH2015](https://dl.acm.org/doi/pdf/10.1145/2787626.2792658)] Burning The Medial Axis
 - [[SIGGRAPH2009](http://www-evasion.imag.fr/people/Franck.Hetroy/Teaching/ProjetsImage/2010/Bib/tagliasacchi_zhang_cohen-or-siggraph2009.pdf)] Curve Skeleton Extraction from Incomplete Point Cloud [[matlab](https://github.com/ataiya/rosa)] :star:
 - [[TOG](https://arxiv.org/pdf/1908.04520.pdf)] SDM-NET: deep generative network for structured deformable mesh
+- [[TOG](https://dl.acm.org/doi/pdf/10.1145/2601097.2601161?download=true)]Robust and Accurate Skeletal Rigging from Mesh Sequences :fire:
+- [[TOG](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.309.729&rep=rep1&type=pdf)] L<sub>1</sub>-medial skeleton of point cloud [[C++](https://github.com/HongqiangWei/L1-Skeleton)] :fire:
+- [[EUROGRAPHICS2016](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.12865)] 3D Skeletons: A State-of-the-Art Report :fire:
+- [[SGP2012](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.261.3158&rep=rep1&type=pdf)] Mean Curvature Skeletons [[C++](https://github.com/ataiya/starlab-mcfskel)]：fire:
 
 ---
 ## Shape Completion
@@ -106,6 +121,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Matching, Registration, Alignment, Depth, Pose)
+- [[Arxiv](https://arxiv.org/pdf/1912.12756.pdf)] Target-less registration of point clouds: A review
 - [[Arxiv](https://arxiv.org/pdf/1912.12098.pdf)] Quaternion Equivariant Capsule Networks for 3D point clouds
 - [[Arxiv](https://arxiv.org/pdf/1912.11913.pdf)] Category-Level Articulated Object Pose Estimation
 - [[Arxiv](https://arxiv.org/pdf/1912.12296.pdf)] A Quantum Computational Approach to Correspondence Problems on Point Sets
