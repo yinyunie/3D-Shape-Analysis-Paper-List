@@ -24,6 +24,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_Transferable_Semi-Supervised_3D_Object_Detection_From_RGB-D_Data_ICCV_2019_paper.pdf)] Transferable Semi-Supervised 3D Object Detection From RGB-D Data
 - [[CVPR2019](https://arxiv.org/pdf/1812.04244.pdf)] PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud [[pytorch](https://github.com/sshaoshuai/PointRCNN)]
 - [[Arxiv](https://arxiv.org/pdf/1908.02990.pdf)] Fast Point R-CNN
+- [[Arxiv](https://arxiv.org/pdf/1908.09492.pdf)] Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection [[pytorch](https://github.com/poodarchu/Det3D)] :fire:
 
 ---
 ## Shape Representation
@@ -37,6 +38,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[SIGGRAPH Asia2019](https://arxiv.org/pdf/1903.10170.pdf)] LOGAN: Unpaired Shape Transform in Latent Overcomplete Space [[tensorflow](https://github.com/kangxue/LOGAN)]
 - [[TOG](https://www.researchgate.net/profile/Yajie_Yan2/publication/326726499_Voxel_cores_efficient_robust_and_provably_good_approximation_of_3D_medial_axes/links/5b7712cd4585151fd11b316a/Voxel-cores-efficient-robust-and-provably-good-approximation-of-3D-medial-axes.pdf)] Voxel Cores: Efficient, robust, and provably good approximation of 3D medial axes
 - [[SIGGRAPH2018](https://arxiv.org/pdf/1803.09263.pdf)] P2P-NET: Bidirectional Point Displacement Net for Shape Transform [[tensorflow](https://github.com/kangxue/P2P-NET)]
+- [[ICML2018](https://arxiv.org/pdf/1707.02392.pdf)] Learning Representations and Generative Models for 3D Point Clouds [[tensorflow](https://github.com/optas/latent_3d_points)] :fire::star:
 - [[AAAI2018](http://graphics.cs.uh.edu/wp-content/papers/2018/2018-AAAI-SkeletonExtractionFromDepthCamera.pdf)] Unsupervised Articulated Skeleton Extraction from Point Set Sequences Captured by a Single Depth Camera
 - [[3DV2018](https://arxiv.org/pdf/1808.01337.pdf)] Parsing Geometry Using Structure-Aware Shape Templates
 - [[TOG](https://pdfs.semanticscholar.org/cc9a/2d7aff3a4238812c29e7d7525b4e4794fffc.pdf)] Erosion Thickness on Medial Axes of 3D Shapes
@@ -47,7 +49,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[SIGGRAPH2015](https://dl.acm.org/doi/pdf/10.1145/2787626.2792658)] Burning The Medial Axis
 - [[SIGGRAPH2009](http://www-evasion.imag.fr/people/Franck.Hetroy/Teaching/ProjetsImage/2010/Bib/tagliasacchi_zhang_cohen-or-siggraph2009.pdf)] Curve Skeleton Extraction from Incomplete Point Cloud [[matlab](https://github.com/ataiya/rosa)] :star:
 - [[TOG](https://arxiv.org/pdf/1908.04520.pdf)] SDM-NET: deep generative network for structured deformable mesh
-- [[TOG](https://dl.acm.org/doi/pdf/10.1145/2601097.2601161?download=true)]Robust and Accurate Skeletal Rigging from Mesh Sequences :fire:
+- [[TOG](https://dl.acm.org/doi/pdf/10.1145/2601097.2601161?download=true)] Robust and Accurate Skeletal Rigging from Mesh Sequences :fire:
 - [[TOG](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.309.729&rep=rep1&type=pdf)] L<sub>1</sub>-medial skeleton of point cloud [[C++](https://github.com/HongqiangWei/L1-Skeleton)] :fire:
 - [[EUROGRAPHICS2016](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.12865)] 3D Skeletons: A State-of-the-Art Report :fire:
 - [[SGP2012](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.261.3158&rep=rep1&type=pdf)] Mean Curvature Skeletons [[C++](https://github.com/ataiya/starlab-mcfskel)] :fire:
@@ -63,12 +65,14 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Cascaded_Context_Pyramid_for_Full-Resolution_3D_Semantic_Scene_Completion_ICCV_2019_paper.pdf)] Cascaded Context Pyramid for Full-Resolution 3D Semantic Scene Completion [[Caffe3D](https://github.com/Pchank/CCPNet)]
 - [[ICCV2019](https://arxiv.org/pdf/1907.12704.pdf)] Multi-Angle Point Cloud-VAE: Unsupervised Feature Learning for 3D Point Clouds from Multiple Angles by Joint Self-Reconstruction and Half-to-Half Prediction
 - [[Arxiv](https://arxiv.org/pdf/1908.02893.pdf)] EdgeNet: Semantic Scene Completion from RGB-D images
+- [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.pdf)] TopNet: Structural Point Cloud Decoder [[pytorch & tensorflow](https://github.com/lynetcha/completion3d)]
 - [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Han_Deep_Reinforcement_Learning_of_Volume-Guided_Progressive_View_Inpainting_for_3D_CVPR_2019_paper.pdf)] Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image
 - [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Giancola_Leveraging_Shape_Completion_for_3D_Siamese_Tracking_CVPR_2019_paper.pdf)] Leveraging Shape Completion for 3D Siamese Tracking [[pytorch](https://github.com/SilvioGiancola/ShapeCompletion3DTracking)]
 - [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sarmad_RL-GAN-Net_A_Reinforcement_Learning_Agent_Controlled_GAN_Network_for_Real-Time_CVPR_2019_paper.pdf)] RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion [[pytorch](https://github.com/iSarmad/RL-GAN-Net)]
 - [[3DV2018](https://arxiv.org/pdf/1808.00671.pdf)] PCN: Point Completion Network [[tensorflow](https://github.com/wentaoyuan/pcn)] :fire:
 - [[ECCV2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiahui_Zhang_Efficient_Semantic_Scene_ECCV_2018_paper.pdf)] Efficient Semantic Scene Completion Network with Spatial Group Convolution [[pytorch](https://github.com/zjhthu/SGC-Release)]
 - [[CVPR2018](https://arxiv.org/pdf/1712.10215.pdf)] ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans [[tensorflow](https://github.com/angeladai/ScanComplete)] :fire::star:
+- [[CVPR2018](http://www.cvlibs.net/publications/Stutz2018CVPR.pdf)] Learning 3D Shape Completion from Laser Scan Data with Weak Supervision [[pytorch](https://github.com/davidstutz/cvpr2018-shape-completion)]
 - [[CVPR2017](https://arxiv.org/pdf/1709.07599.pdf)] High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference :star:
 - [[ICCV2017](https://arxiv.org/pdf/1709.07599.pdf)] Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis [[torch](https://github.com/angeladai/cnncomplete)] :fire::star:
 - [[CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Song_Semantic_Scene_Completion_CVPR_2017_paper.pdf)] Semantic Scene Completion from a Single Depth Image [[caffe](https://github.com/shurans/sscnet)] :fire::star:
@@ -159,4 +163,6 @@ A Decade Survey of Instance Retrieval
 - [[Arxiv](https://arxiv.org/pdf/1908.00463.pdf)] DIODE - A Dense Indoor and Outdoor DEpth Dataset [[dataset](https://github.com/diode-dataset/diode-devkit)]
 - [[ICCV2017](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237796&tag=1)] The Mapillary Vistas Dataset for Semantic Understanding of Street Scenes [[dataset](https://www.mapillary.com/dataset/vistas?pKey=1GyeWFxH_NPIQwgl0onILw)] [[script](https://github.com/mapillary/mapillary_vistas)] :star:
 - [[Arxiv](https://arxiv.org/pdf/1907.04758.pdf)] SynthCity: A large scale synthetic point cloud [[dataset](http://www.synthcity.xyz/)]
+- [[Github](https://github.com/davidstutz/mesh-voxelization)] Mesh Voxelization (SDFs or Occupancy grids)
+- [[Github](https://github.com/christopherbatty/SDFGen)] SDFGen (to generate grid-based signed distance field (level set))
 
