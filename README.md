@@ -5,6 +5,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[Arxiv](https://arxiv.org/pdf/2001.01349.pdf)] Learning and Memorizing Representative Prototypes for 3D Point Cloud Semantic and Instance Segmentation
 - [[Arxiv](https://arxiv.org/pdf/1912.13192.pdf)] PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection
 - [[Arxiv](https://arxiv.org/pdf/1912.12791.pdf)] Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots
 - [[Arxiv](https://arxiv.org/pdf/1912.11803.pdf)] SESS: Self-Ensembling Semi-Supervised 3D Object Detection
@@ -28,19 +29,26 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/pdf/2001.02823.pdf)] A NOVEL TREE-STRUCTURED POINT CLOUD DATASET FOR SKELETONIZATION ALGORITHM EVALUATION [[dataset](https://github.com/liujiboy/TreePointCloud)]
 - [[CVPRW2019](http://openaccess.thecvf.com/content_CVPRW_2019/papers/SkelNetOn/Demir_SkelNetOn_2019_Dataset_and_Challenge_on_Deep_Learning_for_Geometric_CVPRW_2019_paper.pdf)] SkelNetOn 2019: Dataset and Challenge on Deep Learning for Geometric Shape Understanding [[project](http://ubee.enseeiht.fr/skelneton/)]
 - [[Arxiv](https://arxiv.org/pdf/1912.11932.pdf)] Skeleton Extraction from 3D Point Clouds by Decomposing the Object into Parts
 - [[Arxiv](https://arxiv.org/pdf/1912.11606.pdf)] InSphereNet: a Concise Representation and Classification Method for 3D Object
 - [[Arxiv](https://arxiv.org/pdf/1912.06126v1.pdf)] Deep Structured Implicit Functions
 - [[CVIU](https://reader.elsevier.com/reader/sd/pii/S1077314218303606?token=0CC172174E5193815DEF57234C50AD55CFA60AAB3672EAC166AEFF051C2021E08D78D78CC1A4716A2317128070FF756C)] 3D articulated skeleton extraction using a single consumer-grade depth camera
+- [[ICLR2019](https://arxiv.org/pdf/1810.05795.pdf)] Point Cloud GAN [[tensorflow](https://github.com/chunliangli/Point-Cloud-GAN)]
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Genova_Learning_Shape_Templates_With_Structured_Implicit_Functions_ICCV_2019_paper.pdf)] Learning Shape Templates with Structured Implicit Functions
+- [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shu_3D_Point_Cloud_Generative_Adversarial_Network_Based_on_Tree_Structured_ICCV_2019_paper.pdf)] 3D Point Cloud Generative Adversarial Network Based on
+Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)]
+- [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Michalkiewicz_Implicit_Surface_Representations_As_Layers_in_Neural_Networks_ICCV_2019_paper.pdf)] Implicit Surface Representations as Layers in Neural Networks
 - [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf)] DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation [[pytorch](https://github.com/facebookresearch/DeepSDF)] :fire: :star:
+- [[SIGGRAPH2019](https://arxiv.org/pdf/1908.00575.pdf)] StructureNet: Hierarchical Graph Networks for 3D Shape Generation [[pytorch](https://github.com/daerduoCarey/structurenet)]
 - [[SIGGRAPH Asia2019](https://arxiv.org/pdf/1903.10170.pdf)] LOGAN: Unpaired Shape Transform in Latent Overcomplete Space [[tensorflow](https://github.com/kangxue/LOGAN)]
 - [[TOG](https://www.researchgate.net/profile/Yajie_Yan2/publication/326726499_Voxel_cores_efficient_robust_and_provably_good_approximation_of_3D_medial_axes/links/5b7712cd4585151fd11b316a/Voxel-cores-efficient-robust-and-provably-good-approximation-of-3D-medial-axes.pdf)] Voxel Cores: Efficient, robust, and provably good approximation of 3D medial axes
 - [[SIGGRAPH2018](https://arxiv.org/pdf/1803.09263.pdf)] P2P-NET: Bidirectional Point Displacement Net for Shape Transform [[tensorflow](https://github.com/kangxue/P2P-NET)]
 - [[ICML2018](https://arxiv.org/pdf/1707.02392.pdf)] Learning Representations and Generative Models for 3D Point Clouds [[tensorflow](https://github.com/optas/latent_3d_points)] :fire::star:
 - [[AAAI2018](http://graphics.cs.uh.edu/wp-content/papers/2018/2018-AAAI-SkeletonExtractionFromDepthCamera.pdf)] Unsupervised Articulated Skeleton Extraction from Point Set Sequences Captured by a Single Depth Camera
 - [[3DV2018](https://arxiv.org/pdf/1808.01337.pdf)] Parsing Geometry Using Structure-Aware Shape Templates
+- [[SIGGRAPH2017](https://www.cse.iitb.ac.in/~sidch/docs/siggraph2017_grass.pdf)] GRASS: Generative Recursive Autoencoders for Shape Structures [[pytorch](https://github.com/junli-lj/Grass)] :fire:
 - [[TOG](https://pdfs.semanticscholar.org/cc9a/2d7aff3a4238812c29e7d7525b4e4794fffc.pdf)] Erosion Thickness on Medial Axes of 3D Shapes
 - [[Vis Comput](https://link.springer.com/content/pdf/10.1007%2Fs00371-016-1331-z.pdf)] Distance field guided L1-median skeleton extraction
 - [[CGF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13098)] Contracting Medial Surfaces Isotropically for Fast Extraction of Centred Curve Skeletons
@@ -72,6 +80,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[3DV2018](https://arxiv.org/pdf/1808.00671.pdf)] PCN: Point Completion Network [[tensorflow](https://github.com/wentaoyuan/pcn)] :fire:
 - [[ECCV2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiahui_Zhang_Efficient_Semantic_Scene_ECCV_2018_paper.pdf)] Efficient Semantic Scene Completion Network with Spatial Group Convolution [[pytorch](https://github.com/zjhthu/SGC-Release)]
 - [[CVPR2018](https://arxiv.org/pdf/1712.10215.pdf)] ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans [[tensorflow](https://github.com/angeladai/ScanComplete)] :fire::star:
+- [[CVPR2018](http://www.cvlibs.net/publications/Stutz2018CVPR.pdf)] Learning 3D Shape Completion from Laser Scan Data with Weak Supervision [[torch](https://github.com/davidstutz/cvpr2018-shape-completion)]
+- [[IJCV2018](https://arxiv.org/abs/1805.07290)] Learning 3D Shape Completion under Weak Supervision [[torch](https://github.com/davidstutz/aml-improved-shape-completion)]
 - [[CVPR2018](http://www.cvlibs.net/publications/Stutz2018CVPR.pdf)] Learning 3D Shape Completion from Laser Scan Data with Weak Supervision [[pytorch](https://github.com/davidstutz/cvpr2018-shape-completion)]
 - [[CVPR2017](https://arxiv.org/pdf/1709.07599.pdf)] High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference :star:
 - [[ICCV2017](https://arxiv.org/pdf/1709.07599.pdf)] Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis [[torch](https://github.com/angeladai/cnncomplete)] :fire::star:
@@ -80,10 +90,12 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2001.01744.pdf)] Meshlet Priors for 3D Mesh Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/1912.10589.pdf)] Front2Back: Single View 3D Shape Reconstruction via Front to Back Prediction
 - [[Arxiv](https://arxiv.org/pdf/1912.07109.pdf)] SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization
 - [[CVPR2019](https://arxiv.org/pdf/1812.03828.pdf)] Occupancy Networks: Learning 3D Reconstruction in Function Space [[pytorch](https://github.com/autonomousvision/occupancy_networks)] :fire::star:
 - [[NeurIPS2019](https://arxiv.org/pdf/1905.10711.pdf)] DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction [[tensorflow](https://github.com/laughtervv/DISN)]
+- [[NeurIPS2019](https://arxiv.org/pdf/1905.10711.pdf)] Learning to Infer Implicit Surfaces without 3D Supervision
 - [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_A_Skeleton-Bridged_Deep_Learning_Approach_for_Generating_Meshes_of_Complex_CVPR_2019_paper.pdf)] A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images [[pytorch & tensorflow](https://github.com/tangjiapeng/SkeletonBridgeRecon)]
 - [[Arxiv](https://arxiv.org/pdf/1901.06802.pdf)] Deep Level Sets: Implicit Surface Representations for 3D Shape Inference
 - [[CVPR2019](https://arxiv.org/pdf/1812.02822.pdf)] Learning Implicit Fields for Generative Shape Modeling [[tensorflow](https://github.com/czq142857/implicit-decoder)] :fire:
@@ -114,6 +126,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2001.02149.pdf)] General 3D Room Layout from a Single View by Render-and-Compare
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Learning_to_Reconstruct_3D_Manhattan_Wireframes_From_a_Single_Image_ICCV_2019_paper.pdf)] Learning to Reconstruct 3D Manhattan Wireframes from a Single Image [[pytorch](https://github.com/yzhou359/3DIndoor-SceneGraphNet)]
 - [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_PlaneRCNN_3D_Plane_Detection_and_Reconstruction_From_a_Single_Image_CVPR_2019_paper.pdf)] PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image [[pytorch](https://github.com/NVlabs/planercnn)]:fire:
 - [[CVPR2018](https://arxiv.org/pdf/1712.01812.pdf)] Factoring Shape, Pose, and Layout from the 2D Image of a 3D Scene [[pytorch](https://github.com/shubhtuls/factored3d)]
@@ -125,6 +138,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Matching, Registration, Alignment, Depth, Pose)
+- [[Arxiv](https://arxiv.org/pdf/2001.00987.pdf)] DepthTransfer: Depth Extraction from Video Using Non-parametric Sampling
 - [[Arxiv](https://arxiv.org/pdf/1912.12756.pdf)] Target-less registration of point clouds: A review
 - [[Arxiv](https://arxiv.org/pdf/1912.12098.pdf)] Quaternion Equivariant Capsule Networks for 3D point clouds
 - [[Arxiv](https://arxiv.org/pdf/1912.11913.pdf)] Category-Level Articulated Object Pose Estimation
@@ -139,6 +153,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cui_Polarimetric_Relative_Pose_Estimation_ICCV_2019_paper.pdf)] Polarimetric Relative Pose Estimation
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Avetisyan_End-to-End_CAD_Model_Retrieval_and_9DoF_Alignment_in_3D_Scans_ICCV_2019_paper.pdf)] End-to-End CAD Model Retrieval and 9DoF Alignment in 3D Scans
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kong_Deep_Non-Rigid_Structure_From_Motion_ICCV_2019_paper.pdf)] Deep Non-Rigid Structure from Motion
+- [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_On_the_Continuity_of_Rotation_Representations_in_Neural_Networks_CVPR_2019_paper.pdf)] On the Continuity of Rotation Representations in Neural Networks [[pytorch](https://github.com/papagina/RotationContinuity)]
 - [[Arxiv](https://arxiv.org/pdf/1902.10840.pdf)] Deep Interpretable Non-Rigid Structure from Motion [[tensorflow](https://github.com/kongchen1992/deep-nrsfm)]
 - [[Arxiv](https://arxiv.org/pdf/1911.07246.pdf)] IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks [[dataset](https://clvrai.github.io/furniture/)]
 - [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Avetisyan_Scan2CAD_Learning_CAD_Model_Alignment_in_RGB-D_Scans_CVPR_2019_paper.pdf)] Scan2CAD: Learning CAD Model Alignment in RGB-D Scans [[pytorch](https://github.com/skanti/Scan2CAD)] :fire:
@@ -146,6 +161,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/pdf/2001.01788.pdf)] MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection
 - [[Arxiv](https://arxiv.org/pdf/1912.12033.pdf)] Deep Learning for 3D Point Clouds: A Survey
 - [[Arxiv](https://arxiv.org/pdf/1912.10230.pdf)] A Survey on Deep Learning-based Architectures for Semantic Segmentation on 2D images
 - [[Arxiv](https://arxiv.org/pdf/1906.06113.pdf)] A Survey on Deep Learning Architectures for Image-based Depth Reconstruction
@@ -165,4 +181,6 @@ A Decade Survey of Instance Retrieval
 - [[Arxiv](https://arxiv.org/pdf/1907.04758.pdf)] SynthCity: A large scale synthetic point cloud [[dataset](http://www.synthcity.xyz/)]
 - [[Github](https://github.com/davidstutz/mesh-voxelization)] Mesh Voxelization (SDFs or Occupancy grids)
 - [[Github](https://github.com/christopherbatty/SDFGen)] SDFGen (to generate grid-based signed distance field (level set))
+- [[Github](https://github.com/davidstutz/bpy-visualization-utils)] Blender renderer for python
+- [[Github](https://github.com/weiaicunzai/blender_shapenet_render)] Blender renderer for python
 
