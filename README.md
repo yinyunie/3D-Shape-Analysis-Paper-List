@@ -29,7 +29,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
-- [[Arxiv](https://arxiv.org/pdf/2001.02823.pdf)] A NOVEL TREE-STRUCTURED POINT CLOUD DATASET FOR SKELETONIZATION ALGORITHM EVALUATION [[dataset](https://github.com/liujiboy/TreePointCloud)]
+- [[Arxiv](https://arxiv.org/pdf/2001.02823.pdf)] A Novel Tree-structured Point Cloud Dataset For Skeletonization Algorithm Evaluation [[dataset](https://github.com/liujiboy/TreePointCloud)]
 - [[CVPRW2019](http://openaccess.thecvf.com/content_CVPRW_2019/papers/SkelNetOn/Demir_SkelNetOn_2019_Dataset_and_Challenge_on_Deep_Learning_for_Geometric_CVPRW_2019_paper.pdf)] SkelNetOn 2019: Dataset and Challenge on Deep Learning for Geometric Shape Understanding [[project](http://ubee.enseeiht.fr/skelneton/)]
 - [[Arxiv](https://arxiv.org/pdf/1912.11932.pdf)] Skeleton Extraction from 3D Point Clouds by Decomposing the Object into Parts
 - [[Arxiv](https://arxiv.org/pdf/1912.11606.pdf)] InSphereNet: a Concise Representation and Classification Method for 3D Object
