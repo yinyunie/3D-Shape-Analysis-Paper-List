@@ -5,6 +5,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[Arxiv](https://arxiv.org/pdf/2001.03343.pdf)] RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving [[github](https://github.com/Banconxuan/RTM3D)]
+- [[Arxiv](https://arxiv.org/pdf/2001.03398.pdf)] DSGN: Deep Stereo Geometry Network for 3D Object Detection [[github](https://github.com/chenyilun95/DSGN)]
 - [[Arxiv](https://arxiv.org/pdf/2001.01349.pdf)] Learning and Memorizing Representative Prototypes for 3D Point Cloud Semantic and Instance Segmentation
 - [[Arxiv](https://arxiv.org/pdf/1912.13192.pdf)] PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection
 - [[Arxiv](https://arxiv.org/pdf/1912.12791.pdf)] Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots
@@ -83,8 +85,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2018](http://www.cvlibs.net/publications/Stutz2018CVPR.pdf)] Learning 3D Shape Completion from Laser Scan Data with Weak Supervision [[torch](https://github.com/davidstutz/cvpr2018-shape-completion)]
 - [[IJCV2018](https://arxiv.org/abs/1805.07290)] Learning 3D Shape Completion under Weak Supervision [[torch](https://github.com/davidstutz/aml-improved-shape-completion)]
 - [[CVPR2018](http://www.cvlibs.net/publications/Stutz2018CVPR.pdf)] Learning 3D Shape Completion from Laser Scan Data with Weak Supervision [[pytorch](https://github.com/davidstutz/cvpr2018-shape-completion)]
-- [[CVPR2017](https://arxiv.org/pdf/1709.07599.pdf)] High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference :star:
-- [[ICCV2017](https://arxiv.org/pdf/1709.07599.pdf)] Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis [[torch](https://github.com/angeladai/cnncomplete)] :fire::star:
+- [[ICCV2017](https://arxiv.org/pdf/1709.07599.pdf)] High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference :star:
+- [[ICCV2017](https://arxiv.org/pdf/1612.00101.pdf)] Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis [[torch](https://github.com/angeladai/cnncomplete)] :fire::star:
 - [[CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Song_Semantic_Scene_Completion_CVPR_2017_paper.pdf)] Semantic Scene Completion from a Single Depth Image [[caffe](https://github.com/shurans/sscnet)] :fire::star:
 - [[CVPR2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Firman_Structured_Prediction_of_CVPR_2016_paper.pdf)] Structured Prediction of Unobserved Voxels From a Single Depth Image [[resource](http://visual.cs.ucl.ac.uk/pubs/depthPrediction/)] :star:
 
@@ -183,4 +185,12 @@ A Decade Survey of Instance Retrieval
 - [[Github](https://github.com/christopherbatty/SDFGen)] SDFGen (to generate grid-based signed distance field (level set))
 - [[Github](https://github.com/davidstutz/bpy-visualization-utils)] Blender renderer for python
 - [[Github](https://github.com/weiaicunzai/blender_shapenet_render)] Blender renderer for python
+- [[Github](https://github.com/andyzeng/tsdf-fusion-python)] Volumetric TSDF Fusion of RGB-D Images in Python
+- [[Github](https://github.com/andyzeng/tsdf-fusion)] Volumetric TSDF Fusion of Multiple Depth Maps
+- [[Github](https://github.com/griegler/pyfusion)] PyFusion
+- [[Github](https://github.com/griegler/pyrender)] PyRender
+- [[Github](https://github.com/pmneila/PyMCubes)] PyMCubes
+- [[Github](https://github.com/autonomousvision/occupancy_networks/tree/b72f6fcd5f3f4761d261805edab0262604f967ae/external/mesh-fusion)] Watertight and Simplified Meshes through TSDF Fusion (Python tool for obtaining watertight meshes using TSDF fusion.)
+- [[Github](https://github.com/davidstutz/aml-improved-shape-completion)] Several tools about SDF functions.
+- [[Github](https://github.com/andyzeng/3dmatch-toolbox#multi-frame-depth-tsdf-fusion)] 3DMatch Toolbox
 
