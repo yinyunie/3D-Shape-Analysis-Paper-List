@@ -193,4 +193,8 @@ A Decade Survey of Instance Retrieval
 - [[Github](https://github.com/autonomousvision/occupancy_networks/tree/b72f6fcd5f3f4761d261805edab0262604f967ae/external/mesh-fusion)] Watertight and Simplified Meshes through TSDF Fusion (Python tool for obtaining watertight meshes using TSDF fusion.)
 - [[Github](https://github.com/davidstutz/aml-improved-shape-completion)] Several tools about SDF functions.
 - [[Github](https://github.com/andyzeng/3dmatch-toolbox#multi-frame-depth-tsdf-fusion)] 3DMatch Toolbox
-
+- [[stackoverflow](https://stackoverflow.com/questions/44066118/computing-truncated-signed-distance-functiontsdf-from-a-point-cloud)] Computing truncated signed distance function(TSDF) from a point cloud
+- [[Github](https://github.com/ethz-asl/voxblox)] voxblox: A library for flexible voxel-based mapping, mainly focusing on truncated and Euclidean signed distance fields.
+- [[Github](https://github.com/InteractiveComputerGraphics/Discregrid)] Discregrid: A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
+- [[Github](https://github.com/meshula/awesome-voxel#sparse-volumes)] awesome-voxel: Voxel resources for coders
+- [[Github](https://github.com/NVIDIA/gvdb-voxels)] gvdb-voxels: Sparse volume compute and rendering on NVIDIA GPUs
