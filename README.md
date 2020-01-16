@@ -82,9 +82,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[3DV2018](https://arxiv.org/pdf/1808.00671.pdf)] PCN: Point Completion Network [[tensorflow](https://github.com/wentaoyuan/pcn)] :fire:
 - [[ECCV2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiahui_Zhang_Efficient_Semantic_Scene_ECCV_2018_paper.pdf)] Efficient Semantic Scene Completion Network with Spatial Group Convolution [[pytorch](https://github.com/zjhthu/SGC-Release)]
 - [[CVPR2018](https://arxiv.org/pdf/1712.10215.pdf)] ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans [[tensorflow](https://github.com/angeladai/ScanComplete)] :fire::star:
-- [[CVPR2018](http://www.cvlibs.net/publications/Stutz2018CVPR.pdf)] Learning 3D Shape Completion from Laser Scan Data with Weak Supervision [[torch](https://github.com/davidstutz/cvpr2018-shape-completion)]
-- [[IJCV2018](https://arxiv.org/abs/1805.07290)] Learning 3D Shape Completion under Weak Supervision [[torch](https://github.com/davidstutz/aml-improved-shape-completion)]
-- [[CVPR2018](http://www.cvlibs.net/publications/Stutz2018CVPR.pdf)] Learning 3D Shape Completion from Laser Scan Data with Weak Supervision [[pytorch](https://github.com/davidstutz/cvpr2018-shape-completion)]
+- [[CVPR2018](http://www.cvlibs.net/publications/Stutz2018CVPR.pdf)] Learning 3D Shape Completion from Laser Scan Data with Weak Supervision [[torch](https://github.com/davidstutz/cvpr2018-shape-completion)][[torch](https://github.com/davidstutz/daml-shape-completion)]
+- [[IJCV2018](https://arxiv.org/abs/1805.07290)] Learning 3D Shape Completion under Weak Supervision [[torch](https://github.com/davidstutz/aml-improved-shape-completion)][[torch](https://github.com/davidstutz/ijcv2018-improved-shape-completion)]
 - [[ICCV2017](https://arxiv.org/pdf/1709.07599.pdf)] High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference :star:
 - [[ICCV2017](https://arxiv.org/pdf/1612.00101.pdf)] Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis [[torch](https://github.com/angeladai/cnncomplete)] :fire::star:
 - [[CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Song_Semantic_Scene_Completion_CVPR_2017_paper.pdf)] Semantic Scene Completion from a Single Depth Image [[caffe](https://github.com/shurans/sscnet)] :fire::star:
@@ -128,6 +127,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2001.05422.pdf)] Indoor Layout Estimation by 2D LiDAR and Camera Fusion
 - [[Arxiv](https://arxiv.org/pdf/2001.02149.pdf)] General 3D Room Layout from a Single View by Render-and-Compare
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Learning_to_Reconstruct_3D_Manhattan_Wireframes_From_a_Single_Image_ICCV_2019_paper.pdf)] Learning to Reconstruct 3D Manhattan Wireframes from a Single Image [[pytorch](https://github.com/yzhou359/3DIndoor-SceneGraphNet)]
 - [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_PlaneRCNN_3D_Plane_Detection_and_Reconstruction_From_a_Single_Image_CVPR_2019_paper.pdf)] PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image [[pytorch](https://github.com/NVlabs/planercnn)]:fire:
@@ -140,6 +140,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Matching, Registration, Alignment, Depth, Pose)
+- [[Arxiv](https://arxiv.org/pdf/2001.05119.pdf)] Learning multiview 3D point cloud registration [[code](https://github.com/zgojcic/3D_multiview_reg)]
+- [[Arxiv](https://arxiv.org/pdf/2001.05036.pdf)] Single Image Depth Estimation Trained via Depth from Defocus Cues [[pytorch](https://github.com/shirgur/UnsupervisedDepthFromFocus)]
+- [[Arxiv](https://arxiv.org/abs/1908.00463)] DIODE: A Dense Indoor and Outdoor DEpth Dataset [[dataset](https://github.com/diode-dataset/diode-devkit)]
 - [[Arxiv](https://arxiv.org/pdf/2001.00987.pdf)] DepthTransfer: Depth Extraction from Video Using Non-parametric Sampling
 - [[Arxiv](https://arxiv.org/pdf/1912.12756.pdf)] Target-less registration of point clouds: A review
 - [[Arxiv](https://arxiv.org/pdf/1912.12098.pdf)] Quaternion Equivariant Capsule Networks for 3D point clouds
@@ -163,6 +166,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/pdf/2001.04074.pdf)] Evolution of Image Segmentation using Deep Convolutional Neural Network: A Survey
 - [[Arxiv](https://arxiv.org/pdf/2001.01788.pdf)] MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection
 - [[Arxiv](https://arxiv.org/pdf/1912.12033.pdf)] Deep Learning for 3D Point Clouds: A Survey
 - [[Arxiv](https://arxiv.org/pdf/1912.10230.pdf)] A Survey on Deep Learning-based Architectures for Semantic Segmentation on 2D images
@@ -178,7 +182,6 @@ A Decade Survey of Instance Retrieval
 - [[IJCV](https://link.springer.com/content/pdf/10.1007/s11263-019-01247-4.pdf)] Deep Learning for Generic Object Detection: A Survey
 - [[Arxiv](https://arxiv.org/pdf/1904.12228.pdf)] Differentiable Visual Computing (Ph.D thesis)
 - [[BMVC2018](https://interiornet.org/items/interiornet_paper.pdf)] InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset [[dataset](https://interiornet.org/)]
-- [[Arxiv](https://arxiv.org/pdf/1908.00463.pdf)] DIODE - A Dense Indoor and Outdoor DEpth Dataset [[dataset](https://github.com/diode-dataset/diode-devkit)]
 - [[ICCV2017](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237796&tag=1)] The Mapillary Vistas Dataset for Semantic Understanding of Street Scenes [[dataset](https://www.mapillary.com/dataset/vistas?pKey=1GyeWFxH_NPIQwgl0onILw)] [[script](https://github.com/mapillary/mapillary_vistas)] :star:
 - [[Arxiv](https://arxiv.org/pdf/1907.04758.pdf)] SynthCity: A large scale synthetic point cloud [[dataset](http://www.synthcity.xyz/)]
 - [[Github](https://github.com/davidstutz/mesh-voxelization)] Mesh Voxelization (SDFs or Occupancy grids)
