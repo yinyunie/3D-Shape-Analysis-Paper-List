@@ -63,6 +63,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 - [[TOG](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.309.729&rep=rep1&type=pdf)] L<sub>1</sub>-medial skeleton of point cloud [[C++](https://github.com/HongqiangWei/L1-Skeleton)] :fire:
 - [[EUROGRAPHICS2016](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.12865)] 3D Skeletons: A State-of-the-Art Report :fire:
 - [[SGP2012](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.261.3158&rep=rep1&type=pdf)] Mean Curvature Skeletons [[C++](https://github.com/ataiya/starlab-mcfskel)] :fire:
+- [[SMIC2010](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5521461)] Point Cloud Skeletons via Laplacian-Based Contraction [[Matlab](https://github.com/ataiya/cloudcontr)] :fire:
 
 ---
 ## Shape Completion
@@ -107,6 +108,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wen_Pixel2Mesh_Multi-View_3D_Mesh_Generation_via_Deformation_ICCV_2019_paper.pdf)] Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation [[pytorch](https://github.com/walsvid/Pixel2MeshPlusPlus)]
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wallace_Few-Shot_Generalization_for_Single-Image_3D_Reconstruction_via_Priors_ICCV_2019_paper.pdf)] Few-Shot Generalization for Single-Image 3D Reconstruction via Priors
 - [[ICCV2019](https://arxiv.org/pdf/1909.00321.pdf)] Deep Mesh Reconstruction from Single RGB Images via Topology Modification Networks
+- [[AAAI2018](https://arxiv.org/pdf/1706.07036.pdf)] Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction [[tensorflow](https://github.com/chenhsuanlin/3D-point-cloud-generation)] :star::fire:
 - [[NeurIPS2017](https://papers.nips.cc/paper/6657-marrnet-3d-shape-reconstruction-via-25d-sketches.pdf)] MarrNet: 3D Shape Reconstruction via 2.5D Sketches [[torch](https://github.com/jiajunwu/marrnet)]:star::fire:
 
 ---
@@ -166,6 +168,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/pdf/2001.05566.pdf)] Image Segmentation Using Deep Learning: A Survey
+- [[CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/html/Shin_Pixels_Voxels_and_CVPR_2018_paper.html)] Pixels, Voxels, and Views: A Study of Shape Representations for Single View 3D Object Shape Prediction
 - [[Arxiv](https://arxiv.org/pdf/2001.04074.pdf)] Evolution of Image Segmentation using Deep Convolutional Neural Network: A Survey
 - [[Arxiv](https://arxiv.org/pdf/2001.01788.pdf)] MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection
 - [[Arxiv](https://arxiv.org/pdf/1912.12033.pdf)] Deep Learning for 3D Point Clouds: A Survey
@@ -201,3 +205,5 @@ A Decade Survey of Instance Retrieval
 - [[Github](https://github.com/InteractiveComputerGraphics/Discregrid)] Discregrid: A static C++ library for the generation of discrete functions on a box-shaped domain. This is especially suited for the generation of signed distance fields.
 - [[Github](https://github.com/meshula/awesome-voxel#sparse-volumes)] awesome-voxel: Voxel resources for coders
 - [[Github](https://github.com/NVIDIA/gvdb-voxels)] gvdb-voxels: Sparse volume compute and rendering on NVIDIA GPUs
+- [[Github](https://github.com/daavoo/pyntcloud)] pyntcloud is a Python library for working with 3D point clouds.
+- [[Github](http://www.open3d.org/docs/release/index.html)] Open3D: A Modern Library for 3D Data Processing
