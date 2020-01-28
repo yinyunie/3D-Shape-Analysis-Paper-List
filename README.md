@@ -5,6 +5,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[Arxiv](https://arxiv.org/pdf/1912.08830.pdf)] ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language
+- [[Arxiv](https://arxiv.org/pdf/1904.07850.pdf)] Objects as Points [[github](https://github.com/xingyizhou/CenterNet)] :star::fire:
 - [[Arxiv](https://arxiv.org/pdf/2001.03343.pdf)] RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving [[github](https://github.com/Banconxuan/RTM3D)]
 - [[Arxiv](https://arxiv.org/pdf/2001.03398.pdf)] DSGN: Deep Stereo Geometry Network for 3D Object Detection [[github](https://github.com/chenyilun95/DSGN)]
 - [[Arxiv](https://arxiv.org/pdf/2001.01349.pdf)] Learning and Memorizing Representative Prototypes for 3D Point Cloud Semantic and Instance Segmentation
@@ -168,6 +170,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/pdf/1606.05908.pdf)] Tutorial on Variational Autoencoders
+- [[Arxiv](https://arxiv.org/pdf/2001.06280.pdf)] Review: deep learning on 3D point clouds
 - [[Arxiv](https://arxiv.org/pdf/2001.05566.pdf)] Image Segmentation Using Deep Learning: A Survey
 - [[CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/html/Shin_Pixels_Voxels_and_CVPR_2018_paper.html)] Pixels, Voxels, and Views: A Study of Shape Representations for Single View 3D Object Shape Prediction
 - [[Arxiv](https://arxiv.org/pdf/2001.04074.pdf)] Evolution of Image Segmentation using Deep Convolutional Neural Network: A Survey
