@@ -5,6 +5,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[Arxiv](https://arxiv.org/pdf/2001.10692.pdf)] ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes
+- [[Arxiv](https://arxiv.org/pdf/2001.10609.pdf)] A Review on Object Pose Recovery: from 3D Bounding Box Detectors to Full 6D Pose Estimators
 - [[Arxiv](https://arxiv.org/pdf/1912.08830.pdf)] ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language
 - [[Arxiv](https://arxiv.org/pdf/1904.07850.pdf)] Objects as Points [[github](https://github.com/xingyizhou/CenterNet)] :star::fire:
 - [[Arxiv](https://arxiv.org/pdf/2001.03343.pdf)] RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving [[github](https://github.com/Banconxuan/RTM3D)]
@@ -69,6 +71,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape Completion
+- [[ICRA2020](https://arxiv.org/pdf/2001.10709.pdf)] Depth Based Semantic Scene Completion with Position Importance Aware Loss
 - [[Arxiv](https://arxiv.org/pdf/1912.00036.pdf)] SG-NN: Sparse Generative Neural Networks for Self-Supervised Scene Completion of RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/1911.10949.pdf)] PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes
 - [[Arxiv](https://arxiv.org/pdf/1904.00069.pdf)] Unpaired Point Cloud Completion on Real Scans using Adversarial Training [[tensorflow](https://github.com/xuelin-chen/pcl2pcl-gan-pub)]
@@ -170,6 +173,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/pdf/2001.10773.pdf)] VIRTUAL KITTI 2 [[dataset](https://europe.naverlabs.com/Research/Computer-Vision/Proxy-Virtual-Worlds/)]
 - [[Arxiv](https://arxiv.org/pdf/1606.05908.pdf)] Tutorial on Variational Autoencoders
 - [[Arxiv](https://arxiv.org/pdf/2001.06280.pdf)] Review: deep learning on 3D point clouds
 - [[Arxiv](https://arxiv.org/pdf/2001.05566.pdf)] Image Segmentation Using Deep Learning: A Survey
