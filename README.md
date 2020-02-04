@@ -35,6 +35,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/pdf/2002.00349.pdf)] Adversarial Generation of Continuous Implicit Shape Representations [[pytorch](https://github.com/marian42/shapegan)]
 - [[Arxiv](https://arxiv.org/pdf/2001.02823.pdf)] A Novel Tree-structured Point Cloud Dataset For Skeletonization Algorithm Evaluation [[dataset](https://github.com/liujiboy/TreePointCloud)]
 - [[CVPRW2019](http://openaccess.thecvf.com/content_CVPRW_2019/papers/SkelNetOn/Demir_SkelNetOn_2019_Dataset_and_Challenge_on_Deep_Learning_for_Geometric_CVPRW_2019_paper.pdf)] SkelNetOn 2019: Dataset and Challenge on Deep Learning for Geometric Shape Understanding [[project](http://ubee.enseeiht.fr/skelneton/)]
 - [[Arxiv](https://arxiv.org/pdf/1912.11932.pdf)] Skeleton Extraction from 3D Point Clouds by Decomposing the Object into Parts
@@ -173,6 +174,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/pdf/2001.11737.pdf)] AU-AIR: A Multi-modal Unmanned Aerial Vehicle Dataset for Low Altitude Traffic Surveillance [[dataset](https://bozcani.github.io/auairdataset)]
 - [[Arxiv](https://arxiv.org/pdf/2001.10773.pdf)] VIRTUAL KITTI 2 [[dataset](https://europe.naverlabs.com/Research/Computer-Vision/Proxy-Virtual-Worlds/)]
 - [[Arxiv](https://arxiv.org/pdf/1606.05908.pdf)] Tutorial on Variational Autoencoders
 - [[Arxiv](https://arxiv.org/pdf/2001.06280.pdf)] Review: deep learning on 3D point clouds
@@ -215,3 +217,4 @@ A Decade Survey of Instance Retrieval
 - [[Github](https://github.com/NVIDIA/gvdb-voxels)] gvdb-voxels: Sparse volume compute and rendering on NVIDIA GPUs
 - [[Github](https://github.com/daavoo/pyntcloud)] pyntcloud is a Python library for working with 3D point clouds.
 - [[Github](http://www.open3d.org/docs/release/index.html)] Open3D: A Modern Library for 3D Data Processing
+- [[Github](https://github.com/marian42/mesh_to_sdf)] mesh_to_sdf: Calculate signed distance fields for arbitrary meshes
