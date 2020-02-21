@@ -5,6 +5,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[Arxiv](https://arxiv.org/pdf/2002.01619.pdf)] Monocular 3D Object Detection with Decoupled Structured Polygon Estimation and Height-Guided Depth Estimation
 - [[Arxiv](https://arxiv.org/pdf/2001.10692.pdf)] ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes
 - [[Arxiv](https://arxiv.org/pdf/2001.10609.pdf)] A Review on Object Pose Recovery: from 3D Bounding Box Detectors to Full 6D Pose Estimators
 - [[Arxiv](https://arxiv.org/pdf/1912.08830.pdf)] ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language
@@ -35,6 +36,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/pdf/2002.06597.pdf)] Analytic Marching: An Analytic Meshing Solution from Deep Implicit Surface Networks
 - [[Arxiv](https://arxiv.org/pdf/2002.00349.pdf)] Adversarial Generation of Continuous Implicit Shape Representations [[pytorch](https://github.com/marian42/shapegan)]
 - [[Arxiv](https://arxiv.org/pdf/2001.02823.pdf)] A Novel Tree-structured Point Cloud Dataset For Skeletonization Algorithm Evaluation [[dataset](https://github.com/liujiboy/TreePointCloud)]
 - [[CVPRW2019](http://openaccess.thecvf.com/content_CVPRW_2019/papers/SkelNetOn/Demir_SkelNetOn_2019_Dataset_and_Challenge_on_Deep_Learning_for_Geometric_CVPRW_2019_paper.pdf)] SkelNetOn 2019: Dataset and Challenge on Deep Learning for Geometric Shape Understanding [[project](http://ubee.enseeiht.fr/skelneton/)]
@@ -72,6 +74,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape Completion
+- [[Arxiv](https://arxiv.org/pdf/2002.07269.pdf)] 3D Gated Recurrent Fusion for Semantic Scene Completion
+- [[ICCVW2019](https://arxiv.org/abs/1901.00212)] EdgeConnect: Structure Guided Image Inpainting using Edge Prediction [[pytorch](https://github.com/knazeri/edge-connect)] :fire::star:
 - [[ICRA2020](https://arxiv.org/pdf/2001.10709.pdf)] Depth Based Semantic Scene Completion with Position Importance Aware Loss
 - [[Arxiv](https://arxiv.org/pdf/1912.00036.pdf)] SG-NN: Sparse Generative Neural Networks for Self-Supervised Scene Completion of RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/1911.10949.pdf)] PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes
@@ -119,6 +123,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2002.06289.pdf)] 3D Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans
 - [[Arxiv](https://arxiv.org/pdf/1912.02923.pdf)] Generating 3D People in Scenes without People
 - [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Putting_Humans_in_a_Scene_Learning_Affordance_in_3D_Indoor_CVPR_2019_paper.pdf)] Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Holistic_Scene_Understanding_Single-View_3D_Holistic_Scene_Parsing_and_Human_ICCV_2019_paper.pdf)] Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense
@@ -174,6 +179,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/pdf/2002.08721.pdf)] A survey on Semi-, Self- and Unsupervised Techniques in Image Classification
+- [[Arxiv](https://arxiv.org/pdf/2002.04688.pdf)] fastai: A Layered API for Deep Learning
 - [[Arxiv](https://arxiv.org/pdf/2001.11737.pdf)] AU-AIR: A Multi-modal Unmanned Aerial Vehicle Dataset for Low Altitude Traffic Surveillance [[dataset](https://bozcani.github.io/auairdataset)]
 - [[Arxiv](https://arxiv.org/pdf/2001.10773.pdf)] VIRTUAL KITTI 2 [[dataset](https://europe.naverlabs.com/Research/Computer-Vision/Proxy-Virtual-Worlds/)]
 - [[Arxiv](https://arxiv.org/pdf/1606.05908.pdf)] Tutorial on Variational Autoencoders
