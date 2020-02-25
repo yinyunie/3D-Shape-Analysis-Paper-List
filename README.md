@@ -123,6 +123,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2002.08988.pdf)] BlockGAN Learning 3D Object-aware Scene Representations from Unlabelled Images
 - [[Arxiv](https://arxiv.org/pdf/2002.06289.pdf)] 3D Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans
 - [[Arxiv](https://arxiv.org/pdf/1912.02923.pdf)] Generating 3D People in Scenes without People
 - [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Putting_Humans_in_a_Scene_Learning_Affordance_in_3D_Indoor_CVPR_2019_paper.pdf)] Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments
@@ -179,6 +180,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Github](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Pytorch)] Various GANs with Pytorch.
+- [[Arxiv](https://arxiv.org/pdf/2002.09147.pdf)] SemanticPOSS: A Point Cloud Dataset with Large Quantity of Dynamic Instances [[dataset](http://www.poss.pku.edu.cn/)]
+- [[CVM](https://arxiv.org/pdf/2002.07995.pdf)] A Survey on Deep Geometry Learning: From a Representation Perspective
 - [[Arxiv](https://arxiv.org/pdf/2002.08721.pdf)] A survey on Semi-, Self- and Unsupervised Techniques in Image Classification
 - [[Arxiv](https://arxiv.org/pdf/2002.04688.pdf)] fastai: A Layered API for Deep Learning
 - [[Arxiv](https://arxiv.org/pdf/2001.11737.pdf)] AU-AIR: A Multi-modal Unmanned Aerial Vehicle Dataset for Low Altitude Traffic Surveillance [[dataset](https://bozcani.github.io/auairdataset)]
