@@ -5,6 +5,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[AAAI2020](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud
+- [[AAAI2020](https://arxiv.org/pdf/2003.00529.pdf)] ZoomNet: Part-Aware Adaptive Zooming Neural Network for 3D Object Detection
+- [[Arxiv](https://arxiv.org/pdf/2003.00504.pdf)] MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships
+- [[Arxiv](https://arxiv.org/pdf/2003.00186.pdf)] HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection
 - [[Arxiv](https://arxiv.org/pdf/2002.10111.pdf)] SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation
 - [[Arxiv](https://arxiv.org/pdf/2002.10187.pdf)] 3DSSD: Point-based 3D Single Stage Object Detector
 - [[Arxiv](https://arxiv.org/pdf/2002.01619.pdf)] Monocular 3D Object Detection with Decoupled Structured Polygon Estimation and Height-Guided Depth Estimation
@@ -58,6 +62,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 - [[TOG](https://www.researchgate.net/profile/Yajie_Yan2/publication/326726499_Voxel_cores_efficient_robust_and_provably_good_approximation_of_3D_medial_axes/links/5b7712cd4585151fd11b316a/Voxel-cores-efficient-robust-and-provably-good-approximation-of-3D-medial-axes.pdf)] Voxel Cores: Efficient, robust, and provably good approximation of 3D medial axes
 - [[SIGGRAPH2018](https://arxiv.org/pdf/1803.09263.pdf)] P2P-NET: Bidirectional Point Displacement Net for Shape Transform [[tensorflow](https://github.com/kangxue/P2P-NET)]
 - [[ICML2018](https://arxiv.org/pdf/1707.02392.pdf)] Learning Representations and Generative Models for 3D Point Clouds [[tensorflow](https://github.com/optas/latent_3d_points)] :fire::star:
+- [[NeurIPS2018](https://arxiv.org/pdf/1807.03146.pdf)] Discovery of Latent 3D Keypoints via End-to-end Geometric Reasoning [[tensorflow](https://github.com/tensorflow/models/tree/master/research/keypointnet)][[project page](https://keypointnet.github.io/)]:star::fire:
 - [[AAAI2018](http://graphics.cs.uh.edu/wp-content/papers/2018/2018-AAAI-SkeletonExtractionFromDepthCamera.pdf)] Unsupervised Articulated Skeleton Extraction from Point Set Sequences Captured by a Single Depth Camera
 - [[3DV2018](https://arxiv.org/pdf/1808.01337.pdf)] Parsing Geometry Using Structure-Aware Shape Templates
 - [[SIGGRAPH2017](https://www.cse.iitb.ac.in/~sidch/docs/siggraph2017_grass.pdf)] GRASS: Generative Recursive Autoencoders for Shape Structures [[pytorch](https://github.com/junli-lj/Grass)] :fire:
@@ -77,6 +82,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape Completion
+- [[Arxiv](https://arxiv.org/pdf/2003.01456.pdf)] Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion
 - [[Arxiv](https://arxiv.org/pdf/2003.00410.pdf)] PF-Net: Point Fractal Network for 3D Point Cloud Completion
 - [[Arxiv](https://arxiv.org/pdf/2002.07269.pdf)] 3D Gated Recurrent Fusion for Semantic Scene Completion
 - [[ICCVW2019](https://arxiv.org/abs/1901.00212)] EdgeConnect: Structure Guided Image Inpainting using Edge Prediction [[pytorch](https://github.com/knazeri/edge-connect)] :fire::star:
@@ -106,6 +112,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2003.00802.pdf)] Hypernetwork approach to generating point clouds
+- [[Arxiv](https://arxiv.org/pdf/2002.12674.pdf)] Inverse Graphics GAN: Learning to Generate 3D Shapes from Unstructured 2D Data
 - [[Arxiv](https://arxiv.org/pdf/2001.01744.pdf)] Meshlet Priors for 3D Mesh Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/1912.10589.pdf)] Front2Back: Single View 3D Shape Reconstruction via Front to Back Prediction
 - [[Arxiv](https://arxiv.org/pdf/1912.07109.pdf)] SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization
@@ -127,6 +135,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2003.00397.pdf)] Intelligent Home 3D: Automatic 3D-House Design from Linguistic Descriptions Only
+- [[Arxiv](https://arxiv.org/pdf/2003.00535.pdf)] 3DCFS: Fast and Robust Joint 3D Semantic-Instance Segmentation via Coupled Feature Selection
+- [[Arxiv](https://arxiv.org/pdf/2002.12819.pdf)] Indoor Scene Recognition in 3D
 - [[Journal](https://arxiv.org/pdf/2002.08988.pdf)] Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense
 - [[Arxiv](https://arxiv.org/pdf/2002.08988.pdf)] BlockGAN Learning 3D Object-aware Scene Representations from Unlabelled Images
 - [[Arxiv](https://arxiv.org/pdf/2002.06289.pdf)] 3D Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans
@@ -166,6 +177,10 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Pose, etc.)
+- [[CVPR2020](https://arxiv.org/pdf/2003.01060.pdf)] D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry
+- [[ICIP2020](https://arxiv.org/pdf/2003.00856.pdf)] TRIANGLE-NET: TOWARDS ROBUSTNESS IN POINT CLOUD CLASSIFICATION
+- [[ICRA2020](https://arxiv.org/pdf/2003.00188.pdf)] Robust 6D Object Pose Estimation by Learning RGB-D Features
+- [[Arxiv](https://arxiv.org/pdf/2002.12730.pdf)] Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields
 - [[Arxiv](https://arxiv.org/pdf/2001.05119.pdf)] Learning multiview 3D point cloud registration [[code](https://github.com/zgojcic/3D_multiview_reg)]
 - [[Arxiv](https://arxiv.org/pdf/2001.05036.pdf)] Single Image Depth Estimation Trained via Depth from Defocus Cues [[pytorch](https://github.com/shirgur/UnsupervisedDepthFromFocus)]
 - [[Arxiv](https://arxiv.org/pdf/2001.00987.pdf)] DepthTransfer: Depth Extraction from Video Using Non-parametric Sampling
@@ -191,6 +206,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/pdf/2002.12687.pdf)] KeypointNet: A Large-scale 3D Keypoint Dataset Aggregated from Numerous Human Annotations
+- [[Arxiv](https://arxiv.org/pdf/2001.06937.pdf)] A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications
 - [[Arxiv](https://arxiv.org/pdf/2002.11310.pdf)] From Seeing to Moving: A Survey on Learning for Visual Indoor Navigation (VIN)
 - [[Arxiv](https://arxiv.org/abs/1908.00463)] DIODE: A Dense Indoor and Outdoor DEpth Dataset [[dataset](https://github.com/diode-dataset/diode-devkit)]
 - [[Github](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Pytorch)] Various GANs with Pytorch.
