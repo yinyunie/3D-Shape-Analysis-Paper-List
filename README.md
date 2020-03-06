@@ -135,8 +135,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
-- [[Arxiv](https://arxiv.org/pdf/2003.00397.pdf)] Intelligent Home 3D: Automatic 3D-House Design from Linguistic Descriptions Only
-- [[Arxiv](https://arxiv.org/pdf/2003.00535.pdf)] 3DCFS: Fast and Robust Joint 3D Semantic-Instance Segmentation via Coupled Feature Selection
+- [[CVPR2020](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds [[tensorflow](https://github.com/QingyongHu/RandLA-Net)] ::fire::
+- [[CVPR2020](https://arxiv.org/pdf/2003.00397.pdf)] Intelligent Home 3D: Automatic 3D-House Design from Linguistic Descriptions Only
+- [[ICRA2020](https://arxiv.org/pdf/2003.00535.pdf)] 3DCFS: Fast and Robust Joint 3D Semantic-Instance Segmentation via Coupled Feature Selection
 - [[Arxiv](https://arxiv.org/pdf/2002.12819.pdf)] Indoor Scene Recognition in 3D
 - [[Journal](https://arxiv.org/pdf/2002.08988.pdf)] Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense
 - [[Arxiv](https://arxiv.org/pdf/2002.08988.pdf)] BlockGAN Learning 3D Object-aware Scene Representations from Unlabelled Images
