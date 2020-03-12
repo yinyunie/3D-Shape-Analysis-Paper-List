@@ -42,6 +42,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[CVPR2020](https://arxiv.org/pdf/2003.03164.pdf)] D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features
 - [[Arxiv](https://arxiv.org/pdf/2002.10099.pdf)] Implicit Geometric Regularization for Learning Shapes
 - [[Arxiv](https://arxiv.org/pdf/2002.06597.pdf)] Analytic Marching: An Analytic Meshing Solution from Deep Implicit Surface Networks
 - [[Arxiv](https://arxiv.org/pdf/2002.00349.pdf)] Adversarial Generation of Continuous Implicit Shape Representations [[pytorch](https://github.com/marian42/shapegan)]
@@ -82,6 +83,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape Completion
+- [[Arxiv](https://arxiv.org/pdf/1904.12012.pdf)] 3D-SIC: 3D SEMANTIC INSTANCE COMPLETION FOR RGB-D SCANS
 - [[Arxiv](https://arxiv.org/pdf/2003.01456.pdf)] Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion
 - [[Arxiv](https://arxiv.org/pdf/2003.00410.pdf)] PF-Net: Point Fractal Network for 3D Point Cloud Completion
 - [[Arxiv](https://arxiv.org/pdf/2002.07269.pdf)] 3D Gated Recurrent Fusion for Semantic Scene Completion
@@ -112,6 +114,10 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
+- [[Arxiv](https://arxiv.org/pdf/2003.03711.pdf)] Meta3D: Single-View 3D Object Reconstruction from Shape Priors in Memory
+- [[Arxiv](https://arxiv.org/pdf/2003.03551.pdf)] STD-Net: Structure-preserving and Topology-adaptive Deformation Network for 3D Reconstruction from a Single Image
+- [[Arxiv](https://arxiv.org/pdf/2001.07884.pdf)] Curvature Regularized Surface Reconstruction from Point Cloud
 - [[Arxiv](https://arxiv.org/pdf/2003.00802.pdf)] Hypernetwork approach to generating point clouds
 - [[Arxiv](https://arxiv.org/pdf/2002.12674.pdf)] Inverse Graphics GAN: Learning to Generate 3D Shapes from Unstructured 2D Data
 - [[Arxiv](https://arxiv.org/pdf/2001.01744.pdf)] Meshlet Priors for 3D Mesh Reconstruction
@@ -158,7 +164,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Reconstruction
-- [[Arxiv](https://arxiv.org/pdf/2002.12212.pdf)] Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image
+- [[Arxiv](https://arxiv.org/pdf/2001.07058.pdf)] Plane Pair Matching for Efficient 3D View Registration
+- [[CVPR2020](https://arxiv.org/pdf/2002.12212.pdf)] Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image
 - [[Arxiv](https://arxiv.org/pdf/2001.05422.pdf)] Indoor Layout Estimation by 2D LiDAR and Camera Fusion
 - [[Arxiv](https://arxiv.org/pdf/2001.02149.pdf)] General 3D Room Layout from a Single View by Render-and-Compare
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Learning_to_Reconstruct_3D_Manhattan_Wireframes_From_a_Single_Image_ICCV_2019_paper.pdf)] Learning to Reconstruct 3D Manhattan Wireframes from a Single Image [[pytorch](https://github.com/yzhou359/3DIndoor-SceneGraphNet)]
@@ -173,11 +180,14 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 ---
 ## General Methods
 - [[Arxiv](https://arxiv.org/pdf/2002.11881.pdf)] Defense-PointNet: Protecting PointNet Against Adversarial Attacks
-- [[Arxiv](https://arxiv.org/pdf/2002.10701.pdf)] FPConv: Learning Local Flattening for Point Convolution [[github]]
+- [[Arxiv](https://arxiv.org/pdf/2002.10701.pdf)] FPConv: Learning Local Flattening for Point Convolution
 - [[Arxiv](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Pose, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2003.04626.pdf)] PnP-Net: A hybrid Perspective-n-Point Network
+- [[CVPR2020](https://arxiv.org/pdf/2003.03522.pdf)] MobilePose: Real-Time Pose Estimation for
+Unseen Objects with Weak Shape Supervision
 - [[CVPR2020](https://arxiv.org/pdf/2003.01060.pdf)] D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry
 - [[ICIP2020](https://arxiv.org/pdf/2003.00856.pdf)] TRIANGLE-NET: TOWARDS ROBUSTNESS IN POINT CLOUD CLASSIFICATION
 - [[ICRA2020](https://arxiv.org/pdf/2003.00188.pdf)] Robust 6D Object Pose Estimation by Learning RGB-D Features
