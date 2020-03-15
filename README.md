@@ -42,6 +42,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/pdf/2003.05559.pdf)] SeqXY2SeqZ: Structure Learning for 3D Shapes by Sequentially Predicting 1D Occupancy Segments From 2D Coordinates
 - [[CVPR2020](https://arxiv.org/pdf/2003.03164.pdf)] D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features
 - [[Arxiv](https://arxiv.org/pdf/2002.10099.pdf)] Implicit Geometric Regularization for Learning Shapes
 - [[Arxiv](https://arxiv.org/pdf/2002.06597.pdf)] Analytic Marching: An Analytic Meshing Solution from Deep Implicit Surface Networks
@@ -185,6 +186,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Pose, etc.)
+- [[CVPR2020](https://arxiv.org/pdf/2003.05593.pdf)] Learning to Segment 3D Point Clouds in 2D Image Space
+- [[CVPR2020](https://arxiv.org/pdf/2003.05855.pdf)] End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2003.04626.pdf)] PnP-Net: A hybrid Perspective-n-Point Network
 - [[CVPR2020](https://arxiv.org/pdf/2003.03522.pdf)] MobilePose: Real-Time Pose Estimation for
 Unseen Objects with Weak Shape Supervision
