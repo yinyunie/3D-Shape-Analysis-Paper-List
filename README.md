@@ -5,7 +5,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
-- [[AAAI2020](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud
+- [[CVPR2020](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud [[tensorflow](https://github.com/WeijingShi/Point-GNN)]
 - [[AAAI2020](https://arxiv.org/pdf/2003.00529.pdf)] ZoomNet: Part-Aware Adaptive Zooming Neural Network for 3D Object Detection
 - [[Arxiv](https://arxiv.org/pdf/2003.00504.pdf)] MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships
 - [[Arxiv](https://arxiv.org/pdf/2003.00186.pdf)] HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection
