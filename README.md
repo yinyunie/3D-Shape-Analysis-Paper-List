@@ -5,6 +5,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[CVPR2020](https://arxiv.org/pdf/2003.06537.pdf)] OccuSeg: Occupancy-aware 3D Instance Segmentation
+- [[CVPR2020](https://arxiv.org/pdf/2003.05593.pdf)] Learning to Segment 3D Point Clouds in 2D Image Space
 - [[CVPR2020](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud [[tensorflow](https://github.com/WeijingShi/Point-GNN)]
 - [[AAAI2020](https://arxiv.org/pdf/2003.00529.pdf)] ZoomNet: Part-Aware Adaptive Zooming Neural Network for 3D Object Detection
 - [[Arxiv](https://arxiv.org/pdf/2003.00504.pdf)] MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships
@@ -84,6 +86,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape Completion
+- [[Arxiv](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks
 - [[Arxiv](https://arxiv.org/pdf/1904.12012.pdf)] 3D-SIC: 3D SEMANTIC INSTANCE COMPLETION FOR RGB-D SCANS
 - [[Arxiv](https://arxiv.org/pdf/2003.01456.pdf)] Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion
 - [[Arxiv](https://arxiv.org/pdf/2003.00410.pdf)] PF-Net: Point Fractal Network for 3D Point Cloud Completion
@@ -115,6 +118,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2003.06473.pdf)] Self-supervised Single-view 3D Reconstruction via Semantic Consistency
 - [[Arxiv](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
 - [[Arxiv](https://arxiv.org/pdf/2003.03711.pdf)] Meta3D: Single-View 3D Object Reconstruction from Shape Priors in Memory
 - [[Arxiv](https://arxiv.org/pdf/2003.03551.pdf)] STD-Net: Structure-preserving and Topology-adaptive Deformation Network for 3D Reconstruction from a Single Image
@@ -165,6 +169,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2003.07356.pdf)] Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes
 - [[Arxiv](https://arxiv.org/pdf/2001.07058.pdf)] Plane Pair Matching for Efficient 3D View Registration
 - [[CVPR2020](https://arxiv.org/pdf/2002.12212.pdf)] Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image
 - [[Arxiv](https://arxiv.org/pdf/2001.05422.pdf)] Indoor Layout Estimation by 2D LiDAR and Camera Fusion
@@ -185,8 +190,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[Arxiv](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification
 
 ---
-## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Pose, etc.)
-- [[CVPR2020](https://arxiv.org/pdf/2003.05593.pdf)] Learning to Segment 3D Point Clouds in 2D Image Space
+## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2003.07619.pdf)] Unsupervised Learning of Category-Specific Symmetric 3D Keypoints from Point Sets
 - [[CVPR2020](https://arxiv.org/pdf/2003.05855.pdf)] End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2003.04626.pdf)] PnP-Net: A hybrid Perspective-n-Point Network
 - [[CVPR2020](https://arxiv.org/pdf/2003.03522.pdf)] MobilePose: Real-Time Pose Estimation for
