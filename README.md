@@ -97,6 +97,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 - [[Arxiv](https://arxiv.org/pdf/1911.10949.pdf)] PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes
 - [[Arxiv](https://arxiv.org/pdf/1904.00069.pdf)] Unpaired Point Cloud Completion on Real Scans using Adversarial Training [[tensorflow](https://github.com/xuelin-chen/pcl2pcl-gan-pub)]
 - [[AAAI2020](http://cseweb.ucsd.edu/~mil070/projects/AAAI2020/paper.pdf)] Morphing and Sampling Network for Dense Point Cloud Completion [[pytorch](https://github.com/Colin97/MSN-Point-Cloud-Completion)]
+- [[ICCVW2019](http://openaccess.thecvf.com/content_ICCVW_2019/papers/GMDL/Hu_Render4Completion_Synthesizing_Multi-View_Depth_Maps_for_3D_Shape_Completion_ICCVW_2019_paper.pdf)] Render4Completion: Synthesizing Multi-View Depth Maps for 3D Shape
+Completion
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_ForkNet_Multi-Branch_Volumetric_Semantic_Completion_From_a_Single_Depth_Image_ICCV_2019_paper.pdf)] ForkNet: Multi-branch Volumetric Semantic Completion
 from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Cascaded_Context_Pyramid_for_Full-Resolution_3D_Semantic_Scene_Completion_ICCV_2019_paper.pdf)] Cascaded Context Pyramid for Full-Resolution 3D Semantic Scene Completion [[Caffe3D](https://github.com/Pchank/CCPNet)]
@@ -186,7 +188,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 ---
 ## General Methods
 - [[Arxiv](https://arxiv.org/pdf/2002.11881.pdf)] Defense-PointNet: Protecting PointNet Against Adversarial Attacks
-- [[Arxiv](https://arxiv.org/pdf/2002.10701.pdf)] FPConv: Learning Local Flattening for Point Convolution
+- [[CVPR2020](https://arxiv.org/pdf/2002.10701.pdf)] FPConv: Learning Local Flattening for Point Convolution
+- [[ICCV2019](https://arxiv.org/pdf/1907.10844.pdf)] PU-GAN: a Point Cloud Upsampling Adversarial Network:fire:
+- [[CVPR2018](https://arxiv.org/pdf/1801.06761.pdf)] PU-Net: Point Cloud Upsampling Network :star::fire:
 - [[Arxiv](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification
 
 ---
