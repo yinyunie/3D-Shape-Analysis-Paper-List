@@ -5,6 +5,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[CVPR2020](https://arxiv.org/pdf/2003.06233.pdf)] Fusion-Aware Point Convolution for Online Semantic 3D Scene Segmentation
 - [[CVPR2020](https://arxiv.org/pdf/2003.06537.pdf)] OccuSeg: Occupancy-aware 3D Instance Segmentation
 - [[CVPR2020](https://arxiv.org/pdf/2003.05593.pdf)] Learning to Segment 3D Point Clouds in 2D Image Space
 - [[CVPR2020](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud [[tensorflow](https://github.com/WeijingShi/Point-GNN)]
@@ -120,6 +121,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2003.08593.pdf)] Curriculum DeepSDF
+- [[Arxiv](https://arxiv.org/pdf/2003.08624.pdf)] PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions
 - [[Arxiv](https://arxiv.org/pdf/2003.06473.pdf)] Self-supervised Single-view 3D Reconstruction via Semantic Consistency
 - [[Arxiv](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
 - [[Arxiv](https://arxiv.org/pdf/2003.03711.pdf)] Meta3D: Single-View 3D Object Reconstruction from Shape Priors in Memory
@@ -148,6 +151,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
+- [[CVPR2020](https://arxiv.org/pdf/2003.08981.pdf)] Local Implicit Grid Representations for 3D Scenes
+- [[Arxiv](https://arxiv.org/pdf/2003.07356.pdf)] Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes
 - [[CVPR2020](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds [[tensorflow](https://github.com/QingyongHu/RandLA-Net)] ::fire::
 - [[CVPR2020](https://arxiv.org/pdf/2003.00397.pdf)] Intelligent Home 3D: Automatic 3D-House Design from Linguistic Descriptions Only
 - [[ICRA2020](https://arxiv.org/pdf/2003.00535.pdf)] 3DCFS: Fast and Robust Joint 3D Semantic-Instance Segmentation via Coupled Feature Selection
@@ -187,14 +192,16 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[CVPR2020](https://arxiv.org/pdf/1912.03663.pdf)] SampleNet: Differentiable Point Cloud Sampling [[pytorch](https://github.com/itailang/SampleNet)]
 - [[Arxiv](https://arxiv.org/pdf/2002.11881.pdf)] Defense-PointNet: Protecting PointNet Against Adversarial Attacks
-- [[CVPR2020](https://arxiv.org/pdf/2002.10701.pdf)] FPConv: Learning Local Flattening for Point Convolution
+- [[CVPR2020](https://arxiv.org/pdf/2002.10701.pdf)] FPConv: Learning Local Flattening for Point Convolution [[pytorch](https://github.com/lyqun/FPConv)]
 - [[ICCV2019](https://arxiv.org/pdf/1907.10844.pdf)] PU-GAN: a Point Cloud Upsampling Adversarial Network:fire:
 - [[CVPR2018](https://arxiv.org/pdf/1801.06761.pdf)] PU-Net: Point Cloud Upsampling Network :star::fire:
 - [[Arxiv](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2003.09175.pdf)] 3dDepthNet: Point Cloud Guided Depth Completion Network for Sparse Depth and Single Color Image
 - [[Arxiv](https://arxiv.org/pdf/2003.07619.pdf)] Unsupervised Learning of Category-Specific Symmetric 3D Keypoints from Point Sets
 - [[CVPR2020](https://arxiv.org/pdf/2003.05855.pdf)] End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2003.04626.pdf)] PnP-Net: A hybrid Perspective-n-Point Network
@@ -229,6 +236,7 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/pdf/2003.08284.pdf)] Toronto-3D: A Large-scale Mobile LiDAR Dataset for Semantic Segmentation of Urban Roadways
 - [[Arxiv](https://arxiv.org/pdf/2002.12687.pdf)] KeypointNet: A Large-scale 3D Keypoint Dataset Aggregated from Numerous Human Annotations
 - [[Arxiv](https://arxiv.org/pdf/2001.06937.pdf)] A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications
 - [[Arxiv](https://arxiv.org/pdf/2002.11310.pdf)] From Seeing to Moving: A Survey on Learning for Visual Indoor Navigation (VIN)
