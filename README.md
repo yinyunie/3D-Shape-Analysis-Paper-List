@@ -45,6 +45,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/pdf/2003.10983.pdf)] Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2003.05559.pdf)] SeqXY2SeqZ: Structure Learning for 3D Shapes by Sequentially Predicting 1D Occupancy Segments From 2D Coordinates
 - [[CVPR2020](https://arxiv.org/pdf/2003.03164.pdf)] D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features
 - [[Arxiv](https://arxiv.org/pdf/2002.10099.pdf)] Implicit Geometric Regularization for Learning Shapes
@@ -121,6 +122,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2003.10016.pdf)] Self-Supervised 2D Image to 3D Shape Translation with Disentangled Representations
+- [[Arxiv](https://arxiv.org/pdf/2003.09852.pdf)] Universal Differentiable Renderer for Implicit Neural Representations
+- [[Arxiv](https://arxiv.org/pdf/2003.09754.pdf)] Learning 3D Part Assembly from a Single Image
 - [[Arxiv](https://arxiv.org/pdf/2003.08593.pdf)] Curriculum DeepSDF
 - [[Arxiv](https://arxiv.org/pdf/2003.08624.pdf)] PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions
 - [[Arxiv](https://arxiv.org/pdf/2003.06473.pdf)] Self-supervised Single-view 3D Reconstruction via Semantic Consistency
@@ -176,6 +180,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2003.11076.pdf)] Removing Dynamic Objects for Static Scene Reconstruction using Light Fields
+- [[Arxiv](https://arxiv.org/pdf/2003.10432.pdf)] Atlas: End-to-End 3D Scene Reconstruction from Posed Images
 - [[Arxiv](https://arxiv.org/pdf/2003.07356.pdf)] Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes
 - [[Arxiv](https://arxiv.org/pdf/2001.07058.pdf)] Plane Pair Matching for Efficient 3D View Registration
 - [[CVPR2020](https://arxiv.org/pdf/2002.12212.pdf)] Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image
@@ -192,6 +198,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2003.10027.pdf)] Dynamic ReLU
 - [[CVPR2020](https://arxiv.org/pdf/1912.03663.pdf)] SampleNet: Differentiable Point Cloud Sampling [[pytorch](https://github.com/itailang/SampleNet)]
 - [[Arxiv](https://arxiv.org/pdf/2002.11881.pdf)] Defense-PointNet: Protecting PointNet Against Adversarial Attacks
 - [[CVPR2020](https://arxiv.org/pdf/2002.10701.pdf)] FPConv: Learning Local Flattening for Point Convolution [[pytorch](https://github.com/lyqun/FPConv)]
@@ -201,6 +208,11 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Pose, Keypoints, etc.)
+- [[CVPR2020](https://arxiv.org/pdf/2003.11089.pdf)] G2L-Net: Global to Local Network for Real-time 6D Pose Estimation with Embedding Vector Features
+- [[Arxiv](https://arxiv.org/pdf/2003.10664.pdf)] On Localizing a Camera from a Single Image
+- [[Arxiv](https://arxiv.org/pdf/2003.10826.pdf)] DeepFit: 3D Surface Fitting via Neural Network Weighted Least Squares
+- [[CVPR2020](https://arxiv.org/pdf/2003.10629.pdf)] KFNet: Learning Temporal Camera Relocalization using Kalman Filtering
+- [[Arxiv](https://arxiv.org/pdf/2003.10333.pdf)] Neural Contours: Learning to Draw Lines from 3D Shapes
 - [[Arxiv](https://arxiv.org/pdf/2003.09175.pdf)] 3dDepthNet: Point Cloud Guided Depth Completion Network for Sparse Depth and Single Color Image
 - [[Arxiv](https://arxiv.org/pdf/2003.07619.pdf)] Unsupervised Learning of Category-Specific Symmetric 3D Keypoints from Point Sets
 - [[CVPR2020](https://arxiv.org/pdf/2003.05855.pdf)] End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds
