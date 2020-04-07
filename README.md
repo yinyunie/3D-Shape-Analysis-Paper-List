@@ -5,6 +5,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[CVPR2020](https://arxiv.org/pdf/2004.01658.pdf)] PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - [[CVPR2020](https://arxiv.org/pdf/2003.13867.pdf)] 3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segm
 - [[CVPR2020](https://arxiv.org/pdf/2003.06233.pdf)] Fusion-Aware Point Convolution for Online Semantic 3D Scene Segmentation
 - [[CVPR2020](https://arxiv.org/pdf/2003.06537.pdf)] OccuSeg: Occupancy-aware 3D Instance Segmentation
@@ -211,6 +212,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2004.01301.pdf)] Generative PointNet: Energy-Based Learning on Unordered Point Sets for 3D Generation, Reconstruction and Classification
 - [[CVPR2020](https://arxiv.org/pdf/2004.01002.pdf)] DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes [[pytorch](https://github.com/VisualComputingInstitute/dcm-net)]
 - [[CVPR2020](https://arxiv.org/pdf/2003.13479.pdf)] RPM-Net: Robust Point Matching using Learned Features [[github](https://github.com/yewzijian/RPMNet)]
 - [[CVPR2020](https://arxiv.org/pdf/2003.12971.pdf)] Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds
@@ -225,6 +227,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Pose, Keypoints, etc.)
+- [[CVPR2020](https://arxiv.org/pdf/2004.01314.pdf)] Towards Better Generalization: Joint Depth-Pose Learning without PoseNet [[pytorch](https://github.com/B1ueber2y/TrianFlow)]
 - [[Arxiv](https://arxiv.org/pdf/2004.00740.pdf)] Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences
 - [[Arxiv](https://arxiv.org/pdf/2003.08400.pdf)] Adversarial Texture Optimization from RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/2003.08515.pdf)] SAPIEN: A SimulAted Part-based Interactive ENvironment
