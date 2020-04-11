@@ -5,6 +5,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[CVPR2020](https://arxiv.org/pdf/2004.03572.pdf)] Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation [[pytorch](https://github.com/zju3dv/disprcnn)]
+- [[Arxiv](https://arxiv.org/pdf/2004.02774.pdf)] SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds [[github](https://github.com/xinge008/SSN)]
+- [[CVPR2020](https://arxiv.org/pdf/2004.03080.pdf)] End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection [[github](https://github.com/mileyan/pseudo-LiDAR_e2e)]
+- [[Arxiv](https://arxiv.org/pdf/2004.02693.pdf)] Finding Your (3D) Center: 3D Object Detection Using a Learned Loss
 - [[CVPR2020](https://arxiv.org/pdf/2004.01658.pdf)] PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - [[CVPR2020](https://arxiv.org/pdf/2003.13867.pdf)] 3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segm
 - [[CVPR2020](https://arxiv.org/pdf/2003.06233.pdf)] Fusion-Aware Point Convolution for Online Semantic 3D Scene Segmentation
@@ -47,6 +51,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[CVPR2020](https://arxiv.org/pdf/2004.03028.pdf)] Learning Generative Models of Shape Handles [[Project page](http://mgadelha.me/shapehandles/)]
+- [[CVPR2020](https://arxiv.org/pdf/2004.02869.pdf)] DualSDF: Semantic Shape Manipulation using a Two-Level Representation [[github](https://github.com/zekunhao1995/DualSDF)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.01176.pdf)] Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image [[pytorch](https://github.com/paschalidoud/hierarchical_primitives)]
 - [[Arxiv](https://arxiv.org/pdf/2003.13834.pdf)] Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions
 - [[Arxiv](https://arxiv.org/pdf/2003.12971.pdf)] Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds
@@ -93,6 +99,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape Completion
+- [[CVPR2020](https://arxiv.org/pdf/2004.03327.pdf)] Cascaded Refinement Network for Point Cloud Completion [[github](https://github.com/xiaogangw/cascaded-point-completion)]
+- [[Arxiv](https://arxiv.org/pdf/2004.02122.pdf)] Anisotropic Convolutional Networks for 3D Semantic Scene Completion [[github](https://github.com/waterljwant/SSC)]
 - [[AAAI2020](https://arxiv.org/pdf/2003.13910.pdf)] Attention-based Multi-modal Fusion Network for Semantic Scene Completion
 - [[CVPR2020](https://arxiv.org/pdf/2003.14052.pdf)] 3D Sketch-aware Semantic Scene Completion via Semi-supervised Structure Prior [[github](https://github.com/charlesCXK/3D-SketchAware-SSC)]
 - [[Arxiv](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks
@@ -129,6 +137,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2004.04485.pdf)] Neural Object Descriptors for Multi-View Shape Reconstruction
 - [[CVPR2020](https://arxiv.org/pdf/2003.14034.pdf)] SPARE3D: A Dataset for SPAtial REasoning on Three-View Line Drawings [[pytorch](https://github.com/ai4ce/SPARE3D)]
 - [[Arxiv](https://arxiv.org/pdf/2003.12397.pdf)] Modeling 3D Shapes by Reinforcement Learning
 - [[Arxiv](https://arxiv.org/pdf/2003.12181.pdf)] ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds
@@ -165,6 +174,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
+- [[CVPR2020](https://arxiv.org/pdf/2004.03967.pdf)] Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions
 - [[Arxiv](https://arxiv.org/pdf/2003.13516.pdf)] LayoutMP3D: Layout Annotation of Matterport3D
 - [[CVPR2020](https://arxiv.org/pdf/2003.08981.pdf)] Local Implicit Grid Representations for 3D Scenes
 - [[Arxiv](https://arxiv.org/pdf/2003.07356.pdf)] Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes
@@ -212,6 +222,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2004.04462.pdf)] LIGHTCONVPOINT: CONVOLUTION FOR POINTS [[pytorch](https://github.com/A2Zadeh/Variational-Autodecoder)]
+- [[Arxiv](https://arxiv.org/pdf/1903.00840.pdf)] Variational Auto-Decoder [[pytorch](https://github.com/A2Zadeh/Variational-Autodecoder)]
 - [[Arxiv](https://arxiv.org/pdf/2004.01301.pdf)] Generative PointNet: Energy-Based Learning on Unordered Point Sets for 3D Generation, Reconstruction and Classification
 - [[CVPR2020](https://arxiv.org/pdf/2004.01002.pdf)] DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes [[pytorch](https://github.com/VisualComputingInstitute/dcm-net)]
 - [[CVPR2020](https://arxiv.org/pdf/2003.13479.pdf)] RPM-Net: Robust Point Matching using Learned Features [[github](https://github.com/yewzijian/RPMNet)]
@@ -222,8 +234,12 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[Arxiv](https://arxiv.org/pdf/2002.11881.pdf)] Defense-PointNet: Protecting PointNet Against Adversarial Attacks
 - [[CVPR2020](https://arxiv.org/pdf/2002.10701.pdf)] FPConv: Learning Local Flattening for Point Convolution [[pytorch](https://github.com/lyqun/FPConv)]
 - [[ICCV2019](https://arxiv.org/pdf/1907.10844.pdf)] PU-GAN: a Point Cloud Upsampling Adversarial Network:fire:
+- [[CVPR2019](https://arxiv.org/pdf/1904.07601.pdf)] Relation-Shape Convolutional Neural Network for Point Cloud Analysis [[pytorch](https://github.com/Yochengliu/Relation-Shape-CNN)] :fire:
 - [[CVPR2018](https://arxiv.org/pdf/1801.06761.pdf)] PU-Net: Point Cloud Upsampling Network :star::fire:
 - [[Arxiv](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification
+- [[ICLR2017](https://arxiv.org/pdf/1611.04500.pdf)] DEEP LEARNING WITH SETS AND POINT CLOUDS
+- [[NeurIPS2017](http://papers.nips.cc/paper/6931-deep-sets.pdf)] Deep Sets
+- [[Siggraph2006](https://www.merl.com/publications/docs/TR2006-054.pdf)] Designing with Distance Fields
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Pose, Keypoints, etc.)
@@ -271,6 +287,7 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[EG2020](https://arxiv.org/pdf/2004.03805.pdf)] State of the Art on Neural Rendering
 - [[IJCAI-PRICAI2020](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future?spm=5176.14208320.0.0.1b4f3cf7XdO4pX)] 3D-FUTURE: 3D FUrniture shape with TextURE
 - [[Arxiv](https://arxiv.org/pdf/2003.08284.pdf)] Toronto-3D: A Large-scale Mobile LiDAR Dataset for Semantic Segmentation of Urban Roadways
 - [[Arxiv](https://arxiv.org/pdf/2002.12687.pdf)] KeypointNet: A Large-scale 3D Keypoint Dataset Aggregated from Numerous Human Annotations
