@@ -137,6 +137,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2004.07414.pdf)] Combinatorial 3D Shape Generation via Sequential Assembly
+- [[Arxiv](https://arxiv.org/pdf/2004.06302.pdf)] Few-Shot Single-View 3-D Object Reconstruction with Compositional Priors
 - [[Arxiv](https://arxiv.org/pdf/2004.04485.pdf)] Neural Object Descriptors for Multi-View Shape Reconstruction
 - [[CVPR2020](https://arxiv.org/pdf/2003.14034.pdf)] SPARE3D: A Dataset for SPAtial REasoning on Three-View Line Drawings [[pytorch](https://github.com/ai4ce/SPARE3D)]
 - [[Arxiv](https://arxiv.org/pdf/2003.12397.pdf)] Modeling 3D Shapes by Reinforcement Learning
@@ -222,6 +224,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2004.07392.pdf)] Joint Supervised and Self-Supervised Learning for 3D Real-World Challenges
 - [[Arxiv](https://arxiv.org/pdf/2004.04462.pdf)] LIGHTCONVPOINT: CONVOLUTION FOR POINTS [[pytorch](https://github.com/A2Zadeh/Variational-Autodecoder)]
 - [[Arxiv](https://arxiv.org/pdf/1903.00840.pdf)] Variational Auto-Decoder [[pytorch](https://github.com/A2Zadeh/Variational-Autodecoder)]
 - [[Arxiv](https://arxiv.org/pdf/2004.01301.pdf)] Generative PointNet: Energy-Based Learning on Unordered Point Sets for 3D Generation, Reconstruction and Classification
@@ -287,6 +290,7 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[CVPR2020](https://arxiv.org/pdf/2004.06799.pdf)] RoboTHOR: An Open Simulation-to-Real Embodied AI Platform [[Project page](https://ai2thor.allenai.org/robothor/)]
 - [[EG2020](https://arxiv.org/pdf/2004.03805.pdf)] State of the Art on Neural Rendering
 - [[IJCAI-PRICAI2020](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future?spm=5176.14208320.0.0.1b4f3cf7XdO4pX)] 3D-FUTURE: 3D FUrniture shape with TextURE
 - [[Arxiv](https://arxiv.org/pdf/2003.08284.pdf)] Toronto-3D: A Large-scale Mobile LiDAR Dataset for Semantic Segmentation of Urban Roadways
