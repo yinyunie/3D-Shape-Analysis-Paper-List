@@ -5,6 +5,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[CVPR2020](https://arxiv.org/pdf/2004.09305.pdf)] Joint Spatial-Temporal Optimization for Stereo 3D Object Tracking
+- [[CVPR2020](https://arxiv.org/pdf/2004.08745.pdf)] Learning to Evaluate Perception Models Using Planner-Centric Metrics
 - [[CVPR2020](https://arxiv.org/pdf/2004.03572.pdf)] Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation [[pytorch](https://github.com/zju3dv/disprcnn)]
 - [[Arxiv](https://arxiv.org/pdf/2004.02774.pdf)] SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds [[github](https://github.com/xinge008/SSN)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.03080.pdf)] End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection [[github](https://github.com/mileyan/pseudo-LiDAR_e2e)]
@@ -51,6 +53,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/pdf/2004.09995.pdf)] PAI-GCN: Permutable Anisotropic Graph Convolutional Networks for 3D Shape Representation Learning
 - [[CVPR2020](https://arxiv.org/pdf/2004.03028.pdf)] Learning Generative Models of Shape Handles [[Project page](http://mgadelha.me/shapehandles/)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.02869.pdf)] DualSDF: Semantic Shape Manipulation using a Two-Level Representation [[github](https://github.com/zekunhao1995/DualSDF)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.01176.pdf)] Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image [[pytorch](https://github.com/paschalidoud/hierarchical_primitives)]
@@ -137,6 +140,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[CVPR2020](https://arxiv.org/pdf/2004.10904.pdf)] Through the Looking Glass: Neural 3D Reconstruction of Transparent Shapes [[github](https://github.com/lzqsd/TransparentShapeReconstruction)]
+- [[Arxiv](https://arxiv.org/pdf/2002.10880.pdf)] PolyGen: An Autoregressive Generative Model of 3D Meshes
 - [[Arxiv](https://arxiv.org/pdf/2004.07414.pdf)] Combinatorial 3D Shape Generation via Sequential Assembly
 - [[Arxiv](https://arxiv.org/pdf/2004.06302.pdf)] Few-Shot Single-View 3-D Object Reconstruction with Compositional Priors
 - [[Arxiv](https://arxiv.org/pdf/2004.04485.pdf)] Neural Object Descriptors for Multi-View Shape Reconstruction
@@ -224,6 +229,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[AAAI2020](https://arxiv.org/pdf/2004.09411.pdf)] Shape-Oriented Convolution Neural Network for Point Cloud Analysis
 - [[Arxiv](https://arxiv.org/pdf/2004.07392.pdf)] Joint Supervised and Self-Supervised Learning for 3D Real-World Challenges
 - [[Arxiv](https://arxiv.org/pdf/2004.04462.pdf)] LIGHTCONVPOINT: CONVOLUTION FOR POINTS [[pytorch](https://github.com/A2Zadeh/Variational-Autodecoder)]
 - [[Arxiv](https://arxiv.org/pdf/1903.00840.pdf)] Variational Auto-Decoder [[pytorch](https://github.com/A2Zadeh/Variational-Autodecoder)]
@@ -246,6 +252,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2004.10681.pdf)] Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction
 - [[CVPR2020](https://arxiv.org/pdf/2004.01314.pdf)] Towards Better Generalization: Joint Depth-Pose Learning without PoseNet [[pytorch](https://github.com/B1ueber2y/TrianFlow)]
 - [[Arxiv](https://arxiv.org/pdf/2004.00740.pdf)] Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences
 - [[Arxiv](https://arxiv.org/pdf/2003.08400.pdf)] Adversarial Texture Optimization from RGB-D Scans
@@ -290,6 +297,7 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/pdf/2004.08298.pdf)] IDDA: a large-scale multi-domain dataset for autonomous driving [[Project page](https://idda-dataset.github.io/home/)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.06799.pdf)] RoboTHOR: An Open Simulation-to-Real Embodied AI Platform [[Project page](https://ai2thor.allenai.org/robothor/)]
 - [[EG2020](https://arxiv.org/pdf/2004.03805.pdf)] State of the Art on Neural Rendering
 - [[IJCAI-PRICAI2020](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future?spm=5176.14208320.0.0.1b4f3cf7XdO4pX)] 3D-FUTURE: 3D FUrniture shape with TextURE
