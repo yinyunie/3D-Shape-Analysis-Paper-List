@@ -5,6 +5,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[Arxiv](https://arxiv.org/pdf/2004.12636.pdf)] 3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection
 - [[CVPR2020](https://arxiv.org/pdf/2004.09305.pdf)] Joint Spatial-Temporal Optimization for Stereo 3D Object Tracking
 - [[CVPR2020](https://arxiv.org/pdf/2004.08745.pdf)] Learning to Evaluate Perception Models Using Planner-Centric Metrics
 - [[CVPR2020](https://arxiv.org/pdf/2004.03572.pdf)] Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation [[pytorch](https://github.com/zju3dv/disprcnn)]
@@ -208,6 +209,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2004.12989.pdf)] CoReNet: Coherent 3D scene reconstruction from a single RGB image
 - [[CVPR2020](https://arxiv.org/pdf/2004.01170.pdf)] DOPS: Learning to Detect 3D Objects and Predict their 3D Shapes
 - [[Arxiv](https://arxiv.org/pdf/2003.12622.pdf)] SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/2003.11076.pdf)] Removing Dynamic Objects for Static Scene Reconstruction using Light Fields
@@ -229,6 +231,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2004.11784.pdf)] DPDist : Comparing Point Clouds Using Deep Point Cloud Distance
+- [[CVPR2020](https://arxiv.org/pdf/2003.00492.pdf)] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling
 - [[AAAI2020](https://arxiv.org/pdf/2004.09411.pdf)] Shape-Oriented Convolution Neural Network for Point Cloud Analysis
 - [[Arxiv](https://arxiv.org/pdf/2004.07392.pdf)] Joint Supervised and Self-Supervised Learning for 3D Real-World Challenges
 - [[Arxiv](https://arxiv.org/pdf/2004.04462.pdf)] LIGHTCONVPOINT: CONVOLUTION FOR POINTS [[pytorch](https://github.com/A2Zadeh/Variational-Autodecoder)]
@@ -244,6 +248,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2020](https://arxiv.org/pdf/2002.10701.pdf)] FPConv: Learning Local Flattening for Point Convolution [[pytorch](https://github.com/lyqun/FPConv)]
 - [[ICCV2019](https://arxiv.org/pdf/1907.10844.pdf)] PU-GAN: a Point Cloud Upsampling Adversarial Network:fire:
 - [[CVPR2019](https://arxiv.org/pdf/1904.07601.pdf)] Relation-Shape Convolutional Neural Network for Point Cloud Analysis [[pytorch](https://github.com/Yochengliu/Relation-Shape-CNN)] :fire:
+- [[CVPR2019](https://arxiv.org/pdf/1811.11286.pdf)] Patch-based Progressive 3D Point Set Upsampling
+ [[tensorflow](https://github.com/yifita/3PU)] [[pytorch](https://github.com/yifita/3PU_pytorch)] :fire:
+- [[ECCV2018](https://arxiv.org/pdf/1807.06010.pdf)] EC-Net: an Edge-aware Point set Consolidation Network [[project page](https://yulequan.github.io/ec-net/)]
 - [[CVPR2018](https://arxiv.org/pdf/1801.06761.pdf)] PU-Net: Point Cloud Upsampling Network :star::fire:
 - [[Arxiv](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification
 - [[ICLR2017](https://arxiv.org/pdf/1611.04500.pdf)] DEEP LEARNING WITH SETS AND POINT CLOUDS
@@ -251,7 +258,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[Siggraph2006](https://www.merl.com/publications/docs/TR2006-054.pdf)] Designing with Distance Fields
 
 ---
-## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Pose, Keypoints, etc.)
+## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Siggraph2020](https://arxiv.org/pdf/2004.15021.pdf)] Consistent Video Depth Estimation
+- [[Arxiv](https://arxiv.org/pdf/2004.11563.pdf)] Deep Feature-preserving Normal Estimation for Point Cloud Filtering
 - [[Arxiv](https://arxiv.org/pdf/2004.10681.pdf)] Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction
 - [[CVPR2020](https://arxiv.org/pdf/2004.01314.pdf)] Towards Better Generalization: Joint Depth-Pose Learning without PoseNet [[pytorch](https://github.com/B1ueber2y/TrianFlow)]
 - [[Arxiv](https://arxiv.org/pdf/2004.00740.pdf)] Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences
@@ -297,6 +306,7 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/pdf/2004.14899.pdf)] Polarization Human Shape and Pose Dataset
 - [[Arxiv](https://arxiv.org/pdf/2004.08298.pdf)] IDDA: a large-scale multi-domain dataset for autonomous driving [[Project page](https://idda-dataset.github.io/home/)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.06799.pdf)] RoboTHOR: An Open Simulation-to-Real Embodied AI Platform [[Project page](https://ai2thor.allenai.org/robothor/)]
 - [[EG2020](https://arxiv.org/pdf/2004.03805.pdf)] State of the Art on Neural Rendering
