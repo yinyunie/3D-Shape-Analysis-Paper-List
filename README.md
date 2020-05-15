@@ -103,6 +103,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape Completion
+- [[CVPR2020](https://arxiv.org/pdf/2005.03871.pdf)] Point Cloud Completion by Skip-attention Network with Hierarchical Folding
 - [[CVPR2020](https://arxiv.org/pdf/2004.03327.pdf)] Cascaded Refinement Network for Point Cloud Completion [[github](https://github.com/xiaogangw/cascaded-point-completion)]
 - [[Arxiv](https://arxiv.org/pdf/2004.02122.pdf)] Anisotropic Convolutional Networks for 3D Semantic Scene Completion [[github](https://github.com/waterljwant/SSC)]
 - [[AAAI2020](https://arxiv.org/pdf/2003.13910.pdf)] Attention-based Multi-modal Fusion Network for Semantic Scene Completion
@@ -141,6 +142,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Siggraph2020](https://arxiv.org/pdf/2005.03372.pdf)] Vid2Curve: Simultaneously Camera Motion Estimation and Thin Structure Reconstruction from an RGB Video
+- [[CVPR2020](https://arxiv.org/pdf/2005.01939.pdf)] From Image Collections to Point Clouds with Self-supervised Shape and Pose Networks [[tensorflow](https://github.com/val-iisc/ssl_3d_recon)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.10904.pdf)] Through the Looking Glass: Neural 3D Reconstruction of Transparent Shapes [[github](https://github.com/lzqsd/TransparentShapeReconstruction)]
 - [[Arxiv](https://arxiv.org/pdf/2002.10880.pdf)] PolyGen: An Autoregressive Generative Model of 3D Meshes
 - [[Arxiv](https://arxiv.org/pdf/2004.07414.pdf)] Combinatorial 3D Shape Generation via Sequential Assembly
@@ -182,6 +185,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2005.02153.pdf)] Improving Target-driven Visual Navigation with Attention on 3D Spatial Relationships
 - [[CVPR2020](https://arxiv.org/pdf/2004.03967.pdf)] Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions
 - [[Arxiv](https://arxiv.org/pdf/2003.13516.pdf)] LayoutMP3D: Layout Annotation of Matterport3D
 - [[CVPR2020](https://arxiv.org/pdf/2003.08981.pdf)] Local Implicit Grid Representations for 3D Scenes
@@ -259,6 +263,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[CVPR2020](https://arxiv.org/pdf/2005.01014.pdf)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences
 - [[Siggraph2020](https://arxiv.org/pdf/2004.15021.pdf)] Consistent Video Depth Estimation
 - [[Arxiv](https://arxiv.org/pdf/2004.11563.pdf)] Deep Feature-preserving Normal Estimation for Point Cloud Filtering
 - [[Arxiv](https://arxiv.org/pdf/2004.10681.pdf)] Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction
