@@ -54,7 +54,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
-- [[Arxiv](https://arxiv.org/pdf/2004.09995.pdf)] PAI-GCN: Permutable Anisotropic Graph Convolutional Networks for 3D Shape Representation Learning
+- [[Arxiv](https://arxiv.org/pdf/2004.09995.pdf)] PAI-GCN: Permutable Anisotropic Graph Convolutional Networks for 3D Shape Representation Learning [[github](https://github.com/Gaozhongpai/PaiConvMesh)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.03028.pdf)] Learning Generative Models of Shape Handles [[Project page](http://mgadelha.me/shapehandles/)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.02869.pdf)] DualSDF: Semantic Shape Manipulation using a Two-Level Representation [[github](https://github.com/zekunhao1995/DualSDF)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.01176.pdf)] Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image [[pytorch](https://github.com/paschalidoud/hierarchical_primitives)]
