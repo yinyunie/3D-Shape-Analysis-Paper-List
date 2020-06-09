@@ -142,6 +142,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+-- [[Arxiv](https://arxiv.org/pdf/2005.02138.pdf)] PointTriNet: Learned Triangulation of 3D Point
+-- [[Arxiv](https://arxiv.org/pdf/2005.04623.pdf)] A Simple and Scalable Shape Representation for 3D Reconstruction
 - [[Siggraph2020](https://arxiv.org/pdf/2005.03372.pdf)] Vid2Curve: Simultaneously Camera Motion Estimation and Thin Structure Reconstruction from an RGB Video
 - [[CVPR2020](https://arxiv.org/pdf/2005.01939.pdf)] From Image Collections to Point Clouds with Self-supervised Shape and Pose Networks [[tensorflow](https://github.com/val-iisc/ssl_3d_recon)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.10904.pdf)] Through the Looking Glass: Neural 3D Reconstruction of Transparent Shapes [[github](https://github.com/lzqsd/TransparentShapeReconstruction)]
@@ -235,6 +237,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+-- [[Arxiv](https://arxiv.org/pdf/2005.00383.pdf)] MOPS-Net: A Matrix Optimization-driven Network for Task-Oriented 3D Point Cloud Downsampling
 - [[Arxiv](https://arxiv.org/pdf/2004.11784.pdf)] DPDist : Comparing Point Clouds Using Deep Point Cloud Distance
 - [[CVPR2020](https://arxiv.org/pdf/2003.00492.pdf)] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling
 - [[AAAI2020](https://arxiv.org/pdf/2004.09411.pdf)] Shape-Oriented Convolution Neural Network for Point Cloud Analysis
