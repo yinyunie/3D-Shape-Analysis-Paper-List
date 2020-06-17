@@ -5,6 +5,27 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[CVPR2020](https://arxiv.org/pdf/2005.05125.pdf)] FroDO: From Detections to 3D Objects
+- [[CVPR2020](https://arxiv.org/pdf/2004.00543.pdf)] Physically Realizable Adversarial Examples for LiDAR Object Detection
+- [[CVPR2020](https://arxiv.org/pdf/2006.04356.pdf)] Associate-3Ddet: Perceptual-to-Conceptual Association for 3D Point Cloud Object Detection
+- [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_End-to-End_3D_Point_Cloud_Instance_Segmentation_Without_Detection_CVPR_2020_paper.pdf)] End-to-end 3D Point Cloud Instance Segmentation without Detection
+- [[CVPR2020](https://arxiv.org/pdf/2003.00504.pdf)] MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships
+- [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/He_Structure_Aware_Single-Stage_3D_Object_Detection_From_Point_Cloud_CVPR_2020_paper.pdf)] Structure Aware Single-stage 3D Object Detection from Point Cloud
+- [[CVPR2020](https://arxiv.org/pdf/1912.04799.pdf)] Learning Depth-Guided Convolutions for Monocular 3D Object Detection
+- [[CVPR2020](https://arxiv.org/pdf/1912.04986.pdf)] What You See is What You Get: Exploiting Visibility for 3D Object Detection
+- [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ahmed_Density-Based_Clustering_for_3D_Object_Detection_in_Point_Clouds_CVPR_2020_paper.pdf)] Density Based Clustering for 3D Object Detection in Point Clouds
+- [[CVPR2020](https://arxiv.org/pdf/2004.03572.pdf)] Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation
+- [[CVPR2020](https://arxiv.org/pdf/2004.03080.pdf)] End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection
+- [[CVPR2020](https://arxiv.org/pdf/1912.13192.pdf)] PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection
+- [[CVPR2020](https://arxiv.org/pdf/2004.05679.pdf)] MLCVNet: Multi-Level Context VoteNet for 3D Object Detection
+- [[CVPR2020](https://arxiv.org/pdf/1911.10150.pdf)] PointPainting: Sequential Fusion for 3D Object Detection
+- [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Joint_3D_Instance_Segmentation_and_Object_Detection_for_Autonomous_Driving_CVPR_2020_paper.pdf)] Joint 3D Instance Segmentation and Object Detection for Autonomous Driving
+- [[CVPR2020](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud
+- [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Joint_3D_Instance_Segmentation_and_Object_Detection_for_Autonomous_Driving_CVPR_2020_paper.pdf)] Joint 3D Instance Segmentation and Object Detection for Autonomous Driving
+- [[CVPR2020](https://arxiv.org/pdf/2003.00186.pdf)] HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection
+- [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf)] A Hierarchical Graph Network for 3D Object Detection on Point Clouds
+- [[Arxiv](https://arxiv.org/pdf/2006.05682.pdf)] H3DNet: 3D Object Detection Using Hybrid Geometric Primitives
+- [[CVPR2020](https://arxiv.org/pdf/2005.13888.pdf)] P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2004.12636.pdf)] 3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection
 - [[CVPR2020](https://arxiv.org/pdf/2004.09305.pdf)] Joint Spatial-Temporal Optimization for Stereo 3D Object Tracking
 - [[CVPR2020](https://arxiv.org/pdf/2004.08745.pdf)] Learning to Evaluate Perception Models Using Planner-Centric Metrics
@@ -24,7 +45,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[Arxiv](https://arxiv.org/pdf/2002.10111.pdf)] SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation
 - [[Arxiv](https://arxiv.org/pdf/2002.10187.pdf)] 3DSSD: Point-based 3D Single Stage Object Detector
 - [[Arxiv](https://arxiv.org/pdf/2002.01619.pdf)] Monocular 3D Object Detection with Decoupled Structured Polygon Estimation and Height-Guided Depth Estimation
-- [[Arxiv](https://arxiv.org/pdf/2001.10692.pdf)] ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes
+- [[CVPR2020](https://arxiv.org/pdf/2001.10692.pdf)] ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes
 - [[Arxiv](https://arxiv.org/pdf/2001.10609.pdf)] A Review on Object Pose Recovery: from 3D Bounding Box Detectors to Full 6D Pose Estimators
 - [[Arxiv](https://arxiv.org/pdf/1912.08830.pdf)] ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language
 - [[Arxiv](https://arxiv.org/pdf/1904.07850.pdf)] Objects as Points [[github](https://github.com/xingyizhou/CenterNet)] :star::fire:
@@ -33,7 +54,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[Arxiv](https://arxiv.org/pdf/2001.01349.pdf)] Learning and Memorizing Representative Prototypes for 3D Point Cloud Semantic and Instance Segmentation
 - [[Arxiv](https://arxiv.org/pdf/1912.13192.pdf)] PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection
 - [[Arxiv](https://arxiv.org/pdf/1912.12791.pdf)] Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots
-- [[Arxiv](https://arxiv.org/pdf/1912.11803.pdf)] SESS: Self-Ensembling Semi-Supervised 3D Object Detection
+- [[CVPR2020](https://arxiv.org/pdf/1912.11803.pdf)] SESS: Self-Ensembling Semi-Supervised 3D Object Detection
 - [[NeurIPS2019](https://papers.nips.cc/paper/9093-perspectivenet-3d-object-detection-from-a-single-rgb-image-via-perspective-points)] PerspectiveNet: 3D Object Detection from a Single RGB Image via Perspective Points
 - [[NeurIPS2019](https://arxiv.org/pdf/1906.01140.pdf)] Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_Deep_Hough_Voting_for_3D_Object_Detection_in_Point_Clouds_ICCV_2019_paper.pdf)] Deep Hough Voting for 3D Object Detection in Point Clouds
@@ -105,17 +126,17 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 ## Shape Completion
 - [[CVPR2020](https://arxiv.org/pdf/2005.03871.pdf)] Point Cloud Completion by Skip-attention Network with Hierarchical Folding
 - [[CVPR2020](https://arxiv.org/pdf/2004.03327.pdf)] Cascaded Refinement Network for Point Cloud Completion [[github](https://github.com/xiaogangw/cascaded-point-completion)]
-- [[Arxiv](https://arxiv.org/pdf/2004.02122.pdf)] Anisotropic Convolutional Networks for 3D Semantic Scene Completion [[github](https://github.com/waterljwant/SSC)]
+- [[CVPR2020](https://arxiv.org/pdf/2004.02122.pdf)] Anisotropic Convolutional Networks for 3D Semantic Scene Completion [[github](https://github.com/waterljwant/SSC)]
 - [[AAAI2020](https://arxiv.org/pdf/2003.13910.pdf)] Attention-based Multi-modal Fusion Network for Semantic Scene Completion
 - [[CVPR2020](https://arxiv.org/pdf/2003.14052.pdf)] 3D Sketch-aware Semantic Scene Completion via Semi-supervised Structure Prior [[github](https://github.com/charlesCXK/3D-SketchAware-SSC)]
 - [[Arxiv](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks
 - [[Arxiv](https://arxiv.org/pdf/1904.12012.pdf)] 3D-SIC: 3D SEMANTIC INSTANCE COMPLETION FOR RGB-D SCANS
-- [[Arxiv](https://arxiv.org/pdf/2003.01456.pdf)] Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion
-- [[Arxiv](https://arxiv.org/pdf/2003.00410.pdf)] PF-Net: Point Fractal Network for 3D Point Cloud Completion
+- [[CVPR2020](https://arxiv.org/pdf/2003.01456.pdf)] Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion
+- [[CVPR2020](https://arxiv.org/pdf/2003.00410.pdf)] PF-Net: Point Fractal Network for 3D Point Cloud Completion
 - [[Arxiv](https://arxiv.org/pdf/2002.07269.pdf)] 3D Gated Recurrent Fusion for Semantic Scene Completion
 - [[ICCVW2019](https://arxiv.org/abs/1901.00212)] EdgeConnect: Structure Guided Image Inpainting using Edge Prediction [[pytorch](https://github.com/knazeri/edge-connect)] :fire::star:
 - [[ICRA2020](https://arxiv.org/pdf/2001.10709.pdf)] Depth Based Semantic Scene Completion with Position Importance Aware Loss
-- [[Arxiv](https://arxiv.org/pdf/1912.00036.pdf)] SG-NN: Sparse Generative Neural Networks for Self-Supervised Scene Completion of RGB-D Scans
+- [[CVPR2020](https://arxiv.org/pdf/1912.00036.pdf)] SG-NN: Sparse Generative Neural Networks for Self-Supervised Scene Completion of RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/1911.10949.pdf)] PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes
 - [[Arxiv](https://arxiv.org/pdf/1904.00069.pdf)] Unpaired Point Cloud Completion on Real Scans using Adversarial Training [[tensorflow](https://github.com/xuelin-chen/pcl2pcl-gan-pub)]
 - [[AAAI2020](http://cseweb.ucsd.edu/~mil070/projects/AAAI2020/paper.pdf)] Morphing and Sampling Network for Dense Point Cloud Completion [[pytorch](https://github.com/Colin97/MSN-Point-Cloud-Completion)]
@@ -142,6 +163,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+-- [[Siggraph2020](https://arxiv.org/pdf/2005.11084.pdf)] Point2Mesh: A Self-Prior for Deformable Meshes
 -- [[Arxiv](https://arxiv.org/pdf/2005.02138.pdf)] PointTriNet: Learned Triangulation of 3D Point
 -- [[Arxiv](https://arxiv.org/pdf/2005.04623.pdf)] A Simple and Scalable Shape Representation for 3D Reconstruction
 - [[Siggraph2020](https://arxiv.org/pdf/2005.03372.pdf)] Vid2Curve: Simultaneously Camera Motion Estimation and Thin Structure Reconstruction from an RGB Video
@@ -314,6 +336,7 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/pdf/2005.08045.pdf)] Visual Relationship Detection using Scene Graphs: A Survey
 - [[Arxiv](https://arxiv.org/pdf/2004.14899.pdf)] Polarization Human Shape and Pose Dataset
 - [[Arxiv](https://arxiv.org/pdf/2004.08298.pdf)] IDDA: a large-scale multi-domain dataset for autonomous driving [[Project page](https://idda-dataset.github.io/home/)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.06799.pdf)] RoboTHOR: An Open Simulation-to-Real Embodied AI Platform [[Project page](https://ai2thor.allenai.org/robothor/)]
