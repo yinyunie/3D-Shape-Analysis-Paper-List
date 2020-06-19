@@ -5,6 +5,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_PointGroup_Dual-Set_Point_Grouping_for_3D_Instance_Segmentation_CVPR_2020_paper.html)] PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - [[CVPR2020](https://arxiv.org/pdf/2005.05125.pdf)] FroDO: From Detections to 3D Objects
 - [[CVPR2020](https://arxiv.org/pdf/2004.00543.pdf)] Physically Realizable Adversarial Examples for LiDAR Object Detection
 - [[CVPR2020](https://arxiv.org/pdf/2006.04356.pdf)] Associate-3Ddet: Perceptual-to-Conceptual Association for 3D Point Cloud Object Detection
@@ -50,7 +51,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[Arxiv](https://arxiv.org/pdf/1912.08830.pdf)] ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language
 - [[Arxiv](https://arxiv.org/pdf/1904.07850.pdf)] Objects as Points [[github](https://github.com/xingyizhou/CenterNet)] :star::fire:
 - [[Arxiv](https://arxiv.org/pdf/2001.03343.pdf)] RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving [[github](https://github.com/Banconxuan/RTM3D)]
-- [[Arxiv](https://arxiv.org/pdf/2001.03398.pdf)] DSGN: Deep Stereo Geometry Network for 3D Object Detection [[github](https://github.com/chenyilun95/DSGN)]
+- [[CVPR2020](https://arxiv.org/pdf/2001.03398.pdf)] DSGN: Deep Stereo Geometry Network for 3D Object Detection [[github](https://github.com/chenyilun95/DSGN)]
 - [[Arxiv](https://arxiv.org/pdf/2001.01349.pdf)] Learning and Memorizing Representative Prototypes for 3D Point Cloud Semantic and Instance Segmentation
 - [[Arxiv](https://arxiv.org/pdf/1912.13192.pdf)] PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection
 - [[Arxiv](https://arxiv.org/pdf/1912.12791.pdf)] Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots
@@ -123,7 +124,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 - [[SMIC2010](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5521461)] Point Cloud Skeletons via Laplacian-Based Contraction [[Matlab](https://github.com/ataiya/cloudcontr)] :fire:
 
 ---
-## Shape Completion
+## Shape & Scene Completion
 - [[CVPR2020](https://arxiv.org/pdf/2005.03871.pdf)] Point Cloud Completion by Skip-attention Network with Hierarchical Folding
 - [[CVPR2020](https://arxiv.org/pdf/2004.03327.pdf)] Cascaded Refinement Network for Point Cloud Completion [[github](https://github.com/xiaogangw/cascaded-point-completion)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.02122.pdf)] Anisotropic Convolutional Networks for 3D Semantic Scene Completion [[github](https://github.com/waterljwant/SSC)]
@@ -209,6 +210,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
+- [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_End-to-End_Optimization_of_Scene_Layout_CVPR_2020_paper.pdf)] End-to-End Optimization of Scene Layout
 - [[Arxiv](https://arxiv.org/pdf/2005.02153.pdf)] Improving Target-driven Visual Navigation with Attention on 3D Spatial Relationships
 - [[CVPR2020](https://arxiv.org/pdf/2004.03967.pdf)] Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions
 - [[Arxiv](https://arxiv.org/pdf/2003.13516.pdf)] LayoutMP3D: Layout Annotation of Matterport3D
@@ -237,6 +239,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Reconstruction
+- [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_MARMVS_Matching_Ambiguity_Reduced_Multiple_View_Stereo_for_Efficient_Large_CVPR_2020_paper.pdf)] MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient
+Large Scale Scene Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2004.12989.pdf)] CoReNet: Coherent 3D scene reconstruction from a single RGB image
 - [[CVPR2020](https://arxiv.org/pdf/2004.01170.pdf)] DOPS: Learning to Detect 3D Objects and Predict their 3D Shapes
 - [[Arxiv](https://arxiv.org/pdf/2003.12622.pdf)] SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans
