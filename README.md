@@ -125,13 +125,16 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[Arxiv](https://arxiv.org/pdf/2006.03761.pdf)] GRNet: Gridding Residual Network for Dense Point Cloud Completion
+- [[Arxiv](https://arxiv.org/pdf/2006.03762.pdf)] Deep Octree-based CNNs with Output-Guided Skip Connections
+for 3D Shape and Scene Completion
 - [[CVPR2020](https://arxiv.org/pdf/2005.03871.pdf)] Point Cloud Completion by Skip-attention Network with Hierarchical Folding
 - [[CVPR2020](https://arxiv.org/pdf/2004.03327.pdf)] Cascaded Refinement Network for Point Cloud Completion [[github](https://github.com/xiaogangw/cascaded-point-completion)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.02122.pdf)] Anisotropic Convolutional Networks for 3D Semantic Scene Completion [[github](https://github.com/waterljwant/SSC)]
 - [[AAAI2020](https://arxiv.org/pdf/2003.13910.pdf)] Attention-based Multi-modal Fusion Network for Semantic Scene Completion
 - [[CVPR2020](https://arxiv.org/pdf/2003.14052.pdf)] 3D Sketch-aware Semantic Scene Completion via Semi-supervised Structure Prior [[github](https://github.com/charlesCXK/3D-SketchAware-SSC)]
 - [[Arxiv](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks
-- [[Arxiv](https://arxiv.org/pdf/1904.12012.pdf)] 3D-SIC: 3D SEMANTIC INSTANCE COMPLETION FOR RGB-D SCANS
+- [[CVPR2020](https://arxiv.org/pdf/1904.12012.pdf)] RevealNet: Seeing Behind Objects in RGB-D Scans
 - [[CVPR2020](https://arxiv.org/pdf/2003.01456.pdf)] Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion
 - [[CVPR2020](https://arxiv.org/pdf/2003.00410.pdf)] PF-Net: Point Fractal Network for 3D Point Cloud Completion
 - [[Arxiv](https://arxiv.org/pdf/2002.07269.pdf)] 3D Gated Recurrent Fusion for Semantic Scene Completion
@@ -164,6 +167,11 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+-- [[Arxiv](https://arxiv.org/pdf/2006.07752.pdf)] 3D Reconstruction of Novel Object Shapes from Single Images
+-- [[Arxiv](https://arxiv.org/pdf/2006.07982.pdf)] ShapeFlow: Learnable Deformations Among 3D Shapes
+-- [[Arxiv](https://arxiv.org/pdf/2006.09694.pdf)] 3D Shape Reconstruction from Free-Hand Sketches
+-- [[Arxiv](https://arxiv.org/pdf/2003.08934.pdf)] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+-- [[Arxiv](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
 -- [[Siggraph2020](https://arxiv.org/pdf/2005.11084.pdf)] Point2Mesh: A Self-Prior for Deformable Meshes
 -- [[Arxiv](https://arxiv.org/pdf/2005.02138.pdf)] PointTriNet: Learned Triangulation of 3D Point
 -- [[Arxiv](https://arxiv.org/pdf/2005.04623.pdf)] A Simple and Scalable Shape Representation for 3D Reconstruction
@@ -263,6 +271,9 @@ Large Scale Scene Reconstruction
 
 ---
 ## General Methods
+-- [[Arxiv](https://arxiv.org/pdf/2006.04325.pdf)] Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels
+-- [[Arxiv](https://arxiv.org/pdf/2006.07029.pdf)] Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks
+-- [[Arxiv](https://arxiv.org/pdf/2006.05353.pdf)] MeshWalker: Deep Mesh Understanding by Random Walks
 -- [[Arxiv](https://arxiv.org/pdf/2005.00383.pdf)] MOPS-Net: A Matrix Optimization-driven Network for Task-Oriented 3D Point Cloud Downsampling
 - [[Arxiv](https://arxiv.org/pdf/2004.11784.pdf)] DPDist : Comparing Point Clouds Using Deep Point Cloud Distance
 - [[CVPR2020](https://arxiv.org/pdf/2003.00492.pdf)] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling
