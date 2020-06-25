@@ -271,10 +271,10 @@ Large Scale Scene Reconstruction
 
 ---
 ## General Methods
--- [[Arxiv](https://arxiv.org/pdf/2006.04325.pdf)] Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels
--- [[Arxiv](https://arxiv.org/pdf/2006.07029.pdf)] Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks
--- [[Arxiv](https://arxiv.org/pdf/2006.05353.pdf)] MeshWalker: Deep Mesh Understanding by Random Walks
--- [[Arxiv](https://arxiv.org/pdf/2005.00383.pdf)] MOPS-Net: A Matrix Optimization-driven Network for Task-Oriented 3D Point Cloud Downsampling
+- [[Arxiv](https://arxiv.org/pdf/2006.04325.pdf)] Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels
+- [[Arxiv](https://arxiv.org/pdf/2006.07029.pdf)] Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks
+- [[Arxiv](https://arxiv.org/pdf/2006.05353.pdf)] MeshWalker: Deep Mesh Understanding by Random Walks
+- [[Arxiv](https://arxiv.org/pdf/2005.00383.pdf)] MOPS-Net: A Matrix Optimization-driven Network for Task-Oriented 3D Point Cloud Downsampling
 - [[Arxiv](https://arxiv.org/pdf/2004.11784.pdf)] DPDist : Comparing Point Clouds Using Deep Point Cloud Distance
 - [[CVPR2020](https://arxiv.org/pdf/2003.00492.pdf)] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling
 - [[AAAI2020](https://arxiv.org/pdf/2004.09411.pdf)] Shape-Oriented Convolution Neural Network for Point Cloud Analysis
