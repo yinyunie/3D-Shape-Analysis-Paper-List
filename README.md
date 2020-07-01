@@ -5,6 +5,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 3D Detection
+- [[Arxiv](https://arxiv.org/pdf/2006.01250.pdf)] Learning to Detect 3D Objects from Point Clouds in Real Time
+- [[Arxiv](https://arxiv.org/pdf/2006.04043.pdf)] SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_PointGroup_Dual-Set_Point_Grouping_for_3D_Instance_Segmentation_CVPR_2020_paper.html)] PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
 - [[CVPR2020](https://arxiv.org/pdf/2005.05125.pdf)] FroDO: From Detections to 3D Objects
 - [[CVPR2020](https://arxiv.org/pdf/2004.00543.pdf)] Physically Realizable Adversarial Examples for LiDAR Object Detection
@@ -125,6 +127,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[Arxiv](https://arxiv.org/pdf/2006.14660.pdf)] SPSG: Self-Supervised Photometric Scene Generation from RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/2006.03761.pdf)] GRNet: Gridding Residual Network for Dense Point Cloud Completion
 - [[Arxiv](https://arxiv.org/pdf/2006.03762.pdf)] Deep Octree-based CNNs with Output-Guided Skip Connections
 for 3D Shape and Scene Completion
@@ -167,6 +170,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+-- [[Arxiv](https://arxiv.org/pdf/2006.12250.pdf)] Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images
+-- [[Arxiv](https://arxiv.org/pdf/2006.13240.pdf)] Neural Non-Rigid Tracking
+-- [[Arxiv](https://arxiv.org/pdf/2006.03997.pdf)] MeshSDF: Differentiable Iso-Surface Extraction
 -- [[Arxiv](https://arxiv.org/pdf/2006.07752.pdf)] 3D Reconstruction of Novel Object Shapes from Single Images
 -- [[Arxiv](https://arxiv.org/pdf/2006.07982.pdf)] ShapeFlow: Learnable Deformations Among 3D Shapes
 -- [[Arxiv](https://arxiv.org/pdf/2006.09694.pdf)] 3D Shape Reconstruction from Free-Hand Sketches
@@ -247,8 +253,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Reconstruction
-- [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_MARMVS_Matching_Ambiguity_Reduced_Multiple_View_Stereo_for_Efficient_Large_CVPR_2020_paper.pdf)] MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient
-Large Scale Scene Reconstruction
+- [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_MARMVS_Matching_Ambiguity_Reduced_Multiple_View_Stereo_for_Efficient_Large_CVPR_2020_paper.pdf)] MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient Large Scale Scene Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2004.12989.pdf)] CoReNet: Coherent 3D scene reconstruction from a single RGB image
 - [[CVPR2020](https://arxiv.org/pdf/2004.01170.pdf)] DOPS: Learning to Detect 3D Objects and Predict their 3D Shapes
 - [[Arxiv](https://arxiv.org/pdf/2003.12622.pdf)] SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans
@@ -271,6 +276,9 @@ Large Scale Scene Reconstruction
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2006.07029.pdf)] Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks
+- [[Arxiv](https://arxiv.org/pdf/2006.07226.pdf)] Local-Area-Learning Network: Meaningful Local Areas for Efficient Point Cloud Analysis
+- [[Arxiv](https://arxiv.org/pdf/2006.10187.pdf)] TearingNet: Point Cloud Autoencoder to Learn Topology-Friendly Representations
 - [[Arxiv](https://arxiv.org/pdf/2006.04325.pdf)] Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels
 - [[Arxiv](https://arxiv.org/pdf/2006.07029.pdf)] Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks
 - [[Arxiv](https://arxiv.org/pdf/2006.05353.pdf)] MeshWalker: Deep Mesh Understanding by Random Walks
@@ -351,6 +359,7 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/pdf/2006.12057.pdf)] Differentiable Rendering: A Survey
 - [[Arxiv](https://arxiv.org/pdf/2005.08045.pdf)] Visual Relationship Detection using Scene Graphs: A Survey
 - [[Arxiv](https://arxiv.org/pdf/2004.14899.pdf)] Polarization Human Shape and Pose Dataset
 - [[Arxiv](https://arxiv.org/pdf/2004.08298.pdf)] IDDA: a large-scale multi-domain dataset for autonomous driving [[Project page](https://idda-dataset.github.io/home/)]
