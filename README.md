@@ -170,17 +170,17 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
--- [[Arxiv](https://arxiv.org/pdf/2006.12250.pdf)] Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images
--- [[Arxiv](https://arxiv.org/pdf/2006.13240.pdf)] Neural Non-Rigid Tracking
--- [[Arxiv](https://arxiv.org/pdf/2006.03997.pdf)] MeshSDF: Differentiable Iso-Surface Extraction
--- [[Arxiv](https://arxiv.org/pdf/2006.07752.pdf)] 3D Reconstruction of Novel Object Shapes from Single Images
--- [[Arxiv](https://arxiv.org/pdf/2006.07982.pdf)] ShapeFlow: Learnable Deformations Among 3D Shapes
--- [[Arxiv](https://arxiv.org/pdf/2006.09694.pdf)] 3D Shape Reconstruction from Free-Hand Sketches
--- [[Arxiv](https://arxiv.org/pdf/2003.08934.pdf)] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
--- [[Arxiv](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
--- [[Siggraph2020](https://arxiv.org/pdf/2005.11084.pdf)] Point2Mesh: A Self-Prior for Deformable Meshes
--- [[Arxiv](https://arxiv.org/pdf/2005.02138.pdf)] PointTriNet: Learned Triangulation of 3D Point
--- [[Arxiv](https://arxiv.org/pdf/2005.04623.pdf)] A Simple and Scalable Shape Representation for 3D Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2006.12250.pdf)] Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images
+- [[Arxiv](https://arxiv.org/pdf/2006.13240.pdf)] Neural Non-Rigid Tracking
+- [[Arxiv](https://arxiv.org/pdf/2006.03997.pdf)] MeshSDF: Differentiable Iso-Surface Extraction
+- [[Arxiv](https://arxiv.org/pdf/2006.07752.pdf)] 3D Reconstruction of Novel Object Shapes from Single Images
+- [[Arxiv](https://arxiv.org/pdf/2006.07982.pdf)] ShapeFlow: Learnable Deformations Among 3D Shapes
+- [[Arxiv](https://arxiv.org/pdf/2006.09694.pdf)] 3D Shape Reconstruction from Free-Hand Sketches
+- [[Arxiv](https://arxiv.org/pdf/2003.08934.pdf)] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+- [[Arxiv](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
+- [[Siggraph2020](https://arxiv.org/pdf/2005.11084.pdf)] Point2Mesh: A Self-Prior for Deformable Meshes
+- [[Arxiv](https://arxiv.org/pdf/2005.02138.pdf)] PointTriNet: Learned Triangulation of 3D Point
+- [[Arxiv](https://arxiv.org/pdf/2005.04623.pdf)] A Simple and Scalable Shape Representation for 3D Reconstruction
 - [[Siggraph2020](https://arxiv.org/pdf/2005.03372.pdf)] Vid2Curve: Simultaneously Camera Motion Estimation and Thin Structure Reconstruction from an RGB Video
 - [[CVPR2020](https://arxiv.org/pdf/2005.01939.pdf)] From Image Collections to Point Clouds with Self-supervised Shape and Pose Networks [[tensorflow](https://github.com/val-iisc/ssl_3d_recon)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.10904.pdf)] Through the Looking Glass: Neural 3D Reconstruction of Transparent Shapes [[github](https://github.com/lzqsd/TransparentShapeReconstruction)]
