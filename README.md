@@ -78,6 +78,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[CVPR2020](https://arxiv.org/pdf/2004.09995.pdf)] StructEdit: Learning Structural Shape Variations [[github](https://github.com/hyzcn/structedit)]
 - [[Arxiv](https://arxiv.org/pdf/2004.09995.pdf)] PAI-GCN: Permutable Anisotropic Graph Convolutional Networks for 3D Shape Representation Learning [[github](https://github.com/Gaozhongpai/PaiConvMesh)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.03028.pdf)] Learning Generative Models of Shape Handles [[Project page](http://mgadelha.me/shapehandles/)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.02869.pdf)] DualSDF: Semantic Shape Manipulation using a Two-Level Representation [[github](https://github.com/zekunhao1995/DualSDF)]
@@ -276,6 +277,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2006.09661.pdf)] Implicit Neural Representations with Periodic Activation Functions [[pytorch](https://github.com/vsitzmann/siren)] :fire:
 - [[Arxiv](https://arxiv.org/pdf/2006.07029.pdf)] Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks
 - [[Arxiv](https://arxiv.org/pdf/2006.07226.pdf)] Local-Area-Learning Network: Meaningful Local Areas for Efficient Point Cloud Analysis
 - [[Arxiv](https://arxiv.org/pdf/2006.10187.pdf)] TearingNet: Point Cloud Autoencoder to Learn Topology-Friendly Representations
@@ -311,6 +313,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[CVPR2020](https://arxiv.org/pdf/2001.05119.pdf)] Learning multiview 3D point cloud registration [[pytorch](https://github.com/zgojcic/3D_multiview_reg)]
 - [[CVPR2020](https://arxiv.org/pdf/2005.01014.pdf)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences
 - [[Siggraph2020](https://arxiv.org/pdf/2004.15021.pdf)] Consistent Video Depth Estimation
 - [[Arxiv](https://arxiv.org/pdf/2004.11563.pdf)] Deep Feature-preserving Normal Estimation for Point Cloud Filtering
@@ -334,7 +337,6 @@ Unseen Objects with Weak Shape Supervision
 - [[ICIP2020](https://arxiv.org/pdf/2003.00856.pdf)] TRIANGLE-NET: TOWARDS ROBUSTNESS IN POINT CLOUD CLASSIFICATION
 - [[ICRA2020](https://arxiv.org/pdf/2003.00188.pdf)] Robust 6D Object Pose Estimation by Learning RGB-D Features
 - [[Arxiv](https://arxiv.org/pdf/2002.12730.pdf)] Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields
-- [[Arxiv](https://arxiv.org/pdf/2001.05119.pdf)] Learning multiview 3D point cloud registration [[code](https://github.com/zgojcic/3D_multiview_reg)]
 - [[Arxiv](https://arxiv.org/pdf/2001.05036.pdf)] Single Image Depth Estimation Trained via Depth from Defocus Cues [[pytorch](https://github.com/shirgur/UnsupervisedDepthFromFocus)]
 - [[Arxiv](https://arxiv.org/pdf/2001.00987.pdf)] DepthTransfer: Depth Extraction from Video Using Non-parametric Sampling
 - [[Arxiv](https://arxiv.org/pdf/1912.12756.pdf)] Target-less registration of point clouds: A review
@@ -359,6 +361,8 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future)] 3D-FUTURE: 3D FUrniture shape with TextURE
+- [[Arxiv](https://pages.tmall.com/wow/cab/tianchi/promotion/alibaba-3d-scene-dataset)] 3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics
 - [[Arxiv](https://arxiv.org/pdf/2006.12057.pdf)] Differentiable Rendering: A Survey
 - [[Arxiv](https://arxiv.org/pdf/2005.08045.pdf)] Visual Relationship Detection using Scene Graphs: A Survey
 - [[Arxiv](https://arxiv.org/pdf/2004.14899.pdf)] Polarization Human Shape and Pose Dataset
