@@ -1,9 +1,26 @@
 # 3D-Shape-Analysis-Paper-List
-A list of papers, libraries and datasets I recently read is collected for anyone who shows interest at **3D detection**, **shape representation**, **shape completion**, **shape reconstruction**, **3D scene understanding**, **3D scene reconstruction**.
+A list of papers, libraries and datasets I recently read is collected for anyone who shows interest at 
+
+---
+
+- [3D-Shape-Analysis-Paper-List](#3d-shape-analysis-paper-list)
+- [3D Detection](#3d-detection)
+- [Shape Representation](#shape-representation)
+- [Shape & Scene Completion](#shape--scene-completion)
+- [Shape Reconstruction](#shape-reconstruction)
+- [3D Scene Understanding](#3d-scene-understanding)
+- [3D Scene Reconstruction](#3d-scene-reconstruction)
+- [General Methods](#general-methods)
+- [Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)](#others-inc-networks-in-classification-matching-registration-alignment-depth-normal-pose-keypoints-etc)
+- [Survey, Resources and Tools](#survey-resources-and-tools)
+---
+
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
----
+
+
+
 ## 3D Detection
 - [[Arxiv](https://arxiv.org/pdf/2006.01250.pdf)] Learning to Detect 3D Objects from Point Clouds in Real Time
 - [[Arxiv](https://arxiv.org/pdf/2006.04043.pdf)] SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds
