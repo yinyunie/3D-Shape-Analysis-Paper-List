@@ -83,6 +83,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR2020](https://arxiv.org/pdf/2004.03028.pdf)] Learning Generative Models of Shape Handles [[Project page](http://mgadelha.me/shapehandles/)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.02869.pdf)] DualSDF: Semantic Shape Manipulation using a Two-Level Representation [[github](https://github.com/zekunhao1995/DualSDF)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.01176.pdf)] Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image [[pytorch](https://github.com/paschalidoud/hierarchical_primitives)]
+- [[NeurIPS2019](https://arxiv.org/pdf/1906.01618.pdf)] Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations [[pytorch](https://github.com/vsitzmann/scene-representation-networks)]
 - [[Arxiv](https://arxiv.org/pdf/2003.13834.pdf)] Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions
 - [[Arxiv](https://arxiv.org/pdf/2003.12971.pdf)] Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2003.10983.pdf)] Deep Local Shapes: Learning Local SDF Priors for Detailed 3D Reconstruction
@@ -198,7 +199,6 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[Arxiv](https://arxiv.org/pdf/2003.08593.pdf)] Curriculum DeepSDF
 - [[Arxiv](https://arxiv.org/pdf/2003.08624.pdf)] PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions
 - [[Arxiv](https://arxiv.org/pdf/2003.06473.pdf)] Self-supervised Single-view 3D Reconstruction via Semantic Consistency
-- [[Arxiv](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
 - [[Arxiv](https://arxiv.org/pdf/2003.03711.pdf)] Meta3D: Single-View 3D Object Reconstruction from Shape Priors in Memory
 - [[Arxiv](https://arxiv.org/pdf/2003.03551.pdf)] STD-Net: Structure-preserving and Topology-adaptive Deformation Network for 3D Reconstruction from a Single Image
 - [[Arxiv](https://arxiv.org/pdf/2001.07884.pdf)] Curvature Regularized Surface Reconstruction from Point Cloud
@@ -254,6 +254,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_MARMVS_Matching_Ambiguity_Reduced_Multiple_View_Stereo_for_Efficient_Large_CVPR_2020_paper.pdf)] MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient Large Scale Scene Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2004.12989.pdf)] CoReNet: Coherent 3D scene reconstruction from a single RGB image
 - [[CVPR2020](https://arxiv.org/pdf/2004.01170.pdf)] DOPS: Learning to Detect 3D Objects and Predict their 3D Shapes
@@ -277,6 +278,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2007.01294.pdf)] A Closer Look at Local Aggregation Operators in Point Cloud Analysis [[github](https://github.com/zeliu98/CloserLook3D)]
 - [[Arxiv](https://arxiv.org/pdf/2006.09661.pdf)] Implicit Neural Representations with Periodic Activation Functions [[pytorch](https://github.com/vsitzmann/siren)] :fire:
 - [[Arxiv](https://arxiv.org/pdf/2006.07029.pdf)] Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks
 - [[Arxiv](https://arxiv.org/pdf/2006.07226.pdf)] Local-Area-Learning Network: Meaningful Local Areas for Efficient Point Cloud Analysis
