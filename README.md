@@ -2,8 +2,6 @@
 A list of papers, libraries and datasets I recently read is collected for anyone who shows interest at 
 
 ---
-
-- [3D-Shape-Analysis-Paper-List](#3d-shape-analysis-paper-list)
 - [3D Detection](#3d-detection)
 - [Shape Representation](#shape-representation)
 - [Shape & Scene Completion](#shape--scene-completion)
@@ -22,6 +20,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection
+- [[Arxiv](https://arxiv.org/pdf/2007.02099.pdf)] Local Grid Rendering Networks for 3D Object Detection in Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2006.01250.pdf)] Learning to Detect 3D Objects from Point Clouds in Real Time
 - [[Arxiv](https://arxiv.org/pdf/2006.04043.pdf)] SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_PointGroup_Dual-Set_Point_Grouping_for_3D_Instance_Segmentation_CVPR_2020_paper.html)] PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation
@@ -92,6 +91,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR2019](https://arxiv.org/pdf/1812.04244.pdf)] PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud [[pytorch](https://github.com/sshaoshuai/PointRCNN)]
 - [[Arxiv](https://arxiv.org/pdf/1908.02990.pdf)] Fast Point R-CNN
 - [[Arxiv](https://arxiv.org/pdf/1908.09492.pdf)] Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection [[pytorch](https://github.com/poodarchu/Det3D)] :fire:
+- [[ECCV2018](https://arxiv.org/pdf/1803.10409.pdf)] 3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation [[pytorch](https://github.com/angeladai/3DMV)] :fire:
+
 
 ---
 ## Shape Representation
@@ -292,9 +293,13 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[3DV2019](https://arxiv.org/pdf/1907.00939.pdf)] Pano Popups: Indoor 3D Reconstruction with a Plane-Aware Network
 - [[CVPR2018](https://arxiv.org/pdf/1712.01812.pdf)] Factoring Shape, Pose, and Layout from the 2D Image of a 3D Scene [[pytorch](https://github.com/shubhtuls/factored3d)]
 - [[IROS2017](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/MSrivathsan2017IROS.pdf)] Indoor Scan2BIM: Building Information Models of House Interiors
+- [[CVPR2017](https://arxiv.org/pdf/1603.08182.pdf)] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions [[github](https://github.com/andyzeng/3dmatch-toolbox)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2007.04537.pdf)] Point Set Voting for Partial Point Cloud Analysis
+- [[Arxiv](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing
+- [[Arxiv](https://arxiv.org/pdf/2006.04325.pdf)] Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels
 - [[Arxiv](https://arxiv.org/pdf/2007.01294.pdf)] A Closer Look at Local Aggregation Operators in Point Cloud Analysis [[github](https://github.com/zeliu98/CloserLook3D)]
 - [[Arxiv](https://arxiv.org/pdf/2006.09661.pdf)] Implicit Neural Representations with Periodic Activation Functions [[pytorch](https://github.com/vsitzmann/siren)] :fire:
 - [[Arxiv](https://arxiv.org/pdf/2006.07029.pdf)] Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks
