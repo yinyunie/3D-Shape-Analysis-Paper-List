@@ -272,6 +272,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Reconstruction
+- [[ECCV2020](https://arxiv.org/pdf/2007.06853.pdf)] Topology-Change-Aware Volumetric Fusion for Dynamic Scene Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_MARMVS_Matching_Ambiguity_Reduced_Multiple_View_Stereo_for_Efficient_Large_CVPR_2020_paper.pdf)] MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient Large Scale Scene Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2004.12989.pdf)] CoReNet: Coherent 3D scene reconstruction from a single RGB image
@@ -297,6 +298,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2007.08501.pdf)] Accelerating 3D Deep Learning with PyTorch3D
+- [[Arxiv](https://arxiv.org/pdf/2007.08349.pdf)] Natural Graph Networks
+- [[ECCV2020](https://arxiv.org/pdf/2007.05361.pdf)] Progressive Point Cloud Deconvolution Generation Network [[github](https://github.com/fpthink/PDGN)]
 - [[Arxiv](https://arxiv.org/pdf/2007.04537.pdf)] Point Set Voting for Partial Point Cloud Analysis
 - [[Arxiv](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing
 - [[Arxiv](https://arxiv.org/pdf/2006.04325.pdf)] Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels
@@ -337,6 +341,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2007.07714.pdf)] PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network
+- [[ECCV2020](https://arxiv.org/pdf/2007.07696.pdf)] P<sup>2</sup>Net: Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation
 - [[CVPR2020](https://arxiv.org/pdf/2001.05119.pdf)] Learning multiview 3D point cloud registration [[pytorch](https://github.com/zgojcic/3D_multiview_reg)]
 - [[CVPR2020](https://arxiv.org/pdf/2005.01014.pdf)] Feature-metric Registration: A Fast Semi-supervised Approach for Robust Point Cloud Registration without Correspondences
 - [[Siggraph2020](https://arxiv.org/pdf/2004.15021.pdf)] Consistent Video Depth Estimation
