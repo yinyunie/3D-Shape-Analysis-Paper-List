@@ -190,6 +190,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2007.10453.pdf)] Points2Surf Learning Implicit Surfaces from Point Clouds
+- [[Arxiv](https://arxiv.org/pdf/2007.10973.pdf)] Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows
 - [[Arxiv](https://arxiv.org/pdf/2006.12250.pdf)] Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images
 - [[Arxiv](https://arxiv.org/pdf/2006.13240.pdf)] Neural Non-Rigid Tracking
 - [[Arxiv](https://arxiv.org/pdf/2006.03997.pdf)] MeshSDF: Differentiable Iso-Surface Extraction
@@ -298,6 +300,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Siggraph2020](https://www.dgp.toronto.edu/projects/neural-subdivision/)] Neural Subdivision
+- [[Arxiv](https://arxiv.org/pdf/2007.10985.pdf)] PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding
 - [[Arxiv](https://arxiv.org/pdf/2007.08501.pdf)] Accelerating 3D Deep Learning with PyTorch3D
 - [[Arxiv](https://arxiv.org/pdf/2007.08349.pdf)] Natural Graph Networks
 - [[ECCV2020](https://arxiv.org/pdf/2007.05361.pdf)] Progressive Point Cloud Deconvolution Generation Network [[github](https://github.com/fpthink/PDGN)]
