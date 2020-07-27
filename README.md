@@ -20,6 +20,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection
+- [[ECCV2020](https://arxiv.org/abs/2007.09548)] Kinematic 3D Object Detection in Monocular Video
+- [[IROS2020](https://arxiv.org/pdf/2007.09836.pdf)] Object-Aware Centroid Voting for Monocular 3D Object Detection
+- [[ECCV2020](https://arxiv.org/pdf/2007.10323.pdf)] Pillar-based Object Detection for Autonomous Driving
 - [[Arxiv](https://arxiv.org/pdf/2007.02099.pdf)] Local Grid Rendering Networks for 3D Object Detection in Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2006.01250.pdf)] Learning to Detect 3D Objects from Point Clouds in Real Time
 - [[Arxiv](https://arxiv.org/pdf/2006.04043.pdf)] SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds
@@ -190,7 +193,10 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
-- [[Arxiv](https://arxiv.org/pdf/2007.10453.pdf)] Points2Surf Learning Implicit Surfaces from Point Clouds
+- [[ECCV2020](https://arxiv.org/pdf/2007.10872.pdf)] Dense Hybrid Recurrent Multi-view Stereo Net with Dynamic Consistency Checking
+- [[ECCV2020](https://arxiv.org/pdf/2007.10982.pdf)] Shape and Viewpoint without Keypoints
+- [[Arxiv](https://arxiv.org/pdf/2007.10300.pdf)] Object-Centric Multi-View Aggregation
+- [[ECCV2020](https://arxiv.org/pdf/2007.10453.pdf)] Points2Surf Learning Implicit Surfaces from Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2007.10973.pdf)] Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows
 - [[Arxiv](https://arxiv.org/pdf/2006.12250.pdf)] Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images
 - [[Arxiv](https://arxiv.org/pdf/2006.13240.pdf)] Neural Non-Rigid Tracking
@@ -300,6 +306,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[ECCV2020](https://arxiv.org/pdf/2007.10170.pdf)] Discrete Point Flow Networks for Efficient Point Cloud Generation
 - [[Siggraph2020](https://www.dgp.toronto.edu/projects/neural-subdivision/)] Neural Subdivision
 - [[Arxiv](https://arxiv.org/pdf/2007.10985.pdf)] PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding
 - [[Arxiv](https://arxiv.org/pdf/2007.08501.pdf)] Accelerating 3D Deep Learning with PyTorch3D
