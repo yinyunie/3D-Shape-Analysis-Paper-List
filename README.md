@@ -20,6 +20,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection
+- [[ACMMM2020](https://arxiv.org/pdf/2007.13970.pdf)] Weakly Supervised 3D Object Detection from Point Clouds
+- [[ECCV2020](https://arxiv.org/abs/2007.11901)] Weakly Supervised 3D Object Detection from Lidar Point Cloud [[pytorch](https://github.com/hlesmqh/WS3D)]
 - [[ECCV2020](https://arxiv.org/abs/2007.09548)] Kinematic 3D Object Detection in Monocular Video
 - [[IROS2020](https://arxiv.org/pdf/2007.09836.pdf)] Object-Aware Centroid Voting for Monocular 3D Object Detection
 - [[ECCV2020](https://arxiv.org/pdf/2007.10323.pdf)] Pillar-based Object Detection for Autonomous Driving
@@ -90,7 +92,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Halber_Rescan_Inductive_Instance_Segmentation_for_Indoor_RGBD_Scans_ICCV_2019_paper.pdf)] Rescan: Inductive Instance Segmentation for Indoor RGBD Scans [[C++](https://github.com/mhalber/Rescan)]
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_Transferable_Semi-Supervised_3D_Object_Detection_From_RGB-D_Data_ICCV_2019_paper.pdf)] Transferable Semi-Supervised 3D Object Detection From RGB-D Data
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_STD_Sparse-to-Dense_3D_Object_Detector_for_Point_Cloud_ICCV_2019_paper.pdf)] STD: Sparse-to-Dense 3D Object Detector for Point Cloud
-- [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_Transferable_Semi-Supervised_3D_Object_Detection_From_RGB-D_Data_ICCV_2019_paper.pdf)] Transferable Semi-Supervised 3D Object Detection From RGB-D Data
 - [[CVPR2019](https://arxiv.org/pdf/1812.04244.pdf)] PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud [[pytorch](https://github.com/sshaoshuai/PointRCNN)]
 - [[Arxiv](https://arxiv.org/pdf/1908.02990.pdf)] Fast Point R-CNN
 - [[Arxiv](https://arxiv.org/pdf/1908.09492.pdf)] Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection [[pytorch](https://github.com/poodarchu/Det3D)] :fire:
@@ -99,6 +100,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[ECCV](https://arxiv.org/abs/2007.13393)] Ladybird: Quasi-Monte Carlo Sampling for Deep Implicit Field Based 3D Reconstruction with Symmetry
+- [[Arxiv](https://arxiv.org/pdf/2007.11571.pdf)] Neural Sparse Voxel Fields
 - [[CVPR2020](https://arxiv.org/pdf/2004.09995.pdf)] StructEdit: Learning Structural Shape Variations [[github](https://github.com/hyzcn/structedit)]
 - [[Arxiv](https://arxiv.org/pdf/2004.09995.pdf)] PAI-GCN: Permutable Anisotropic Graph Convolutional Networks for 3D Shape Representation Learning [[github](https://github.com/Gaozhongpai/PaiConvMesh)]
 - [[CVPR2020](https://arxiv.org/pdf/2004.03028.pdf)] Learning Generative Models of Shape Handles [[Project page](http://mgadelha.me/shapehandles/)]
@@ -193,6 +196,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[ECCV2020](https://arxiv.org/pdf/2007.11110.pdf)] Who Left the Dogs Out? 3D Animal Reconstruction with Expectation Maximization in the Loop
 - [[ECCV2020](https://arxiv.org/pdf/2007.10872.pdf)] Dense Hybrid Recurrent Multi-view Stereo Net with Dynamic Consistency Checking
 - [[ECCV2020](https://arxiv.org/pdf/2007.10982.pdf)] Shape and Viewpoint without Keypoints
 - [[Arxiv](https://arxiv.org/pdf/2007.10300.pdf)] Object-Centric Multi-View Aggregation
@@ -251,6 +255,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
+- [[CVPR2020](https://arxiv.org/abs/2007.11744)] End-to-End Optimization of Scene Layout [[Project](http://3dsln.csail.mit.edu/)]
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_End-to-End_Optimization_of_Scene_Layout_CVPR_2020_paper.pdf)] End-to-End Optimization of Scene Layout
 - [[Arxiv](https://arxiv.org/pdf/2005.02153.pdf)] Improving Target-driven Visual Navigation with Attention on 3D Spatial Relationships
 - [[CVPR2020](https://arxiv.org/pdf/2004.03967.pdf)] Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions
@@ -280,6 +285,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Reconstruction
+- [[ECCV2020](https://arxiv.org/pdf/2007.11965.pdf)] CAD-Deform: Deformable Fitting of CAD Models to 3D Scans
+- [[ECCV2020](https://arxiv.org/pdf/2007.13034.pdf)] Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve
+- [[ECCV2020](https://arxiv.org/pdf/2007.11431.pdf)] Learnable Cost Volume Using the Cayley Representation
 - [[ECCV2020](https://arxiv.org/pdf/2007.06853.pdf)] Topology-Change-Aware Volumetric Fusion for Dynamic Scene Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_MARMVS_Matching_Ambiguity_Reduced_Multiple_View_Stereo_for_Efficient_Large_CVPR_2020_paper.pdf)] MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient Large Scale Scene Reconstruction
@@ -306,6 +314,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[ACMMM2020](https://arxiv.org/pdf/2007.13551.pdf)] Differentiable Manifold Reconstruction for Point Cloud Denoising [[pytorch](https://github.com/luost26/DMRDenoise)]
 - [[ECCV2020](https://arxiv.org/pdf/2007.10170.pdf)] Discrete Point Flow Networks for Efficient Point Cloud Generation
 - [[Siggraph2020](https://www.dgp.toronto.edu/projects/neural-subdivision/)] Neural Subdivision
 - [[Arxiv](https://arxiv.org/pdf/2007.10985.pdf)] PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding
@@ -339,10 +348,12 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2020](https://arxiv.org/pdf/1912.03663.pdf)] SampleNet: Differentiable Point Cloud Sampling [[pytorch](https://github.com/itailang/SampleNet)]
 - [[Arxiv](https://arxiv.org/pdf/2002.11881.pdf)] Defense-PointNet: Protecting PointNet Against Adversarial Attacks
 - [[CVPR2020](https://arxiv.org/pdf/2002.10701.pdf)] FPConv: Learning Local Flattening for Point Convolution [[pytorch](https://github.com/lyqun/FPConv)]
+- [[ICCV2019](https://arxiv.org/abs/1904.07615)] Total Denoising: Unsupervised Learning of 3D Point Cloud Cleaning [[tensorflow](https://github.com/phermosilla/TotalDenoising)]
 - [[ICCV2019](https://arxiv.org/pdf/1907.10844.pdf)] PU-GAN: a Point Cloud Upsampling Adversarial Network:fire:
 - [[CVPR2019](https://arxiv.org/pdf/1904.07601.pdf)] Relation-Shape Convolutional Neural Network for Point Cloud Analysis [[pytorch](https://github.com/Yochengliu/Relation-Shape-CNN)] :fire:
 - [[CVPR2019](https://arxiv.org/pdf/1811.11286.pdf)] Patch-based Progressive 3D Point Set Upsampling
  [[tensorflow](https://github.com/yifita/3PU)] [[pytorch](https://github.com/yifita/3PU_pytorch)] :fire:
+- [[TOG2019](https://arxiv.org/pdf/1801.07829.pdf)] Dynamic Graph CNN for Learning on Point Clouds [[Project](https://liuziwei7.github.io/projects/DGCNN)] :fire::hot:
 - [[ECCV2018](https://arxiv.org/pdf/1807.06010.pdf)] EC-Net: an Edge-aware Point set Consolidation Network [[project page](https://yulequan.github.io/ec-net/)]
 - [[CVPR2018](https://arxiv.org/pdf/1801.06761.pdf)] PU-Net: Point Cloud Upsampling Network :star::fire:
 - [[Arxiv](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification
@@ -352,6 +363,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[ECCV2020](https://arxiv.org/pdf/2007.11341.pdf)] Unsupervised Shape and Pose Disentanglement for 3D Meshes
 - [[Arxiv](https://arxiv.org/pdf/2007.07714.pdf)] PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network
 - [[ECCV2020](https://arxiv.org/pdf/2007.07696.pdf)] P<sup>2</sup>Net: Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation
 - [[CVPR2020](https://arxiv.org/pdf/2001.05119.pdf)] Learning multiview 3D point cloud registration [[pytorch](https://github.com/zgojcic/3D_multiview_reg)]
@@ -402,6 +414,7 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[CVPR2020](https://arxiv.org/pdf/2007.13215.pdf)] OASIS: A Large-Scale Dataset for Single Image 3D in the Wild [[Project](https://oasis.cs.princeton.edu/)]
 - [[Arxiv](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future)] 3D-FUTURE: 3D FUrniture shape with TextURE
 - [[Arxiv](https://pages.tmall.com/wow/cab/tianchi/promotion/alibaba-3d-scene-dataset)] 3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics
 - [[Arxiv](https://arxiv.org/pdf/2006.12057.pdf)] Differentiable Rendering: A Survey
