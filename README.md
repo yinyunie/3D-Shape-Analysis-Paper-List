@@ -35,7 +35,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_End-to-End_3D_Point_Cloud_Instance_Segmentation_Without_Detection_CVPR_2020_paper.pdf)] End-to-end 3D Point Cloud Instance Segmentation without Detection
 - [[CVPR2020](https://arxiv.org/pdf/2003.00504.pdf)] MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/He_Structure_Aware_Single-Stage_3D_Object_Detection_From_Point_Cloud_CVPR_2020_paper.pdf)] Structure Aware Single-stage 3D Object Detection from Point Cloud
-- [[CVPR2020](https://arxiv.org/pdf/1912.04799.pdf)] Learning Depth-Guided Convolutions for Monocular 3D Object Detection
+- [[CVPR2020](https://arxiv.org/pdf/1912.04799.pdf)] Learning Depth-Guided Convolutions for Monocular 3D Object Detection [[pytorch](https://github.com/dingmyu/D4LCN)] :fire:
 - [[CVPR2020](https://arxiv.org/pdf/1912.04986.pdf)] What You See is What You Get: Exploiting Visibility for 3D Object Detection
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ahmed_Density-Based_Clustering_for_3D_Object_Detection_in_Point_Clouds_CVPR_2020_paper.pdf)] Density Based Clustering for 3D Object Detection in Point Clouds
 - [[CVPR2020](https://arxiv.org/pdf/2004.03572.pdf)] Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation
@@ -100,7 +100,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
-- [[ECCV](https://arxiv.org/abs/2007.13393)] Ladybird: Quasi-Monte Carlo Sampling for Deep Implicit Field Based 3D Reconstruction with Symmetry
+- [[Arxiv](https://arxiv.org/pdf/2008.01639.pdf)] PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations
+- [[Arxiv](https://arxiv.org/pdf/2008.02792.pdf)] CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations
+- [[Arxiv](https://arxiv.org/pdf/2008.03875.pdf)] ROCNET: RECURSIVE OCTREE NETWORK FOR EFFICIENT 3D DEEP REPRESENTATION
+- [[ECCV2020](https://arxiv.org/pdf/2008.04852.pdf)] GeLaTO: Generative Latent Textured Objects [[Project](https://gelato-paper.github.io/)]
+- [[ECCV2020](https://arxiv.org/abs/2007.13393)] Ladybird: Quasi-Monte Carlo Sampling for Deep Implicit Field Based 3D Reconstruction with Symmetry
 - [[Arxiv](https://arxiv.org/pdf/2007.11571.pdf)] Neural Sparse Voxel Fields
 - [[CVPR2020](https://arxiv.org/pdf/2004.09995.pdf)] StructEdit: Learning Structural Shape Variations [[github](https://github.com/hyzcn/structedit)]
 - [[Arxiv](https://arxiv.org/pdf/2004.09995.pdf)] PAI-GCN: Permutable Anisotropic Graph Convolutional Networks for 3D Shape Representation Learning [[github](https://github.com/Gaozhongpai/PaiConvMesh)]
@@ -153,6 +157,9 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[Arxiv](https://arxiv.org/pdf/2008.00394.pdf)] Point Cloud Completion by Learning Shape Priors
+- [[Arxiv](https://arxiv.org/pdf/2008.00096.pdf)] KAPLAN: A 3D Point Descriptor for Shape Completion
+- [[Arxiv](https://arxiv.org/pdf/2008.03404.pdf)] VPC-Net: Completion of 3D Vehicles from MLS Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2006.14660.pdf)] SPSG: Self-Supervised Photometric Scene Generation from RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/2006.03761.pdf)] GRNet: Gridding Residual Network for Dense Point Cloud Completion
 - [[Arxiv](https://arxiv.org/pdf/2006.03762.pdf)] Deep Octree-based CNNs with Output-Guided Skip Connections
@@ -196,6 +203,11 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[ECCV2020](https://arxiv.org/abs/2008.00446)] Stochastic Bundle Adjustment for Efficient and Scalable 3D Reconstruction [[github](https://github.com/zlthinker/STBA)]
+- [[Arxiv](https://arxiv.org/abs/2008.02268)] NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections [[Project](https://nerf-w.github.io/)]
+- [[Arxiv](https://arxiv.org/pdf/2005.11617.pdf)] MeshODE: A Robust and Scalable Framework for Mesh Deformation
+- [[Arxiv](https://arxiv.org/pdf/2007.12944.pdf)] MRGAN: Multi-Rooted 3D Shape Generation with Unsupervised Part Disentanglement
+- [[ECCV2020](https://arxiv.org/pdf/2007.09267.pdf)] Meshing Point Clouds with Predicted Intrinsic-Extrinsic Ratio Guidance
 - [[ECCV2020](https://arxiv.org/pdf/2007.11110.pdf)] Who Left the Dogs Out? 3D Animal Reconstruction with Expectation Maximization in the Loop
 - [[ECCV2020](https://arxiv.org/pdf/2007.10872.pdf)] Dense Hybrid Recurrent Multi-view Stereo Net with Dynamic Consistency Checking
 - [[ECCV2020](https://arxiv.org/pdf/2007.10982.pdf)] Shape and Viewpoint without Keypoints
@@ -255,6 +267,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv]https://arxiv.org/pdf/2008.01323.pdf)] Structural Plan of Indoor Scenes with Personalized Preferences
+- [[Arxiv](https://arxiv.org/abs/2008.03286)] HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures [[Project](https://people.eecs.berkeley.edu/~zyc/holicity/)]
 - [[CVPR2020](https://arxiv.org/abs/2007.11744)] End-to-End Optimization of Scene Layout [[Project](http://3dsln.csail.mit.edu/)]
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_End-to-End_Optimization_of_Scene_Layout_CVPR_2020_paper.pdf)] End-to-End Optimization of Scene Layout
 - [[Arxiv](https://arxiv.org/pdf/2005.02153.pdf)] Improving Target-driven Visual Navigation with Attention on 3D Spatial Relationships
@@ -314,6 +328,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2008.01068.pdf)] Unsupervised 3D Learning for Shape Analysis via Multiresolution Instance Discrimination
+- [[Arxiv](https://arxiv.org/pdf/2008.02986.pdf)] Global Context Aware Convolutions for 3D Point Cloud Understanding
+- [[ECCV2020](https://arxiv.org/pdf/2008.00892.pdf)] Shape Adaptor: A Learnable Resizing Module [[pytorch](https://github.com/lorenmt/shape-adaptor)]
 - [[ACMMM2020](https://arxiv.org/pdf/2007.13551.pdf)] Differentiable Manifold Reconstruction for Point Cloud Denoising [[pytorch](https://github.com/luost26/DMRDenoise)]
 - [[ECCV2020](https://arxiv.org/pdf/2007.10170.pdf)] Discrete Point Flow Networks for Efficient Point Cloud Generation
 - [[Siggraph2020](https://www.dgp.toronto.edu/projects/neural-subdivision/)] Neural Subdivision
@@ -363,6 +380,11 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2008.00305.pdf)] Self-Supervised Learning of Point Clouds via Orientation Estimation
+- [[SIGGRAPH2020](https://arxiv.org/abs/2008.00485)] SymmetryNet: Learning to Predict Reflectional and Rotational Symmetries of 3D Shapes from Single-View RGB-D Images [[Project](https://kevinkaixu.net/projects/symmetrynet.html#code)]
+- [[ECCV2020](https://arxiv.org/pdf/2008.01484.pdf)] Learning Stereo from Single Images [[github](https://github.com/nianticlabs/stereo-from-mono/)]
+- [[Arxiv](https://arxiv.org/pdf/2008.02265.pdf)] Learning Long-term Visual Dynamics with Region Proposal Interaction Networks [[Project](https://haozhiqi.github.io/RPIN/)]
+- [[ECCV2020](https://arxiv.org/pdf/2008.02004.pdf)] Beyond Controlled Environments: 3D Camera Re-Localization in Changing Indoor Scenes [[Project](https://waldjohannau.github.io/RIO10/)]
 - [[ECCV2020](https://arxiv.org/pdf/2007.11341.pdf)] Unsupervised Shape and Pose Disentanglement for 3D Meshes
 - [[Arxiv](https://arxiv.org/pdf/2007.07714.pdf)] PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network
 - [[ECCV2020](https://arxiv.org/pdf/2007.07696.pdf)] P<sup>2</sup>Net: Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation
@@ -414,6 +436,8 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/abs/2008.00230)] RGB-D Salient Object Detection: A Survey [[Project](https://github.com/taozh2017/RGBD-SODsurvey)]
+- [[Arxiv](https://arxiv.org/pdf/2008.01133.pdf)] AiRound and CV-BrCT: Novel Multi-View Datasets for Scene Classification [[Project](http://www.patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/)]
 - [[CVPR2020](https://arxiv.org/pdf/2007.13215.pdf)] OASIS: A Large-Scale Dataset for Single Image 3D in the Wild [[Project](https://oasis.cs.princeton.edu/)]
 - [[Arxiv](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future)] 3D-FUTURE: 3D FUrniture shape with TextURE
 - [[Arxiv](https://pages.tmall.com/wow/cab/tianchi/promotion/alibaba-3d-scene-dataset)] 3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics
