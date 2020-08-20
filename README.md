@@ -19,7 +19,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 
-## 3D Detection
+## 3D Detection & Segmentation
+- [[ECCV2020](https://arxiv.org/pdf/2007.13138.pdf)] Virtual Multi-view Fusion for 3D Semantic Segmentation
 - [[ACMMM2020](https://arxiv.org/pdf/2007.13970.pdf)] Weakly Supervised 3D Object Detection from Point Clouds
 - [[ECCV2020](https://arxiv.org/abs/2007.11901)] Weakly Supervised 3D Object Detection from Lidar Point Cloud [[pytorch](https://github.com/hlesmqh/WS3D)]
 - [[ECCV2020](https://arxiv.org/abs/2007.09548)] Kinematic 3D Object Detection in Monocular Video
@@ -100,6 +101,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2008.05440)] DSM-Net: Disentangled Structured Mesh Net for Controllable Generation of Fine Geometry [[Project](http://geometrylearning.com/dsm-net/)]
 - [[Arxiv](https://arxiv.org/pdf/2008.01639.pdf)] PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations
 - [[Arxiv](https://arxiv.org/pdf/2008.02792.pdf)] CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations
 - [[Arxiv](https://arxiv.org/pdf/2008.03875.pdf)] ROCNET: RECURSIVE OCTREE NETWORK FOR EFFICIENT 3D DEEP REPRESENTATION
@@ -157,6 +159,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[ECCV2020](https://arxiv.org/abs/2008.07358v1)] SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification
+- [[ECCV2020](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500273.pdf)] Weakly-supervised 3D Shape Completion in the Wild
 - [[Arxiv](https://arxiv.org/pdf/2008.00394.pdf)] Point Cloud Completion by Learning Shape Priors
 - [[Arxiv](https://arxiv.org/pdf/2008.00096.pdf)] KAPLAN: A 3D Point Descriptor for Shape Completion
 - [[Arxiv](https://arxiv.org/pdf/2008.03404.pdf)] VPC-Net: Completion of 3D Vehicles from MLS Point Clouds
@@ -267,7 +271,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
-- [[Arxiv]https://arxiv.org/pdf/2008.01323.pdf)] Structural Plan of Indoor Scenes with Personalized Preferences
+- [[ECCV2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf)] ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes
+- [[Arxiv](https://arxiv.org/pdf/2008.01323.pdf)] Structural Plan of Indoor Scenes with Personalized Preferences
 - [[Arxiv](https://arxiv.org/abs/2008.03286)] HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures [[Project](https://people.eecs.berkeley.edu/~zyc/holicity/)]
 - [[CVPR2020](https://arxiv.org/abs/2007.11744)] End-to-End Optimization of Scene Layout [[Project](http://3dsln.csail.mit.edu/)]
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_End-to-End_Optimization_of_Scene_Layout_CVPR_2020_paper.pdf)] End-to-End Optimization of Scene Layout
@@ -307,7 +312,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_MARMVS_Matching_Ambiguity_Reduced_Multiple_View_Stereo_for_Efficient_Large_CVPR_2020_paper.pdf)] MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient Large Scale Scene Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2004.12989.pdf)] CoReNet: Coherent 3D scene reconstruction from a single RGB image
 - [[CVPR2020](https://arxiv.org/pdf/2004.01170.pdf)] DOPS: Learning to Detect 3D Objects and Predict their 3D Shapes
-- [[Arxiv](https://arxiv.org/pdf/2003.12622.pdf)] SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans
+- [[ECCV2020](https://arxiv.org/pdf/2003.12622.pdf)] SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/2003.11076.pdf)] Removing Dynamic Objects for Static Scene Reconstruction using Light Fields
 - [[Arxiv](https://arxiv.org/pdf/2003.10432.pdf)] Atlas: End-to-End 3D Scene Reconstruction from Posed Images
 - [[Arxiv](https://arxiv.org/pdf/2003.07356.pdf)] Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes
@@ -328,6 +333,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[ECCV2020](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660290.pdf)] DR-KFS: A Differentiable Visual Similarity Metric for 3D Shape Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2008.01068.pdf)] Unsupervised 3D Learning for Shape Analysis via Multiresolution Instance Discrimination
 - [[Arxiv](https://arxiv.org/pdf/2008.02986.pdf)] Global Context Aware Convolutions for 3D Point Cloud Understanding
 - [[ECCV2020](https://arxiv.org/pdf/2008.00892.pdf)] Shape Adaptor: A Learnable Resizing Module [[pytorch](https://github.com/lorenmt/shape-adaptor)]
@@ -380,6 +386,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[ECCV2020](https://arxiv.org/pdf/2004.04807.pdf)] 6D Camera Relocalization in Ambiguous Scenes via Continuous Multimodal Inference
 - [[Arxiv](https://arxiv.org/pdf/2008.00305.pdf)] Self-Supervised Learning of Point Clouds via Orientation Estimation
 - [[SIGGRAPH2020](https://arxiv.org/abs/2008.00485)] SymmetryNet: Learning to Predict Reflectional and Rotational Symmetries of 3D Shapes from Single-View RGB-D Images [[Project](https://kevinkaixu.net/projects/symmetrynet.html#code)]
 - [[ECCV2020](https://arxiv.org/pdf/2008.01484.pdf)] Learning Stereo from Single Images [[github](https://github.com/nianticlabs/stereo-from-mono/)]
