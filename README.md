@@ -249,7 +249,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[Arxiv](https://arxiv.org/pdf/2004.04485.pdf)] Neural Object Descriptors for Multi-View Shape Reconstruction
 - [[CVPR2020](https://arxiv.org/pdf/2003.14034.pdf)] SPARE3D: A Dataset for SPAtial REasoning on Three-View Line Drawings [[pytorch](https://github.com/ai4ce/SPARE3D)]
 - [[Arxiv](https://arxiv.org/pdf/2003.12397.pdf)] Modeling 3D Shapes by Reinforcement Learning
-- [[Arxiv](https://arxiv.org/pdf/2003.12181.pdf)] ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds
+- [[ECCV2020](https://arxiv.org/pdf/2003.12181.pdf)] ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds [[pytorch](https://github.com/Hippogriff/parsenet-codebase)]
 - [[Arxiv](https://arxiv.org/pdf/2003.10016.pdf)] Self-Supervised 2D Image to 3D Shape Translation with Disentangled Representations
 - [[Arxiv](https://arxiv.org/pdf/2003.09852.pdf)] Universal Differentiable Renderer for Implicit Neural Representations
 - [[Arxiv](https://arxiv.org/pdf/2003.09754.pdf)] Learning 3D Part Assembly from a Single Image
