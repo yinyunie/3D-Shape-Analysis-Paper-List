@@ -20,6 +20,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[IROS2020](http://www.xinshuoweng.com/papers/AB3DMOT/camera_ready.pdf)] 3D Multi-Object Tracking: A Baseline and New Evaluation Metrics [[Project](http://www.xinshuoweng.com/projects/AB3DMOT/)][[Code](https://github.com/xinshuoweng/AB3DMOT)]
 - [[ECCV2020](https://arxiv.org/pdf/2007.13138.pdf)] Virtual Multi-view Fusion for 3D Semantic Segmentation
 - [[ACMMM2020](https://arxiv.org/pdf/2007.13970.pdf)] Weakly Supervised 3D Object Detection from Point Clouds
 - [[ECCV2020](https://arxiv.org/abs/2007.11901)] Weakly Supervised 3D Object Detection from Lidar Point Cloud [[pytorch](https://github.com/hlesmqh/WS3D)]
@@ -101,6 +102,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[ECCV2020](https://arxiv.org/pdf/2008.06520.pdf)] Learning Gradient Fields for Shape Generation [[Project](https://www.cs.cornell.edu/~ruojin/ShapeGF/)][[Pytorch](https://github.com/RuojinCai/ShapeGF)]
 - [[Arxiv](https://arxiv.org/abs/2008.05440)] DSM-Net: Disentangled Structured Mesh Net for Controllable Generation of Fine Geometry [[Project](http://geometrylearning.com/dsm-net/)]
 - [[Arxiv](https://arxiv.org/pdf/2008.01639.pdf)] PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations
 - [[Arxiv](https://arxiv.org/pdf/2008.02792.pdf)] CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations
@@ -159,6 +161,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[Arxiv](https://arxiv.org/abs/2008.10559)] LMSCNet: Lightweight Multiscale 3D Semantic Completion [[Demo](https://www.youtube.com/watch?v=XuEz0mbv2IQ&feature=youtu.be)]
 - [[ECCV2020](https://arxiv.org/abs/2008.07358v1)] SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification
 - [[ECCV2020](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500273.pdf)] Weakly-supervised 3D Shape Completion in the Wild
 - [[Arxiv](https://arxiv.org/pdf/2008.00394.pdf)] Point Cloud Completion by Learning Shape Priors
@@ -207,6 +210,14 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[SIGGRAPH2020](https://arxiv.org/abs/2008.12298)] One Shot 3D Photography [[Project](https://facebookresearch.github.io/one_shot_3d_photography/)]
+- [[BMVC2020](https://arxiv.org/pdf/2008.11762.pdf)] Large Scale Photometric Bundle Adjustment
+- [[ECCV2020](https://arxiv.org/abs/2008.10719)] Interactive Annotation of 3D Object Geometry using 2D Scribbles [[Project](http://www.cs.toronto.edu/~shenti11/scribble3d/)]
+- [[BMVC2020](https://arxiv.org/abs/2008.07928)] Visibility-aware Multi-view Stereo Network
+- [[ECCV2020](https://arxiv.org/abs/2008.07760)] Pix2Surf: Learning Parametric 3D Surface Models of Objects from Images
+- [[ECCV2020](https://arxiv.org/abs/2008.06133)] 3D Bird Reconstruction: a Dataset, Model, and Shape Recovery from a Single View [[Project](https://marcbadger.github.io/avian-mesh/)][[Pytorch](https://github.com/marcbadger/avian-mesh)]
+- [[BMVC2020](https://arxiv.org/abs/1912.04663)] 3D-GMNet: Single-View 3D Shape Recovery as A Gaussian Mixture
+- [[SIGGRAPH2020](https://arxiv.org/pdf/2008.06471.pdf)] Self-Sampling for Neural Point Cloud Consolidation
 - [[ECCV2020](https://arxiv.org/abs/2008.00446)] Stochastic Bundle Adjustment for Efficient and Scalable 3D Reconstruction [[github](https://github.com/zlthinker/STBA)]
 - [[Arxiv](https://arxiv.org/abs/2008.02268)] NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections [[Project](https://nerf-w.github.io/)]
 - [[Arxiv](https://arxiv.org/pdf/2005.11617.pdf)] MeshODE: A Robust and Scalable Framework for Mesh Deformation
@@ -271,11 +282,17 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2008.10631.pdf)] OpenBot: Turning Smartphones into Robots [[Project](https://www.openbot.org/)]
+- [[Arxiv](https://arxiv.org/abs/2008.09622)] Audio-Visual Waypoints for Navigation
+- [[Arxiv](https://arxiv.org/pdf/2008.09241.pdf)] Learning Affordance Landscapes for Interaction Exploration in 3D Environments [[Project](http://vision.cs.utexas.edu/projects/interaction-exploration/)]
+- [[ECCV2020](https://arxiv.org/pdf/2008.09285.pdf)] Occupancy Anticipation for Efficient Exploration and Navigation [[Project](http://vision.cs.utexas.edu/projects/occupancy_anticipation/)]
+- [[Arxiv](https://arxiv.org/pdf/2008.07817.pdf)] Retargetable AR: Context-aware Augmented Reality in Indoor Scenes based on 3D Scene Graph
+- [[Arxiv](https://arxiv.org/abs/2008.05570)] Generating Person-Scene Interactions in 3D Scenes
+- [[Arxiv](https://arxiv.org/abs/2008.06286)] GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes
 - [[ECCV2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf)] ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes
 - [[Arxiv](https://arxiv.org/pdf/2008.01323.pdf)] Structural Plan of Indoor Scenes with Personalized Preferences
 - [[Arxiv](https://arxiv.org/abs/2008.03286)] HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures [[Project](https://people.eecs.berkeley.edu/~zyc/holicity/)]
 - [[CVPR2020](https://arxiv.org/abs/2007.11744)] End-to-End Optimization of Scene Layout [[Project](http://3dsln.csail.mit.edu/)]
-- [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_End-to-End_Optimization_of_Scene_Layout_CVPR_2020_paper.pdf)] End-to-End Optimization of Scene Layout
 - [[Arxiv](https://arxiv.org/pdf/2005.02153.pdf)] Improving Target-driven Visual Navigation with Attention on 3D Spatial Relationships
 - [[CVPR2020](https://arxiv.org/pdf/2004.03967.pdf)] Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions
 - [[Arxiv](https://arxiv.org/pdf/2003.13516.pdf)] LayoutMP3D: Layout Annotation of Matterport3D
@@ -333,6 +350,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2008.12066.pdf)] Minimal Adversarial Examples for Deep Learning on 3D Point Clouds
+- [[BMVC2020](https://arxiv.org/abs/2008.05981)] Black Magic in Deep Learning: How Human Skill Impacts Network Training
+- [[ECCV2020](https://arxiv.org/pdf/2008.06374.pdf)] PointMixup: Augmentation for Point Clouds [[Code](https://github.com/yunlu-chen/PointMixup/)]
 - [[ECCV2020](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660290.pdf)] DR-KFS: A Differentiable Visual Similarity Metric for 3D Shape Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2008.01068.pdf)] Unsupervised 3D Learning for Shape Analysis via Multiresolution Instance Discrimination
 - [[Arxiv](https://arxiv.org/pdf/2008.02986.pdf)] Global Context Aware Convolutions for 3D Point Cloud Understanding
@@ -386,6 +406,10 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[BMVC2020](https://arxiv.org/pdf/2008.09965.pdf)] Neighbourhood-Insensitive Point Cloud Normal Estimation Network [[Project](http://ninormal.active.vision/)]
+- [[ECCV2020](https://arxiv.org/pdf/2008.09088.pdf)] DeepGMR: Learning Latent Gaussian Mixture Models for Registration [[Project](https://wentaoyuan.github.io/deepgmr/)]
+- [[ECCV2020](https://arxiv.org/abs/2008.07931)] Motion Capture from Internet Videos [[Project](https://zju3dv.github.io/iMoCap/)]
+- [[ECCV2020](https://arxiv.org/pdf/2008.07861.pdf)] Depth Completion with RGB Prior
 - [[ECCV2020](https://arxiv.org/pdf/2004.04807.pdf)] 6D Camera Relocalization in Ambiguous Scenes via Continuous Multimodal Inference
 - [[Arxiv](https://arxiv.org/pdf/2008.00305.pdf)] Self-Supervised Learning of Point Clouds via Orientation Estimation
 - [[SIGGRAPH2020](https://arxiv.org/abs/2008.00485)] SymmetryNet: Learning to Predict Reflectional and Rotational Symmetries of 3D Shapes from Single-View RGB-D Images [[Project](https://kevinkaixu.net/projects/symmetrynet.html#code)]
@@ -443,6 +467,10 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/abs/2008.00103)] F*: An Interpretable Transformation of the F-measure
+- [[Dataset](http://gibsonenv.stanford.edu/database/)] Gibson Database of 3D Spaces
+- [[BMVC2020](https://arxiv.org/abs/2008.05981)] Black Magic in Deep Learning: How Human Skill Impacts Network Training
+- [[Arxiv](https://arxiv.org/abs/2008.09164)] PyTorch Metric Learning
 - [[Arxiv](https://arxiv.org/abs/2008.00230)] RGB-D Salient Object Detection: A Survey [[Project](https://github.com/taozh2017/RGBD-SODsurvey)]
 - [[Arxiv](https://arxiv.org/pdf/2008.01133.pdf)] AiRound and CV-BrCT: Novel Multi-View Datasets for Scene Classification [[Project](http://www.patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/)]
 - [[CVPR2020](https://arxiv.org/pdf/2007.13215.pdf)] OASIS: A Large-Scale Dataset for Single Image 3D in the Wild [[Project](https://oasis.cs.princeton.edu/)]
