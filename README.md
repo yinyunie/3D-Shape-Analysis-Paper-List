@@ -20,6 +20,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/abs/2009.00764)] Monocular 3D Detection with Geometric Constraints Embedding and Semi-supervised Training
+- [[ECCV2020](https://arxiv.org/pdf/2008.13748.pdf)] Reinforced Axial Refinement Network for Monocular 3D Object Detection
 - [[IROS2020](http://www.xinshuoweng.com/papers/AB3DMOT/camera_ready.pdf)] 3D Multi-Object Tracking: A Baseline and New Evaluation Metrics [[Project](http://www.xinshuoweng.com/projects/AB3DMOT/)][[Code](https://github.com/xinshuoweng/AB3DMOT)]
 - [[ECCV2020](https://arxiv.org/pdf/2007.13138.pdf)] Virtual Multi-view Fusion for 3D Semantic Segmentation
 - [[ACMMM2020](https://arxiv.org/pdf/2007.13970.pdf)] Weakly Supervised 3D Object Detection from Point Clouds
@@ -176,7 +178,7 @@ for 3D Shape and Scene Completion
 - [[CVPR2020](https://arxiv.org/pdf/2004.02122.pdf)] Anisotropic Convolutional Networks for 3D Semantic Scene Completion [[github](https://github.com/waterljwant/SSC)]
 - [[AAAI2020](https://arxiv.org/pdf/2003.13910.pdf)] Attention-based Multi-modal Fusion Network for Semantic Scene Completion
 - [[CVPR2020](https://arxiv.org/pdf/2003.14052.pdf)] 3D Sketch-aware Semantic Scene Completion via Semi-supervised Structure Prior [[github](https://github.com/charlesCXK/3D-SketchAware-SSC)]
-- [[Arxiv](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks
+- [[ECCV2020](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks [[pytorch](https://github.com/ChrisWu1997/Multimodal-Shape-Completion)]
 - [[CVPR2020](https://arxiv.org/pdf/1904.12012.pdf)] RevealNet: Seeing Behind Objects in RGB-D Scans
 - [[CVPR2020](https://arxiv.org/pdf/2003.01456.pdf)] Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion
 - [[CVPR2020](https://arxiv.org/pdf/2003.00410.pdf)] PF-Net: Point Fractal Network for 3D Point Cloud Completion
@@ -185,7 +187,7 @@ for 3D Shape and Scene Completion
 - [[ICRA2020](https://arxiv.org/pdf/2001.10709.pdf)] Depth Based Semantic Scene Completion with Position Importance Aware Loss
 - [[CVPR2020](https://arxiv.org/pdf/1912.00036.pdf)] SG-NN: Sparse Generative Neural Networks for Self-Supervised Scene Completion of RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/1911.10949.pdf)] PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes
-- [[Arxiv](https://arxiv.org/pdf/1904.00069.pdf)] Unpaired Point Cloud Completion on Real Scans using Adversarial Training [[tensorflow](https://github.com/xuelin-chen/pcl2pcl-gan-pub)]
+- [[ICLR2020](https://arxiv.org/pdf/1904.00069.pdf)] Unpaired Point Cloud Completion on Real Scans using Adversarial Training [[tensorflow](https://github.com/xuelin-chen/pcl2pcl-gan-pub)]
 - [[AAAI2020](http://cseweb.ucsd.edu/~mil070/projects/AAAI2020/paper.pdf)] Morphing and Sampling Network for Dense Point Cloud Completion [[pytorch](https://github.com/Colin97/MSN-Point-Cloud-Completion)]
 - [[ICCVW2019](http://openaccess.thecvf.com/content_ICCVW_2019/papers/GMDL/Hu_Render4Completion_Synthesizing_Multi-View_Depth_Maps_for_3D_Shape_Completion_ICCVW_2019_paper.pdf)] Render4Completion: Synthesizing Multi-View Depth Maps for 3D Shape
 Completion
@@ -350,6 +352,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2009.01427.pdf)] Spatial Transformer Point Convolution
 - [[Arxiv](https://arxiv.org/pdf/2008.12066.pdf)] Minimal Adversarial Examples for Deep Learning on 3D Point Clouds
 - [[BMVC2020](https://arxiv.org/abs/2008.05981)] Black Magic in Deep Learning: How Human Skill Impacts Network Training
 - [[ECCV2020](https://arxiv.org/pdf/2008.06374.pdf)] PointMixup: Augmentation for Point Clouds [[Code](https://github.com/yunlu-chen/PointMixup/)]
@@ -467,6 +470,7 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Thesis](https://arxiv.org/pdf/2009.01786.pdf)] COMPUTATIONAL ANALYSIS OF DEFORMABLE MANIFOLDS: FROM GEOMETRIC MODELING TO DEEP LEARNING
 - [[Arxiv](https://arxiv.org/abs/2008.00103)] F*: An Interpretable Transformation of the F-measure
 - [[Dataset](http://gibsonenv.stanford.edu/database/)] Gibson Database of 3D Spaces
 - [[BMVC2020](https://arxiv.org/abs/2008.05981)] Black Magic in Deep Learning: How Human Skill Impacts Network Training
