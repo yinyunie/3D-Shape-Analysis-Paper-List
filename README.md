@@ -212,6 +212,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2009.03298.pdf)] Improved Modeling of 3D Shapes with Multi-view Depth Maps
 - [[SIGGRAPH2020](https://arxiv.org/abs/2008.12298)] One Shot 3D Photography [[Project](https://facebookresearch.github.io/one_shot_3d_photography/)]
 - [[BMVC2020](https://arxiv.org/pdf/2008.11762.pdf)] Large Scale Photometric Bundle Adjustment
 - [[ECCV2020](https://arxiv.org/abs/2008.10719)] Interactive Annotation of 3D Object Geometry using 2D Scribbles [[Project](http://www.cs.toronto.edu/~shenti11/scribble3d/)]
@@ -284,6 +285,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/abs/2009.02857)] 3D Room Layout Estimation Beyond the Manhattan World Assumption
 - [[Arxiv](https://arxiv.org/pdf/2008.10631.pdf)] OpenBot: Turning Smartphones into Robots [[Project](https://www.openbot.org/)]
 - [[Arxiv](https://arxiv.org/abs/2008.09622)] Audio-Visual Waypoints for Navigation
 - [[Arxiv](https://arxiv.org/pdf/2008.09241.pdf)] Learning Affordance Landscapes for Interaction Exploration in 3D Environments [[Project](http://vision.cs.utexas.edu/projects/interaction-exploration/)]
@@ -352,6 +354,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2009.02918)] DV-ConvNet: Fully Convolutional Deep Learning on Point Clouds with Dynamic Voxelization and 3D Group Convolution
 - [[Arxiv](https://arxiv.org/pdf/2009.01427.pdf)] Spatial Transformer Point Convolution
 - [[Arxiv](https://arxiv.org/pdf/2008.12066.pdf)] Minimal Adversarial Examples for Deep Learning on 3D Point Clouds
 - [[BMVC2020](https://arxiv.org/abs/2008.05981)] Black Magic in Deep Learning: How Human Skill Impacts Network Training
@@ -409,6 +412,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[BMVC2020](https://arxiv.org/pdf/2009.04065.pdf)] View-consistent 4D Light Field Depth Estimation
 - [[BMVC2020](https://arxiv.org/pdf/2008.09965.pdf)] Neighbourhood-Insensitive Point Cloud Normal Estimation Network [[Project](http://ninormal.active.vision/)]
 - [[ECCV2020](https://arxiv.org/pdf/2008.09088.pdf)] DeepGMR: Learning Latent Gaussian Mixture Models for Registration [[Project](https://wentaoyuan.github.io/deepgmr/)]
 - [[ECCV2020](https://arxiv.org/abs/2008.07931)] Motion Capture from Internet Videos [[Project](https://zju3dv.github.io/iMoCap/)]
