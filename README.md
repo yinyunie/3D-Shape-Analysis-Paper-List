@@ -20,6 +20,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/pdf/2009.05307.pdf)] A Density-Aware PointRCNN for 3D Objection Detection in Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2009.00764)] Monocular 3D Detection with Geometric Constraints Embedding and Semi-supervised Training
 - [[ECCV2020](https://arxiv.org/pdf/2008.13748.pdf)] Reinforced Axial Refinement Network for Monocular 3D Object Detection
 - [[IROS2020](http://www.xinshuoweng.com/papers/AB3DMOT/camera_ready.pdf)] 3D Multi-Object Tracking: A Baseline and New Evaluation Metrics [[Project](http://www.xinshuoweng.com/projects/AB3DMOT/)][[Code](https://github.com/xinshuoweng/AB3DMOT)]
@@ -104,7 +105,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
-- [[ECCV2020](https://arxiv.org/pdf/2008.06520.pdf)] Learning Gradient Fields for Shape Generation [[Project](https://www.cs.cornell.edu/~ruojin/ShapeGF/)][[Pytorch](https://github.com/RuojinCai/ShapeGF)]
+- [[Arxiv](https://arxiv.org/abs/2009.09808)] Overfit Neural Networks as a Compact Shape Representation
 - [[Arxiv](https://arxiv.org/abs/2008.05440)] DSM-Net: Disentangled Structured Mesh Net for Controllable Generation of Fine Geometry [[Project](http://geometrylearning.com/dsm-net/)]
 - [[Arxiv](https://arxiv.org/pdf/2008.01639.pdf)] PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations
 - [[Arxiv](https://arxiv.org/pdf/2008.02792.pdf)] CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations
@@ -163,6 +164,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[Arxiv](https://arxiv.org/pdf/2009.05290.pdf)] Unsupervised Partial Point Set Registration via
+Joint Shape Completion and Registration
 - [[Arxiv](https://arxiv.org/abs/2008.10559)] LMSCNet: Lightweight Multiscale 3D Semantic Completion [[Demo](https://www.youtube.com/watch?v=XuEz0mbv2IQ&feature=youtu.be)]
 - [[ECCV2020](https://arxiv.org/abs/2008.07358v1)] SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification
 - [[ECCV2020](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500273.pdf)] Weakly-supervised 3D Shape Completion in the Wild
@@ -285,6 +288,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2009.05429.pdf)] Embodied Visual Navigation with Automatic Curriculum Learningin Real Environments
 - [[Arxiv](https://arxiv.org/abs/2009.02857)] 3D Room Layout Estimation Beyond the Manhattan World Assumption
 - [[Arxiv](https://arxiv.org/pdf/2008.10631.pdf)] OpenBot: Turning Smartphones into Robots [[Project](https://www.openbot.org/)]
 - [[Arxiv](https://arxiv.org/abs/2008.09622)] Audio-Visual Waypoints for Navigation
@@ -474,6 +478,9 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Survey](https://arxiv.org/abs/2009.09796)] Multi-Task Learning with Deep Neural Networks: A Survey
+
+- [[Survey](https://arxiv.org/pdf/2009.08920.pdf)] Deep Learning for 3D Point Cloud Understanding: A Survey
 - [[Thesis](https://arxiv.org/pdf/2009.01786.pdf)] COMPUTATIONAL ANALYSIS OF DEFORMABLE MANIFOLDS: FROM GEOMETRIC MODELING TO DEEP LEARNING
 - [[Arxiv](https://arxiv.org/abs/2008.00103)] F*: An Interpretable Transformation of the F-measure
 - [[Dataset](http://gibsonenv.stanford.edu/database/)] Gibson Database of 3D Spaces
