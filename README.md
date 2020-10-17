@@ -105,6 +105,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2010.00973)] RISA-Net: Rotation-Invariant Structure-Aware Network for Fine-Grained 3D Shape Retrieval [[tensorflow](https://github.com/IGLICT/RisaNET)]
 - [[Arxiv](https://arxiv.org/abs/2009.09808)] Overfit Neural Networks as a Compact Shape Representation
 - [[Arxiv](https://arxiv.org/abs/2008.05440)] DSM-Net: Disentangled Structured Mesh Net for Controllable Generation of Fine Geometry [[Project](http://geometrylearning.com/dsm-net/)]
 - [[Arxiv](https://arxiv.org/pdf/2008.01639.pdf)] PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations
@@ -164,6 +165,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[Arxiv](https://arxiv.org/pdf/2010.04278.pdf)] Refinement of Predicted Missing Parts Enhance Point Cloud
+Completion [[pytorch](https://github.com/ivansipiran/Refinement-Point-Cloud-Completion)]
 - [[Arxiv](https://arxiv.org/pdf/2009.05290.pdf)] Unsupervised Partial Point Set Registration via
 Joint Shape Completion and Registration
 - [[Arxiv](https://arxiv.org/abs/2008.10559)] LMSCNet: Lightweight Multiscale 3D Semantic Completion [[Demo](https://www.youtube.com/watch?v=XuEz0mbv2IQ&feature=youtu.be)]
@@ -215,6 +218,13 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2010.04595)] GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering [[github](https://github.com/alextrevithick/GRF)]
+- [[3DV2020](https://arxiv.org/pdf/2010.05391.pdf)] A Progressive Conditional Generative Adversarial Network
+for Generating Dense and Colored 3D Point Clouds
+- [[3DV2020](https://arxiv.org/pdf/2010.07021.pdf)] Better Patch Stitching for Parametric Surface Reconstruction
+- [[NeurIPS2020](https://arxiv.org/pdf/2010.07428.pdf)] Skeleton-bridged Point Completion: From Global
+Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-page/)]
+- [[Arxiv](https://arxiv.org/abs/2010.07492)] NeRF++: Analyzing and Improving Neural Radiance Fields [[pytorch](https://github.com/Kai-46/nerfplusplus)]
 - [[Arxiv](https://arxiv.org/pdf/2009.03298.pdf)] Improved Modeling of 3D Shapes with Multi-view Depth Maps
 - [[SIGGRAPH2020](https://arxiv.org/abs/2008.12298)] One Shot 3D Photography [[Project](https://facebookresearch.github.io/one_shot_3d_photography/)]
 - [[BMVC2020](https://arxiv.org/pdf/2008.11762.pdf)] Large Scale Photometric Bundle Adjustment
@@ -329,6 +339,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2010.01549.pdf)] Holistic static and animated 3D scene generation from diverse text descriptions [[pytorch](https://github.com/oaishi/3DScene_from_text)]
+- [[Arxiv](https://arxiv.org/pdf/2010.04030.pdf)] Semi-Supervised Learning of Multi-Object 3D Scene Representations
 - [[ECCV2020](https://arxiv.org/pdf/2007.11965.pdf)] CAD-Deform: Deformable Fitting of CAD Models to 3D Scans
 - [[ECCV2020](https://arxiv.org/pdf/2007.13034.pdf)] Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve
 - [[ECCV2020](https://arxiv.org/pdf/2007.11431.pdf)] Learnable Cost Volume Using the Cayley Representation
@@ -358,6 +370,10 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2010.01089.pdf)] Pre-Training by Completing Point Clouds [[pytorch](https://github.com/hansen7/OcCo)]
+- [[NeurIPS2020](https://arxiv.org/pdf/2010.03318.pdf)] Rotation-Invariant Local-to-Global Representation
+Learning for 3D Point Cloud
+- [[Arxiv](https://arxiv.org/abs/2010.05272)] IF-Defense: 3D Adversarial Point Cloud Defense via Implicit Function based Restoration [[pytorch](https://github.com/Wuziyi616/IF-Defense)]
 - [[Arxiv](https://arxiv.org/abs/2009.02918)] DV-ConvNet: Fully Convolutional Deep Learning on Point Clouds with Dynamic Voxelization and 3D Group Convolution
 - [[Arxiv](https://arxiv.org/pdf/2009.01427.pdf)] Spatial Transformer Point Convolution
 - [[Arxiv](https://arxiv.org/pdf/2008.12066.pdf)] Minimal Adversarial Examples for Deep Learning on 3D Point Clouds
@@ -401,12 +417,13 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2020](https://arxiv.org/pdf/1912.03663.pdf)] SampleNet: Differentiable Point Cloud Sampling [[pytorch](https://github.com/itailang/SampleNet)]
 - [[Arxiv](https://arxiv.org/pdf/2002.11881.pdf)] Defense-PointNet: Protecting PointNet Against Adversarial Attacks
 - [[CVPR2020](https://arxiv.org/pdf/2002.10701.pdf)] FPConv: Learning Local Flattening for Point Convolution [[pytorch](https://github.com/lyqun/FPConv)]
+- [[SIGGRAPH2019](https://arxiv.org/pdf/1809.05910.pdf)] MeshCNN: A Network with an Edge [[pytorch](https://github.com/ranahanocka/MeshCNN)] :fire::star:
 - [[ICCV2019](https://arxiv.org/abs/1904.07615)] Total Denoising: Unsupervised Learning of 3D Point Cloud Cleaning [[tensorflow](https://github.com/phermosilla/TotalDenoising)]
 - [[ICCV2019](https://arxiv.org/pdf/1907.10844.pdf)] PU-GAN: a Point Cloud Upsampling Adversarial Network:fire:
 - [[CVPR2019](https://arxiv.org/pdf/1904.07601.pdf)] Relation-Shape Convolutional Neural Network for Point Cloud Analysis [[pytorch](https://github.com/Yochengliu/Relation-Shape-CNN)] :fire:
 - [[CVPR2019](https://arxiv.org/pdf/1811.11286.pdf)] Patch-based Progressive 3D Point Set Upsampling
  [[tensorflow](https://github.com/yifita/3PU)] [[pytorch](https://github.com/yifita/3PU_pytorch)] :fire:
-- [[TOG2019](https://arxiv.org/pdf/1801.07829.pdf)] Dynamic Graph CNN for Learning on Point Clouds [[Project](https://liuziwei7.github.io/projects/DGCNN)] :fire::hot:
+- [[TOG2019](https://arxiv.org/pdf/1801.07829.pdf)] Dynamic Graph CNN for Learning on Point Clouds [[Project](https://liuziwei7.github.io/projects/DGCNN)] :fire: :star:
 - [[ECCV2018](https://arxiv.org/pdf/1807.06010.pdf)] EC-Net: an Edge-aware Point set Consolidation Network [[project page](https://yulequan.github.io/ec-net/)]
 - [[CVPR2018](https://arxiv.org/pdf/1801.06761.pdf)] PU-Net: Point Cloud Upsampling Network :star::fire:
 - [[Arxiv](https://arxiv.org/pdf/2002.10876.pdf)] PointAugment: an Auto-Augmentation Framework for Point Cloud Classification
@@ -416,6 +433,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[ACCV2020](https://arxiv.org/abs/2010.01912)] Best Buddies Registration for Point Clouds
+- [[3DV](https://arxiv.org/pdf/2010.07091.pdf)] A New Distributional Ranking Loss With Uncertainty: Illustrated in Relative Depth Estimation
 - [[BMVC2020](https://arxiv.org/pdf/2009.04065.pdf)] View-consistent 4D Light Field Depth Estimation
 - [[BMVC2020](https://arxiv.org/pdf/2008.09965.pdf)] Neighbourhood-Insensitive Point Cloud Normal Estimation Network [[Project](http://ninormal.active.vision/)]
 - [[ECCV2020](https://arxiv.org/pdf/2008.09088.pdf)] DeepGMR: Learning Latent Gaussian Mixture Models for Registration [[Project](https://wentaoyuan.github.io/deepgmr/)]
@@ -478,8 +497,9 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Tutorial](https://arxiv.org/abs/2010.06647)] Video Action Understanding: A Tutorial
+- [[Arxiv](https://arxiv.org/abs/2010.02392)] Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Reconstruction [[Page](https://github.com/AutodeskAILab/Fusion360GalleryDataset)]
 - [[Survey](https://arxiv.org/abs/2009.09796)] Multi-Task Learning with Deep Neural Networks: A Survey
-
 - [[Survey](https://arxiv.org/pdf/2009.08920.pdf)] Deep Learning for 3D Point Cloud Understanding: A Survey
 - [[Thesis](https://arxiv.org/pdf/2009.01786.pdf)] COMPUTATIONAL ANALYSIS OF DEFORMABLE MANIFOLDS: FROM GEOMETRIC MODELING TO DEEP LEARNING
 - [[Arxiv](https://arxiv.org/abs/2008.00103)] F*: An Interpretable Transformation of the F-measure
