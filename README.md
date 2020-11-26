@@ -345,7 +345,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 - [[ECCV2020](https://arxiv.org/pdf/2007.13034.pdf)] Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve
 - [[ECCV2020](https://arxiv.org/pdf/2007.11431.pdf)] Learnable Cost Volume Using the Cayley Representation
 - [[ECCV2020](https://arxiv.org/pdf/2007.06853.pdf)] Topology-Change-Aware Volumetric Fusion for Dynamic Scene Reconstruction
-- [[Arxiv](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
+- [[ECCV2020](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_MARMVS_Matching_Ambiguity_Reduced_Multiple_View_Stereo_for_Efficient_Large_CVPR_2020_paper.pdf)] MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient Large Scale Scene Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2004.12989.pdf)] CoReNet: Coherent 3D scene reconstruction from a single RGB image
 - [[CVPR2020](https://arxiv.org/pdf/2004.01170.pdf)] DOPS: Learning to Detect 3D Objects and Predict their 3D Shapes
@@ -370,6 +370,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2011.05813.pdf)] Dynamic Plane Convolutional Occupancy Networks
 - [[Arxiv](https://arxiv.org/pdf/2010.01089.pdf)] Pre-Training by Completing Point Clouds [[pytorch](https://github.com/hansen7/OcCo)]
 - [[NeurIPS2020](https://arxiv.org/pdf/2010.03318.pdf)] Rotation-Invariant Local-to-Global Representation
 Learning for 3D Point Cloud
@@ -394,7 +395,7 @@ Learning for 3D Point Cloud
 - [[Arxiv](https://arxiv.org/pdf/2007.04525.pdf)] PointMask: Towards Interpretable and Bias-Resilient Point Cloud Processing
 - [[Arxiv](https://arxiv.org/pdf/2006.04325.pdf)] Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels
 - [[Arxiv](https://arxiv.org/pdf/2007.01294.pdf)] A Closer Look at Local Aggregation Operators in Point Cloud Analysis [[github](https://github.com/zeliu98/CloserLook3D)]
-- [[Arxiv](https://arxiv.org/pdf/2006.09661.pdf)] Implicit Neural Representations with Periodic Activation Functions [[pytorch](https://github.com/vsitzmann/siren)] :fire:
+- [[NeurIPS2020](https://arxiv.org/pdf/2006.09661.pdf)] Implicit Neural Representations with Periodic Activation Functions [[pytorch](https://github.com/vsitzmann/siren)] :fire:
 - [[Arxiv](https://arxiv.org/pdf/2006.07029.pdf)] Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks
 - [[Arxiv](https://arxiv.org/pdf/2006.07226.pdf)] Local-Area-Learning Network: Meaningful Local Areas for Efficient Point Cloud Analysis
 - [[Arxiv](https://arxiv.org/pdf/2006.10187.pdf)] TearingNet: Point Cloud Autoencoder to Learn Topology-Friendly Representations
@@ -497,6 +498,7 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Dataset](https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html)] Announcing the Objectron Dataset
 - [[Tutorial](https://arxiv.org/abs/2010.06647)] Video Action Understanding: A Tutorial
 - [[Arxiv](https://arxiv.org/abs/2010.02392)] Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Reconstruction [[Page](https://github.com/AutodeskAILab/Fusion360GalleryDataset)]
 - [[Survey](https://arxiv.org/abs/2009.09796)] Multi-Task Learning with Deep Neural Networks: A Survey
