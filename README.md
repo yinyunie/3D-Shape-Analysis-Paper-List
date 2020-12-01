@@ -20,6 +20,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/pdf/2010.16279.pdf)] 3D Object Recognition By Corresponding and Quantizing Neural 3D Scene Representations [[Project](https://mihirp1998.github.io/project_pages/3dq/)]
 - [[Arxiv](https://arxiv.org/pdf/2009.05307.pdf)] A Density-Aware PointRCNN for 3D Objection Detection in Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2009.00764)] Monocular 3D Detection with Geometric Constraints Embedding and Semi-supervised Training
 - [[ECCV2020](https://arxiv.org/pdf/2008.13748.pdf)] Reinforced Axial Refinement Network for Monocular 3D Object Detection
@@ -165,6 +166,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[3DV2020](https://arxiv.org/pdf/2010.13662.pdf)] SCFusion: Real-time Incremental Scene Reconstruction
+with Semantic Completion
 - [[Arxiv](https://arxiv.org/pdf/2010.04278.pdf)] Refinement of Predicted Missing Parts Enhance Point Cloud
 Completion [[pytorch](https://github.com/ivansipiran/Refinement-Point-Cloud-Completion)]
 - [[Arxiv](https://arxiv.org/pdf/2009.05290.pdf)] Unsupervised Partial Point Set Registration via
@@ -218,6 +221,10 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2010.08276.pdf)] Training Data Generating Networks: Linking 3D Shapes and Few-Shot Classification
+- [[Arxiv](https://arxiv.org/pdf/2010.08682.pdf)] MESHMVS: MULTI-VIEW STEREO GUIDED MESH RECONSTRUCTION
+- [[Arxiv](https://arxiv.org/pdf/2010.11378.pdf)] Learning Occupancy Function from Point Clouds for Surface Reconstruction
+- [[NeurIPS2020](https://arxiv.org/pdf/2010.10505.pdf)] SDF-SRN: Learning Signed Distance 3D Object Reconstruction from Static Images [[Project](https://chenhsuanlin.bitbucket.io/signed-distance-SRN/)]
 - [[Arxiv](https://arxiv.org/abs/2010.04595)] GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering [[github](https://github.com/alextrevithick/GRF)]
 - [[3DV2020](https://arxiv.org/pdf/2010.05391.pdf)] A Progressive Conditional Generative Adversarial Network
 for Generating Dense and Colored 3D Point Clouds
@@ -298,6 +305,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[NeurIPS2020W](https://arxiv.org/abs/2010.14543)] Unsupervised Domain Adaptation for Visual Navigation
 - [[Arxiv](https://arxiv.org/pdf/2009.05429.pdf)] Embodied Visual Navigation with Automatic Curriculum Learningin Real Environments
 - [[Arxiv](https://arxiv.org/abs/2009.02857)] 3D Room Layout Estimation Beyond the Manhattan World Assumption
 - [[Arxiv](https://arxiv.org/pdf/2008.10631.pdf)] OpenBot: Turning Smartphones into Robots [[Project](https://www.openbot.org/)]
@@ -339,6 +347,9 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2011.05813.pdf)] Dynamic Plane Convolutional Occupancy Networks
+- [[NeurIPS2020](https://arxiv.org/pdf/2010.13938.pdf)] Neural Unsigned Distance Fields for Implicit
+Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 - [[Arxiv](https://arxiv.org/pdf/2010.01549.pdf)] Holistic static and animated 3D scene generation from diverse text descriptions [[pytorch](https://github.com/oaishi/3DScene_from_text)]
 - [[Arxiv](https://arxiv.org/pdf/2010.04030.pdf)] Semi-Supervised Learning of Multi-Object 3D Scene Representations
 - [[ECCV2020](https://arxiv.org/pdf/2007.11965.pdf)] CAD-Deform: Deformable Fitting of CAD Models to 3D Scans
@@ -370,10 +381,11 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## General Methods
-- [[Arxiv](https://arxiv.org/pdf/2011.05813.pdf)] Dynamic Plane Convolutional Occupancy Networks
+- [[Arxiv](https://arxiv.org/pdf/2010.07215.pdf)] PointManifold: Using Manifold Learning for Point Cloud Classification
+- [[Arxiv](https://arxiv.org/pdf/2010.15831.pdf)] RelationNet++: Bridging Visual Representations for
+Object Detection via Transformer Decoder
 - [[Arxiv](https://arxiv.org/pdf/2010.01089.pdf)] Pre-Training by Completing Point Clouds [[pytorch](https://github.com/hansen7/OcCo)]
-- [[NeurIPS2020](https://arxiv.org/pdf/2010.03318.pdf)] Rotation-Invariant Local-to-Global Representation
-Learning for 3D Point Cloud
+- [[NeurIPS2020](https://arxiv.org/pdf/2010.03318.pdf)] Rotation-Invariant Local-to-Global Representation Learning for 3D Point Cloud
 - [[Arxiv](https://arxiv.org/abs/2010.05272)] IF-Defense: 3D Adversarial Point Cloud Defense via Implicit Function based Restoration [[pytorch](https://github.com/Wuziyi616/IF-Defense)]
 - [[Arxiv](https://arxiv.org/abs/2009.02918)] DV-ConvNet: Fully Convolutional Deep Learning on Point Clouds with Dynamic Voxelization and 3D Group Convolution
 - [[Arxiv](https://arxiv.org/pdf/2009.01427.pdf)] Spatial Transformer Point Convolution
@@ -434,6 +446,7 @@ Learning for 3D Point Cloud
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[EG2020W](https://arxiv.org/pdf/2010.09355.pdf)] SHREC 2020 track: 6D object pose estimation
 - [[ACCV2020](https://arxiv.org/abs/2010.01912)] Best Buddies Registration for Point Clouds
 - [[3DV](https://arxiv.org/pdf/2010.07091.pdf)] A New Distributional Ranking Loss With Uncertainty: Illustrated in Relative Depth Estimation
 - [[BMVC2020](https://arxiv.org/pdf/2009.04065.pdf)] View-consistent 4D Light Field Depth Estimation
@@ -468,8 +481,7 @@ Learning for 3D Point Cloud
 - [[Arxiv](https://arxiv.org/pdf/2003.07619.pdf)] Unsupervised Learning of Category-Specific Symmetric 3D Keypoints from Point Sets
 - [[CVPR2020](https://arxiv.org/pdf/2003.05855.pdf)] End-to-End Learning Local Multi-view Descriptors for 3D Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2003.04626.pdf)] PnP-Net: A hybrid Perspective-n-Point Network
-- [[CVPR2020](https://arxiv.org/pdf/2003.03522.pdf)] MobilePose: Real-Time Pose Estimation for
-Unseen Objects with Weak Shape Supervision
+- [[CVPR2020](https://arxiv.org/pdf/2003.03522.pdf)] MobilePose: Real-Time Pose Estimation for Unseen Objects with Weak Shape Supervision
 - [[CVPR2020](https://arxiv.org/pdf/2003.01060.pdf)] D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry
 - [[ICIP2020](https://arxiv.org/pdf/2003.00856.pdf)] TRIANGLE-NET: TOWARDS ROBUSTNESS IN POINT CLOUD CLASSIFICATION
 - [[ICRA2020](https://arxiv.org/pdf/2003.00188.pdf)] Robust 6D Object Pose Estimation by Learning RGB-D Features
@@ -498,6 +510,10 @@ Unseen Objects with Weak Shape Supervision
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Dataset](https://arxiv.org/pdf/2010.04642.pdf)] Torch-Points3D: A Modular Multi-Task Framework for Reproducible Deep Learning on 3D Point Clouds [[Project](https://github.com/nicolas-chaulet/torch-points3d)]
+- [[Thesis](https://arxiv.org/pdf/2010.09582.pdf)] Learning to Reconstruct and Segment 3D Objects
+- [[Survey](https://arxiv.org/abs/2010.15614)] An Overview Of 3D Object Detection
+- [[Survey](https://arxiv.org/abs/2010.03978)] A Brief Review of Domain Adaptation
 - [[Dataset](https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html)] Announcing the Objectron Dataset
 - [[Tutorial](https://arxiv.org/abs/2010.06647)] Video Action Understanding: A Tutorial
 - [[Arxiv](https://arxiv.org/abs/2010.02392)] Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Reconstruction [[Page](https://github.com/AutodeskAILab/Fusion360GalleryDataset)]
