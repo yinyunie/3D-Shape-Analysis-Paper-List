@@ -20,6 +20,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/f2fc990265c712c49d51a18a32b39f0c-Paper.pdf)] Every View Counts: Cross-View Consistency in 3D Object Detection with Hybrid-Cylindrical-Spherical Voxelization
+- [[NeurIPS2020](https://papers.nips.cc/paper/2020/file/9b72e31dac81715466cd580a448cf823-Paper.pdf)] Group Contextual Encoding for 3D Point Clouds [[pytorch](https://github.com/AsahiLiu/PointDetectron)]
 - [[Arxiv](https://arxiv.org/pdf/2010.16279.pdf)] 3D Object Recognition By Corresponding and Quantizing Neural 3D Scene Representations [[Project](https://mihirp1998.github.io/project_pages/3dq/)]
 - [[Arxiv](https://arxiv.org/pdf/2009.05307.pdf)] A Density-Aware PointRCNN for 3D Objection Detection in Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2009.00764)] Monocular 3D Detection with Geometric Constraints Embedding and Semi-supervised Training
@@ -106,6 +108,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/731c83db8d2ff01bdc000083fd3c3740-Paper.pdf)] MetaSDF: Meta-learning Signed Distance Functions [[Project](https://vsitzmann.github.io/metasdf/)]
 - [[Arxiv](https://arxiv.org/abs/2010.00973)] RISA-Net: Rotation-Invariant Structure-Aware Network for Fine-Grained 3D Shape Retrieval [[tensorflow](https://github.com/IGLICT/RisaNET)]
 - [[Arxiv](https://arxiv.org/abs/2009.09808)] Overfit Neural Networks as a Compact Shape Representation
 - [[Arxiv](https://arxiv.org/abs/2008.05440)] DSM-Net: Disentangled Structured Mesh Net for Controllable Generation of Fine Geometry [[Project](http://geometrylearning.com/dsm-net/)]
@@ -166,6 +169,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[Arxiv](https://arxiv.org/pdf/2012.03408.pdf)] PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths
 - [[3DV2020](https://arxiv.org/pdf/2010.13662.pdf)] SCFusion: Real-time Incremental Scene Reconstruction
 with Semantic Completion
 - [[Arxiv](https://arxiv.org/pdf/2010.04278.pdf)] Refinement of Predicted Missing Parts Enhance Point Cloud
@@ -221,6 +225,17 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[NeurIPS2020](https://arxiv.org/abs/2007.15627)] Continuous Object Representation Networks: Novel View Synthesis without Target View Supervision [[Project](https://nicolaihaeni.github.io/corn/)]
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/83fa5a432ae55c253d0e60dbfa716723-Paper.pdf)] SDF-SRN: Learning Signed Distance 3D Object Reconstruction from Static Images [[Project](https://chenhsuanlin.bitbucket.io/signed-distance-SRN/)]
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/1a77befc3b608d6ed363567685f70e1e-Paper.pdf)] Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance [[Project](https://lioryariv.github.io/idr/)]
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/098d86c982354a96556bd861823ebfbd-Paper.pdf)] Convolutional Generation of Textured 3D Meshes [[Project](https://github.com/dariopavllo/convmesh)]
+- [[Arxiv](https://arxiv.org/pdf/2012.04641.pdf)] Vid2CAD: CAD Model Alignment using Multi-View Constraints from Videos
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/21327ba33b3689e713cdff1641128004-Paper.pdf)] UCLID-Net: Single View Reconstruction in Objec Space [[Project](https://github.com/cvlab-epfl/UCLID-Net)]
+- [[NeurIPS2020](https://arxiv.org/abs/2008.02792)] CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations
+ [[Project](https://geometry.stanford.edu/projects/caspr/)]
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/45fbc6d3e05ebd93369ce542e8f2322d-Paper.pdf)] Generative 3D Part Assembly via Dynamic Graph Learning [[pytorch](https://github.com/hyperplane-lab/Generative-3D-Part-Assembly)]
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/7137debd45ae4d0ab9aa953017286b20-Paper.pdf)] Learning Deformable Tetrahedral Meshes for 3D Reconstruction [[Project](https://nv-tlabs.github.io/DefTet/)]
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/bdbca288fee7f92f2bfa9f7012727740-Paper.pdf)] SoftFlow: Probabilistic Framework for Normalizing Flow on Manifolds [[pytorch](https://github.com/ANLGBOY/SoftFlow)]
 - [[Arxiv](https://arxiv.org/pdf/2010.08276.pdf)] Training Data Generating Networks: Linking 3D Shapes and Few-Shot Classification
 - [[Arxiv](https://arxiv.org/pdf/2010.08682.pdf)] MESHMVS: MULTI-VIEW STEREO GUIDED MESH RECONSTRUCTION
 - [[Arxiv](https://arxiv.org/pdf/2010.11378.pdf)] Learning Occupancy Function from Point Clouds for Surface Reconstruction
@@ -251,12 +266,12 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 - [[ECCV2020](https://arxiv.org/pdf/2007.10982.pdf)] Shape and Viewpoint without Keypoints
 - [[Arxiv](https://arxiv.org/pdf/2007.10300.pdf)] Object-Centric Multi-View Aggregation
 - [[ECCV2020](https://arxiv.org/pdf/2007.10453.pdf)] Points2Surf Learning Implicit Surfaces from Point Clouds
-- [[Arxiv](https://arxiv.org/pdf/2007.10973.pdf)] Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows
+- [[NeurIPS2020](https://arxiv.org/pdf/2007.10973.pdf)] Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows [[Project](https://kunalmgupta.github.io/projects/NeuralMeshflow.html)]
 - [[Arxiv](https://arxiv.org/pdf/2006.12250.pdf)] Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images
 - [[Arxiv](https://arxiv.org/pdf/2006.13240.pdf)] Neural Non-Rigid Tracking
-- [[Arxiv](https://arxiv.org/pdf/2006.03997.pdf)] MeshSDF: Differentiable Iso-Surface Extraction
+- [[NeurIPS2020](https://arxiv.org/pdf/2006.03997.pdf)] MeshSDF: Differentiable Iso-Surface Extraction
 - [[Arxiv](https://arxiv.org/pdf/2006.07752.pdf)] 3D Reconstruction of Novel Object Shapes from Single Images
-- [[Arxiv](https://arxiv.org/pdf/2006.07982.pdf)] ShapeFlow: Learnable Deformations Among 3D Shapes
+- [[NeurIPS2020](https://arxiv.org/pdf/2006.07982.pdf)] ShapeFlow: Learnable Deformations Among 3D Shapes [[pytorch](https://github.com/maxjiang93/ShapeFlow)]
 - [[Arxiv](https://arxiv.org/pdf/2006.09694.pdf)] 3D Shape Reconstruction from Free-Hand Sketches
 - [[Arxiv](https://arxiv.org/pdf/2003.08934.pdf)] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 - [[Arxiv](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
@@ -305,6 +320,8 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)] Rel3D: A Minimally Contrastive Benchmark for Grounding Spatial Relations in 3D [[pytorch](https://github.com/princeton-vl/Rel3D)]
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf)] Learning Affordance Landscapes for Interaction Exploration in 3D Environments [[Project](http://vision.cs.utexas.edu/projects/interaction-exploration/)]
 - [[NeurIPS2020W](https://arxiv.org/abs/2010.14543)] Unsupervised Domain Adaptation for Visual Navigation
 - [[Arxiv](https://arxiv.org/pdf/2009.05429.pdf)] Embodied Visual Navigation with Automatic Curriculum Learningin Real Environments
 - [[Arxiv](https://arxiv.org/abs/2009.02857)] 3D Room Layout Estimation Beyond the Manhattan World Assumption
@@ -347,6 +364,8 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Reconstruction
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/b4b758962f17808746e9bb832a6fa4b8-Paper.pdf)] Neural Sparse Voxel Fields [[Project](https://lingjie0206.github.io/papers/NSVF/)]
+- [[Arxiv](https://arxiv.org/pdf/2012.02094.pdf?fbclid=IwAR03XwEdhXUl2lsLr20dOnFEsnthPBbdVi9VHDni6CYnhH9glzGaooU-DHM)] Towards Part-Based Understanding of RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/2011.05813.pdf)] Dynamic Plane Convolutional Occupancy Networks
 - [[NeurIPS2020](https://arxiv.org/pdf/2010.13938.pdf)] Neural Unsigned Distance Fields for Implicit
 Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
@@ -381,6 +400,13 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## General Methods
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/0a656cc19f3f5b41530182a9e03982a4-Paper.pdf)] Primal-Dual Mesh Convolutional Neural Networks [[pytorch](https://github.com/MIT-SPARK/PD-MeshNet)]
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/a3f390d88e4c41f2747bfa2f1b5f87db-Paper.pdf)] Rational neural networks [[tensorflow](https://github.com/NBoulle/RationalNets)]
+- [[NeurIPS2020](https://arxiv.org/abs/2008.02676)] Exchangeable Neural ODE for Set Modeling [[Project](https://github.com/lupalab/ExNODE)]
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/15231a7ce4ba789d13b722cc5c955834-Paper.pdf)] SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks [[Project](https://fabianfuchsml.github.io/se3transformer/)]
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/e3b21256183cf7c2c7a66be163579d37-Paper.pdf)] NVAE: A Deep Hierarchical Variational Autoencoder [[pytorch](https://github.com/NVlabs/NVAE)]
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/8b5c8441a8ff8e151b191c53c1842a38-Paper.pdf)] Implicit Graph Neural Networks [[pytorch](https://github.com/SwiftieH/IGNN)]
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/ac10ff1941c540cd87c107330996f4f6-Paper.pdf)] The Autoencoding Variational Autoencoder [[pytorch](https://github.com/snap-stanford/graphgym)]
 - [[Arxiv](https://arxiv.org/pdf/2010.07215.pdf)] PointManifold: Using Manifold Learning for Point Cloud Classification
 - [[Arxiv](https://arxiv.org/pdf/2010.15831.pdf)] RelationNet++: Bridging Visual Representations for
 Object Detection via Transformer Decoder
@@ -446,6 +472,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/fec3392b0dc073244d38eba1feb8e6b7-Paper.pdf)] An Analysis of SVD for Deep Rotation Estimation 
 - [[EG2020W](https://arxiv.org/pdf/2010.09355.pdf)] SHREC 2020 track: 6D object pose estimation
 - [[ACCV2020](https://arxiv.org/abs/2010.01912)] Best Buddies Registration for Point Clouds
 - [[3DV](https://arxiv.org/pdf/2010.07091.pdf)] A New Distributional Ranking Loss With Uncertainty: Illustrated in Relative Depth Estimation
@@ -510,6 +537,7 @@ Object Detection via Transformer Decoder
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Survey](https://hal.inria.fr/hal-01348404v2/document)] A Survey of Surface Reconstruction from Point Clouds
 - [[Dataset](https://arxiv.org/pdf/2010.04642.pdf)] Torch-Points3D: A Modular Multi-Task Framework for Reproducible Deep Learning on 3D Point Clouds [[Project](https://github.com/nicolas-chaulet/torch-points3d)]
 - [[Thesis](https://arxiv.org/pdf/2010.09582.pdf)] Learning to Reconstruct and Segment 3D Objects
 - [[Survey](https://arxiv.org/abs/2010.15614)] An Overview Of 3D Object Detection
