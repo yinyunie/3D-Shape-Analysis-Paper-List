@@ -8,6 +8,7 @@ A list of papers, libraries and datasets I recently read is collected for anyone
 - [Shape Reconstruction](#shape-reconstruction)
 - [3D Scene Understanding](#3d-scene-understanding)
 - [3D Scene Reconstruction](#3d-scene-reconstruction)
+- [Human Body Reconstruction](#human-body-reconstruction)
 - [General Methods](#general-methods)
 - [Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)](#others-inc-networks-in-classification-matching-registration-alignment-depth-normal-pose-keypoints-etc)
 - [Survey, Resources and Tools](#survey-resources-and-tools)
@@ -225,6 +226,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2012.12247)] Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video
 - [[NeurIPS2020](https://arxiv.org/abs/2007.15627)] Continuous Object Representation Networks: Novel View Synthesis without Target View Supervision [[Project](https://nicolaihaeni.github.io/corn/)]
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/83fa5a432ae55c253d0e60dbfa716723-Paper.pdf)] SDF-SRN: Learning Signed Distance 3D Object Reconstruction from Static Images [[Project](https://chenhsuanlin.bitbucket.io/signed-distance-SRN/)]
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/1a77befc3b608d6ed363567685f70e1e-Paper.pdf)] Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance [[Project](https://lioryariv.github.io/idr/)]
@@ -320,6 +322,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://posa.is.tue.mpg.de/)] Populating 3D Scenes by Learning Human-Scene Interaction [[Project](https://posa.is.tue.mpg.de/)]
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)] Rel3D: A Minimally Contrastive Benchmark for Grounding Spatial Relations in 3D [[pytorch](https://github.com/princeton-vl/Rel3D)]
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf)] Learning Affordance Landscapes for Interaction Exploration in 3D Environments [[Project](http://vision.cs.utexas.edu/projects/interaction-exploration/)]
 - [[NeurIPS2020W](https://arxiv.org/abs/2010.14543)] Unsupervised Domain Adaptation for Visual Navigation
@@ -364,6 +367,10 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2012.11575.pdf)] From Points to Multi-Object 3D Reconstruction
+- [[Arxiv](https://worldsheet.github.io/resources/worldsheet.pdf)] Worldsheet: Wrapping the World in a 3D Sheet
+for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)]
+- [[Arxiv](https://arxiv.org/pdf/2012.09793.pdf)] SceneFormer: Indoor Scene Generation with Transformers
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/b4b758962f17808746e9bb832a6fa4b8-Paper.pdf)] Neural Sparse Voxel Fields [[Project](https://lingjie0206.github.io/papers/NSVF/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.02094.pdf?fbclid=IwAR03XwEdhXUl2lsLr20dOnFEsnthPBbdVi9VHDni6CYnhH9glzGaooU-DHM)] Towards Part-Based Understanding of RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/2011.05813.pdf)] Dynamic Plane Convolutional Occupancy Networks
@@ -377,7 +384,7 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 - [[ECCV2020](https://arxiv.org/pdf/2007.06853.pdf)] Topology-Change-Aware Volumetric Fusion for Dynamic Scene Reconstruction
 - [[ECCV2020](https://arxiv.org/pdf/2003.04618.pdf)] Convolutional Occupancy Networks
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_MARMVS_Matching_Ambiguity_Reduced_Multiple_View_Stereo_for_Efficient_Large_CVPR_2020_paper.pdf)] MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient Large Scale Scene Reconstruction
-- [[Arxiv](https://arxiv.org/pdf/2004.12989.pdf)] CoReNet: Coherent 3D scene reconstruction from a single RGB image
+- [[ECCV2020](https://arxiv.org/pdf/2004.12989.pdf)] CoReNet: Coherent 3D scene reconstruction from a single RGB image
 - [[CVPR2020](https://arxiv.org/pdf/2004.01170.pdf)] DOPS: Learning to Detect 3D Objects and Predict their 3D Shapes
 - [[ECCV2020](https://arxiv.org/pdf/2003.12622.pdf)] SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/2003.11076.pdf)] Removing Dynamic Objects for Static Scene Reconstruction using Light Fields
@@ -397,6 +404,13 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 - [[CVPR2018](https://arxiv.org/pdf/1712.01812.pdf)] Factoring Shape, Pose, and Layout from the 2D Image of a 3D Scene [[pytorch](https://github.com/shubhtuls/factored3d)]
 - [[IROS2017](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/MSrivathsan2017IROS.pdf)] Indoor Scan2BIM: Building Information Models of House Interiors
 - [[CVPR2017](https://arxiv.org/pdf/1603.08182.pdf)] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions [[github](https://github.com/andyzeng/3dmatch-toolbox)]
+
+---
+## Human Body Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2012.12884)] Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild
+- [[Arxiv](https://arxiv.org/pdf/2012.12890.pdf)] ANR: Articulated Neural Rendering for Virtual Avatars
+
+
 
 ---
 ## General Methods
@@ -537,6 +551,8 @@ Object Detection via Transformer Decoder
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
 ## Survey, Resources and Tools
+- [[Survey](https://arxiv.org/abs/2012.12556)] A Survey on Visual Transformer
+- [[Survey](https://arxiv.org/abs/2011.00362)] A Survey on Contrastive Self-supervised Learning
 - [[Survey](https://hal.inria.fr/hal-01348404v2/document)] A Survey of Surface Reconstruction from Point Clouds
 - [[Dataset](https://arxiv.org/pdf/2010.04642.pdf)] Torch-Points3D: A Modular Multi-Task Framework for Reproducible Deep Learning on 3D Point Clouds [[Project](https://github.com/nicolas-chaulet/torch-points3d)]
 - [[Thesis](https://arxiv.org/pdf/2010.09582.pdf)] Learning to Reconstruct and Segment 3D Objects
