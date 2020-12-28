@@ -8,7 +8,7 @@ A list of papers, libraries and datasets I recently read is collected for anyone
 - [Shape Reconstruction](#shape-reconstruction)
 - [3D Scene Understanding](#3d-scene-understanding)
 - [3D Scene Reconstruction](#3d-scene-reconstruction)
-- [Human Body Reconstruction](#human-body-reconstruction)
+- [About Human Body](#about-human-body)
 - [General Methods](#general-methods)
 - [Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)](#others-inc-networks-in-classification-matching-registration-alignment-depth-normal-pose-keypoints-etc)
 - [Survey, Resources and Tools](#survey-resources-and-tools)
@@ -21,6 +21,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[WACV2021](https://arxiv.org/pdf/2011.04841.pdf)] CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection [[pytorch](https://github.com/mrnabati/CenterFusion)]
+- [[Arxiv](https://arxiv.org/pdf/2011.10033.pdf)] Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation [[pytorch](https://github.com/xinge008/Cylinder3D)]
+- [[Arxiv](https://arxiv.org/pdf/2011.09977.pdf)] Learning to Predict the 3D Layout of a Scene
+- [[Arxiv](https://arxiv.org/pdf/2011.12001.pdf)] Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes [[Project](https://github.com/qq456cvb/CanonicalVoting)]
+- [[Arxiv](https://arxiv.org/pdf/2011.13328.pdf)] DyCo3D: Robust Instance Segmentation of 3D Point Clouds through Dynamic Convolution
+- [[Arxiv](https://arxiv.org/abs/2011.13628)] Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection in Autonomous Driving
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/f2fc990265c712c49d51a18a32b39f0c-Paper.pdf)] Every View Counts: Cross-View Consistency in 3D Object Detection with Hybrid-Cylindrical-Spherical Voxelization
 - [[NeurIPS2020](https://papers.nips.cc/paper/2020/file/9b72e31dac81715466cd580a448cf823-Paper.pdf)] Group Contextual Encoding for 3D Point Clouds [[pytorch](https://github.com/AsahiLiu/PointDetectron)]
 - [[Arxiv](https://arxiv.org/pdf/2010.16279.pdf)] 3D Object Recognition By Corresponding and Quantizing Neural 3D Scene Representations [[Project](https://mihirp1998.github.io/project_pages/3dq/)]
@@ -107,8 +113,14 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV2018](https://arxiv.org/pdf/1803.10409.pdf)] 3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation [[pytorch](https://github.com/angeladai/3DMV)] :fire:
 
 
+
+
+
+
+
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/pdf/2011.14565.pdf)] Deep Implicit Templates for 3D Shape Representation
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/731c83db8d2ff01bdc000083fd3c3740-Paper.pdf)] MetaSDF: Meta-learning Signed Distance Functions [[Project](https://vsitzmann.github.io/metasdf/)]
 - [[Arxiv](https://arxiv.org/abs/2010.00973)] RISA-Net: Rotation-Invariant Structure-Aware Network for Fine-Grained 3D Shape Retrieval [[tensorflow](https://github.com/IGLICT/RisaNET)]
 - [[Arxiv](https://arxiv.org/abs/2009.09808)] Overfit Neural Networks as a Compact Shape Representation
@@ -168,8 +180,17 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 - [[SGP2012](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.261.3158&rep=rep1&type=pdf)] Mean Curvature Skeletons [[C++](https://github.com/ataiya/starlab-mcfskel)] :fire:
 - [[SMIC2010](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5521461)] Point Cloud Skeletons via Laplacian-Based Contraction [[Matlab](https://github.com/ataiya/cloudcontr)] :fire:
 
+
+
+
+
+
+
+
 ---
 ## Shape & Scene Completion
+- [[Arxiv](https://arxiv.org/pdf/2011.09141.pdf)] Semantic Scene Completion using Local Deep Implicit Functions on LiDAR Data
+- [[Arxiv](https://arxiv.org/pdf/2011.03981.pdf)] Learning-based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments
 - [[Arxiv](https://arxiv.org/pdf/2012.03408.pdf)] PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths
 - [[3DV2020](https://arxiv.org/pdf/2010.13662.pdf)] SCFusion: Real-time Incremental Scene Reconstruction
 with Semantic Completion
@@ -224,8 +245,23 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 - [[CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Song_Semantic_Scene_Completion_CVPR_2017_paper.pdf)] Semantic Scene Completion from a Single Depth Image [[caffe](https://github.com/shurans/sscnet)] :fire::star:
 - [[CVPR2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Firman_Structured_Prediction_of_CVPR_2016_paper.pdf)] Structured Prediction of Unobserved Voxels From a Single Depth Image [[resource](http://visual.cs.ucl.ac.uk/pubs/depthPrediction/)] :star:
 
+
+
+
+
+
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2011.00844.pdf)] DO 2D GANS KNOW 3D SHAPE? UNSUPERVISED 3D SHAPE RECONSTRUCTION FROM 2D IMAGE GANS [[Project](https://xingangpan.github.io/projects/GAN2Shape.html)]
+- [[Arxiv](https://arxiv.org/pdf/2011.02570.pdf)] DUDE: Deep Unsigned Distance Embeddings for Hi-Fidelity Representation of Complex 3D Surfaces
+- [[3DV2020](https://arxiv.org/pdf/2011.04755.pdf)] Learning to Infer Semantic Parameters for 3D Shape Editing [[Project](https://github.com/weify627/learn-sem-param)]
+- [[3DV2020](https://arxiv.org/pdf/2011.08026.pdf)] Cycle-Consistent Generative Rendering for 2D-3D Modality Translation [[Project](https://ttaa9.github.io/genren/)]
+- [[3DV2020](https://arxiv.org/pdf/2011.08534.pdf)] A Divide et Impera Approach for 3D Shape Reconstruction from Multiple Views
+- [[Arxiv](https://arxiv.org/pdf/2011.11567.pdf)] A Closed-Form Solution to Local Non-Rigid Structure-from-Motion
+- [[Arxiv](https://arxiv.org/pdf/2011.13650.pdf)] Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence
+- [[Arxiv](https://arxiv.org/pdf/2011.13961.pdf)] D-NeRF: Neural Radiance Fields for Dynamic Scenes
+- [[Arxiv](https://arxiv.org/pdf/2011.03277.pdf)] Modular Primitives for High-Performance Differentiable Rendering
+- [[Arxiv](https://arxiv.org/pdf/2011.14791.pdf)] NeuralFusion: Online Depth Fusion in Latent Space
 - [[Arxiv](https://arxiv.org/abs/2012.12247)] Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video
 - [[NeurIPS2020](https://arxiv.org/abs/2007.15627)] Continuous Object Representation Networks: Novel View Synthesis without Target View Supervision [[Project](https://nicolaihaeni.github.io/corn/)]
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/83fa5a432ae55c253d0e60dbfa716723-Paper.pdf)] SDF-SRN: Learning Signed Distance 3D Object Reconstruction from Static Images [[Project](https://chenhsuanlin.bitbucket.io/signed-distance-SRN/)]
@@ -320,9 +356,18 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 - [[AAAI2018](https://arxiv.org/pdf/1706.07036.pdf)] Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction [[tensorflow](https://github.com/chenhsuanlin/3D-point-cloud-generation)] :star::fire:
 - [[NeurIPS2017](https://papers.nips.cc/paper/6657-marrnet-3d-shape-reconstruction-via-25d-sketches.pdf)] MarrNet: 3D Shape Reconstruction via 2.5D Sketches [[torch](https://github.com/jiajunwu/marrnet)]:star::fire:
 
+
+
+
+
 ---
 ## 3D Scene Understanding
-- [[Arxiv](https://posa.is.tue.mpg.de/)] Populating 3D Scenes by Learning Human-Scene Interaction [[Project](https://posa.is.tue.mpg.de/)]
+- [[Arxiv](https://arxiv.org/pdf/2011.04122.pdf)] Localising In Complex Scenes Using Balanced Adversarial Adaptation
+- [[Arxiv](https://arxiv.org/pdf/2011.06961.pdf)] Efficient RGB-D Semantic Segmentation for Indoor Scene Analysis
+- [[NeurIPS2020](https://arxiv.org/pdf/2011.10007.pdf)] Multi-Plane Program Induction with 3D Box Priors [[Project](http://bpi.csail.mit.edu/)]
+- [[Arxiv](https://arxiv.org/pdf/2011.11498.pdf)] HoHoNet: 360 Indoor Holistic Understanding with Latent Horizontal Features
+- [[Arxiv](https://arxiv.org/pdf/2012.09165.pdf)] Exploring Data-Efficient 3D Scene Understanding with Contrastive Scene Contexts
+- [[Arxiv](https://arxiv.org/pdf/2011.13417.pdf)] Generative Layout Modeling using Constraint Graphs
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf)] Rel3D: A Minimally Contrastive Benchmark for Grounding Spatial Relations in 3D [[pytorch](https://github.com/princeton-vl/Rel3D)]
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf)] Learning Affordance Landscapes for Interaction Exploration in 3D Environments [[Project](http://vision.cs.utexas.edu/projects/interaction-exploration/)]
 - [[NeurIPS2020W](https://arxiv.org/abs/2010.14543)] Unsupervised Domain Adaptation for Visual Navigation
@@ -351,9 +396,6 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 - [[Journal](https://arxiv.org/pdf/2002.08988.pdf)] Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense
 - [[Arxiv](https://arxiv.org/pdf/2002.08988.pdf)] BlockGAN Learning 3D Object-aware Scene Representations from Unlabelled Images
 - [[Arxiv](https://arxiv.org/pdf/2002.06289.pdf)] 3D Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans
-- [[Arxiv](https://arxiv.org/pdf/1912.02923.pdf)] Generating 3D People in Scenes without People
-- [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Putting_Humans_in_a_Scene_Learning_Affordance_in_3D_Indoor_CVPR_2019_paper.pdf)] Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments
-- [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Holistic_Scene_Understanding_Single-View_3D_Holistic_Scene_Parsing_and_Human_ICCV_2019_paper.pdf)] Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Mustafa_U4D_Unsupervised_4D_Dynamic_Scene_Understanding_ICCV_2019_paper.pdf)] U4D: Unsupervised 4D Dynamic Scene Understanding
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xian_UprightNet_Geometry-Aware_Camera_Orientation_Estimation_From_Single_Images_ICCV_2019_paper.pdf)] UprightNet: Geometry-Aware Camera Orientation Estimation from Single Images
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.pdf)] Habitat: A Platform for Embodied AI Research [[habitat-api](https://github.com/facebookresearch/habitat-api)] [[habitat-sim](https://github.com/facebookresearch/habitat-sim)] :star:
@@ -365,8 +407,25 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 - [[ICCV2019](https://arxiv.org/pdf/1907.09905.pdf)] U4D: Unsupervised 4D Dynamic Scene Understanding
 - [[NeurIPS2018](https://papers.nips.cc/paper/7444-learning-to-exploit-stability-for-3d-scene-parsing.pdf)] Learning to Exploit Stability for 3D Scene Parsing
 
+
+
+
+
 ---
 ## 3D Scene Reconstruction
+- [[3DV2020](https://arxiv.org/pdf/2011.00320.pdf)] Scene Flow from Point Clouds with or without Learning
+- [[Arxiv](https://arxiv.org/abs/2011.07233)] Stable View Synthesis
+- [[Arxiv](https://arxiv.org/pdf/2011.10379.pdf)] Neural Scene Graphs for Dynamic Scenes
+- [[3DV2020](https://arxiv.org/pdf/2011.10359.pdf)] RidgeSfM: Structure from Motion via Robust Pairwise Matching Under Depth Uncertainty [[pytorch](https://github.com/facebookresearch/RidgeSfM)]
+- [[Arxiv](https://arxiv.org/pdf/2011.10147.pdf)] FlowStep3D: Model Unrolling for Self-Supervised Scene Flow Estimation
+- [[Arxiv](https://arxiv.org/pdf/2011.10812.pdf)] MoNet: Motion-based Point Cloud Prediction Network
+- [[Arxiv](https://arxiv.org/pdf/2011.11814.pdf)] MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from a Single Moving Camera
+- [[Arxiv](https://arxiv.org/pdf/2011.11986.pdf)] Efficient Initial Pose-graph Generation for Global SfM
+- [[Arxiv](https://arxiv.org/abs/2011.13084)] Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes [[Project](http://www.cs.cornell.edu/~zl548/NSFF/)]
+- [[Arxiv](https://arxiv.org/abs/2011.12948)] Deformable Neural Radiance Fields [[Project](https://nerfies.github.io/)]
+- [[Arxiv](https://arxiv.org/pdf/2011.12490.pdf)] DeRF: Decomposed Radiance Fields
+- [[Arxiv](https://arxiv.org/pdf/2011.14398.pdf)] RGBD-Net: Predicting color and depth images for novel views synthesis
+- [[Arxiv](https://arxiv.org/pdf/2012.04512.pdf)] SSCNav: Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation [[Project](https://sscnav.cs.columbia.edu/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.11575.pdf)] From Points to Multi-Object 3D Reconstruction
 - [[Arxiv](https://worldsheet.github.io/resources/worldsheet.pdf)] Worldsheet: Wrapping the World in a 3D Sheet
 for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)]
@@ -405,15 +464,38 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 - [[IROS2017](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/MSrivathsan2017IROS.pdf)] Indoor Scan2BIM: Building Information Models of House Interiors
 - [[CVPR2017](https://arxiv.org/pdf/1603.08182.pdf)] 3DMatch: Learning Local Geometric Descriptors from RGB-D Reconstructions [[github](https://github.com/andyzeng/3dmatch-toolbox)]
 
+
+
+
+
 ---
-## Human Body Reconstruction
+## About Human Body
+- [[NeurIPS2020](https://arxiv.org/pdf/2011.00980.pdf)] 3D Multi-bodies: Fitting Sets of Plausible 3D Human Models to Ambiguous Image Data [[Project](https://sites.google.com/view/3dmb/home)]
+- [[Arxiv](https://arxiv.org/pdf/2012.01591.pdf)] Holistic 3D Human and Scene Mesh Estimation from Single View Images
+- [[Arxiv](https://arxiv.org/pdf/2011.08627.pdf)] Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video
+- [[Arxiv](https://arxiv.org/pdf/2011.11534.pdf)] Pose2Pose: 3D Positional Pose-Guided 3D Rotational Pose Prediction
+for Expressive 3D Human Pose and Mesh Estimation
+- [[Arxiv](https://arxiv.org/pdf/2011.11232.pdf)] NeuralAnnot: Neural Annotator for in-the-wild Expressive 3D Human Pose and Mesh Training Sets
+- [[Arxiv](https://arxiv.org/pdf/2011.13341.pdf)] 4D Human Body Capture from Egocentric Video via 3D Scene Grounding [[Project](https://aptx4869lm.github.io/4DEgocentricBodyCapture/)]
+- [[Arxiv](https://posa.is.tue.mpg.de/)] Populating 3D Scenes by Learning Human-Scene Interaction [[Project](https://posa.is.tue.mpg.de/)]
+- [[ECCV2020](https://arxiv.org/pdf/2007.03672.pdf)] Long-term Human Motion Prediction with Scene Context [[Project](https://people.eecs.berkeley.edu/~zhecao/hmp/index.html)]
 - [[Arxiv](https://arxiv.org/abs/2012.12884)] Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild
 - [[Arxiv](https://arxiv.org/pdf/2012.12890.pdf)] ANR: Articulated Neural Rendering for Virtual Avatars
+- [[Arxiv](https://arxiv.org/pdf/1912.02923.pdf)] Generating 3D People in Scenes without People
+- [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Holistic_Scene_Understanding_Single-View_3D_Holistic_Scene_Parsing_and_Human_ICCV_2019_paper.pdf)] Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense
+- [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Putting_Humans_in_a_Scene_Learning_Affordance_in_3D_Indoor_CVPR_2019_paper.pdf)] Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments
+
+
+
 
 
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2011.00923.pdf)] MARNet: Multi-Abstraction Refinement Network for 3D Point Cloud Analysis [[Github](https://github.com/ruc98/MARNet)]
+- [[Arxiv](https://arxiv.org/pdf/2011.00931.pdf)] Point Transformer
+- [[Arxiv](https://arxiv.org/pdf/2011.14289.pdf)] Learning geometry-image representation for 3D point cloud generation
+- [[Arxiv](https://arxiv.org/pdf/2011.14285.pdf)] Deeper or Wider Networks of Point Clouds with Self-attention?
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/0a656cc19f3f5b41530182a9e03982a4-Paper.pdf)] Primal-Dual Mesh Convolutional Neural Networks [[pytorch](https://github.com/MIT-SPARK/PD-MeshNet)]
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/a3f390d88e4c41f2747bfa2f1b5f87db-Paper.pdf)] Rational neural networks [[tensorflow](https://github.com/NBoulle/RationalNets)]
 - [[NeurIPS2020](https://arxiv.org/abs/2008.02676)] Exchangeable Neural ODE for Set Modeling [[Project](https://github.com/lupalab/ExNODE)]
@@ -484,8 +566,19 @@ Object Detection via Transformer Decoder
 - [[NeurIPS2017](http://papers.nips.cc/paper/6931-deep-sets.pdf)] Deep Sets
 - [[Siggraph2006](https://www.merl.com/publications/docs/TR2006-054.pdf)] Designing with Distance Fields
 
+
+
+
+
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2011.11260.pdf)] 3D Registration for Self-Occluded Objects in Context
+- [[Arxiv](https://arxiv.org/pdf/2011.12438.pdf)] Continuous Surface Embeddings
+- [[Arxiv](https://arxiv.org/pdf/2011.12149.pdf)] SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration
+- [[Arxiv](https://arxiv.org/pdf/2011.13244.pdf)] MVTN: Multi-View Transformation Network for 3D Shape Recognition
+- [[Arxiv](https://arxiv.org/pdf/2011.13005.pdf)] PREDATOR: Registration of 3D Point Clouds with Low Overlap
+- [[Arxiv](https://arxiv.org/pdf/2011.12745.pdf)] Deep Magnification-Arbitrary Upsampling over 3D Point Clouds
+- [[Arxiv](https://arxiv.org/pdf/2011.14880.pdf)] Occlusion Guided Scene Flow Estimation on 3D Point Clouds
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/fec3392b0dc073244d38eba1feb8e6b7-Paper.pdf)] An Analysis of SVD for Deep Rotation Estimation 
 - [[EG2020W](https://arxiv.org/pdf/2010.09355.pdf)] SHREC 2020 track: 6D object pose estimation
 - [[ACCV2020](https://arxiv.org/abs/2010.01912)] Best Buddies Registration for Point Clouds
@@ -550,7 +643,18 @@ Object Detection via Transformer Decoder
 - [[3DV2019](https://arxiv.org/pdf/1908.02853.pdf)] Location Field Descriptors: Single Image 3D Model Retrieval in the Wild
 - [[CVPR2016](http://www.cs.cmu.edu/~aayushb/marrRevisited/aayushb_2d3d.pdf)] Marr Revisited: 2D-3D Alignment via Surface Normal Prediction [[caffe](https://github.com/aayushbansal/MarrRevisited)]
 
+
+
+
+
+
+
 ## Survey, Resources and Tools
+- [[Dataset](https://arxiv.org/pdf/2011.02523.pdf)] Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding [[Github](https://github.com/apple/ml-hypersim)]
+- [[Survey](https://arxiv.org/pdf/2011.10671.pdf)] A Review and Comparative Study on Probabilistic Object Detection in Autonomous Driving [[Github](https://github.com/asharakeh/pod_compare)]
+- [[Dataset](https://arxiv.org/pdf/2011.12954.pdf)] RELLIS-3D Dataset: Data, Benchmarks and Analysis [[Github](https://github.com/unmannedlab/RELLIS-3D)]
+- [[Arxiv](https://arxiv.org/pdf/2011.03635.pdf)] Motion Prediction on Self-driving Cars: A Review
+- [[Github](https://github.com/MIT-TESSE)] TESSE: Unity-based simulator to enable research in perception, mapping, learning, and robotics
 - [[Survey](https://arxiv.org/abs/2012.12556)] A Survey on Visual Transformer
 - [[Survey](https://arxiv.org/abs/2011.00362)] A Survey on Contrastive Self-supervised Learning
 - [[Survey](https://hal.inria.fr/hal-01348404v2/document)] A Survey of Surface Reconstruction from Point Clouds
@@ -572,7 +676,7 @@ Object Detection via Transformer Decoder
 - [[Arxiv](https://arxiv.org/pdf/2008.01133.pdf)] AiRound and CV-BrCT: Novel Multi-View Datasets for Scene Classification [[Project](http://www.patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/)]
 - [[CVPR2020](https://arxiv.org/pdf/2007.13215.pdf)] OASIS: A Large-Scale Dataset for Single Image 3D in the Wild [[Project](https://oasis.cs.princeton.edu/)]
 - [[Arxiv](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future)] 3D-FUTURE: 3D FUrniture shape with TextURE
-- [[Arxiv](https://pages.tmall.com/wow/cab/tianchi/promotion/alibaba-3d-scene-dataset)] 3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics
+- [[Arxiv](https://arxiv.org/pdf/2011.09127.pdf)] 3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics [[Project](https://pages.tmall.com/wow/cab/tianchi/promotion/alibaba-3d-scene-dataset)][[Link](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset)]
 - [[Arxiv](https://arxiv.org/pdf/2006.12057.pdf)] Differentiable Rendering: A Survey
 - [[Arxiv](https://arxiv.org/pdf/2005.08045.pdf)] Visual Relationship Detection using Scene Graphs: A Survey
 - [[Arxiv](https://arxiv.org/pdf/2004.14899.pdf)] Polarization Human Shape and Pose Dataset
