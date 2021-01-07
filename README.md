@@ -21,6 +21,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/pdf/2012.15712.pdf)] Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection
+
+#### Before 2021
 - [[Arxiv](https://arxiv.org/pdf/2012.03121.pdf)] It’s All Around You: Range-Guided Cylindrical Network for 3D Object Detection
 - [[Arxiv](https://arxiv.org/pdf/2012.04355.pdf)] 3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection [[Project](https://thu17cyz.github.io/3DIoUMatch/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.05796.pdf)] Demystifying Pseudo-LiDAR for Monocular 3D Object Detection
@@ -40,6 +43,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[Arxiv](https://arxiv.org/pdf/2009.05307.pdf)] A Density-Aware PointRCNN for 3D Objection Detection in Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2009.00764)] Monocular 3D Detection with Geometric Constraints Embedding and Semi-supervised Training
 - [[ECCV2020](https://arxiv.org/pdf/2008.13748.pdf)] Reinforced Axial Refinement Network for Monocular 3D Object Detection
+- [[Arxiv](https://arxiv.org/pdf/2006.01250.pdf)] RUHSNet: 3D Object Detection Using Lidar Data in Real Time [[pytorch](https://github.com/abhinavsagar/ruhsnet)]
 - [[IROS2020](http://www.xinshuoweng.com/papers/AB3DMOT/camera_ready.pdf)] 3D Multi-Object Tracking: A Baseline and New Evaluation Metrics [[Project](http://www.xinshuoweng.com/projects/AB3DMOT/)][[Code](https://github.com/xinshuoweng/AB3DMOT)]
 - [[ECCV2020](https://arxiv.org/pdf/2007.13138.pdf)] Virtual Multi-view Fusion for 3D Semantic Segmentation
 - [[ACMMM2020](https://arxiv.org/pdf/2007.13970.pdf)] Weakly Supervised 3D Object Detection from Point Clouds
@@ -127,6 +131,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+#### Before 2021
 - [[Arxiv](https://arxiv.org/pdf/2012.00230.pdf)] Point2Skeleton: Learning Skeletal Representations from Point Clouds [[pytorch](https://github.com/clinplayer/Point2Skeleton)]
 - [[Arxiv](https://arxiv.org/pdf/2012.03028.pdf)] ParaNet: Deep Regular Representation for 3D Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2012.05657.pdf)] Geometric Adversarial Attacks and Defenses on 3D Point Clouds [[tensorflow](https://github.com/itailang/geometric_adv)]
@@ -201,6 +206,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+#### Before 2021
 - [[Arxiv](https://arxiv.org/pdf/2012.03408.pdf)] PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths
 - [[Arxiv](https://arxiv.org/pdf/2012.09242.pdf)] S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2011.09141.pdf)] Semantic Scene Completion using Local Deep Implicit Functions on LiDAR Data
@@ -266,6 +272,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+#### Before 2021
 - [[Arxiv](https://arxiv.org/pdf/2012.01203.pdf)] Learning Delaunay Surface Elements for Mesh Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2012.02493.pdf)] Compositionally Generalizable 3D Structure Prediction
 - [[Arxiv](https://arxiv.org/pdf/2012.03196.pdf)] Online Adaptation for Consistent Mesh Reconstruction in the Wild
@@ -381,6 +388,8 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+#### Before 2021
+- [[Arxiv](https://arxiv.org/pdf/2012.15470.pdf)] Audio-Visual Floorplan Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2012.00987.pdf)] PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2012.00726.pdf)] RAFT-3D: Scene Flow using Rigid-Motion Embeddings
 - [[Arxiv](https://arxiv.org/abs/2012.03998)] GenScan: A Generative Method for Populating Parametric 3D Scan Datasets
@@ -440,6 +449,10 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2012.02190.pdf)] STaR: Self-supervised Tracking and Reconstruction of Rigid Objects in Motion with Neural Rendering [[Project](https://wentaoyuan.github.io/star/)]
+
+#### Before 2021
+- [[Arxiv](https://arxiv.org/pdf/2012.15838.pdf)] Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans [[Project](https://zju3dv.github.io/neuralbody/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.02190.pdf)] pixelNeRF: Neural Radiance Fields from One or Few Images [[Project](https://alexyu.net/pixelnerf/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.03927.pdf)] NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis [[Project](https://people.eecs.berkeley.edu/~pratul/nerv/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.05360.pdf)] MO-LTR: Multiple Object Localization, Tracking and Reconstruction from Monocular RGB Videos
@@ -502,6 +515,10 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2012.14739)] Chasing the Tail in Monocular 3D Human Reconstruction with Prototype Memory
+- [[3DV2020](https://arxiv.org/pdf/2008.05570.pdf)] PLACE: Proximity Learning of Articulation and Contact in 3D Environments [[Project](https://sanweiliti.github.io/PLACE/PLACE.html)]
+
+#### Before 2021
 - [[Arxiv](https://arxiv.org/pdf/2012.05522.pdf)] Synthesizing Long-Term 3D Human Motion and Interaction in 3D Scenes [[Project](https://jiashunwang.github.io/Long-term-Motion-in-3D-Scenes/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.09760.pdf)] End-to-End Human Pose and Mesh Reconstruction with Transformers
 - [[Arxiv](https://arxiv.org/pdf/2012.09843.pdf)] Human Mesh Recovery from Multiple Shots [[Project](https://geopavlakos.github.io/multishot/)]
@@ -527,6 +544,9 @@ for Expressive 3D Human Pose and Mesh Estimation
 
 ---
 ## General Methods
+- [[3DV2020](https://arxiv.org/pdf/2101.00483.pdf)] Learning Rotation-Invariant Representations of Point Clouds Using Aligned Edge Convolutional Neural Networks
+
+#### Before 2021
 - [[Arxiv](https://arxiv.org/pdf/2012.00888.pdf)] Diffusion is All You Need for Learning on Surfaces
 - [[Arxiv](https://arxiv.org/pdf/2012.04439.pdf)] SPU-Net: Self-Supervised Point Cloud Upsampling by Coarse-to-Fine Reconstruction with Self-Projection Optimization
 - [[3DV2020](https://arxiv.org/pdf/2012.04048.pdf)] Rotation-Invariant Point Convolution With Multiple Equivariant Alignments
@@ -613,6 +633,11 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2012.15680.pdf)] Unsupervised Monocular Depth Reconstruction of Non-Rigid Scenes
+- [[Arxiv](https://arxiv.org/pdf/2012.15638.pdf)] CorrNet3D: Unsupervised End-to-end Learning of Dense Correspondence for 3D Point Clouds
+
+
+#### Before 2021
 - [[Arxiv](https://arxiv.org/pdf/2012.05877.pdf)] iNeRF: Inverting Neural Radiance Fields for Pose Estimation [[Project](http://yenchenlin.me/inerf/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.10296.pdf)] Boosting Monocular Depth Estimation with Lightweight 3D Point Fusion
 - [[Arxiv](https://arxiv.org/pdf/2011.11260.pdf)] 3D Registration for Self-Occluded Objects in Context
@@ -693,6 +718,12 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Survey](https://arxiv.org/abs/2101.01169)] Transformers in Vision: A Survey
+- [[Survey](https://arxiv.org/abs/2009.06732)] Efficient Transformers: A Survey
+- [[Survey](https://arxiv.org/abs/1906.01529)] Semantics for Robotic Mapping, Perception and Interaction: A Survey
+- [[Survey](https://arxiv.org/abs/1906.01529)] Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy
+
+#### Before 2021
 - [[Dataset](https://arxiv.org/pdf/2012.09988.pdf)] Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild with Pose Annotations [[Github](https://github.com/google-research-datasets/Objectron)]
 - [[Survey](https://arxiv.org/pdf/2012.12447.pdf)] Skeleton-based Approaches based on Machine Vision: A Survey
 - [[Survey](https://arxiv.org/pdf/2012.13392.pdf)] Deep Learning-Based Human Pose Estimation: A Survey [[Github](https://github.com/zczcwh/DL-HPE)]
