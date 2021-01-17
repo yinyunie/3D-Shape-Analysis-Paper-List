@@ -21,6 +21,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/pdf/2101.02672.pdf)] Self-Attention Based Context-Aware 3D Object Detection [[pytorch](https://github.com/AutoVision-cloud/SA-Det3D)]
 - [[Arxiv](https://arxiv.org/pdf/2012.15712.pdf)] Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection
 
 #### Before 2021
@@ -388,7 +389,10 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2101.02692.pdf)] Where2Act: From Pixels to Actions for Articulated 3D Objects [[Project](https://cs.stanford.edu/~kaichun/where2act/)]
+
 #### Before 2021
+- [[Arxiv](https://arxiv.org/pdf/1712.05474.pdf)] AI2-THOR: An Interactive 3D Environment for Visual AI [[Project](https://ai2thor.allenai.org/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.15470.pdf)] Audio-Visual Floorplan Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2012.00987.pdf)] PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2012.00726.pdf)] RAFT-3D: Scene Flow using Rigid-Motion Embeddings
@@ -425,7 +429,7 @@ Forecasting with a Single Convolutional Net
 - [[Arxiv](https://arxiv.org/pdf/2003.13516.pdf)] LayoutMP3D: Layout Annotation of Matterport3D
 - [[CVPR2020](https://arxiv.org/pdf/2003.08981.pdf)] Local Implicit Grid Representations for 3D Scenes
 - [[Arxiv](https://arxiv.org/pdf/2003.07356.pdf)] Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes
-- [[CVPR2020](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds [[tensorflow](https://github.com/QingyongHu/RandLA-Net)] ::fire::
+- [[CVPR2020](https://arxiv.org/pdf/1911.11236.pdf)] RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds [[tensorflow](https://github.com/QingyongHu/RandLA-Net)] :fire:
 - [[CVPR2020](https://arxiv.org/pdf/2003.00397.pdf)] Intelligent Home 3D: Automatic 3D-House Design from Linguistic Descriptions Only
 - [[ICRA2020](https://arxiv.org/pdf/2003.00535.pdf)] 3DCFS: Fast and Robust Joint 3D Semantic-Instance Segmentation via Coupled Feature Selection
 - [[Arxiv](https://arxiv.org/pdf/2002.12819.pdf)] Indoor Scene Recognition in 3D
@@ -452,7 +456,6 @@ Forecasting with a Single Convolutional Net
 - [[Arxiv](https://arxiv.org/pdf/2012.02190.pdf)] STaR: Self-supervised Tracking and Reconstruction of Rigid Objects in Motion with Neural Rendering [[Project](https://wentaoyuan.github.io/star/)]
 
 #### Before 2021
-- [[Arxiv](https://arxiv.org/pdf/2012.15838.pdf)] Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans [[Project](https://zju3dv.github.io/neuralbody/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.02190.pdf)] pixelNeRF: Neural Radiance Fields from One or Few Images [[Project](https://alexyu.net/pixelnerf/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.03927.pdf)] NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis [[Project](https://people.eecs.berkeley.edu/~pratul/nerv/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.05360.pdf)] MO-LTR: Multiple Object Localization, Tracking and Reconstruction from Monocular RGB Videos
@@ -498,9 +501,8 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 - [[CVPR2020](https://arxiv.org/pdf/2002.12212.pdf)] Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image [[pytorch](https://github.com/yinyunie/Total3DUnderstanding)]
 - [[Arxiv](https://arxiv.org/pdf/2001.05422.pdf)] Indoor Layout Estimation by 2D LiDAR and Camera Fusion
 - [[Arxiv](https://arxiv.org/pdf/2001.02149.pdf)] General 3D Room Layout from a Single View by Render-and-Compare
-- [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Learning_to_Reconstruct_3D_Manhattan_Wireframes_From_a_Single_Image_ICCV_2019_paper.pdf)] Learning to Reconstruct 3D Manhattan Wireframes from a Single Image [[pytorch](https://github.com/yzhou359/3DIndoor-SceneGraphNet)]
+- [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Learning_to_Reconstruct_3D_Manhattan_Wireframes_From_a_Single_Image_ICCV_2019_paper.pdf)] Learning to Reconstruct 3D Manhattan Wireframes from a Single Image
 - [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_PlaneRCNN_3D_Plane_Detection_and_Reconstruction_From_a_Single_Image_CVPR_2019_paper.pdf)] PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image [[pytorch](https://github.com/NVlabs/planercnn)]:fire:
-- [[CVPR2018](https://arxiv.org/pdf/1712.01812.pdf)] Factoring Shape, Pose, and Layout from the 2D Image of a 3D Scene [[pytorch](https://github.com/shubhtuls/factored3d)]
 - [[ICCV2019](https://arxiv.org/pdf/1902.06729.pdf)] 3D Scene Reconstruction with Multi-layer Depth and Epipolar Transformers
 - [[ICCV Workshop2019](http://openaccess.thecvf.com/content_ICCVW_2019/papers/3DRW/Li_Silhouette-Assisted_3D_Object_Instance_Reconstruction_from_a_Cluttered_Scene_ICCVW_2019_paper.pdf)] Silhouette-Assisted 3D Object Instance Reconstruction from a Cluttered Scene
 - [[ICCV2019](https://arxiv.org/pdf/1906.02729.pdf)] 3D-RelNet: Joint Object and Relation Network for 3D prediction [[pytorch](https://github.com/nileshkulkarni/relative3d)]
@@ -515,8 +517,11 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/pdf/2101.02471.pdf)] PandaNet : Anchor-Based Single-Shot Multi-Person 3D Pose Estimation
+- [[Arxiv](https://arxiv.org/pdf/2012.15838.pdf)] Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans [[Project](https://zju3dv.github.io/neuralbody/)]
 - [[Arxiv](https://arxiv.org/abs/2012.14739)] Chasing the Tail in Monocular 3D Human Reconstruction with Prototype Memory
 - [[3DV2020](https://arxiv.org/pdf/2008.05570.pdf)] PLACE: Proximity Learning of Articulation and Contact in 3D Environments [[Project](https://sanweiliti.github.io/PLACE/PLACE.html)]
+- [[ICCV2019](https://arxiv.org/abs/1908.06963)] Resolving 3D Human Pose Ambiguities with 3D Scene Constraints [[Project](https://prox.is.tue.mpg.de/)]
 
 #### Before 2021
 - [[Arxiv](https://arxiv.org/pdf/2012.05522.pdf)] Synthesizing Long-Term 3D Human Motion and Interaction in 3D Scenes [[Project](https://jiashunwang.github.io/Long-term-Motion-in-3D-Scenes/)]
@@ -533,10 +538,11 @@ for Expressive 3D Human Pose and Mesh Estimation
 - [[ECCV2020](https://arxiv.org/pdf/2007.03672.pdf)] Long-term Human Motion Prediction with Scene Context [[Project](https://people.eecs.berkeley.edu/~zhecao/hmp/index.html)]
 - [[Arxiv](https://arxiv.org/abs/2012.12884)] Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild [[Project](https://grail.cs.washington.edu/projects/vid2actor/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.12890.pdf)] ANR: Articulated Neural Rendering for Virtual Avatars
-- [[Arxiv](https://arxiv.org/pdf/1912.02923.pdf)] Generating 3D People in Scenes without People
+- [[Arxiv](https://arxiv.org/pdf/1912.02923.pdf)] Generating 3D People in Scenes without People [[Project](https://github.com/yz-cnsdqz/PSI-release)]
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Holistic_Scene_Understanding_Single-View_3D_Holistic_Scene_Parsing_and_Human_ICCV_2019_paper.pdf)] Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense
 - [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Putting_Humans_in_a_Scene_Learning_Affordance_in_3D_Indoor_CVPR_2019_paper.pdf)] Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments
-
+- [[TOG2016](https://graphics.stanford.edu/projects/pigraphs/pigraphs.pdf)] Pigraphs: learning interaction
+snapshots from observations [[Project](https://graphics.stanford.edu/projects/pigraphs/)]
 
 
 
@@ -544,6 +550,7 @@ for Expressive 3D Human Pose and Mesh Estimation
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2101.02691.pdf)] Self-Supervised Pretraining of 3D Features on any Point-Cloud [[pytorch](https://github.com/facebookresearch/DepthContrast)]
 - [[3DV2020](https://arxiv.org/pdf/2101.00483.pdf)] Learning Rotation-Invariant Representations of Point Clouds Using Aligned Edge Convolutional Neural Networks
 
 #### Before 2021
@@ -633,6 +640,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2011.14141v1.pdf)] AdaBins: Depth Estimation using Adaptive Bins [[pytorch](https://github.com/shariqfarooq123/AdaBins)]
 - [[Arxiv](https://arxiv.org/pdf/2012.15680.pdf)] Unsupervised Monocular Depth Reconstruction of Non-Rigid Scenes
 - [[Arxiv](https://arxiv.org/pdf/2012.15638.pdf)] CorrNet3D: Unsupervised End-to-end Learning of Dense Correspondence for 3D Point Clouds
 
@@ -718,6 +726,8 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Github](https://github.com/yenchenlin/awesome-NeRF)] Awesome Neural Radiance Fields
+- [[Survey](https://arxiv.org/pdf/2101.05204.pdf)] Neural Volume Rendering: NeRF And Beyond
 - [[Survey](https://arxiv.org/abs/2101.01169)] Transformers in Vision: A Survey
 - [[Survey](https://arxiv.org/abs/2009.06732)] Efficient Transformers: A Survey
 - [[Survey](https://arxiv.org/abs/1906.01529)] Semantics for Robotic Mapping, Perception and Interaction: A Survey
