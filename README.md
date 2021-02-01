@@ -273,6 +273,10 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2101.06860.pdf)] Secrets of 3D Implicit Object Shape Reconstruction in the Wild
+- [[Arxiv](https://arxiv.org/pdf/2101.07889.pdf)] Joint Learning of 3D Shape Retrieval and Deformation
+- [[Arxiv](https://arxiv.org/abs/2101.10994)] Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes
+
 #### Before 2021
 - [[Arxiv](https://arxiv.org/pdf/2012.01203.pdf)] Learning Delaunay Surface Elements for Mesh Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2012.02493.pdf)] Compositionally Generalizable 3D Structure Prediction
@@ -389,6 +393,8 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2101.07891.pdf)] A modular vision language navigation and manipulation framework for long horizon compositional tasks in indoor environment
+- [[Arxiv](https://arxiv.org/pdf/2101.07462.pdf)] Deep Reinforcement Learning for Producing Furniture Layout in Indoor Scenes
 - [[Arxiv](https://arxiv.org/pdf/2101.02692.pdf)] Where2Act: From Pixels to Actions for Articulated 3D Objects [[Project](https://cs.stanford.edu/~kaichun/where2act/)]
 
 #### Before 2021
@@ -435,7 +441,7 @@ Forecasting with a Single Convolutional Net
 - [[Arxiv](https://arxiv.org/pdf/2002.12819.pdf)] Indoor Scene Recognition in 3D
 - [[Journal](https://arxiv.org/pdf/2002.08988.pdf)] Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense
 - [[Arxiv](https://arxiv.org/pdf/2002.08988.pdf)] BlockGAN Learning 3D Object-aware Scene Representations from Unlabelled Images
-- [[Arxiv](https://arxiv.org/pdf/2002.06289.pdf)] 3D Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans
+- [[Arxiv](https://arxiv.org/abs/2002.06289)] 3D Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans [[Project](https://github.com/MIT-SPARK/Kimera)] Related: [[Arxiv](https://arxiv.org/abs/1910.02490)] [[Arxiv](https://arxiv.org/abs/2101.06894)]
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Mustafa_U4D_Unsupervised_4D_Dynamic_Scene_Understanding_ICCV_2019_paper.pdf)] U4D: Unsupervised 4D Dynamic Scene Understanding
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xian_UprightNet_Geometry-Aware_Camera_Orientation_Estimation_From_Single_Images_ICCV_2019_paper.pdf)] UprightNet: Geometry-Aware Camera Orientation Estimation from Single Images
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.pdf)] Habitat: A Platform for Embodied AI Research [[habitat-api](https://github.com/facebookresearch/habitat-api)] [[habitat-sim](https://github.com/facebookresearch/habitat-sim)] :star:
@@ -517,6 +523,8 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2101.08779v1)] Learn to Dance with AIST++: Music Conditioned 3D Dance Generation [[Project](https://google.github.io/aistplusplus_dataset/)]
+- [[Arxiv](https://arxiv.org/pdf/2101.06571.pdf)] S3: Neural Shape, Skeleton, and Skinning Fields for 3D Human Modeling
 - [[Arxiv](https://arxiv.org/pdf/2101.02471.pdf)] PandaNet : Anchor-Based Single-Shot Multi-Person 3D Pose Estimation
 - [[Arxiv](https://arxiv.org/pdf/2012.15838.pdf)] Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans [[Project](https://zju3dv.github.io/neuralbody/)]
 - [[Arxiv](https://arxiv.org/abs/2012.14739)] Chasing the Tail in Monocular 3D Human Reconstruction with Prototype Memory
@@ -550,6 +558,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2101.07832.pdf)] The Devils in the Point Clouds: Studying the Robustness of Point Cloud Convolutions
 - [[Arxiv](https://arxiv.org/pdf/2101.02691.pdf)] Self-Supervised Pretraining of 3D Features on any Point-Cloud [[pytorch](https://github.com/facebookresearch/DepthContrast)]
 - [[3DV2020](https://arxiv.org/pdf/2101.00483.pdf)] Learning Rotation-Invariant Representations of Point Clouds Using Aligned Edge Convolutional Neural Networks
 
