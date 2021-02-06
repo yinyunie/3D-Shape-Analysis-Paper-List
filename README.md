@@ -21,6 +21,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/pdf/2101.11952v1.pdf)] Rethinking Rotated Object Detection with Gaussian Wasserstein Distance Loss
+- [[Arxiv](https://arxiv.org/pdf/2006.04080v2.pdf)] CubifAE-3D: Monocular Camera Space Cubification for Auto-Encoder based
+3D Object Detection
 - [[Arxiv](https://arxiv.org/pdf/2101.02672.pdf)] Self-Attention Based Context-Aware 3D Object Detection [[pytorch](https://github.com/AutoVision-cloud/SA-Det3D)]
 - [[Arxiv](https://arxiv.org/pdf/2012.15712.pdf)] Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection
 
@@ -71,7 +74,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR2020](https://arxiv.org/pdf/2004.05679.pdf)] MLCVNet: Multi-Level Context VoteNet for 3D Object Detection
 - [[CVPR2020](https://arxiv.org/pdf/1911.10150.pdf)] PointPainting: Sequential Fusion for 3D Object Detection
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Joint_3D_Instance_Segmentation_and_Object_Detection_for_Autonomous_Driving_CVPR_2020_paper.pdf)] Joint 3D Instance Segmentation and Object Detection for Autonomous Driving
-- [[CVPR2020](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud
+- [[CVPR2020](https://arxiv.org/pdf/2003.01251.pdf)] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud [[tensorflow](https://github.com/WeijingShi/Point-GNN)]
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Joint_3D_Instance_Segmentation_and_Object_Detection_for_Autonomous_Driving_CVPR_2020_paper.pdf)] Joint 3D Instance Segmentation and Object Detection for Autonomous Driving
 - [[CVPR2020](https://arxiv.org/pdf/2003.00186.pdf)] HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf)] A Hierarchical Graph Network for 3D Object Detection on Point Clouds
@@ -649,6 +652,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2004.00221v3.pdf)] NBDT: NEURAL-BACKED DECISION TREE [[pytorch](https://github.com/alvinwan/neural-backed-decision-trees)]
 - [[Arxiv](https://arxiv.org/pdf/2011.14141v1.pdf)] AdaBins: Depth Estimation using Adaptive Bins [[pytorch](https://github.com/shariqfarooq123/AdaBins)]
 - [[Arxiv](https://arxiv.org/pdf/2012.15680.pdf)] Unsupervised Monocular Depth Reconstruction of Non-Rigid Scenes
 - [[Arxiv](https://arxiv.org/pdf/2012.15638.pdf)] CorrNet3D: Unsupervised End-to-end Learning of Dense Correspondence for 3D Point Clouds
@@ -735,6 +739,10 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Survey](https://arxiv.org/pdf/2101.10423v1.pdf)] Online Continual Learning in Image Classification: An Empirical Survey
+- [[Survey](https://arxiv.org/pdf/1912.00535v2.pdf)] Deep Learning for Visual Tracking: A Comprehensive Survey
+- [[Survey](https://arxiv.org/ftp/arxiv/papers/2101/2101.08845.pdf)] Occlusion Handling in Generic Object Detection: A Review
+- [[Survey](https://arxiv.org/abs/2101.10382)] Curriculum Learning: A Survey
 - [[Github](https://github.com/yenchenlin/awesome-NeRF)] Awesome Neural Radiance Fields
 - [[Survey](https://arxiv.org/pdf/2101.05204.pdf)] Neural Volume Rendering: NeRF And Beyond
 - [[Survey](https://arxiv.org/abs/2101.01169)] Transformers in Vision: A Survey
