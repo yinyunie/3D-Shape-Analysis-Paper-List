@@ -21,6 +21,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/pdf/2102.03747.pdf)] DPointNet: A Density-Oriented PointNet for 3D Object Detection in Point Clouds
+- [[Arxiv](https://arxiv.org/abs/2102.00463)] PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection [[pytorch](https://github.com/open-mmlab/OpenPCDet)]
 - [[Arxiv](https://arxiv.org/pdf/2101.11952v1.pdf)] Rethinking Rotated Object Detection with Gaussian Wasserstein Distance Loss
 - [[Arxiv](https://arxiv.org/pdf/2006.04080v2.pdf)] CubifAE-3D: Monocular Camera Space Cubification for Auto-Encoder based
 3D Object Detection
@@ -276,6 +278,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2102.06195.pdf)] Shelf-Supervised Mesh Prediction in the Wild
+- [[Arxiv](https://arxiv.org/pdf/2102.05973.pdf)] HyperPocket: Generative Point Cloud Completion
+- [[Arxiv](https://arxiv.org/pdf/2102.02798.pdf)] Im2Vec: Synthesizing Vector Graphics without Vector Supervision [[resource](http://geometry.cs.ucl.ac.uk/projects/2020/Im2Vec/)]
 - [[Arxiv](https://arxiv.org/pdf/2101.06860.pdf)] Secrets of 3D Implicit Object Shape Reconstruction in the Wild
 - [[Arxiv](https://arxiv.org/pdf/2101.07889.pdf)] Joint Learning of 3D Shape Retrieval and Deformation
 - [[Arxiv](https://arxiv.org/abs/2101.10994)] Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes
@@ -396,6 +401,9 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[ICLR2021](https://arxiv.org/pdf/2102.07764.pdf)] End-to-End Egospheric Spatial Memory
+- [[Arxiv](https://arxiv.org/pdf/2102.03939.pdf)] Single-Shot Cuboids: Geodesics-based End-to-end Manhattan Aligned Layout
+Estimation from Spherical Panoramas [[Project](https://vcl3d.github.io/SingleShotCuboids/)]
 - [[Arxiv](https://arxiv.org/pdf/2101.07891.pdf)] A modular vision language navigation and manipulation framework for long horizon compositional tasks in indoor environment
 - [[Arxiv](https://arxiv.org/pdf/2101.07462.pdf)] Deep Reinforcement Learning for Producing Furniture Layout in Indoor Scenes
 - [[Arxiv](https://arxiv.org/pdf/2101.02692.pdf)] Where2Act: From Pixels to Actions for Articulated 3D Objects [[Project](https://cs.stanford.edu/~kaichun/where2act/)]
@@ -462,6 +470,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2102.07064)] NeRF--: Neural Radiance Fields Without Known Camera Parameters [[Project](http://nerfmm.active.vision/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.02190.pdf)] STaR: Self-supervised Tracking and Reconstruction of Rigid Objects in Motion with Neural Rendering [[Project](https://wentaoyuan.github.io/star/)]
 
 #### Before 2021
@@ -526,6 +535,9 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/pdf/2102.07343.pdf)] Capturing Detailed Deformations of Moving Human Bodies
+- [[Arxiv](https://arxiv.org/abs/2102.06199)] A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering
+ [[Project](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/)]
 - [[Arxiv](https://arxiv.org/abs/2101.08779v1)] Learn to Dance with AIST++: Music Conditioned 3D Dance Generation [[Project](https://google.github.io/aistplusplus_dataset/)]
 - [[Arxiv](https://arxiv.org/pdf/2101.06571.pdf)] S3: Neural Shape, Skeleton, and Skinning Fields for 3D Human Modeling
 - [[Arxiv](https://arxiv.org/pdf/2101.02471.pdf)] PandaNet : Anchor-Based Single-Shot Multi-Person 3D Pose Estimation
@@ -561,6 +573,11 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2102.06171)] High-Performance Large-Scale Image Recognition Without Normalization
+- [[Arxiv](https://arxiv.org/pdf/2102.04776.pdf)] Generative Models as Distributions of Functions
+- [[Arxiv](https://arxiv.org/pdf/2102.04014.pdf)] Point-set Distances for Learning Representations of 3D Point Clouds
+- [[Arxiv](https://arxiv.org/pdf/2102.02896.pdf)] Compressed Object Detection
+- [[Arxiv](https://arxiv.org/pdf/2102.00084.pdf)] A linearized framework and a new benchmark for model selection for fine-tuning
 - [[Arxiv](https://arxiv.org/pdf/2101.07832.pdf)] The Devils in the Point Clouds: Studying the Robustness of Point Cloud Convolutions
 - [[Arxiv](https://arxiv.org/pdf/2101.02691.pdf)] Self-Supervised Pretraining of 3D Features on any Point-Cloud [[pytorch](https://github.com/facebookresearch/DepthContrast)]
 - [[3DV2020](https://arxiv.org/pdf/2101.00483.pdf)] Learning Rotation-Invariant Representations of Point Clouds Using Aligned Edge Convolutional Neural Networks
@@ -652,6 +669,10 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2102.06697.pdf)] A Parameterised Quantum Circuit Approach to Point Set Matching
+- [[Arxiv](https://arxiv.org/pdf/2102.01161.pdf)] Adjoint Rigid Transform Network: Self-supervised Alignment of 3D Shapes
+- [[Arxiv](https://arxiv.org/pdf/2102.00719.pdf)] Video Transformer Network
+- [[ICLR2021](https://arxiv.org/pdf/2101.12378.pdf)] NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation [[pytorch](https://github.com/Angtian/NeMo)]
 - [[Arxiv](https://arxiv.org/pdf/2004.00221v3.pdf)] NBDT: NEURAL-BACKED DECISION TREE [[pytorch](https://github.com/alvinwan/neural-backed-decision-trees)]
 - [[Arxiv](https://arxiv.org/pdf/2011.14141v1.pdf)] AdaBins: Depth Estimation using Adaptive Bins [[pytorch](https://github.com/shariqfarooq123/AdaBins)]
 - [[Arxiv](https://arxiv.org/pdf/2012.15680.pdf)] Unsupervised Monocular Depth Reconstruction of Non-Rigid Scenes
@@ -739,6 +760,8 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Benchmark](https://arxiv.org/abs/2102.05346)] H3D: Benchmark on Semantic Segmentation of High-Resolution 3D Point Clouds and textured Meshes from UAV LiDAR and Multi-View-Stereo [[Project](https://ifpwww.ifp.uni-stuttgart.de/benchmark/hessigheim/default.aspx)]
+- [[Survey](https://arxiv.org/pdf/2102.04906.pdf)] Dynamic Neural Networks: A Survey
 - [[Survey](https://arxiv.org/pdf/2101.10423v1.pdf)] Online Continual Learning in Image Classification: An Empirical Survey
 - [[Survey](https://arxiv.org/pdf/1912.00535v2.pdf)] Deep Learning for Visual Tracking: A Comprehensive Survey
 - [[Survey](https://arxiv.org/ftp/arxiv/papers/2101/2101.08845.pdf)] Occlusion Handling in Generic Object Detection: A Review
