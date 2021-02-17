@@ -563,7 +563,7 @@ for Expressive 3D Human Pose and Mesh Estimation
 - [[Arxiv](https://arxiv.org/pdf/2012.12890.pdf)] ANR: Articulated Neural Rendering for Virtual Avatars
 - [[Arxiv](https://arxiv.org/pdf/1912.02923.pdf)] Generating 3D People in Scenes without People [[Project](https://github.com/yz-cnsdqz/PSI-release)]
 - [[ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Holistic_Scene_Understanding_Single-View_3D_Holistic_Scene_Parsing_and_Human_ICCV_2019_paper.pdf)] Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense
-- [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Putting_Humans_in_a_Scene_Learning_Affordance_in_3D_Indoor_CVPR_2019_paper.pdf)] Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments
+- [[CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Putting_Humans_in_a_Scene_Learning_Affordance_in_3D_Indoor_CVPR_2019_paper.pdf)] Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments [[Project](https://sites.google.com/view/3d-affordance-cvpr19)]
 - [[TOG2016](https://graphics.stanford.edu/projects/pigraphs/pigraphs.pdf)] Pigraphs: learning interaction
 snapshots from observations [[Project](https://graphics.stanford.edu/projects/pigraphs/)]
 
