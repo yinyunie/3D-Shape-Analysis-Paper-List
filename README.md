@@ -137,6 +137,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2102.09105)] DeepMetaHandles: Learning Deformation Meta-Handles of 3D Meshes with Biharmonic Coordinates [[Project](https://github.com/Colin97/DeepMetaHandles)]
+
 #### Before 2021
 - [[Arxiv](https://arxiv.org/pdf/2012.00230.pdf)] Point2Skeleton: Learning Skeletal Representations from Point Clouds [[pytorch](https://github.com/clinplayer/Point2Skeleton)]
 - [[Arxiv](https://arxiv.org/pdf/2012.03028.pdf)] ParaNet: Deep Regular Representation for 3D Point Clouds
@@ -278,6 +280,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2102.08860)] ShaRF: Shape-conditioned Radiance Fields from a Single View [[Project](http://www.krematas.com/sharf/index.html)]
 - [[Arxiv](https://arxiv.org/pdf/2102.06195.pdf)] Shelf-Supervised Mesh Prediction in the Wild
 - [[Arxiv](https://arxiv.org/pdf/2102.05973.pdf)] HyperPocket: Generative Point Cloud Completion
 - [[Arxiv](https://arxiv.org/pdf/2102.02798.pdf)] Im2Vec: Synthesizing Vector Graphics without Vector Supervision [[resource](http://geometry.cs.ucl.ac.uk/projects/2020/Im2Vec/)]
@@ -337,7 +340,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 - [[Arxiv](https://arxiv.org/abs/2008.02268)] NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections [[Project](https://nerf-w.github.io/)]
 - [[Arxiv](https://arxiv.org/pdf/2005.11617.pdf)] MeshODE: A Robust and Scalable Framework for Mesh Deformation
 - [[Arxiv](https://arxiv.org/pdf/2007.12944.pdf)] MRGAN: Multi-Rooted 3D Shape Generation with Unsupervised Part Disentanglement
-- [[ECCV2020](https://arxiv.org/pdf/2007.09267.pdf)] Meshing Point Clouds with Predicted Intrinsic-Extrinsic Ratio Guidance
+- [[ECCV2020](https://arxiv.org/pdf/2007.09267.pdf)] Meshing Point Clouds with Predicted Intrinsic-Extrinsic Ratio Guidance [[pytorch](https://github.com/Colin97/Point2Mesh)]
 - [[ECCV2020](https://arxiv.org/pdf/2007.11110.pdf)] Who Left the Dogs Out? 3D Animal Reconstruction with Expectation Maximization in the Loop
 - [[ECCV2020](https://arxiv.org/pdf/2007.10872.pdf)] Dense Hybrid Recurrent Multi-view Stereo Net with Dynamic Consistency Checking
 - [[ECCV2020](https://arxiv.org/pdf/2007.10982.pdf)] Shape and Viewpoint without Keypoints
@@ -401,6 +404,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2102.08945.pdf)] Weakly Supervised Learning of Rigid 3D Scene Flow
 - [[ICLR2021](https://arxiv.org/pdf/2102.07764.pdf)] End-to-End Egospheric Spatial Memory
 - [[Arxiv](https://arxiv.org/pdf/2102.03939.pdf)] Single-Shot Cuboids: Geodesics-based End-to-end Manhattan Aligned Layout
 Estimation from Spherical Panoramas [[Project](https://vcl3d.github.io/SingleShotCuboids/)]
@@ -470,6 +474,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2102.13090.pdf)] IBRNet: Learning Multi-View Image-Based Rendering [[Project](https://ibrnet.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2102.07064)] NeRF--: Neural Radiance Fields Without Known Camera Parameters [[Project](http://nerfmm.active.vision/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.02190.pdf)] STaR: Self-supervised Tracking and Reconstruction of Rigid Objects in Motion with Neural Rendering [[Project](https://wentaoyuan.github.io/star/)]
 
@@ -535,6 +540,7 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/pdf/2011.15079.pdf)] Forecasting Characteristic 3D Poses of Human Actions
 - [[Arxiv](https://arxiv.org/pdf/2102.07343.pdf)] Capturing Detailed Deformations of Moving Human Bodies
 - [[Arxiv](https://arxiv.org/abs/2102.06199)] A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering
  [[Project](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/)]
@@ -669,6 +675,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2102.09334.pdf)] StablePose: Learning 6D Object Poses from Geometrically Stable Patches
 - [[Arxiv](https://arxiv.org/pdf/2102.06697.pdf)] A Parameterised Quantum Circuit Approach to Point Set Matching
 - [[Arxiv](https://arxiv.org/pdf/2102.01161.pdf)] Adjoint Rigid Transform Network: Self-supervised Alignment of 3D Shapes
 - [[Arxiv](https://arxiv.org/pdf/2102.00719.pdf)] Video Transformer Network
@@ -760,6 +767,7 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Survey](https://arxiv.org/pdf/2102.10788.pdf)] Attention Models for Point Clouds in Deep Learning: A Survey
 - [[Benchmark](https://arxiv.org/abs/2102.05346)] H3D: Benchmark on Semantic Segmentation of High-Resolution 3D Point Clouds and textured Meshes from UAV LiDAR and Multi-View-Stereo [[Project](https://ifpwww.ifp.uni-stuttgart.de/benchmark/hessigheim/default.aspx)]
 - [[Survey](https://arxiv.org/pdf/2102.04906.pdf)] Dynamic Neural Networks: A Survey
 - [[Survey](https://arxiv.org/pdf/2101.10423v1.pdf)] Online Continual Learning in Image Classification: An Empirical Survey
