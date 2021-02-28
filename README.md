@@ -470,8 +470,6 @@ Forecasting with a Single Convolutional Net
 
 
 
-
-
 ---
 ## 3D Scene Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2102.13090.pdf)] IBRNet: Learning Multi-View Image-Based Rendering [[Project](https://ibrnet.github.io/)]
