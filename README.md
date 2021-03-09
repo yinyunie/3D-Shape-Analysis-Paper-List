@@ -2,7 +2,7 @@
 A list of papers, libraries and datasets I recently read is collected for anyone who shows interest at 
 
 ---
-- [3D Detection](#3d-detection)
+- [3D Detection & Segmentation](#3d-detection--segmentation)
 - [Shape Representation](#shape-representation)
 - [Shape & Scene Completion](#shape--scene-completion)
 - [Shape Reconstruction](#shape-reconstruction)
@@ -21,6 +21,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/pdf/2103.02093.pdf)] Pseudo-labeling for Scalable 3D Object Detection
 - [[Arxiv](https://arxiv.org/pdf/2102.03747.pdf)] DPointNet: A Density-Oriented PointNet for 3D Object Detection in Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2102.00463)] PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection [[pytorch](https://github.com/open-mmlab/OpenPCDet)]
 - [[Arxiv](https://arxiv.org/pdf/2101.11952v1.pdf)] Rethinking Rotated Object Detection with Gaussian Wasserstein Distance Loss
@@ -214,6 +215,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[CVPR2021](https://arxiv.org/pdf/2103.02535.pdf)] Style-based Point Generator with Adversarial Rendering for Point Cloud Completion
+
 #### Before 2021
 - [[Arxiv](https://arxiv.org/pdf/2012.03408.pdf)] PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths
 - [[Arxiv](https://arxiv.org/pdf/2012.09242.pdf)] S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds
@@ -280,6 +283,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2103.02766.pdf)] PC2WF: 3D WIREFRAME RECONSTRUCTION FROM RAW POINT CLOUDS
+- [[CVPR2021](https://arxiv.org/pdf/2103.01458.pdf)] Diffusion Probabilistic Models for 3D Point Cloud Generation
+ [[Project](https://github.com/luost26/diffusion-point-cloud)]
 - [[Arxiv](https://arxiv.org/abs/2102.08860)] ShaRF: Shape-conditioned Radiance Fields from a Single View [[Project](http://www.krematas.com/sharf/index.html)]
 - [[Arxiv](https://arxiv.org/pdf/2102.06195.pdf)] Shelf-Supervised Mesh Prediction in the Wild
 - [[Arxiv](https://arxiv.org/pdf/2102.05973.pdf)] HyperPocket: Generative Point Cloud Completion
@@ -404,6 +410,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2103.02574.pdf)] House-GAN++: Generative Adversarial Layout Refinement Networks
 - [[Arxiv](https://arxiv.org/pdf/2102.08945.pdf)] Weakly Supervised Learning of Rigid 3D Scene Flow
 - [[ICLR2021](https://arxiv.org/pdf/2102.07764.pdf)] End-to-End Egospheric Spatial Memory
 - [[Arxiv](https://arxiv.org/pdf/2102.03939.pdf)] Single-Shot Cuboids: Geodesics-based End-to-end Manhattan Aligned Layout
@@ -472,6 +479,8 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[CVPR2021](https://arxiv.org/pdf/2011.14744.pdf)] RfD-Net: Point Scene Understanding by Semantic Instance Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2103.03231)] DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks [[Project](https://depthoraclenerf.github.io/)]
 - [[Arxiv](https://arxiv.org/pdf/2102.13090.pdf)] IBRNet: Learning Multi-View Image-Based Rendering [[Project](https://ibrnet.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2102.07064)] NeRF--: Neural Radiance Fields Without Known Camera Parameters [[Project](http://nerfmm.active.vision/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.02190.pdf)] STaR: Self-supervised Tracking and Reconstruction of Rigid Objects in Motion with Neural Rendering [[Project](https://wentaoyuan.github.io/star/)]
@@ -538,6 +547,8 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/pdf/2103.00776.pdf)] Single-Shot Motion Completion with Transformer [[Project](https://github.com/FuxiCV/SSMCT)]
+- [[EG2021](https://arxiv.org/abs/2103.00262)] Walk2Map: Extracting Floor Plans from Indoor Walk Trajectories
 - [[Arxiv](https://arxiv.org/pdf/2011.15079.pdf)] Forecasting Characteristic 3D Poses of Human Actions
 - [[Arxiv](https://arxiv.org/pdf/2102.07343.pdf)] Capturing Detailed Deformations of Moving Human Bodies
 - [[Arxiv](https://arxiv.org/abs/2102.06199)] A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering
@@ -673,6 +684,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[CVPR2021](https://arxiv.org/abs/2103.03114)] Self-supervised Geometric Perception
 - [[Arxiv](https://arxiv.org/pdf/2102.09334.pdf)] StablePose: Learning 6D Object Poses from Geometrically Stable Patches
 - [[Arxiv](https://arxiv.org/pdf/2102.06697.pdf)] A Parameterised Quantum Circuit Approach to Point Set Matching
 - [[Arxiv](https://arxiv.org/pdf/2102.01161.pdf)] Adjoint Rigid Transform Network: Self-supervised Alignment of 3D Shapes
@@ -765,6 +777,9 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Survey](https://arxiv.org/pdf/2103.02690.pdf)] A comprehensive survey on point cloud registration
+- [[Survey](https://arxiv.org/pdf/2103.02503.pdf)] Domain Generalization: A Survey
+- [[Dataset](https://arxiv.org/pdf/2103.00355.pdf)] SUM: A Benchmark Dataset of Semantic Urban Meshes
 - [[Survey](https://arxiv.org/pdf/2102.10788.pdf)] Attention Models for Point Clouds in Deep Learning: A Survey
 - [[Benchmark](https://arxiv.org/abs/2102.05346)] H3D: Benchmark on Semantic Segmentation of High-Resolution 3D Point Clouds and textured Meshes from UAV LiDAR and Multi-View-Stereo [[Project](https://ifpwww.ifp.uni-stuttgart.de/benchmark/hessigheim/default.aspx)]
 - [[Survey](https://arxiv.org/pdf/2102.04906.pdf)] Dynamic Neural Networks: A Survey
