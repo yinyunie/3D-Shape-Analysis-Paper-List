@@ -802,6 +802,7 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Dataset](https://github.com/bertjiazheng/Structured3D)] Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling
 - [[Survey](https://arxiv.org/pdf/2103.07466.pdf)] 3D Semantic Scene Completion: a Survey
 - [[Survey](https://arxiv.org/pdf/2103.05423v2.pdf)] Deep Learning based 3D Segmentation: A Survey
 - [[Survey](https://arxiv.org/pdf/2103.02690.pdf)] A comprehensive survey on point cloud registration
