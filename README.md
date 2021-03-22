@@ -21,6 +21,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/pdf/2103.10042.pdf)] SparsePoint: Fully End-to-End Sparse 3D Object Detector
+- [[Arxiv](https://arxiv.org/abs/2103.10039)] RangeDet:In Defense of Range View for LiDAR-based 3D Object Detection
+- [[ICRA2021](https://arxiv.org/abs/2103.09422)] YOLOStereo3D: A Step Back to 2D for Efficient Stereo 3D Detection [[github](https://github.com/Owen-Liuyuxuan/visualDet3D)]
+- [[CVPR2021](https://arxiv.org/pdf/2103.05346v1.pdf)] ST3D: Self-training for Unsupervised Domain Adaptation on 3D Object Detection [[github](https://github.com/CVMI-Lab/ST3D)]
+- [[Arxiv](https://arxiv.org/pdf/2103.05073v1.pdf)] Offboard 3D Object Detection from Point Cloud Sequences
+- [[CVPR2021](https://arxiv.org/abs/2011.13328v2)] DyCo3D: Robust Instance Segmentation of 3D Point Clouds through Dynamic Convolution [[github](https://github.com/aim-uofa/DyCo3D)]
 - [[Arxiv](https://arxiv.org/pdf/2103.02093.pdf)] Pseudo-labeling for Scalable 3D Object Detection
 - [[Arxiv](https://arxiv.org/pdf/2102.03747.pdf)] DPointNet: A Density-Oriented PointNet for 3D Object Detection in Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2102.00463)] PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection [[pytorch](https://github.com/open-mmlab/OpenPCDet)]
@@ -215,6 +221,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[CVPR2021](https://arxiv.org/pdf/2103.07838.pdf)] Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding
+- [[CVPR2021](https://arxiv.org/abs/2012.03408v2)] PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths
 - [[CVPR2021](https://arxiv.org/pdf/2103.02535.pdf)] Style-based Point Generator with Adversarial Rendering for Point Cloud Completion
 
 #### Before 2021
@@ -410,6 +418,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2103.03454.pdf)] Structured Scene Memory for Vision-Language Navigation
 - [[Arxiv](https://arxiv.org/pdf/2103.02574.pdf)] House-GAN++: Generative Adversarial Layout Refinement Networks
 - [[Arxiv](https://arxiv.org/pdf/2102.08945.pdf)] Weakly Supervised Learning of Rigid 3D Scene Flow
 - [[ICLR2021](https://arxiv.org/pdf/2102.07764.pdf)] End-to-End Egospheric Spatial Memory
@@ -479,6 +488,10 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2103.10380.pdf)] FastNeRF: High-Fidelity Neural Rendering at 200FPS
+- [[CVPR2021](https://arxiv.org/pdf/2103.07969.pdf)] Monte Carlo Scene Search for 3D Scene Understanding
+- [[CVPR2021](https://arxiv.org/abs/2103.06422v1)] Holistic 3D Scene Understanding from a Single Image with Implicit Representation
+- [[CVPR2021](https://arxiv.org/pdf/2103.05606.pdf)] NeX: Real-time View Synthesis with Neural Basis Expansion [[Project](https://nex-mpi.github.io/)]
 - [[CVPR2021](https://arxiv.org/pdf/2011.14744.pdf)] RfD-Net: Point Scene Understanding by Semantic Instance Reconstruction
 - [[Arxiv](https://arxiv.org/abs/2103.03231)] DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks [[Project](https://depthoraclenerf.github.io/)]
 - [[Arxiv](https://arxiv.org/pdf/2102.13090.pdf)] IBRNet: Learning Multi-View Image-Based Rendering [[Project](https://ibrnet.github.io/)]
@@ -547,6 +560,14 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2103.10429)] Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks
+- [[Arxiv](https://arxiv.org/pdf/2103.10206.pdf)] DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer
+- [[Arxiv](https://arxiv.org/pdf/2103.09755.pdf)] Aggregated Multi-GANs for Controlled 3D Human Motion Prediction [[Project](https://github.com/herolvkd/AM-GAN)]
+- [[AAAI](https://arxiv.org/pdf/2103.09009.pdf)] PC-HMR: Pose Calibration for 3D Human Mesh Recovery from 2D Images/Videos
+- [[Arxiv](https://arxiv.org/abs/2103.07700)] NeuralHumanFVV: Real-Time Neural Volumetric Human Performance Rendering using RGB Cameras
+- [[CVPR2021](https://arxiv.org/pdf/2103.06871v1.pdf)] SMPLicit: Topology-aware Generative Model for Clothed People
+ [[Project](http://www.iri.upc.edu/people/ecorona/smplicit/)]
+- [[CVPR2021](https://arxiv.org/abs/2011.14672v2)] HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation [[pytorch](https://github.com/Jeff-sjtu/HybrIK)]
 - [[Arxiv](https://arxiv.org/pdf/2103.00776.pdf)] Single-Shot Motion Completion with Transformer [[Project](https://github.com/FuxiCV/SSMCT)]
 - [[EG2021](https://arxiv.org/abs/2103.00262)] Walk2Map: Extracting Floor Plans from Indoor Walk Trajectories
 - [[Arxiv](https://arxiv.org/pdf/2011.15079.pdf)] Forecasting Characteristic 3D Poses of Human Actions
@@ -562,6 +583,8 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 - [[ICCV2019](https://arxiv.org/abs/1908.06963)] Resolving 3D Human Pose Ambiguities with 3D Scene Constraints [[Project](https://prox.is.tue.mpg.de/)]
 
 #### Before 2021
+https://arxiv.org/abs/2007.13666
+- [[ECCV2020](https://arxiv.org/pdf/2012.05522.pdf)] 3D Human Shape and Pose from a Single Low-Resolution Image with Self-Supervised Learning [[Project](https://sites.google.com/view/xiangyuxu/3d_eccv20)]
 - [[Arxiv](https://arxiv.org/pdf/2012.05522.pdf)] Synthesizing Long-Term 3D Human Motion and Interaction in 3D Scenes [[Project](https://jiashunwang.github.io/Long-term-Motion-in-3D-Scenes/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.09760.pdf)] End-to-End Human Pose and Mesh Reconstruction with Transformers
 - [[Arxiv](https://arxiv.org/pdf/2012.09843.pdf)] Human Mesh Recovery from Multiple Shots [[Project](https://geopavlakos.github.io/multishot/)]
@@ -684,6 +707,8 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[CVPR2021](https://arxiv.org/pdf/2103.08468.pdf)] Beyond Image to Depth: Improving Depth Prediction using Echoes
+- [[CVPR2021](https://arxiv.org/abs/2103.07054)] FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism [[Project](https://github.com/DC1991/FS-Net)]
 - [[CVPR2021](https://arxiv.org/abs/2103.03114)] Self-supervised Geometric Perception
 - [[Arxiv](https://arxiv.org/pdf/2102.09334.pdf)] StablePose: Learning 6D Object Poses from Geometrically Stable Patches
 - [[Arxiv](https://arxiv.org/pdf/2102.06697.pdf)] A Parameterised Quantum Circuit Approach to Point Set Matching
@@ -777,6 +802,8 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Survey](https://arxiv.org/pdf/2103.07466.pdf)] 3D Semantic Scene Completion: a Survey
+- [[Survey](https://arxiv.org/pdf/2103.05423v2.pdf)] Deep Learning based 3D Segmentation: A Survey
 - [[Survey](https://arxiv.org/pdf/2103.02690.pdf)] A comprehensive survey on point cloud registration
 - [[Survey](https://arxiv.org/pdf/2103.02503.pdf)] Domain Generalization: A Survey
 - [[Dataset](https://arxiv.org/pdf/2103.00355.pdf)] SUM: A Benchmark Dataset of Semantic Urban Meshes
@@ -886,3 +913,4 @@ A Decade Survey of Instance Retrieval
 - [[Github](https://github.com/daavoo/pyntcloud)] pyntcloud is a Python library for working with 3D point clouds.
 - [[Github](http://www.open3d.org/docs/release/index.html)] Open3D: A Modern Library for 3D Data Processing
 - [[Github](https://github.com/marian42/mesh_to_sdf)] mesh_to_sdf: Calculate signed distance fields for arbitrary meshes
+- [[Github](https://github.com/vchoutas/torch-mesh-isect)] Detecting & Penalizing Mesh Intersections
