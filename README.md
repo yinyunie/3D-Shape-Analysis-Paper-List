@@ -418,6 +418,9 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/abs/2103.16381)] Free-form Description Guided 3D Visual Graph Network for Object Grounding in Point Cloud [[github](https://github.com/PNXD/FFL-3DOG)]
+- [[CVPR2021](https://arxiv.org/pdf/2103.16544.pdf)] Visual Room Rearrangement [[Project](https://ai2thor.allenai.org/rearrangement/)]
+- [[Arxiv](https://arxiv.org/pdf/2103.11161.pdf)] MonteFloor: Extending MCTS for Reconstructing Accurate Large-Scale Floor Plans
 - [[Arxiv](https://arxiv.org/pdf/2103.03454.pdf)] Structured Scene Memory for Vision-Language Navigation
 - [[Arxiv](https://arxiv.org/pdf/2103.02574.pdf)] House-GAN++: Generative Adversarial Layout Refinement Networks
 - [[Arxiv](https://arxiv.org/pdf/2102.08945.pdf)] Weakly Supervised Learning of Rigid 3D Scene Flow
@@ -488,6 +491,11 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[CVPR2021](https://arxiv.org/abs/2103.11571)] Neural Lumigraph Rendering [[Project](http://www.computationalimaging.org/publications/nlr/)]
+- [[Arxiv](https://arxiv.org/abs/2103.13415)] Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields
+- [[Arxiv](https://arxiv.org/abs/2103.13744)] KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs
+- [[Arxiv](https://arxiv.org/abs/2103.14024)] PlenOctrees for Real-time Rendering of Neural Radiance Fields [[C++](https://github.com/sxyu/volrend)]
+- [[Arxiv](https://arxiv.org/abs/2103.12352)] iMAP: Implicit Mapping and Positioning in Real-Time
 - [[Arxiv](https://arxiv.org/pdf/2103.10380.pdf)] FastNeRF: High-Fidelity Neural Rendering at 200FPS
 - [[CVPR2021](https://arxiv.org/pdf/2103.07969.pdf)] Monte Carlo Scene Search for 3D Scene Understanding
 - [[CVPR2021](https://arxiv.org/abs/2103.06422v1)] Holistic 3D Scene Understanding from a Single Image with Implicit Representation
@@ -560,6 +568,8 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2103.10978)] Probabilistic 3D Human Shape and Pose Estimation from Multiple Unconstrained Images in the Wild
+- [[Arxiv](https://arxiv.org/pdf/2103.10455.pdf)] 3D Human Pose Estimation with Spatial and Temporal Transformers [[pytorch](https://github.com/zczcwh/PoseFormer)]
 - [[Arxiv](https://arxiv.org/abs/2103.10429)] Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks
 - [[Arxiv](https://arxiv.org/pdf/2103.10206.pdf)] DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer
 - [[Arxiv](https://arxiv.org/pdf/2103.09755.pdf)] Aggregated Multi-GANs for Controlled 3D Human Motion Prediction [[Project](https://github.com/herolvkd/AM-GAN)]
@@ -611,6 +621,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2103.10484.pdf)] Concentric Spherical GNN for 3D Representation Learning
 - [[Arxiv](https://arxiv.org/abs/2102.06171)] High-Performance Large-Scale Image Recognition Without Normalization
 - [[Arxiv](https://arxiv.org/pdf/2102.04776.pdf)] Generative Models as Distributions of Functions
 - [[Arxiv](https://arxiv.org/pdf/2102.04014.pdf)] Point-set Distances for Learning Representations of 3D Point Clouds
@@ -707,6 +718,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[CVPR2021](https://arxiv.org/pdf/2103.10814.pdf)] Skeleton Merger: an Unsupervised Aligned Keypoint Detector
 - [[CVPR2021](https://arxiv.org/pdf/2103.08468.pdf)] Beyond Image to Depth: Improving Depth Prediction using Echoes
 - [[CVPR2021](https://arxiv.org/abs/2103.07054)] FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism [[Project](https://github.com/DC1991/FS-Net)]
 - [[CVPR2021](https://arxiv.org/abs/2103.03114)] Self-supervised Geometric Perception
