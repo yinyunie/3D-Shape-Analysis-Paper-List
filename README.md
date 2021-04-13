@@ -21,6 +21,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[CVPR2021](https://arxiv.org/pdf/2103.13164v1.pdf)] M3DSSD: Monocular 3D Single Stage Object Detector
+- [[CVPR2021](https://arxiv.org/abs/2103.12605v2)] MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation
 - [[Arxiv](https://arxiv.org/pdf/2103.10042.pdf)] SparsePoint: Fully End-to-End Sparse 3D Object Detector
 - [[Arxiv](https://arxiv.org/abs/2103.10039)] RangeDet:In Defense of Range View for LiDAR-based 3D Object Detection
 - [[ICRA2021](https://arxiv.org/abs/2103.09422)] YOLOStereo3D: A Step Back to 2D for Efficient Stereo 3D Detection [[github](https://github.com/Owen-Liuyuxuan/visualDet3D)]
@@ -291,6 +293,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[CVPR2021](https://arxiv.org/abs/2104.00476)] Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors
+- [[Arxiv](https://arxiv.org/abs/2104.00482)] Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches
+- [[CVPR2021](https://arxiv.org/abs/2103.12266)] Deep Implicit Moving Least-Squares Functions for 3D Reconstruction [[Project](https://github.com/Andy97/DeepMLS)]
 - [[Arxiv](https://arxiv.org/pdf/2103.02766.pdf)] PC2WF: 3D WIREFRAME RECONSTRUCTION FROM RAW POINT CLOUDS
 - [[CVPR2021](https://arxiv.org/pdf/2103.01458.pdf)] Diffusion Probabilistic Models for 3D Point Cloud Generation
  [[Project](https://github.com/luost26/diffusion-point-cloud)]
@@ -491,6 +496,8 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2104.04532.pdf)] Neural RGB-D Surface Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2104.00024.pdf)] RetrievalFuse: Neural 3D Scene Reconstruction with a Database
 - [[CVPR2021](https://arxiv.org/abs/2103.11571)] Neural Lumigraph Rendering [[Project](http://www.computationalimaging.org/publications/nlr/)]
 - [[Arxiv](https://arxiv.org/abs/2103.13415)] Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields
 - [[Arxiv](https://arxiv.org/abs/2103.13744)] KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs
@@ -718,6 +725,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2103.13030v1.pdf)] Learning Fine-Grained Segmentation of 3D Shapes without Part Labels
 - [[CVPR2021](https://arxiv.org/pdf/2103.10814.pdf)] Skeleton Merger: an Unsupervised Aligned Keypoint Detector
 - [[CVPR2021](https://arxiv.org/pdf/2103.08468.pdf)] Beyond Image to Depth: Improving Depth Prediction using Echoes
 - [[CVPR2021](https://arxiv.org/abs/2103.07054)] FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism [[Project](https://github.com/DC1991/FS-Net)]
