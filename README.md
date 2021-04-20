@@ -466,6 +466,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2104.07986.pdf)] Learning to Reconstruct 3D Non-Cuboid Room Layout from a Single RGB Image [[pytorch](https://github.com/CYang0515/NonCuboidRoom)]
 - [[Arxiv](https://arxiv.org/pdf/2104.04891.pdf)] SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point Clouds with 1000× Fewer Labels [[github](https://github.com/QingyongHu/SQN)]
 - [[CVPR2021](https://arxiv.org/abs/2104.00798v1)] FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds
 - [[CVPR2021](https://arxiv.org/pdf/2103.16381v1.pdf)] Free-form Description Guided 3D Visual Graph Network for Object Grounding in Point Cloud [[github](https://github.com/PNXD/FFL-3DOG)]
@@ -666,6 +667,8 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/pdf/2104.04029.pdf)] TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild [[Project](http://somof.stanford.edu/results)]
+- [[CVPR2021](https://arxiv.org/pdf/2012.00619.pdf)] We are More than Our Joints: Predicting how 3D Bodies Move [[Project](https://yz-cnsdqz.github.io/MOJO/MOJO.html)]
 - [[CVPR2021](https://arxiv.org/pdf/2104.06849.pdf)] LEAP: Learning Articulated Occupancy of People [[Project](https://neuralbodies.github.io/LEAP/)]
 - [[Arxiv](https://arxiv.org/pdf/2104.07300.pdf)] 3DCrowdNet: 2D Human Pose-Guided 3D Crowd Human Pose and Shape Estimation in the Wild
 - [[CVPR2021](https://arxiv.org/abs/2104.07660)] SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements [[Project](https://qianlim.github.io/SCALE)]
@@ -704,8 +707,8 @@ from Multi-View Stereo
 - [[ICCV2019](https://arxiv.org/abs/1908.06963)] Resolving 3D Human Pose Ambiguities with 3D Scene Constraints [[Project](https://prox.is.tue.mpg.de/)]
 
 #### Before 2021
-https://arxiv.org/abs/2007.13666
-- [[ECCV2020](https://arxiv.org/pdf/2012.05522.pdf)] 3D Human Shape and Pose from a Single Low-Resolution Image with Self-Supervised Learning [[Project](https://sites.google.com/view/xiangyuxu/3d_eccv20)]
+- [[ECCV2020](https://arxiv.org/pdf/2007.11755.pdf)] History Repeats Itself: Human Motion Prediction via Motion Attention [[pytorch](https://github.com/wei-mao-2019/HisRepItself)]
+- [[ECCV2020](https://arxiv.org/abs/2007.13666)] 3D Human Shape and Pose from a Single Low-Resolution Image with Self-Supervised Learning [[Project](https://sites.google.com/view/xiangyuxu/3d_eccv20)]
 - [[Arxiv](https://arxiv.org/pdf/2012.05522.pdf)] Synthesizing Long-Term 3D Human Motion and Interaction in 3D Scenes [[Project](https://jiashunwang.github.io/Long-term-Motion-in-3D-Scenes/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.09760.pdf)] End-to-End Human Pose and Mesh Reconstruction with Transformers
 - [[Arxiv](https://arxiv.org/pdf/2012.09843.pdf)] Human Mesh Recovery from Multiple Shots [[Project](https://geopavlakos.github.io/multishot/)]
