@@ -22,6 +22,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[TPAMI](https://arxiv.org/abs/2104.08797)] MonoGRNet: A General Framework for Monocular 3D Object Detection
+- [[Arxiv](https://arxiv.org/abs/2104.09035)] Lidar Point Cloud Guided Monocular 3D Object Detection
 - [[Arxiv](https://arxiv.org/pdf/2104.05858.pdf)] Geometry-aware data augmentation for monocular 3D object detection
 - [[Arxiv](https://arxiv.org/abs/2104.06041)] OCM3D: Object-Centric Monocular 3D Object Detection
 - [[CVPR2021](https://arxiv.org/abs/2104.02323v1)] Objects are Different: Flexible Monocular 3D Object Detection [[github](https://github.com/zhangyp15/MonoFlex)]
@@ -246,6 +248,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[Arxiv](https://arxiv.org/abs/2104.09587)] ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion
+- [[CVPR2021](https://arxiv.org/pdf/2104.10154.pdf)] Variational Relational Point Completion Network [[Project](https://paul007pl.github.io/projects/VRCNet)]
 - [[CVPR2021](https://arxiv.org/abs/2104.05666)] View-Guided Point Cloud Completion
 - [[CVPR2021](https://arxiv.org/pdf/2104.03640v1.pdf)] Semantic Scene Completion via Integrating Instances and Scene in-the-Loop [[pytorch](https://github.com/yjcaimeow/SISNet)]
 - [[CVPR2021](https://arxiv.org/pdf/2103.16671v1.pdf)] Denoise and Contrast for Category Agnostic Shape Completion
@@ -324,6 +328,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2104.10078)] UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction
 - [[CVPR2021](https://arxiv.org/pdf/2104.06397.pdf)] Shape and Material Capture at Home
 - [[CVPR2021](https://arxiv.org/pdf/2104.05289.pdf)] StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision [[Project](https://hy1995.top/StereoPIFuProject/)]
 - [[Arxiv](https://arxiv.org/pdf/2104.05652.pdf)] CAPRI-Net: Learning Compact CAD Shapes with Adaptive Primitive Assembly
@@ -466,6 +471,9 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/abs/2104.11225)] Pri3D: Can 3D Priors Help 2D Representation Learning?
+- [[Arxiv](https://arxiv.org/abs/2104.09169)] LaLaLoc: Latent Layout Localisation in Dynamic, Unvisited Environments
+- [[CVPRW](https://arxiv.org/abs/2104.09403)] OmniLayout: Room Layout Reconstruction from Indoor Spherical Panoramas [[github](https://github.com/rshivansh/OmniLayout)]
 - [[Arxiv](https://arxiv.org/pdf/2104.07986.pdf)] Learning to Reconstruct 3D Non-Cuboid Room Layout from a Single RGB Image [[pytorch](https://github.com/CYang0515/NonCuboidRoom)]
 - [[Arxiv](https://arxiv.org/pdf/2104.04891.pdf)] SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point Clouds with 1000× Fewer Labels [[github](https://github.com/QingyongHu/SQN)]
 - [[CVPR2021](https://arxiv.org/abs/2104.00798v1)] FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds
@@ -556,6 +564,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2009.03964.pdf)] Joint Pose and Shape Estimation of Vehicles from LiDAR Data
 - [[CVPR2021](https://arxiv.org/pdf/2104.00681v1.pdf)] NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video [[Project](https://zju3dv.github.io/neuralrecon/)]
 - [[Arxiv](https://arxiv.org/abs/2103.14275v1)] DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[pytorch](https://github.com/Tangshengku/DDR-Net)]
 - [[Arxiv](https://arxiv.org/pdf/2103.14644v1.pdf)] Planar Surface Reconstruction from Sparse Views [[Project](https://jinlinyi.github.io/SparsePlanes/)]
@@ -586,7 +595,7 @@ Forecasting with a Single Convolutional Net
 - [[Arxiv](https://arxiv.org/pdf/2012.11575.pdf)] From Points to Multi-Object 3D Reconstruction
 - [[Arxiv](https://worldsheet.github.io/resources/worldsheet.pdf)] Worldsheet: Wrapping the World in a 3D Sheet
 for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)]
-- [[Arxiv](https://arxiv.org/pdf/2012.09793.pdf)] SceneFormer: Indoor Scene Generation with Transformers
+- [[Arxiv](https://arxiv.org/pdf/2012.09793.pdf)] SceneFormer: Indoor Scene Generation with Transformers [[pytorch](https://github.com/cy94/sceneformer)]
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/b4b758962f17808746e9bb832a6fa4b8-Paper.pdf)] Neural Sparse Voxel Fields [[Project](https://lingjie0206.github.io/papers/NSVF/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.02094.pdf?fbclid=IwAR03XwEdhXUl2lsLr20dOnFEsnthPBbdVi9VHDni6CYnhH9glzGaooU-DHM)] Towards Part-Based Understanding of RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/2011.05813.pdf)] Dynamic Plane Convolutional Occupancy Networks
@@ -846,6 +855,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2104.11207.pdf)] Fully Convolutional Line Parsing [[pytorch](https://github.com/Delay-Xili/F-Clip)]
 - [[CVPR2021](https://arxiv.org/pdf/2104.07350.pdf)] Depth Completion using Plane-Residual Representation
 - [[Arxiv](https://arxiv.org/pdf/2104.05764.pdf)] Domain Adaptive Monocular Depth Estimation With Semantic Information
 - [[CVPR2021](https://arxiv.org/pdf/2104.02253v2.pdf)] Depth Completion with Twin Surface Extrapolation at Occlusion Boundaries [[github](https://github.com/imransai/TWISE)]
