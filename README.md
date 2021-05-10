@@ -22,6 +22,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/abs/2105.00268)] Lite-FPN for Keypoint-based Monocular 3D Object Detection
 - [[TPAMI](https://arxiv.org/abs/2104.08797)] MonoGRNet: A General Framework for Monocular 3D Object Detection
 - [[Arxiv](https://arxiv.org/abs/2104.09035)] Lidar Point Cloud Guided Monocular 3D Object Detection
 - [[Arxiv](https://arxiv.org/pdf/2104.05858.pdf)] Geometry-aware data augmentation for monocular 3D object detection
@@ -248,6 +249,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[Arxiv](https://arxiv.org/abs/2105.01905)] 4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface [[Project](https://github.com/rabbityl/DeformingThings4D)]
+- [[CVPR2021](https://arxiv.org/pdf/2104.13366.pdf)] Unsupervised 3D Shape Completion through GAN Inversion [[Project](https://junzhezhang.github.io/projects/ShapeInversion/)]
 - [[Arxiv](https://arxiv.org/abs/2104.09587)] ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion
 - [[CVPR2021](https://arxiv.org/pdf/2104.10154.pdf)] Variational Relational Point Completion Network [[Project](https://paul007pl.github.io/projects/VRCNet)]
 - [[CVPR2021](https://arxiv.org/abs/2104.05666)] View-Guided Point Cloud Completion
@@ -328,6 +331,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[IJCAI2021](https://arxiv.org/pdf/2104.14769.pdf)] PointLIE: Locally Invertible Embedding for Point Cloud Sampling and Recovery
 - [[Arxiv](https://arxiv.org/abs/2104.10078)] UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction
 - [[CVPR2021](https://arxiv.org/pdf/2104.06397.pdf)] Shape and Material Capture at Home
 - [[CVPR2021](https://arxiv.org/pdf/2104.05289.pdf)] StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision [[Project](https://hy1995.top/StereoPIFuProject/)]
@@ -471,6 +475,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2105.01061.pdf)] Collision Replay: What Does Bumping Into Things Tell You About Scene Geometry? [[Project](https://fouheylab.eecs.umich.edu/~alexrais/collisionreplay/)]
 - [[Arxiv](https://arxiv.org/abs/2104.11225)] Pri3D: Can 3D Priors Help 2D Representation Learning?
 - [[Arxiv](https://arxiv.org/abs/2104.09169)] LaLaLoc: Latent Layout Localisation in Dynamic, Unvisited Environments
 - [[CVPRW](https://arxiv.org/abs/2104.09403)] OmniLayout: Room Layout Reconstruction from Indoor Spherical Panoramas [[github](https://github.com/rshivansh/OmniLayout)]
@@ -676,6 +681,7 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[CVPR2021](https://arxiv.org/abs/2105.01859)] Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors [[Project](http://www.liuyebin.com/Function4D/Function4D.html)]
 - [[Arxiv](https://arxiv.org/pdf/2104.04029.pdf)] TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild [[Project](http://somof.stanford.edu/results)]
 - [[CVPR2021](https://arxiv.org/pdf/2012.00619.pdf)] We are More than Our Joints: Predicting how 3D Bodies Move [[Project](https://yz-cnsdqz.github.io/MOJO/MOJO.html)]
 - [[CVPR2021](https://arxiv.org/pdf/2104.06849.pdf)] LEAP: Learning Articulated Occupancy of People [[Project](https://neuralbodies.github.io/LEAP/)]
@@ -742,8 +748,27 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 
 
+
+
+
+
+
+
+
+
+
 ---
 ## General Methods
+- [[Siggraph2021](https://arxiv.org/pdf/2105.02788.pdf)] Acorn: Adaptive Coordinate Networks for Neural Scene Representation
+- [[Arxiv](https://arxiv.org/pdf/2105.01288.pdf)] Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis [[Project](https://curvenet.github.io/)]
+- [[Arxiv](https://arxiv.org/pdf/2105.03404.pdf)] ResMLP: Feedforward networks for image classification with data-efficient training
+- [[Arxiv](https://arxiv.org/abs/2105.01883)] RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition
+- [[Arxiv](https://arxiv.org/abs/2105.01601)] MLP-Mixer: An all-MLP Architecture for Vision
+- [[Arxiv](https://arxiv.org/pdf/2104.12229.pdf)] Vector Neurons: A General Framework for SO(3)-Equivariant Networks
+- [[CVPR2021](https://arxiv.org/pdf/2104.14554.pdf)] MongeNet: Efficient Sampler for Geometric Deep Learning [[Project](https://lebrat.github.io/MongeNet/)]
+- [[Arxiv](https://arxiv.org/pdf/2104.13636.pdf)] Point Cloud Learning with Transformer
+- [[Arxiv](https://arxiv.org/abs/2104.13044)] Dual Transformer for Point Cloud Analysis
+- [[Arxiv](https://arxiv.org/pdf/2104.11571v1.pdf)] AttWalk: Attentive Cross-Walks for Deep Mesh Analysis
 - [[Arxiv](https://arxiv.org/pdf/2104.04687.pdf)] Learning from 2D: Pixel-to-Point Knowledge Transfer for 3D Pretraining
 - [[Arxiv](https://arxiv.org/pdf/2104.03916v1.pdf)] Field Convolutions for Surface CNNs
 - [[Arxiv](https://arxiv.org/pdf/2103.16302v1.pdf)] Rethinking Spatial Dimensions of Vision Transformers [[pytorch](https://github.com/naver-ai/pit)] :fire:
@@ -759,6 +784,8 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 - [[3DV2020](https://arxiv.org/pdf/2101.00483.pdf)] Learning Rotation-Invariant Representations of Point Clouds Using Aligned Edge Convolutional Neural Networks
 
 #### Before 2021
+- [[ICCV2019](https://arxiv.org/abs/1908.09186)] Efficient Learning on Point Clouds with Basis Point Sets [[pytorch](https://github.com/sergeyprokudin/bps)]
+- [[CVPR2019](https://arxiv.org/abs/1812.07035)] On the Continuity of Rotation Representations in Neural Networks [[pytorch](https://github.com/papagina/RotationContinuity)]
 - [[Arxiv](https://arxiv.org/pdf/2012.00888.pdf)] Diffusion is All You Need for Learning on Surfaces
 - [[Arxiv](https://arxiv.org/pdf/2012.04439.pdf)] SPU-Net: Self-Supervised Point Cloud Upsampling by Coarse-to-Fine Reconstruction with Self-Projection Optimization
 - [[3DV2020](https://arxiv.org/pdf/2012.04048.pdf)] Rotation-Invariant Point Convolution With Multiple Equivariant Alignments
@@ -855,6 +882,8 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Siggraph2021](https://arxiv.org/abs/2105.01604)] Orienting Point Clouds with Dipole Propagation
+- [[CVPR2021](https://arxiv.org/abs/2104.14540)] The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth
 - [[Arxiv](https://arxiv.org/pdf/2104.11207.pdf)] Fully Convolutional Line Parsing [[pytorch](https://github.com/Delay-Xili/F-Clip)]
 - [[CVPR2021](https://arxiv.org/pdf/2104.07350.pdf)] Depth Completion using Plane-Residual Representation
 - [[Arxiv](https://arxiv.org/pdf/2104.05764.pdf)] Domain Adaptive Monocular Depth Estimation With Semantic Information
