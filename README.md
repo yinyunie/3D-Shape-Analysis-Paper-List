@@ -22,6 +22,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[CVPR2021](https://arxiv.org/pdf/2105.06461.pdf)] 3D Spatial Recognition without Spatially Labeled 3D [[Probabilistic](https://facebookresearch.github.io/WyPR/)]
 - [[Arxiv](https://arxiv.org/abs/2105.00268)] Lite-FPN for Keypoint-based Monocular 3D Object Detection
 - [[TPAMI](https://arxiv.org/abs/2104.08797)] MonoGRNet: A General Framework for Monocular 3D Object Detection
 - [[Arxiv](https://arxiv.org/abs/2104.09035)] Lidar Point Cloud Guided Monocular 3D Object Detection
@@ -331,6 +332,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2105.03582.pdf)] Sign-Agnostic CONet: Learning Implicit Surface Reconstructions by Sign-Agnostic Optimization of Convolutional Occupancy Networks
 - [[IJCAI2021](https://arxiv.org/pdf/2104.14769.pdf)] PointLIE: Locally Invertible Embedding for Point Cloud Sampling and Recovery
 - [[Arxiv](https://arxiv.org/abs/2104.10078)] UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction
 - [[CVPR2021](https://arxiv.org/pdf/2104.06397.pdf)] Shape and Material Capture at Home
@@ -475,6 +477,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/pdf/2105.04447.pdf)] SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation
 - [[Arxiv](https://arxiv.org/pdf/2105.01061.pdf)] Collision Replay: What Does Bumping Into Things Tell You About Scene Geometry? [[Project](https://fouheylab.eecs.umich.edu/~alexrais/collisionreplay/)]
 - [[Arxiv](https://arxiv.org/abs/2104.11225)] Pri3D: Can 3D Priors Help 2D Representation Learning?
 - [[Arxiv](https://arxiv.org/abs/2104.09169)] LaLaLoc: Latent Layout Localisation in Dynamic, Unvisited Environments
@@ -648,6 +651,8 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2105.05994)] Neural Trajectory Fields for Dynamic Novel View Synthesis
+- [[Arxiv](http://editnerf.csail.mit.edu/paper.pdf)] Editing Conditional Radiance Fields [[Project](http://editnerf.csail.mit.edu/)]
 - [[CVPR2021](https://arxiv.org/abs/2104.06935)] Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes
 - [[Arxiv](https://arxiv.org/pdf/2103.15606v2.pdf)] GNeRF: GAN-based Neural Radiance Field without Posed Camera 
 - [[Arxiv](https://arxiv.org/pdf/2104.06405.pdf)] BARF: Bundle-Adjusting Neural Radiance Fields [[Project](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/)]
