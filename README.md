@@ -332,6 +332,10 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[CVPR2021](https://arxiv.org/abs/2105.09396)] Birds of a Feather: Capturing Avian Shape Models from Images [[Project](https://yufu-wang.github.io/aves/)]
+- [[Arxiv](https://arxiv.org/pdf/2105.09492.pdf)] DeepCAD: A Deep Generative Network for Computer-Aided Design Models
+- [[Arxiv](https://arxiv.org/pdf/2105.08016.pdf)] StrobeNet: Category-Level Multiview Reconstruction of Articulated Objects
+- [[CVPR2021](https://arxiv.org/pdf/2105.06663.pdf)] Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches
 - [[Arxiv](https://arxiv.org/pdf/2105.03582.pdf)] Sign-Agnostic CONet: Learning Implicit Surface Reconstructions by Sign-Agnostic Optimization of Convolutional Occupancy Networks
 - [[IJCAI2021](https://arxiv.org/pdf/2104.14769.pdf)] PointLIE: Locally Invertible Embedding for Point Cloud Sampling and Recovery
 - [[Arxiv](https://arxiv.org/abs/2104.10078)] UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction
@@ -477,6 +481,11 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[ICRA2021](https://arxiv.org/abs/2105.09932)] Efficient and Robust LiDAR-Based End-to-End Navigation [[Project](https://le2ed.mit.edu/)]
+- [[ICLR2021](https://arxiv.org/pdf/2105.09447.pdf)] VTNet: Visual Transformer Network for Object Goal Navigation
+- [[CVPR2021](https://arxiv.org/abs/2105.08248)] Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Optimal Transport and Random Walk
+- [[CVPR2021](https://arxiv.org/abs/2105.07751)] HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding
+- [[Arxiv](https://arxiv.org/pdf/2105.07147.pdf)] FloorPlanCAD: A Large-Scale CAD Drawing Dataset for Panoptic Symbol Spotting
 - [[Arxiv](https://arxiv.org/pdf/2105.04447.pdf)] SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation
 - [[Arxiv](https://arxiv.org/pdf/2105.01061.pdf)] Collision Replay: What Does Bumping Into Things Tell You About Scene Geometry? [[Project](https://fouheylab.eecs.umich.edu/~alexrais/collisionreplay/)]
 - [[Arxiv](https://arxiv.org/abs/2104.11225)] Pri3D: Can 3D Priors Help 2D Representation Learning?
@@ -572,6 +581,8 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[CVPR2021](https://arxiv.org/abs/2105.08612)] SAIL-VOS 3D: A Synthetic Dataset and Baselines for Object Detection and 3D Mesh Reconstruction from Video Data [[Project](http://sailvos.web.illinois.edu/_site/index.html)]
+- [[Arxiv](https://arxiv.org/abs/2105.08052)] The Boombox: Visual Reconstruction from Acoustic Vibrations [[Project](https://boombox.cs.columbia.edu/)]
 - [[Arxiv](https://arxiv.org/pdf/2009.03964.pdf)] Joint Pose and Shape Estimation of Vehicles from LiDAR Data
 - [[CVPR2021](https://arxiv.org/pdf/2104.00681v1.pdf)] NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video [[Project](https://zju3dv.github.io/neuralrecon/)]
 - [[Arxiv](https://arxiv.org/abs/2103.14275v1)] DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[pytorch](https://github.com/Tangshengku/DDR-Net)]
@@ -686,6 +697,7 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/pdf/2105.08715.pdf)] Human Motion Prediction Using Manifold-Aware Wasserstein GAN
 - [[CVPR2021](https://arxiv.org/abs/2105.01859)] Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors [[Project](http://www.liuyebin.com/Function4D/Function4D.html)]
 - [[Arxiv](https://arxiv.org/pdf/2104.04029.pdf)] TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild [[Project](http://somof.stanford.edu/results)]
 - [[CVPR2021](https://arxiv.org/pdf/2012.00619.pdf)] We are More than Our Joints: Predicting how 3D Bodies Move [[Project](https://yz-cnsdqz.github.io/MOJO/MOJO.html)]
@@ -764,8 +776,10 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2105.07926)] Rethinking the Design Principles of Robust Vision Transformer [[pytorch](https://github.com/vtddggg/Robust-Vision-Transformer)]
 - [[Siggraph2021](https://arxiv.org/pdf/2105.02788.pdf)] Acorn: Adaptive Coordinate Networks for Neural Scene Representation
 - [[Arxiv](https://arxiv.org/pdf/2105.01288.pdf)] Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis [[Project](https://curvenet.github.io/)]
+- [[Arxiv](https://arxiv.org/pdf/2105.08050.pdf)] Pay Attention to MLPs
 - [[Arxiv](https://arxiv.org/pdf/2105.03404.pdf)] ResMLP: Feedforward networks for image classification with data-efficient training
 - [[Arxiv](https://arxiv.org/abs/2105.01883)] RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition
 - [[Arxiv](https://arxiv.org/abs/2105.01601)] MLP-Mixer: An all-MLP Architecture for Vision
@@ -887,6 +901,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[ICRA2021](https://arxiv.org/abs/2105.07468)] TSDF++: A Multi-Object Formulation for Dynamic Object Tracking and Reconstruction [[github](https://github.com/ethz-asl/tsdf-plusplus)]
 - [[Siggraph2021](https://arxiv.org/abs/2105.01604)] Orienting Point Clouds with Dipole Propagation
 - [[CVPR2021](https://arxiv.org/abs/2104.14540)] The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth
 - [[Arxiv](https://arxiv.org/pdf/2104.11207.pdf)] Fully Convolutional Line Parsing [[pytorch](https://github.com/Delay-Xili/F-Clip)]
