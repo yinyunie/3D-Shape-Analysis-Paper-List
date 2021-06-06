@@ -22,7 +22,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
-- [[CVPR2021](https://arxiv.org/pdf/2105.06461.pdf)] 3D Spatial Recognition without Spatially Labeled 3D [[Probabilistic](https://facebookresearch.github.io/WyPR/)]
+- [[Arxiv](https://arxiv.org/abs/2106.01178)] ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection [[Project](https://github.com/saic-vul/imvoxelnet)]
+- [[CVPR2021](https://arxiv.org/pdf/2105.06461.pdf)] 3D Spatial Recognition without Spatially Labeled 3D [[Project](https://facebookresearch.github.io/WyPR/)]
 - [[Arxiv](https://arxiv.org/abs/2105.00268)] Lite-FPN for Keypoint-based Monocular 3D Object Detection
 - [[TPAMI](https://arxiv.org/abs/2104.08797)] MonoGRNet: A General Framework for Monocular 3D Object Detection
 - [[Arxiv](https://arxiv.org/abs/2104.09035)] Lidar Point Cloud Guided Monocular 3D Object Detection
@@ -250,6 +251,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[TVCG2021](https://arxiv.org/abs/2106.00329)] Consistent Two-Flow Network for Tele-Registration of Point Clouds [[Project](https://vcc.tech/research/2021/CTFNet)]
 - [[Arxiv](https://arxiv.org/abs/2105.01905)] 4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface [[Project](https://github.com/rabbityl/DeformingThings4D)]
 - [[CVPR2021](https://arxiv.org/pdf/2104.13366.pdf)] Unsupervised 3D Shape Completion through GAN Inversion [[Project](https://junzhezhang.github.io/projects/ShapeInversion/)]
 - [[Arxiv](https://arxiv.org/abs/2104.09587)] ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion
@@ -332,6 +334,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[IJCAI2021](https://arxiv.org/pdf/2106.01553.pdf)] Spline Positional Encoding for Learning 3D Implicit Signed Distance Fields
+- [[Arxiv](https://arxiv.org/pdf/2105.14548.pdf)] Z2P: Instant Rendering of Point Clouds
+- [[CVPR2021](https://arxiv.org/abs/2105.11599)] Multi-view 3D Reconstruction of a Texture-less Smooth Surface of Unknown Generic Reflectance
 - [[CVPR2021](https://arxiv.org/abs/2105.09396)] Birds of a Feather: Capturing Avian Shape Models from Images [[Project](https://yufu-wang.github.io/aves/)]
 - [[Arxiv](https://arxiv.org/pdf/2105.09492.pdf)] DeepCAD: A Deep Generative Network for Computer-Aided Design Models
 - [[Arxiv](https://arxiv.org/pdf/2105.08016.pdf)] StrobeNet: Category-Level Multiview Reconstruction of Articulated Objects
@@ -581,6 +586,9 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2106.00912)] Translational Symmetry-Aware Facade Parsing for 3D Building Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2105.13509)] Learning to Stylize Novel Views [[Project](https://hhsinping.github.io/3d_scene_stylization/)]
+- [[Arxiv](https://arxiv.org/pdf/2105.13016.pdf)] Stylizing 3D Scene via Implicit Representation and HyperNetwork
 - [[CVPR2021](https://arxiv.org/abs/2105.08612)] SAIL-VOS 3D: A Synthetic Dataset and Baselines for Object Detection and 3D Mesh Reconstruction from Video Data [[Project](http://sailvos.web.illinois.edu/_site/index.html)]
 - [[Arxiv](https://arxiv.org/abs/2105.08052)] The Boombox: Visual Reconstruction from Acoustic Vibrations [[Project](https://boombox.cs.columbia.edu/)]
 - [[Arxiv](https://arxiv.org/pdf/2009.03964.pdf)] Joint Pose and Shape Estimation of Vehicles from LiDAR Data
@@ -662,6 +670,7 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/pdf/2106.01970.pdf)] NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination [[Project](https://people.csail.mit.edu/xiuming/projects/nerfactor/)]
 - [[Arxiv](https://arxiv.org/abs/2105.05994)] Neural Trajectory Fields for Dynamic Novel View Synthesis
 - [[Arxiv](http://editnerf.csail.mit.edu/paper.pdf)] Editing Conditional Radiance Fields [[Project](http://editnerf.csail.mit.edu/)]
 - [[CVPR2021](https://arxiv.org/abs/2104.06935)] Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes
@@ -697,6 +706,8 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/pdf/2106.02019.pdf)] Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control
+- [[Arxiv](https://arxiv.org/pdf/2105.14804.pdf)] Scene-aware Generative Network for Human Motion Synthesis
 - [[Arxiv](https://arxiv.org/pdf/2105.08715.pdf)] Human Motion Prediction Using Manifold-Aware Wasserstein GAN
 - [[CVPR2021](https://arxiv.org/abs/2105.01859)] Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors [[Project](http://www.liuyebin.com/Function4D/Function4D.html)]
 - [[Arxiv](https://arxiv.org/pdf/2104.04029.pdf)] TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild [[Project](http://somof.stanford.edu/results)]
@@ -776,6 +787,8 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2106.00227.pdf)] VA-GCN: A Vector Attention Graph Convolution Network for learning on Point Clouds [[pytorch](https://github.com/hht1996ok/VA-GCN)]
+- [[Arxiv](https://arxiv.org/pdf/2105.12723.pdf)] Aggregating Nested Transformers
 - [[Arxiv](https://arxiv.org/abs/2105.07926)] Rethinking the Design Principles of Robust Vision Transformer [[pytorch](https://github.com/vtddggg/Robust-Vision-Transformer)]
 - [[Siggraph2021](https://arxiv.org/pdf/2105.02788.pdf)] Acorn: Adaptive Coordinate Networks for Neural Scene Representation
 - [[Arxiv](https://arxiv.org/pdf/2105.01288.pdf)] Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis [[Project](https://curvenet.github.io/)]
@@ -1012,6 +1025,7 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/abs/2105.13962)] NViSII: A Scriptable Tool for Photorealistic Image Generation [[github](https://github.com/owl-project/NVISII)]
 - [[Dataset](https://github.com/bertjiazheng/Structured3D)] Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling
 - [[Survey](https://arxiv.org/pdf/2103.07466.pdf)] 3D Semantic Scene Completion: a Survey
 - [[Survey](https://arxiv.org/pdf/2103.05423v2.pdf)] Deep Learning based 3D Segmentation: A Survey
