@@ -251,6 +251,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[CVPR2021](https://arxiv.org/abs/2106.04779v1)] Point Cloud Upsampling via Disentangled Refinement [[github](https://github.com/liruihui/Dis-PU)]
 - [[TVCG2021](https://arxiv.org/abs/2106.00329)] Consistent Two-Flow Network for Tele-Registration of Point Clouds [[Project](https://vcc.tech/research/2021/CTFNet)]
 - [[Arxiv](https://arxiv.org/abs/2105.01905)] 4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface [[Project](https://github.com/rabbityl/DeformingThings4D)]
 - [[CVPR2021](https://arxiv.org/pdf/2104.13366.pdf)] Unsupervised 3D Shape Completion through GAN Inversion [[Project](https://junzhezhang.github.io/projects/ShapeInversion/)]
@@ -334,6 +335,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2106.06533v1)] View Generalization for Single Image Textured 3D Models [[Project](https://nv-adlr.github.io/view-generalization)]
+- [[Arxiv](https://arxiv.org/pdf/2106.03452v1.pdf)] Shape As Points: A Differentiable Poisson Solver
+- [[Arxiv](https://arxiv.org/pdf/2106.03087v1.pdf)] Neural Implicit 3D Shapes from Single Images with Spatial Patterns
 - [[IJCAI2021](https://arxiv.org/pdf/2106.01553.pdf)] Spline Positional Encoding for Learning 3D Implicit Signed Distance Fields
 - [[Arxiv](https://arxiv.org/pdf/2105.14548.pdf)] Z2P: Instant Rendering of Point Clouds
 - [[CVPR2021](https://arxiv.org/abs/2105.11599)] Multi-view 3D Reconstruction of a Texture-less Smooth Surface of Unknown Generic Reflectance
@@ -586,6 +590,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[CVPR2021](https://arxiv.org/abs/2106.05375v1)] Plan2Scene: Converting Floorplans to 3D Scenes [[Project](https://3dlg-hcvc.github.io/plan2scene/)]
 - [[Arxiv](https://arxiv.org/abs/2106.00912)] Translational Symmetry-Aware Facade Parsing for 3D Building Reconstruction
 - [[Arxiv](https://arxiv.org/abs/2105.13509)] Learning to Stylize Novel Views [[Project](https://hhsinping.github.io/3d_scene_stylization/)]
 - [[Arxiv](https://arxiv.org/pdf/2105.13016.pdf)] Stylizing 3D Scene via Implicit Representation and HyperNetwork
@@ -670,6 +675,7 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2106.05264v1)] NeRF in detail: Learning to sample for view synthesis
 - [[Arxiv](https://arxiv.org/pdf/2106.01970.pdf)] NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination [[Project](https://people.csail.mit.edu/xiuming/projects/nerfactor/)]
 - [[Arxiv](https://arxiv.org/abs/2105.05994)] Neural Trajectory Fields for Dynamic Novel View Synthesis
 - [[Arxiv](http://editnerf.csail.mit.edu/paper.pdf)] Editing Conditional Radiance Fields [[Project](http://editnerf.csail.mit.edu/)]
@@ -787,6 +793,9 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[ICML2021](https://arxiv.org/pdf/2106.05304v1.pdf)] Revisiting Point Cloud Shape Classification with a Simple and Effective Baseline [[pytorch](https://github.com/princeton-vl/SimpleView)]
+- [[Arxiv](https://arxiv.org/abs/2106.03804v1)] Deep Medial Fields
+- [[Arxiv](https://arxiv.org/pdf/2106.02285v1.pdf)] Subdivision-Based Mesh Convolution Networks [[Jittor](https://github.com/lzhengning/SubdivNet)]
 - [[Arxiv](https://arxiv.org/pdf/2106.00227.pdf)] VA-GCN: A Vector Attention Graph Convolution Network for learning on Point Clouds [[pytorch](https://github.com/hht1996ok/VA-GCN)]
 - [[Arxiv](https://arxiv.org/pdf/2105.12723.pdf)] Aggregating Nested Transformers
 - [[Arxiv](https://arxiv.org/abs/2105.07926)] Rethinking the Design Principles of Robust Vision Transformer [[pytorch](https://github.com/vtddggg/Robust-Vision-Transformer)]
@@ -912,8 +921,12 @@ Object Detection via Transformer Decoder
 
 
 
+
+
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[ICML2021](https://arxiv.org/pdf/2106.05965v1.pdf)] Implicit-PDF: Non-Parametric Representation of Probability Distributions on the Rotation Manifold [[Project](https://implicit-pdf.github.io/)]
+- [[ICRA2021](https://arxiv.org/pdf/2106.03010v1.pdf)] An Adaptive Framework For Learning Unsupervised Depth Completion [[github](https://github.com/alexklwong/adaframe-depth-completion)] [[github](https://github.com/alexklwong/learning-topology-synthetic-data)]
 - [[ICRA2021](https://arxiv.org/abs/2105.07468)] TSDF++: A Multi-Object Formulation for Dynamic Object Tracking and Reconstruction [[github](https://github.com/ethz-asl/tsdf-plusplus)]
 - [[Siggraph2021](https://arxiv.org/abs/2105.01604)] Orienting Point Clouds with Dipole Propagation
 - [[CVPR2021](https://arxiv.org/abs/2104.14540)] The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth
@@ -1025,6 +1038,7 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/abs/2106.03805)] 3DB: A Framework for Debugging Computer Vision Models [[github](https://github.com/3db/3db)]
 - [[Arxiv](https://arxiv.org/abs/2105.13962)] NViSII: A Scriptable Tool for Photorealistic Image Generation [[github](https://github.com/owl-project/NVISII)]
 - [[Dataset](https://github.com/bertjiazheng/Structured3D)] Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling
 - [[Survey](https://arxiv.org/pdf/2103.07466.pdf)] 3D Semantic Scene Completion: a Survey
