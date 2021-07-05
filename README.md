@@ -22,6 +22,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[CVPR2021](https://arxiv.org/abs/2106.13365v1)] RSN: Range Sparse Net for Efficient, Accurate LiDAR 3D Object Detection
+- [[Arxiv](https://arxiv.org/abs/2106.06882v1)] Sparse PointPillars: Exploiting Sparsity in Birds-Eye-View Object Detection
 - [[Arxiv](https://arxiv.org/abs/2106.01178)] ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection [[Project](https://github.com/saic-vul/imvoxelnet)]
 - [[CVPR2021](https://arxiv.org/pdf/2105.06461.pdf)] 3D Spatial Recognition without Spatially Labeled 3D [[Project](https://facebookresearch.github.io/WyPR/)]
 - [[Arxiv](https://arxiv.org/abs/2105.00268)] Lite-FPN for Keypoint-based Monocular 3D Object Detection
@@ -37,7 +39,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR2021](https://arxiv.org/pdf/2104.06114.pdf)] Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds [[pytorch](https://github.com/cheng052/BRNet)]
 - [[CVPR2021](https://arxiv.org/pdf/2103.16470v1.pdf)] Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection [[github](https://github.com/fudan-zvg/DDMP)]
 - [[CVPR2021](https://arxiv.org/pdf/2103.16237v1.pdf)] Delving into Localization Errors for Monocular 3D Object Detection [[github](https://github.com/xinzhuma/monodle)]
-- [[Arxiv](https://arxiv.org/pdf/2103.16054v1.pdf)] 3D-MAN: 3D Multi-frame Attention Network for Object Detection
+- [[CVPR2021](https://arxiv.org/pdf/2103.16054v1.pdf)] 3D-MAN: 3D Multi-frame Attention Network for Object Detection
 - [[CVPR2021](https://arxiv.org/pdf/2103.15297v1.pdf)] LiDAR R-CNN: An Efficient and Universal 3D Object Detector [[github](https://github.com/tusimple/LiDAR_RCNN)]
 - [[CVPR2021](https://arxiv.org/pdf/2012.04355v2.pdf)] 3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection [[pytorch](https://github.com/THU17cyz/3DIoUMatch)]
 - [[CVPR2021](https://arxiv.org/pdf/2103.13164v1.pdf)] M3DSSD: Monocular 3D Single Stage Object Detector
@@ -263,6 +265,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 - [[CVPR2021](https://arxiv.org/pdf/2103.07838.pdf)] Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding
 - [[CVPR2021](https://arxiv.org/abs/2012.03408v2)] PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths
 - [[CVPR2021](https://arxiv.org/pdf/2103.02535.pdf)] Style-based Point Generator with Adversarial Rendering for Point Cloud Completion
+- [[Arxiv](https://arxiv.org/pdf/2008.03404.pdf)] VPC-Net: Completion of 3D Vehicles from MLS Point Clouds
 
 #### Before 2021
 - [[Arxiv](https://arxiv.org/pdf/2012.03408.pdf)] PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths
@@ -335,6 +338,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2106.12102v1.pdf)] LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2106.08762v1.pdf)] Shape from Blur: Recovering Textured 3D Shape and Motion of Fast Moving Objects
 - [[Arxiv](https://arxiv.org/abs/2106.06533v1)] View Generalization for Single Image Textured 3D Models [[Project](https://nv-adlr.github.io/view-generalization)]
 - [[Arxiv](https://arxiv.org/pdf/2106.03452v1.pdf)] Shape As Points: A Differentiable Poisson Solver
 - [[Arxiv](https://arxiv.org/pdf/2106.03087v1.pdf)] Neural Implicit 3D Shapes from Single Images with Spatial Patterns
@@ -383,7 +388,7 @@ Modeling, Segmentation, and Reconstruction [[Project](http://cvlab.cse.msu.edu/p
 - [[Arxiv](https://arxiv.org/pdf/2011.13650.pdf)] Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence
 - [[Arxiv](https://arxiv.org/pdf/2011.13961.pdf)] D-NeRF: Neural Radiance Fields for Dynamic Scenes
 - [[Arxiv](https://arxiv.org/pdf/2011.03277.pdf)] Modular Primitives for High-Performance Differentiable Rendering
-- [[Arxiv](https://arxiv.org/pdf/2011.14791.pdf)] NeuralFusion: Online Depth Fusion in Latent Space
+- [[CVPR2021](https://arxiv.org/pdf/2011.14791.pdf)] NeuralFusion: Online Depth Fusion in Latent Space
 - [[Arxiv](https://arxiv.org/abs/2012.12247)] Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video [[Project](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/)]
 - [[NeurIPS2020](https://arxiv.org/abs/2007.15627)] Continuous Object Representation Networks: Novel View Synthesis without Target View Supervision [[Project](https://nicolaihaeni.github.io/corn/)]
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/83fa5a432ae55c253d0e60dbfa716723-Paper.pdf)] SDF-SRN: Learning Signed Distance 3D Object Reconstruction from Static Images [[Project](https://chenhsuanlin.bitbucket.io/signed-distance-SRN/)]
@@ -490,6 +495,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/html/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper.html)] Zillow Indoor Dataset: Annotated Floor Plans With 360deg Panoramas and 3D Room Layouts [[github](https://github.com/zillow/zind)]
 - [[ICRA2021](https://arxiv.org/abs/2105.09932)] Efficient and Robust LiDAR-Based End-to-End Navigation [[Project](https://le2ed.mit.edu/)]
 - [[ICLR2021](https://arxiv.org/pdf/2105.09447.pdf)] VTNet: Visual Transformer Network for Object Goal Navigation
 - [[CVPR2021](https://arxiv.org/abs/2105.08248)] Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Optimal Transport and Random Walk
@@ -590,6 +596,8 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2106.10689v1.pdf)] NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction
+- [[CVPR2021](https://arxiv.org/pdf/2106.06629v1.pdf)] Mirror3D: Depth Refinement for Mirror Surfaces [[Project](https://3dlg-hcvc.github.io/mirror3d/#/)]
 - [[CVPR2021](https://arxiv.org/abs/2106.05375v1)] Plan2Scene: Converting Floorplans to 3D Scenes [[Project](https://3dlg-hcvc.github.io/plan2scene/)]
 - [[Arxiv](https://arxiv.org/abs/2106.00912)] Translational Symmetry-Aware Facade Parsing for 3D Building Reconstruction
 - [[Arxiv](https://arxiv.org/abs/2105.13509)] Learning to Stylize Novel Views [[Project](https://hhsinping.github.io/3d_scene_stylization/)]
@@ -675,6 +683,7 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/pdf/2106.13228.pdf)] A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields [[Project](https://hypernerf.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2106.05264v1)] NeRF in detail: Learning to sample for view synthesis
 - [[Arxiv](https://arxiv.org/pdf/2106.01970.pdf)] NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination [[Project](https://people.csail.mit.edu/xiuming/projects/nerfactor/)]
 - [[Arxiv](https://arxiv.org/abs/2105.05994)] Neural Trajectory Fields for Dynamic Novel View Synthesis
@@ -712,6 +721,11 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/pdf/2106.11944v1.pdf)] MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images [[Project](https://neuralbodies.github.io/metavatar/)]
+- [[Arxiv](https://arxiv.org/pdf/2106.11536v1.pdf)] Deep3DPose: Realtime Reconstruction of Arbitrarily Posed Human Bodies from Single RGB Images
+- [[Arxiv](https://arxiv.org/pdf/2106.09336v1.pdf)] THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers
+- [[CVPR2021](http://www.liuyebin.com/Function4D/assets/Function4D.pdf)] Function4D: Real-time Human Volumetric Capture from Very Sparse RGBD Sensors [[Project](http://www.liuyebin.com/Function4D/Function4D.html)]
+- [[Arxiv](https://arxiv.org/abs/2106.06313v1)] Bridge the Gap Between Model-based and Model-free Human Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2106.02019.pdf)] Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control
 - [[Arxiv](https://arxiv.org/pdf/2105.14804.pdf)] Scene-aware Generative Network for Human Motion Synthesis
 - [[Arxiv](https://arxiv.org/pdf/2105.08715.pdf)] Human Motion Prediction Using Manifold-Aware Wasserstein GAN
@@ -733,7 +747,7 @@ from Multi-View Stereo
 - [[CVPR2021](https://arxiv.org/pdf/2103.16341v1.pdf)] Learning Parallel Dense Correspondence from Spatio-Temporal Descriptors for Efficient and Robust 4D Reconstruction [[github](https://github.com/tangjiapeng/LPDC-Net)]
 - [[Arxiv](https://arxiv.org/abs/2103.10978)] Probabilistic 3D Human Shape and Pose Estimation from Multiple Unconstrained Images in the Wild
 - [[Arxiv](https://arxiv.org/pdf/2103.10455.pdf)] 3D Human Pose Estimation with Spatial and Temporal Transformers [[pytorch](https://github.com/zczcwh/PoseFormer)]
-- [[Arxiv](https://arxiv.org/abs/2103.10429)] Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks
+- [[CVPR2021](https://arxiv.org/abs/2103.10429)] Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks
 - [[Arxiv](https://arxiv.org/pdf/2103.10206.pdf)] DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer
 - [[Arxiv](https://arxiv.org/pdf/2103.09755.pdf)] Aggregated Multi-GANs for Controlled 3D Human Motion Prediction [[Project](https://github.com/herolvkd/AM-GAN)]
 - [[AAAI](https://arxiv.org/pdf/2103.09009.pdf)] PC-HMR: Pose Calibration for 3D Human Mesh Recovery from 2D Images/Videos
@@ -793,6 +807,12 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/pdf/2106.12052.pdf)] Volume Rendering of Neural Implicit Surfaces
+- [[CVPR2021](https://igl.ethz.ch/projects/iso-points/iso_points-CVPR2021-yifan.pdf)] Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations
+- [[Arxiv](https://arxiv.org/abs/2106.11795v1)] DeepMesh: Differentiable Iso-Surface Extraction
+- [[Arxiv](https://arxiv.org/pdf/2106.11272v1.pdf)] Neural Marching Cubes
+- [[Arxiv](https://arxiv.org/abs/2106.05187)] Geometry-Consistent Neural Shape Representation with Implicit Displacement Fields
+- [[Arxiv](https://arxiv.org/pdf/2106.02634.pdf)] Light Field Networks: Neural Scene Representations with Single-Evaluation Rendering
 - [[ICML2021](https://arxiv.org/pdf/2106.05304v1.pdf)] Revisiting Point Cloud Shape Classification with a Simple and Effective Baseline [[pytorch](https://github.com/princeton-vl/SimpleView)]
 - [[Arxiv](https://arxiv.org/abs/2106.03804v1)] Deep Medial Fields
 - [[Arxiv](https://arxiv.org/pdf/2106.02285v1.pdf)] Subdivision-Based Mesh Convolution Networks [[Jittor](https://github.com/lzhengning/SubdivNet)]
@@ -925,6 +945,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/pdf/2106.08615v1.pdf)] EdgeConv with Attention Module for Monocular Depth Estimation
 - [[ICML2021](https://arxiv.org/pdf/2106.05965v1.pdf)] Implicit-PDF: Non-Parametric Representation of Probability Distributions on the Rotation Manifold [[Project](https://implicit-pdf.github.io/)]
 - [[ICRA2021](https://arxiv.org/pdf/2106.03010v1.pdf)] An Adaptive Framework For Learning Unsupervised Depth Completion [[github](https://github.com/alexklwong/adaframe-depth-completion)] [[github](https://github.com/alexklwong/learning-topology-synthetic-data)]
 - [[ICRA2021](https://arxiv.org/abs/2105.07468)] TSDF++: A Multi-Object Formulation for Dynamic Object Tracking and Reconstruction [[github](https://github.com/ethz-asl/tsdf-plusplus)]
@@ -1038,10 +1059,16 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/abs/2106.11118v2)] SODA10M: Towards Large-Scale Object Detection Benchmark for Autonomous Driving [[Project](https://soda-2d.github.io/documentation.html#data_collection)]
+- [[Arxiv](https://arxiv.org/pdf/2106.11650v1.pdf)] A Survey on Human-aware Robot Navigation
+- [[Arxiv](https://arxiv.org/pdf/2106.11037v1.pdf)] One Million Scenes for Autonomous Driving: ONCE Dataset [[Project](https://once-for-auto-driving.github.io/index.html)]
+- [[Arxiv](https://arxiv.org/abs/2106.10823v1)] 3D Object Detection for Autonomous Driving: A Survey
+- [[Arxiv](https://arxiv.org/pdf/2106.08983v1.pdf)] The Oxford Road Boundaries Dataset
+- [[CVPR2021](https://arxiv.org/abs/2103.16397)] 3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding
 - [[Arxiv](https://arxiv.org/abs/2106.03805)] 3DB: A Framework for Debugging Computer Vision Models [[github](https://github.com/3db/3db)]
 - [[Arxiv](https://arxiv.org/abs/2105.13962)] NViSII: A Scriptable Tool for Photorealistic Image Generation [[github](https://github.com/owl-project/NVISII)]
 - [[Dataset](https://github.com/bertjiazheng/Structured3D)] Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling
-- [[Survey](https://arxiv.org/pdf/2103.07466.pdf)] 3D Semantic Scene Completion: a Survey
+- [[Survey](https://arxiv.org/abs/2103.07466v2)] 3D Semantic Scene Completion: a Survey
 - [[Survey](https://arxiv.org/pdf/2103.05423v2.pdf)] Deep Learning based 3D Segmentation: A Survey
 - [[Survey](https://arxiv.org/pdf/2103.02690.pdf)] A comprehensive survey on point cloud registration
 - [[Survey](https://arxiv.org/pdf/2103.02503.pdf)] Domain Generalization: A Survey
@@ -1157,3 +1184,4 @@ A Decade Survey of Instance Retrieval
  [[Github](https://github.com/hlei-ziyan/Picasso)]
 - [[Github](https://github.com/NVIDIA/DALI)] A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications
 - [[Arxiv](https://arxiv.org/pdf/2104.05125.pdf)] Shuffler: A Large Scale Data Management Tool for Machine Learning in Computer Vision
+- [[Arxiv](https://arxiv.org/abs/2106.06158v1)] PyGAD: An Intuitive Genetic Algorithm Python Library [[Github](https://github.com/ahmedfgad/GeneticAlgorithmPython)]
