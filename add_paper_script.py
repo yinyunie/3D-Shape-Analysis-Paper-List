@@ -10,41 +10,42 @@
 # [-o] is an argument with variable length. You can give a dictionary like above.
 
 import sys
-import argparse
-from libs import ParseKwargs, existing_topics
+from libs import existing_topics
 import urllib.request
 import re
 
-def parse_args():
-    '''PARAMETERS'''
-    parser = argparse.ArgumentParser(description='A script for adding new paper. For example, python -t 3 -p CVPR2020 -l https://arxiv.org/abs/2002.12212 -ti "Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image" -o pytorch=https://github.com/yinyunie/Total3DUnderstanding Project=https://yinyunie.github.io/Total3D/', formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument('--list', type=str, default='./README.md',
-                        help='Paper list file.')
-    parser.add_argument('--topic', '-t', type=int,
-                        help = '''
-                        [0] 3D Detection & Segmentation;
-                        [1] Shape Representation;
-                        [2] Shape & Scene Completion;
-                        [3] Shape Reconstruction;
-                        [4] 3D Scene Understanding;
-                        [5] 3D Scene Reconstruction;
-                        [6] NeRF;
-                        [7] About Human Body;
-                        [8] General Methods;
-                        [9] Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.);
-                        [10] Survey, Resources and Tools.
-                        ''')
-    parser.add_argument('--pub', '-p', type=str, help='Publication info (e.g. Arxiv, CVPR2021).')
-    parser.add_argument('--link', '-l', type=str, help='Paper link (e.g. https://arxiv.org/pdf/2002.12212.pdf).')
-    parser.add_argument('--title', '-ti', type=str, help='Paper tile.')
-    parser.add_argument('--others', '-o', nargs='*', type=str, help='other useful links', action=ParseKwargs)
-    return parser.parse_args()
 
 if __name__ == '__main__':
-    args = parse_args()
-    topic_name = existing_topics[args.topic]
-    pub_name = args.pub
-    link_addr = args.link
+    '''Decide topic name'''
+    print('''Topic name list:
+    [0] 3D Detection & Segmentation;
+    [1] Shape Representation;
+    [2] Shape & Scene Completion;
+    [3] Shape Reconstruction;
+    [4] 3D Scene Understanding;
+    [5] 3D Scene Reconstruction;
+    [6] NeRF;
+    [7] About Human Body;
+    [8] General Methods;
+    [9] Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.);
+    [10] Survey, Resources and Tools.
+    ''')
+    topic_id = input('Please input the topic ID. ([q]/[quit] to exit.):\n')
+    if topic_id == 'q' or topic_id == 'quit':
+        sys.exit(0)
+    topic_name = existing_topics[int(topic_id)]
+
+    '''Decide publication name'''
+    pub_name = input('Please input publication. Default for Arxiv. ([q]/[quit] to exit.):\n')
+    if not pub_name:
+        pub_name = 'Arxiv'
+    elif pub_name == 'q' or pub_name == 'quit':
+        sys.exit(0)
+
+    '''Decide website link'''
+    link_addr = input('Please paper link. ([q]/[quit] to exit.):\n')
+    if link_addr == 'q' or link_addr == 'quit':
+        sys.exit(0)
 
     if 'arxiv.org' in link_addr:
         if link_addr.endswith('.pdf'):
@@ -59,10 +60,23 @@ if __name__ == '__main__':
         paper_title = re_result.group(1)
         pub_date = int(arxiv_id.split('.')[0])
     else:
-        paper_title = args.title
+        paper_title = input('Please paper title. ([q]/[quit] to exit.):\n')
+        if paper_title == 'q' or paper_title == 'quit':
+            sys.exit(0)
         pub_date = None
 
-    other_info = args.others
+    other_info = {}
+    while True:
+        info_item = input(
+            'Please give optional info, e.g., Project=https://yinyunie.github.io/Total3D/. ([q]/[quit] to exit. [Enter] to pass):\n')
+        if info_item == 'q' or info_item == 'quit':
+            sys.exit(0)
+        if info_item:
+            key, value = info_item.split('=')
+            value = '='.join(value)
+            other_info[key.strip()] = value.strip()
+        else:
+            break
 
     markdown_line = '- [[%s](%s)] %s' % (pub_name, link_addr, paper_title)
     for key, item in other_info.items():
@@ -70,11 +84,10 @@ if __name__ == '__main__':
     markdown_line += '\n'
 
     '''Insert to README.md'''
-    paper_list = open(args.list).read()
+    paper_list = open('./README.md').read()
 
     # check if already existed
-    title_search = re.search('-.*?' + paper_title + '.*?\n', paper_list)
-    if title_search is not None:
+    if paper_title.strip() in paper_list:
         print('This paper is already in library.')
         sys.exit(0)
 
@@ -88,5 +101,5 @@ if __name__ == '__main__':
 
     new_paper_list = paper_list[:insert_point] + markdown_line + paper_list[insert_point:]
 
-    with open(args.list, 'w') as file:
+    with open('./README.md', 'w') as file:
         file.write(new_paper_list)
