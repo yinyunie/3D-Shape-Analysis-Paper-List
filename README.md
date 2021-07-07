@@ -22,6 +22,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/pdf/2106.14101v1.pdf)] Real-time 3D Object Detection using Feature Map Flow [[pytorch](https://github.com/YoushaaMurhij/FMFNet)]
+- [[Arxiv](https://arxiv.org/pdf/2106.13381v1.pdf)] To the Point: Efficient 3D Object Detection in the Range Image with Graph Convolution Kernels
 - [[CVPR2021](https://arxiv.org/abs/2106.13365v1)] RSN: Range Sparse Net for Efficient, Accurate LiDAR 3D Object Detection
 - [[Arxiv](https://arxiv.org/abs/2106.06882v1)] Sparse PointPillars: Exploiting Sparsity in Birds-Eye-View Object Detection
 - [[Arxiv](https://arxiv.org/abs/2106.01178)] ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection [[Project](https://github.com/saic-vul/imvoxelnet)]
@@ -253,6 +255,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[IJCAI2021](https://arxiv.org/abs/2106.15413v1)] IMENet: Joint 3D Semantic Scene Completion and 2D Semantic Segmentation through Iterative Mutual Enhancement
 - [[CVPR2021](https://arxiv.org/abs/2106.04779v1)] Point Cloud Upsampling via Disentangled Refinement [[github](https://github.com/liruihui/Dis-PU)]
 - [[TVCG2021](https://arxiv.org/abs/2106.00329)] Consistent Two-Flow Network for Tele-Registration of Point Clouds [[Project](https://vcc.tech/research/2021/CTFNet)]
 - [[Arxiv](https://arxiv.org/abs/2105.01905)] 4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface [[Project](https://github.com/rabbityl/DeformingThings4D)]
@@ -596,6 +599,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/pdf/2106.14166v1.pdf)] Indoor Panorama Planar 3D Reconstruction via Divide and Conquer
 - [[Arxiv](https://arxiv.org/pdf/2106.10689v1.pdf)] NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction
 - [[CVPR2021](https://arxiv.org/pdf/2106.06629v1.pdf)] Mirror3D: Depth Refinement for Mirror Surfaces [[Project](https://3dlg-hcvc.github.io/mirror3d/#/)]
 - [[CVPR2021](https://arxiv.org/abs/2106.05375v1)] Plan2Scene: Converting Floorplans to 3D Scenes [[Project](https://3dlg-hcvc.github.io/plan2scene/)]
