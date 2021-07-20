@@ -22,6 +22,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/abs/2107.04013v1)] Multi-Modality Task Cascade for 3D Object Detection [[github](https://github.com/Divadi/MTC_RCNN)]
+- [[ACMMM2021](https://arxiv.org/abs/2107.02493v1)] Neighbor-Vote: Improving Monocular 3D Object Detection through Neighbor Distance Voting
+- [[Arxiv](https://arxiv.org/abs/2106.15796v1)] Monocular 3D Object Detection: An Extrinsic Parameter Free Approach
 - [[Arxiv](https://arxiv.org/pdf/2106.14101v1.pdf)] Real-time 3D Object Detection using Feature Map Flow [[pytorch](https://github.com/YoushaaMurhij/FMFNet)]
 - [[Arxiv](https://arxiv.org/pdf/2106.13381v1.pdf)] To the Point: Efficient 3D Object Detection in the Range Image with Graph Convolution Kernels
 - [[CVPR2021](https://arxiv.org/abs/2106.13365v1)] RSN: Range Sparse Net for Efficient, Accurate LiDAR 3D Object Detection
@@ -169,6 +172,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2107.04004v1)] 3D Neural Scene Representations for Visuomotor Control [[Project](https://3d-representation-learning.github.io/nerf-dy/)]
 - [[Arxiv](https://arxiv.org/pdf/2104.07645.pdf)] A-SDF: Learning Disentangled Signed Distance Functions
 for Articulated Shape Representation [[Project](https://jitengmu.github.io/A-SDF/)]
 - [[Arxiv](https://arxiv.org/abs/2104.06392)] ShapeMOD: Macro Operation Discovery for 3D Shape Programs [[Project](https://rkjones4.github.io/shapeMOD.html)]
@@ -498,6 +502,8 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/abs/2107.03438v1)] LanguageRefer: Spatial-Language Model for 3D Visual Grounding
+- [[Arxiv](https://arxiv.org/abs/2107.01002)] WiCluster: Passive Indoor 2D/3D Positioning using WiFi without Precise Labels
 - [[CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/html/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper.html)] Zillow Indoor Dataset: Annotated Floor Plans With 360deg Panoramas and 3D Room Layouts [[github](https://github.com/zillow/zind)]
 - [[ICRA2021](https://arxiv.org/abs/2105.09932)] Efficient and Robust LiDAR-Based End-to-End Navigation [[Project](https://le2ed.mit.edu/)]
 - [[ICLR2021](https://arxiv.org/pdf/2105.09447.pdf)] VTNet: Visual Transformer Network for Object Goal Navigation
@@ -599,6 +605,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2107.02191)] TransformerFusion: Monocular RGB Scene Reconstruction using Transformers [[Project](https://aljazbozic.github.io/transformerfusion/)]
 - [[Arxiv](https://arxiv.org/pdf/2106.14166v1.pdf)] Indoor Panorama Planar 3D Reconstruction via Divide and Conquer
 - [[Arxiv](https://arxiv.org/pdf/2106.10689v1.pdf)] NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction
 - [[CVPR2021](https://arxiv.org/pdf/2106.06629v1.pdf)] Mirror3D: Depth Refinement for Mirror Surfaces [[Project](https://3dlg-hcvc.github.io/mirror3d/#/)]
@@ -687,6 +694,7 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2107.02791v1)] Depth-supervised NeRF: Fewer Views and Faster Training for Free [[Project](https://www.cs.cmu.edu/~dsnerf/)] [[pytorch](https://github.com/dunbar12138/DSNeRF)]
 - [[Arxiv](https://arxiv.org/pdf/2106.13228.pdf)] A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields [[Project](https://hypernerf.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2106.05264v1)] NeRF in detail: Learning to sample for view synthesis
 - [[Arxiv](https://arxiv.org/pdf/2106.01970.pdf)] NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination [[Project](https://people.csail.mit.edu/xiuming/projects/nerfactor/)]
@@ -949,6 +957,8 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/abs/2107.03180v1)] HIDA: Towards Holistic Indoor Understanding for the Visually Impaired via Semantic Instance Segmentation with a Wearable Solid-State LiDAR Sensor
+- [[Arxiv](https://arxiv.org/abs/2107.02972v1)] Learn to Learn Metric Space for Few-Shot Segmentation of 3D Shapes
 - [[Arxiv](https://arxiv.org/pdf/2106.08615v1.pdf)] EdgeConv with Attention Module for Monocular Depth Estimation
 - [[ICML2021](https://arxiv.org/pdf/2106.05965v1.pdf)] Implicit-PDF: Non-Parametric Representation of Probability Distributions on the Rotation Manifold [[Project](https://implicit-pdf.github.io/)]
 - [[ICRA2021](https://arxiv.org/pdf/2106.03010v1.pdf)] An Adaptive Framework For Learning Unsupervised Depth Completion [[github](https://github.com/alexklwong/adaframe-depth-completion)] [[github](https://github.com/alexklwong/learning-topology-synthetic-data)]
@@ -1063,6 +1073,8 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/abs/2107.06149)] MINERVAS: Massive INterior EnviRonments VirtuAl Synthesis [[Project](https://coohom.github.io/MINERVAS/)]
+- [[Arxiv](https://arxiv.org/abs/2107.04286v1)] UrbanScene3D: A Large Scale Urban Scene Dataset and Simulator [[Project](https://vcc.tech/UrbanScene3D/)]
 - [[Arxiv](https://arxiv.org/abs/2106.11118v2)] SODA10M: Towards Large-Scale Object Detection Benchmark for Autonomous Driving [[Project](https://soda-2d.github.io/documentation.html#data_collection)]
 - [[Arxiv](https://arxiv.org/pdf/2106.11650v1.pdf)] A Survey on Human-aware Robot Navigation
 - [[Arxiv](https://arxiv.org/pdf/2106.11037v1.pdf)] One Million Scenes for Autonomous Driving: ONCE Dataset [[Project](https://once-for-auto-driving.github.io/index.html)]
