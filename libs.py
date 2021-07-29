@@ -12,7 +12,7 @@ existing_topics = ['3D Detection & Segmentation',
                    'NeRF',
                    'About Human Body',
                    'General Methods',
-                   'Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)',
+                   'Others',
                    'Survey, Resources and Tools']
 
 

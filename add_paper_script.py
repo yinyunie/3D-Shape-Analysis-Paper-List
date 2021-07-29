@@ -72,9 +72,9 @@ if __name__ == '__main__':
         if info_item == 'q' or info_item == 'quit':
             sys.exit(0)
         if info_item:
-            key, value = info_item.split('=')
-            value = '='.join(value)
-            other_info[key.strip()] = value.strip()
+            items = info_item.split('=')
+            value = '='.join(items[1:])
+            other_info[items[0].strip()] = value.strip()
         else:
             break
 
