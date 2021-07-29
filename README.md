@@ -22,6 +22,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[ICCV2021](https://arxiv.org/abs/2107.11669)] Rank &amp; Sort Loss for Object Detection and Instance Segmentation [[pytorch](https://github.com/kemaloksuz/RankSortLoss)]
 - [[Arxiv](https://arxiv.org/abs/2107.04013v1)] Multi-Modality Task Cascade for 3D Object Detection [[github](https://github.com/Divadi/MTC_RCNN)]
 - [[ACMMM2021](https://arxiv.org/abs/2107.02493v1)] Neighbor-Vote: Improving Monocular 3D Object Detection through Neighbor Distance Voting
 - [[Arxiv](https://arxiv.org/abs/2106.15796v1)] Monocular 3D Object Detection: An Extrinsic Parameter Free Approach
@@ -115,7 +116,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Joint_3D_Instance_Segmentation_and_Object_Detection_for_Autonomous_Driving_CVPR_2020_paper.pdf)] Joint 3D Instance Segmentation and Object Detection for Autonomous Driving
 - [[CVPR2020](https://arxiv.org/pdf/2003.00186.pdf)] HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection
 - [[CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Hierarchical_Graph_Network_for_3D_Object_Detection_on_Point_CVPR_2020_paper.pdf)] A Hierarchical Graph Network for 3D Object Detection on Point Clouds
-- [[Arxiv](https://arxiv.org/pdf/2006.05682.pdf)] H3DNet: 3D Object Detection Using Hybrid Geometric Primitives
+- [[Arxiv](https://arxiv.org/pdf/2006.05682.pdf)] H3DNet: 3D Object Detection Using Hybrid Geometric Primitives [[pytorch](https://github.com/zaiweizhang/H3DNet)]
 - [[CVPR2020](https://arxiv.org/pdf/2005.13888.pdf)] P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2004.12636.pdf)] 3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection
 - [[CVPR2020](https://arxiv.org/pdf/2004.09305.pdf)] Joint Spatial-Temporal Optimization for Stereo 3D Object Tracking
@@ -172,6 +173,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2107.11024)] A Deep Signed Directional Distance Function for Object Shape Representation
 - [[Arxiv](https://arxiv.org/abs/2107.04004v1)] 3D Neural Scene Representations for Visuomotor Control [[Project](https://3d-representation-learning.github.io/nerf-dy/)]
 - [[Arxiv](https://arxiv.org/pdf/2104.07645.pdf)] A-SDF: Learning Disentangled Signed Distance Functions
 for Articulated Shape Representation [[Project](https://jitengmu.github.io/A-SDF/)]
@@ -345,6 +347,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2107.10844v1)] DOVE: Learning Deformable 3D Objects by Watching Videos [[Project](https://dove3d.github.io/)]
+- [[Arxiv](https://arxiv.org/abs/2107.09584)] Active 3D Shape Reconstruction from Vision and Touch
+- [[NeurIPS2020](https://proceedings.neurips.cc//paper/2020/file/a3842ed7b3d0fe3ac263bcabd2999790-Paper.pdf)] 3D Shape Reconstruction from Vision and Touch [[pytorch](https://github.com/facebookresearch/3D-Vision-and-Touch)]
 - [[Arxiv](https://arxiv.org/pdf/2106.12102v1.pdf)] LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2106.08762v1.pdf)] Shape from Blur: Recovering Textured 3D Shape and Motion of Fast Moving Objects
 - [[Arxiv](https://arxiv.org/abs/2106.06533v1)] View Generalization for Single Image Textured 3D Models [[Project](https://nv-adlr.github.io/view-generalization)]
@@ -621,7 +626,7 @@ Forecasting with a Single Convolutional Net
 - [[Arxiv](https://arxiv.org/pdf/2103.14644v1.pdf)] Planar Surface Reconstruction from Sparse Views [[Project](https://jinlinyi.github.io/SparsePlanes/)]
 - [[Arxiv](https://arxiv.org/pdf/2104.04532.pdf)] Neural RGB-D Surface Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2104.00024.pdf)] RetrievalFuse: Neural 3D Scene Reconstruction with a Database
-- [[Arxiv](https://arxiv.org/abs/2103.14024)] PlenOctrees for Real-time Rendering of Neural Radiance Fields [[C++](https://github.com/sxyu/volrend)]
+- [[ICCV2021](https://arxiv.org/abs/2103.14024)] PlenOctrees for Real-time Rendering of Neural Radiance Fields [[C++](https://github.com/sxyu/volrend)]
 - [[Arxiv](https://arxiv.org/abs/2103.12352)] iMAP: Implicit Mapping and Positioning in Real-Time
 - [[CVPR2021](https://arxiv.org/pdf/2103.07969.pdf)] Monte Carlo Scene Search for 3D Scene Understanding
 - [[CVPR2021](https://arxiv.org/abs/2103.06422v1)] Holistic 3D Scene Understanding from a Single Image with Implicit Representation
@@ -694,6 +699,8 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[ICCV2021](https://arxiv.org/abs/2104.00677)] Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis [[Project](https://www.ajayj.com/dietnerf)]
+- [[Arxiv](https://arxiv.org/abs/2107.05775v1)] Fast and Explicit Neural View Synthesis
 - [[Arxiv](https://arxiv.org/abs/2107.02791v1)] Depth-supervised NeRF: Fewer Views and Faster Training for Free [[Project](https://www.cs.cmu.edu/~dsnerf/)] [[pytorch](https://github.com/dunbar12138/DSNeRF)]
 - [[Arxiv](https://arxiv.org/pdf/2106.13228.pdf)] A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields [[Project](https://hypernerf.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2106.05264v1)] NeRF in detail: Learning to sample for view synthesis
@@ -733,6 +740,8 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2107.12512)] H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction [[Project](https://crisalixsa.github.io/h3d-net/)]
+- [[Arxiv](https://arxiv.org/abs/2107.07539v1)] Unsupervised 3D Human Mesh Recovery from Noisy Point Clouds [[github](https://github.com/wangsen1312/unsupervised3dhuman)]
 - [[Arxiv](https://arxiv.org/pdf/2106.11944v1.pdf)] MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images [[Project](https://neuralbodies.github.io/metavatar/)]
 - [[Arxiv](https://arxiv.org/pdf/2106.11536v1.pdf)] Deep3DPose: Realtime Reconstruction of Arbitrarily Posed Human Bodies from Single RGB Images
 - [[Arxiv](https://arxiv.org/pdf/2106.09336v1.pdf)] THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers
@@ -819,6 +828,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[ICCV2021](https://arxiv.org/abs/2103.15679)] Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pytorch](https://github.com/hila-chefer/Transformer-MM-Explainability)]
 - [[Arxiv](https://arxiv.org/pdf/2106.12052.pdf)] Volume Rendering of Neural Implicit Surfaces
 - [[CVPR2021](https://igl.ethz.ch/projects/iso-points/iso_points-CVPR2021-yifan.pdf)] Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations
 - [[Arxiv](https://arxiv.org/abs/2106.11795v1)] DeepMesh: Differentiable Iso-Surface Extraction
