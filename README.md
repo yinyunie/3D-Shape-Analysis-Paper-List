@@ -22,6 +22,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/abs/2107.13269v1)] Aug3D-RPN: Improving Monocular 3D Object Detection by Synthetic Images with Virtual Depth
+- [[Arxiv](https://arxiv.org/abs/2107.12707v1)] DV-Det: Efficient 3D Point Cloud Object Detection with Dynamic Voxelization
+- [[ICCV2021](https://arxiv.org/abs/2107.11769v1)] ReDAL: Region-based and Diversity-aware Active Learning for Point Cloud Semantic Segmentation
 - [[ICCV2021](https://arxiv.org/abs/2107.11669)] Rank &amp; Sort Loss for Object Detection and Instance Segmentation [[pytorch](https://github.com/kemaloksuz/RankSortLoss)]
 - [[Arxiv](https://arxiv.org/abs/2107.04013v1)] Multi-Modality Task Cascade for 3D Object Detection [[github](https://github.com/Divadi/MTC_RCNN)]
 - [[ACMMM2021](https://arxiv.org/abs/2107.02493v1)] Neighbor-Vote: Improving Monocular 3D Object Detection through Neighbor Distance Voting
@@ -261,6 +264,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[Arxiv](https://arxiv.org/abs/2107.13452v1)] CarveNet: Carving Point-Block for Complex 3D Shape Completion
 - [[IJCAI2021](https://arxiv.org/abs/2106.15413v1)] IMENet: Joint 3D Semantic Scene Completion and 2D Semantic Segmentation through Iterative Mutual Enhancement
 - [[CVPR2021](https://arxiv.org/abs/2106.04779v1)] Point Cloud Upsampling via Disentangled Refinement [[github](https://github.com/liruihui/Dis-PU)]
 - [[TVCG2021](https://arxiv.org/abs/2106.00329)] Consistent Two-Flow Network for Tele-Registration of Point Clouds [[Project](https://vcc.tech/research/2021/CTFNet)]
@@ -610,6 +614,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[ICCV2021](https://arxiv.org/abs/2107.13108v1)] PlaneTR: Structure-Guided Transformers for 3D Plane Recovery [[pytorch](https://github.com/IceTTTb/PlaneTR3D)]
 - [[Arxiv](https://arxiv.org/abs/2107.02191)] TransformerFusion: Monocular RGB Scene Reconstruction using Transformers [[Project](https://aljazbozic.github.io/transformerfusion/)]
 - [[Arxiv](https://arxiv.org/pdf/2106.14166v1.pdf)] Indoor Panorama Planar 3D Reconstruction via Divide and Conquer
 - [[Arxiv](https://arxiv.org/pdf/2106.10689v1.pdf)] NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction
@@ -740,6 +745,7 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2107.12847v1)] Learning Local Recurrent Models for Human Mesh Recovery
 - [[Arxiv](https://arxiv.org/abs/2107.12512)] H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction [[Project](https://crisalixsa.github.io/h3d-net/)]
 - [[Arxiv](https://arxiv.org/abs/2107.07539v1)] Unsupervised 3D Human Mesh Recovery from Noisy Point Clouds [[github](https://github.com/wangsen1312/unsupervised3dhuman)]
 - [[Arxiv](https://arxiv.org/pdf/2106.11944v1.pdf)] MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images [[Project](https://neuralbodies.github.io/metavatar/)]
@@ -828,6 +834,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2107.12655v1)] CKConv: Learning Feature Voxelization for Point Cloud Analysis
 - [[ICCV2021](https://arxiv.org/abs/2103.15679)] Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pytorch](https://github.com/hila-chefer/Transformer-MM-Explainability)]
 - [[Arxiv](https://arxiv.org/pdf/2106.12052.pdf)] Volume Rendering of Neural Implicit Surfaces
 - [[CVPR2021](https://igl.ethz.ch/projects/iso-points/iso_points-CVPR2021-yifan.pdf)] Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations
@@ -967,6 +974,11 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/abs/2107.13087v1)] DCL: Differential Contrastive Learning for Geometry-Aware Depth Synthesis
+- [[ACMMM2021](https://arxiv.org/abs/2107.12541v1)] BridgeNet: A Joint Learning Network of Depth Map Super-Resolution and Monocular Depth Estimation [[Project](https://rmcong.github.io/proj_BridgeNet.html)] [[github](https://github.com/rmcong/BridgeNet_ACM-MM-2021)]
+- [[Arxiv](https://arxiv.org/abs/2107.12549v1)] Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation
+- [[ICCV2021](https://arxiv.org/abs/2107.11992)] HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration [[Project](https://ispc-group.github.io/hregnet)] [[pytorch](https://github.com/ispc-lab/HRegNet)]
+- [[Arxiv](https://arxiv.org/abs/2107.10981v1)] Score-Based Point Cloud Denoising
 - [[Arxiv](https://arxiv.org/abs/2107.03180v1)] HIDA: Towards Holistic Indoor Understanding for the Visually Impaired via Semantic Instance Segmentation with a Wearable Solid-State LiDAR Sensor
 - [[Arxiv](https://arxiv.org/abs/2107.02972v1)] Learn to Learn Metric Space for Few-Shot Segmentation of 3D Shapes
 - [[Arxiv](https://arxiv.org/pdf/2106.08615v1.pdf)] EdgeConv with Attention Module for Monocular Depth Estimation
