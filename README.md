@@ -22,6 +22,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[ICCV2021](https://arxiv.org/abs/2107.13824v1)] VMNet: Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation [[pytorch](https://github.com/hzykent/VMNet)]
+- [[ICCV2021](https://arxiv.org/abs/2107.13774v1)] Geometry Uncertainty Projection Network for Monocular 3D Object Detection
 - [[Arxiv](https://arxiv.org/abs/2107.13269v1)] Aug3D-RPN: Improving Monocular 3D Object Detection by Synthetic Images with Virtual Depth
 - [[Arxiv](https://arxiv.org/abs/2107.12707v1)] DV-Det: Efficient 3D Point Cloud Object Detection with Dynamic Voxelization
 - [[ICCV2021](https://arxiv.org/abs/2107.11769v1)] ReDAL: Region-based and Diversity-aware Active Learning for Point Cloud Semantic Segmentation
@@ -614,6 +616,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[ICCV2021](https://arxiv.org/abs/2107.13629v1)] Discovering 3D Parts from Image Collections [[Project](https://chhankyao.github.io/lpd/)]
 - [[ICCV2021](https://arxiv.org/abs/2107.13108v1)] PlaneTR: Structure-Guided Transformers for 3D Plane Recovery [[pytorch](https://github.com/IceTTTb/PlaneTR3D)]
 - [[Arxiv](https://arxiv.org/abs/2107.02191)] TransformerFusion: Monocular RGB Scene Reconstruction using Transformers [[Project](https://aljazbozic.github.io/transformerfusion/)]
 - [[Arxiv](https://arxiv.org/pdf/2106.14166v1.pdf)] Indoor Panorama Planar 3D Reconstruction via Divide and Conquer
@@ -974,6 +977,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/abs/2107.13802v1)] RigNet: Repetitive Image Guided Network for Depth Completion
 - [[Arxiv](https://arxiv.org/abs/2107.13087v1)] DCL: Differential Contrastive Learning for Geometry-Aware Depth Synthesis
 - [[ACMMM2021](https://arxiv.org/abs/2107.12541v1)] BridgeNet: A Joint Learning Network of Depth Map Super-Resolution and Monocular Depth Estimation [[Project](https://rmcong.github.io/proj_BridgeNet.html)] [[github](https://github.com/rmcong/BridgeNet_ACM-MM-2021)]
 - [[Arxiv](https://arxiv.org/abs/2107.12549v1)] Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation
