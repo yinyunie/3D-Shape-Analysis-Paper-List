@@ -22,6 +22,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[ICCV2021](https://arxiv.org/abs/2108.06417v1)] Is Pseudo-Lidar needed for Monocular 3D Object detection?
+- [[IROS2021](https://arxiv.org/abs/2108.06455v1)] PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds [[github](https://github.com/shanjiayao/PTT)]
+- [[ICCV2021](https://arxiv.org/abs/2108.05699v1)] Oriented R-CNN for Object Detection [[github](https://github.com/jbwang1997/OBBDetection)]
 - [[ICCV2021](https://arxiv.org/abs/2108.04728v1)] Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds [[github](https://github.com/Ghostish/BAT)]
 - [[IROS2021](https://arxiv.org/abs/2108.04602v1)] Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving
 - [[ACMMM2021](https://arxiv.org/abs/2108.03648v1)] From Voxel to Point: IoU-guided 3D Object Detection for Point Cloud with Voxel-to-Point Decoder [[github](https://github.com/jialeli1/From-Voxel-to-Point)]
@@ -488,7 +491,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 - [[Arxiv](https://arxiv.org/pdf/2003.08624.pdf)] PT2PC: Learning to Generate 3D Point Cloud Shapes from Part Tree Conditions
 - [[Arxiv](https://arxiv.org/pdf/2003.06473.pdf)] Self-supervised Single-view 3D Reconstruction via Semantic Consistency
 - [[Arxiv](https://arxiv.org/pdf/2003.03711.pdf)] Meta3D: Single-View 3D Object Reconstruction from Shape Priors in Memory
-- [[Arxiv](https://arxiv.org/pdf/2003.03551.pdf)] STD-Net: Structure-preserving and Topology-adaptive Deformation Network for 3D Reconstruction from a Single Image
+- [[Arxiv](https://arxiv.org/pdf/2003.03551.pdf)] STD-Net: Structure-preserving and Topology-adaptive Deformation Network for 3D Reconstruction from a Single Image [[new](https://arxiv.org/abs/2108.06682v1)]
 - [[Arxiv](https://arxiv.org/pdf/2001.07884.pdf)] Curvature Regularized Surface Reconstruction from Point Cloud
 - [[Arxiv](https://arxiv.org/pdf/2003.00802.pdf)] Hypernetwork approach to generating point clouds
 - [[Arxiv](https://arxiv.org/pdf/2002.12674.pdf)] Inverse Graphics GAN: Learning to Generate 3D Shapes from Unstructured 2D Data
@@ -524,6 +527,8 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[ICCV2021](https://arxiv.org/abs/2108.06545v1)] PICCOLO: Point Cloud-Centric Omnidirectional Localization
+- [[ICCV2021](https://arxiv.org/abs/2108.05884v1)] Unconditional Scene Graph Generation
 - [[Arxiv](https://arxiv.org/abs/2108.03378v1)] Learning Indoor Layouts from Simple Point-Clouds
 - [[Arxiv](https://arxiv.org/abs/2107.03438v1)] LanguageRefer: Spatial-Language Model for 3D Visual Grounding
 - [[Arxiv](https://arxiv.org/abs/2107.01002)] WiCluster: Passive Indoor 2D/3D Positioning using WiFi without Precise Labels
@@ -764,6 +769,7 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[ICCV2021](https://arxiv.org/abs/2108.06819v1)] EventHPE: Event-based 3D Human Pose and Shape Estimation
 - [[ACMMM2021](https://arxiv.org/abs/2108.04536v1)] Learning Multi-Granular Spatio-Temporal Graph Network for Skeleton-based Action Recognition [[github](https://github.com/tailin1009/DualHead-Network)]
 - [[ACMMM2021](https://arxiv.org/abs/2108.03656v1)] Skeleton-Contrastive 3D Action Representation Learning [[github](https://github.com/fmthoker/skeleton-contrast)]
 - [[Arxiv](https://arxiv.org/abs/2107.12847v1)] Learning Local Recurrent Models for Human Mesh Recovery
@@ -855,6 +861,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2108.06076v1)] Point-Voxel Transformer: An Efficient Approach To 3D Deep Learning
 - [[Siggraph2021](https://arxiv.org/abs/2108.04476v1)] SP-GAN: Sphere-Guided 3D Shape Generation and Manipulation [[Project](https://liruihui.github.io/publication/SP-GAN/)] [[github](https://github.com/liruihui/SP-GAN)]
 - [[ICCV2021](https://arxiv.org/abs/2108.00580v1)] GraphFPN: Graph Feature Pyramid Network for Object Detection
 - [[Arxiv](https://arxiv.org/abs/2107.12655v1)] CKConv: Learning Feature Voxelization for Point Cloud Analysis
@@ -997,6 +1004,9 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[ICCV2021](https://arxiv.org/abs/2108.05836v1)] AdaFit: Rethinking Learning-based Normal Estimation on Point Clouds [[Project](https://runsong123.github.io/AdaFit/)]
+- [[Arxiv](https://arxiv.org/abs/2108.05615v1)] DnD: Dense Depth Estimation in Crowded Dynamic Indoor Scenes
+- [[ICCV2021](https://arxiv.org/abs/2108.05312v1)] Towards Interpretable Deep Networks for Monocular Depth Estimation [[github](https://github.com/youzunzhi/InterpretableMDE)]
 - [[Arxiv](https://arxiv.org/abs/2108.02740v1)] UPDesc: Unsupervised Point Descriptor Learning for Robust Registration
 - [[IROS2021](https://arxiv.org/abs/2108.00516v1)] BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models [[github](https://github.com/wenbowen123/BundleTrack)]
 - [[Arxiv](https://arxiv.org/abs/2107.13802v1)] RigNet: Repetitive Image Guided Network for Depth Completion
