@@ -22,6 +22,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[ICCV2021](https://arxiv.org/abs/2108.08258v1)] LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector
+- [[ICCV2021](https://arxiv.org/abs/2108.07478v1)] Instance Segmentation in 3D Scenes using Semantic Superpoint Tree Networks [[github](https://github.com/Gorilla-Lab-SCUT/SSTNet)]
+- [[ICCV2021](https://arxiv.org/abs/2108.07794v1)] RandomRooms: Unsupervised Pre-training from Synthetic Shapes and Randomized Layouts for 3D Object Detection
 - [[ICCV2021](https://arxiv.org/abs/2108.06417v1)] Is Pseudo-Lidar needed for Monocular 3D Object detection?
 - [[IROS2021](https://arxiv.org/abs/2108.06455v1)] PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds [[github](https://github.com/shanjiayao/PTT)]
 - [[ICCV2021](https://arxiv.org/abs/2108.05699v1)] Oriented R-CNN for Object Detection [[github](https://github.com/jbwang1997/OBBDetection)]
@@ -187,6 +190,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[ICCV2021](https://arxiv.org/abs/2109.05591)] Multiresolution Deep Implicit Functions for 3D Shape Representation
 - [[ICCV2021](https://arxiv.org/abs/2108.04628v1)] Learning Canonical 3D Object Representation for Fine-Grained Recognition
 - [[Arxiv](https://arxiv.org/abs/2108.02104v1)] Point Discriminative Learning for Unsupervised Representation Learning on 3D Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2107.11024)] A Deep Signed Directional Distance Function for Object Shape Representation
@@ -769,6 +773,8 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[ICCV2021](https://arxiv.org/abs/2108.08284v1)] Stochastic Scene-Aware Motion Prediction [[Project](https://samp.is.tue.mpg.de/)] [[github](https://github.com/mohamedhassanmus/SAMP)]
+- [[ICCV2021](https://arxiv.org/abs/2108.07845v1)] ARCH++: Animation-Ready Clothed Human Reconstruction Revisited
 - [[ICCV2021](https://arxiv.org/abs/2108.06819v1)] EventHPE: Event-based 3D Human Pose and Shape Estimation
 - [[ACMMM2021](https://arxiv.org/abs/2108.04536v1)] Learning Multi-Granular Spatio-Temporal Graph Network for Skeleton-based Action Recognition [[github](https://github.com/tailin1009/DualHead-Network)]
 - [[ACMMM2021](https://arxiv.org/abs/2108.03656v1)] Skeleton-Contrastive 3D Action Representation Learning [[github](https://github.com/fmthoker/skeleton-contrast)]
@@ -1004,6 +1010,8 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[ICCV2021](https://arxiv.org/abs/2108.08367v1)] SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation
+- [[ICCV2021](https://arxiv.org/abs/2108.07628v1)] Self-supervised Monocular Depth Estimation for All Day Images using Domain Separation
 - [[ICCV2021](https://arxiv.org/abs/2108.05836v1)] AdaFit: Rethinking Learning-based Normal Estimation on Point Clouds [[Project](https://runsong123.github.io/AdaFit/)]
 - [[Arxiv](https://arxiv.org/abs/2108.05615v1)] DnD: Dense Depth Estimation in Crowded Dynamic Indoor Scenes
 - [[ICCV2021](https://arxiv.org/abs/2108.05312v1)] Towards Interpretable Deep Networks for Monocular Depth Estimation [[github](https://github.com/youzunzhi/InterpretableMDE)]
