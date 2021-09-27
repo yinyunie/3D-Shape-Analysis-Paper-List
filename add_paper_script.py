@@ -43,7 +43,7 @@ if __name__ == '__main__':
         sys.exit(0)
 
     '''Decide website link'''
-    link_addr = input('Please paper link. ([q]/[quit] to exit.):\n')
+    link_addr = input('Please input paper link. ([q]/[quit] to exit.):\n')
     if link_addr == 'q' or link_addr == 'quit':
         sys.exit(0)
 
