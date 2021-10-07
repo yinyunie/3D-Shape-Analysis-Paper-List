@@ -377,6 +377,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2109.11844)] Learnable Triangulation for Deep Learning-based 3D Reconstruction of Objects of Arbitrary Topology from Single RGB Images
 - [[ICCV2021](https://arxiv.org/abs/2108.09964v1)] Learning Signed Distance Field for Multi-view Surface Reconstruction
 - [[Arxiv](https://arxiv.org/abs/2108.08477v1)] Image2Lego: Customized LEGO Set Generation from Images
 - [[ICCV2021](https://arxiv.org/abs/2108.03746v1)] Unsupervised Learning of Fine Structure Generation for 3D Point Clouds by 2D Projection Matching [[github](https://github.com/chenchao15/2D_projection_matching)]
@@ -541,6 +542,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[ICCV2021](https://arxiv.org/abs/2108.11550v1)] The Surprising Effectiveness of Visual Odometry Techniques for Embodied PointGoal Navigation [[Project](https://xiaoming-zhao.github.io/projects/pointnav-vo/)]
 - [[ICCV2021](https://arxiv.org/abs/2108.08841v1)] Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs
 - [[ICCV2021](https://arxiv.org/abs/2108.06545v1)] PICCOLO: Point Cloud-Centric Omnidirectional Localization
 - [[ICCV2021](https://arxiv.org/abs/2108.05884v1)] Unconditional Scene Graph Generation
@@ -789,6 +791,10 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2104.03953)] SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes [[Project](https://xuchen-ethz.github.io/snarf/)]
+- [[ICCV2021](https://arxiv.org/abs/2108.11944v1)] Probabilistic Modeling for Human Mesh Recovery [[Project](https://www.seas.upenn.edu/~nkolot/projects/prohmr/)]
+- [[ICCV2021](https://arxiv.org/abs/2108.11609v1)] Unsupervised Dense Deformation Embedding Network for Template-Free Shape Correspondence
+- [[ACMMM2021](https://arxiv.org/abs/2108.12384v1)] DC-GNet: Deep Mesh Relation Capturing Graph Convolution Network for 3D Human Shape Reconstruction
 - [[SiggraphAsia2019](https://dl.acm.org/doi/pdf/10.1145/3355089.3356505)] Neural State Machine for Character-Scene Interactions [[github](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_Asia_2019)]
 - [[ICCV2021](https://arxiv.org/abs/2108.10399v1)] Learning Motion Priors for 4D Human Body Capture in 3D Scenes [[Project](https://sanweiliti.github.io/LEMO/LEMO.html)]
 - [[Arxiv](https://arxiv.org/abs/2108.09000v1)] Deep Virtual Markers for Articulated 3D Shapes
@@ -889,6 +895,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[ICCV2021](https://arxiv.org/abs/2108.12468v1)] Learning Inner-Group Relations on Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2108.06076v1)] Point-Voxel Transformer: An Efficient Approach To 3D Deep Learning
 - [[Siggraph2021](https://arxiv.org/abs/2108.04476v1)] SP-GAN: Sphere-Guided 3D Shape Generation and Manipulation [[Project](https://liruihui.github.io/publication/SP-GAN/)] [[github](https://github.com/liruihui/SP-GAN)]
 - [[ICCV2021](https://arxiv.org/abs/2108.00580v1)] GraphFPN: Graph Feature Pyramid Network for Object Detection
@@ -1032,6 +1039,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[ICCV2021](https://arxiv.org/abs/2108.11682v1)] A Robust Loss for Point Cloud Registration
 - [[Arxiv](https://arxiv.org/abs/2108.09169v1)] Geometry-Aware Self-Training for Unsupervised Domain Adaptationon Object Point Clouds
 - [[IROS2021](https://arxiv.org/abs/2108.08755v1)] Category-Level 6D Object Pose Estimation via Cascaded Relation and Recurrent Reconstruction Networks [[Project](https://wangjiaze.cn/projects/6DPoseEstimation.html)] [[github](https://github.com/JeremyWANGJZ/Category-6D-Pose)]
 - [[ICCV2021](https://arxiv.org/abs/2108.08574v1)] StructDepth: Leveraging the structural regularities for self-supervised indoor depth estimation [[github](https://github.com/SJTU-ViSYS/StructDepth)]
