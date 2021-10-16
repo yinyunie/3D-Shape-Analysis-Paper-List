@@ -195,6 +195,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2110.05770)] HyperCube: Implicit Field Representations of Voxelized 3D Models
 - [[Arxiv](https://arxiv.org/abs/2108.09432v1)] ARAPReg: An As-Rigid-As Possible Regularization Loss for Learning Deformable Shape Generators
 - [[ICCV2021](https://arxiv.org/abs/2109.05591)] Multiresolution Deep Implicit Functions for 3D Shape Representation
 - [[ICCV2021](https://arxiv.org/abs/2108.04628v1)] Learning Canonical 3D Object Representation for Fine-Grained Recognition
@@ -377,6 +378,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2110.06199)] ABO: Dataset and Benchmarks for Real-World 3D Object Understanding [[Project](https://amazon-berkeley-objects.s3.amazonaws.com/index.html)]
+- [[ICCV2021](https://arxiv.org/abs/2109.00512)] Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction [[github](https://github.com/facebookresearch/co3d)]
 - [[Arxiv](https://arxiv.org/abs/2109.11844)] Learnable Triangulation for Deep Learning-based 3D Reconstruction of Objects of Arbitrary Topology from Single RGB Images
 - [[ICCV2021](https://arxiv.org/abs/2108.09964v1)] Learning Signed Distance Field for Multi-view Surface Reconstruction
 - [[Arxiv](https://arxiv.org/abs/2108.08477v1)] Image2Lego: Customized LEGO Set Generation from Images
