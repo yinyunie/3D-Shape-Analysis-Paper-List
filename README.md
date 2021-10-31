@@ -22,6 +22,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[ICCV2021](https://arxiv.org/abs/2103.16130)] Active Learning for Deep Object Detection via Probabilistic Modeling [[github](https://github.com/nvlabs/al-mdn)]
+- [[ICCV2021](https://arxiv.org/abs/2109.08141)] An End-to-End Transformer Model for 3D Object Detection [[Project](https://facebookresearch.github.io/3detr/)]
 - [[ICCV2021](https://arxiv.org/abs/2108.10723)] Improving 3D Object Detection with Channel-wise Transformer
 - [[ICCV2021](https://arxiv.org/abs/2109.02497)] Voxel Transformer for 3D Object Detection
 - [[CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Chai_To_the_Point_Efficient_3D_Object_Detection_in_the_Range_CVPR_2021_paper.pdf)] To the Point: Efficient 3D Object Detection in the Range Image With Graph Convolution Kernels
@@ -195,6 +197,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[3DV](https://arxiv.org/abs/2110.11860)] AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations [[github](https://github.com/SimonGiebenhain/AIR-Nets)]
 - [[Arxiv](https://arxiv.org/abs/2110.05770)] HyperCube: Implicit Field Representations of Voxelized 3D Models
 - [[Arxiv](https://arxiv.org/abs/2108.09432v1)] ARAPReg: An As-Rigid-As Possible Regularization Loss for Learning Deformable Shape Generators
 - [[ICCV2021](https://arxiv.org/abs/2109.05591)] Multiresolution Deep Implicit Functions for 3D Shape Representation
