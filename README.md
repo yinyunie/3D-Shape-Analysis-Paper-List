@@ -197,6 +197,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2111.09383?context=cs.GR)] DeepCurrents: Learning Implicit Representations of Shapes with Boundaries
 - [[3DV](https://arxiv.org/abs/2110.11860)] AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations [[github](https://github.com/SimonGiebenhain/AIR-Nets)]
 - [[Arxiv](https://arxiv.org/abs/2110.05770)] HyperCube: Implicit Field Representations of Voxelized 3D Models
 - [[Arxiv](https://arxiv.org/abs/2108.09432v1)] ARAPReg: An As-Rigid-As Possible Regularization Loss for Learning Deformable Shape Generators
@@ -901,6 +902,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[NeurIPS2021](https://arxiv.org/abs/2110.15156)] Blending Anti-Aliasing into Vision Transformer
 - [[ICCV2021](https://arxiv.org/abs/2108.12468v1)] Learning Inner-Group Relations on Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2108.06076v1)] Point-Voxel Transformer: An Efficient Approach To 3D Deep Learning
 - [[Siggraph2021](https://arxiv.org/abs/2108.04476v1)] SP-GAN: Sphere-Guided 3D Shape Generation and Manipulation [[Project](https://liruihui.github.io/publication/SP-GAN/)] [[github](https://github.com/liruihui/SP-GAN)]
