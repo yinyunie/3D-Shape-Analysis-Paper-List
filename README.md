@@ -22,6 +22,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[ICCV2021](https://arxiv.org/abs/2109.04456v1)] NEAT: Neural Attention Fields for End-to-End Autonomous Driving [[github](https://github.com/autonomousvision/neat)]
+- [[ICCV2021](https://arxiv.org/abs/2109.02499v1)] Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection
+- [[ICCV2021](https://arxiv.org/abs/2109.01066v1)] 4D-Net for Learned Multi-Modal Alignment
 - [[ICCV2021](https://arxiv.org/abs/2103.16130)] Active Learning for Deep Object Detection via Probabilistic Modeling [[github](https://github.com/nvlabs/al-mdn)]
 - [[ICCV2021](https://arxiv.org/abs/2109.08141)] An End-to-End Transformer Model for 3D Object Detection [[Project](https://facebookresearch.github.io/3detr/)]
 - [[ICCV2021](https://arxiv.org/abs/2108.10723)] Improving 3D Object Detection with Channel-wise Transformer
@@ -197,6 +200,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2109.01605v1)] Representing Shape Collections with Alignment-Aware Linear Models [[Project](https://romainloiseau.github.io/deep-linear-shapes/)]
+- [[ICCV2021](https://arxiv.org/abs/2109.00179v1)] Spatio-temporal Self-Supervised Representation Learning for 3D Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2111.09383?context=cs.GR)] DeepCurrents: Learning Implicit Representations of Shapes with Boundaries
 - [[3DV](https://arxiv.org/abs/2110.11860)] AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations [[github](https://github.com/SimonGiebenhain/AIR-Nets)]
 - [[Arxiv](https://arxiv.org/abs/2110.05770)] HyperCube: Implicit Field Representations of Voxelized 3D Models
@@ -382,6 +387,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[ACMMM2021](https://arxiv.org/abs/2109.04153v1)] Single Image 3D Object Estimation with Primitive Graph Networks
+- [[Arxiv](https://arxiv.org/abs/2111.12480)] Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences
 - [[Arxiv](https://arxiv.org/abs/2110.06199)] ABO: Dataset and Benchmarks for Real-World 3D Object Understanding [[Project](https://amazon-berkeley-objects.s3.amazonaws.com/index.html)]
 - [[ICCV2021](https://arxiv.org/abs/2109.00512)] Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction [[github](https://github.com/facebookresearch/co3d)]
 - [[Arxiv](https://arxiv.org/abs/2109.11844)] Learnable Triangulation for Deep Learning-based 3D Reconstruction of Objects of Arbitrary Topology from Single RGB Images
@@ -549,6 +556,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[ICCV2021](https://arxiv.org/abs/2109.02227v1)] Learning to Generate Scene Graph from Natural Language Supervision [[github](https://github.com/YiwuZhong/SGG_from_NLS)]
 - [[ICCV2021](https://arxiv.org/abs/2108.11550v1)] The Surprising Effectiveness of Visual Odometry Techniques for Embodied PointGoal Navigation [[Project](https://xiaoming-zhao.github.io/projects/pointnav-vo/)]
 - [[ICCV2021](https://arxiv.org/abs/2108.08841v1)] Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs
 - [[ICCV2021](https://arxiv.org/abs/2108.06545v1)] PICCOLO: Point Cloud-Centric Omnidirectional Localization
@@ -756,6 +764,8 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[ICCV2021](https://arxiv.org/abs/2109.01750v1)] CodeNeRF: Disentangled Neural Radiance Fields for Object Categories [[github](https://github.com/wayne1123/code-nerf)]
+- [[ICCV2021](https://arxiv.org/abs/2109.01847v1)] Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering [[Project](https://zju3dv.github.io/object_nerf/)]
 - [[ICCV2021](https://arxiv.org/abs/2108.04886v1)] Differentiable Surface Rendering via Non-Differentiable Sampling
 - [[ICCV2021](https://arxiv.org/abs/2104.00677)] Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis [[Project](https://www.ajayj.com/dietnerf)]
 - [[Arxiv](https://arxiv.org/abs/2107.05775v1)] Fast and Explicit Neural View Synthesis
@@ -798,6 +808,9 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[ICCV2021](https://arxiv.org/abs/2109.02303v1)] Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation [[github](https://github.com/ziniuwan/maed)]
+- [[ICCV2021](https://arxiv.org/abs/2109.02563v1)] 3D Human Texture Estimation from a Single Image with Transformers
+- [[ICCV2021](https://arxiv.org/abs/2109.00033v1)] DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension
 - [[Arxiv](https://arxiv.org/abs/2104.03953)] SNARF: Differentiable Forward Skinning for Animating Non-Rigid Neural Implicit Shapes [[Project](https://xuchen-ethz.github.io/snarf/)]
 - [[ICCV2021](https://arxiv.org/abs/2108.11944v1)] Probabilistic Modeling for Human Mesh Recovery [[Project](https://www.seas.upenn.edu/~nkolot/projects/prohmr/)]
 - [[ICCV2021](https://arxiv.org/abs/2108.11609v1)] Unsupervised Dense Deformation Embedding Network for Template-Free Shape Correspondence
@@ -902,6 +915,8 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2109.01291v1)] CAP-Net: Correspondence-Aware Point-view Fusion Network for 3D Shape Analysis
+- [[Arxiv](https://arxiv.org/abs/2111.11187)] PointMixer: MLP-Mixer for Point Cloud Understanding
 - [[NeurIPS2021](https://arxiv.org/abs/2110.15156)] Blending Anti-Aliasing into Vision Transformer
 - [[ICCV2021](https://arxiv.org/abs/2108.12468v1)] Learning Inner-Group Relations on Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2108.06076v1)] Point-Voxel Transformer: An Efficient Approach To 3D Deep Learning
@@ -1047,6 +1062,8 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[ICCV2021](https://arxiv.org/abs/2109.04310v1)] Deep Hough Voting for Robust Global Registration
+- [[Arxiv](https://arxiv.org/abs/2109.00182v1)] You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors [[Project](https://hpwang-whu.github.io/YOHO/)]
 - [[ICCV2021](https://arxiv.org/abs/2108.11682v1)] A Robust Loss for Point Cloud Registration
 - [[Arxiv](https://arxiv.org/abs/2108.09169v1)] Geometry-Aware Self-Training for Unsupervised Domain Adaptationon Object Point Clouds
 - [[IROS2021](https://arxiv.org/abs/2108.08755v1)] Category-Level 6D Object Pose Estimation via Cascaded Relation and Recurrent Reconstruction Networks [[Project](https://wangjiaze.cn/projects/6DPoseEstimation.html)] [[github](https://github.com/JeremyWANGJZ/Category-6D-Pose)]
