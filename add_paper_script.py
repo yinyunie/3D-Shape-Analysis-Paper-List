@@ -3,11 +3,8 @@
 # Updated data: 23 June, 2021
 
 # Usage:
-# see python add_paper_script.py -h
-# python -t 3 -p CVPR2020 -l https://arxiv.org/abs/2002.12212 -ti "Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes from a Single Image" -o pytorch=https://github.com/yinyunie/Total3DUnderstanding Project=https://yinyunie.github.io/Total3D/
-# if the link argument [-l] is given an arxiv link, you do not need to give the title argument [-ti], like
-# python -t 3 -p CVPR2020 -l https://arxiv.org/abs/2002.12212 -o pytorch=https://github.com/yinyunie/Total3DUnderstanding Project=https://yinyunie.github.io/Total3D/
-# [-o] is an argument with variable length. You can give a dictionary like above.
+# python add_paper_script.py
+# follow the instructions to add details for each paper.
 
 import sys
 from libs import existing_topics
