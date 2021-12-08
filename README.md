@@ -218,7 +218,8 @@ for Articulated Shape Representation [[Project](https://jitengmu.github.io/A-SDF
 - [[Arxiv](https://arxiv.org/abs/2102.09105)] DeepMetaHandles: Learning Deformation Meta-Handles of 3D Meshes with Biharmonic Coordinates [[Project](https://github.com/Colin97/DeepMetaHandles)]
 
 #### Before 2021
-- [[Arxiv](https://arxiv.org/pdf/2012.00230.pdf)] Point2Skeleton: Learning Skeletal Representations from Point Clouds [[pytorch](https://github.com/clinplayer/Point2Skeleton)]
+- [[CVPR2021](http://campar.in.tum.de/pub/paetzold2021cldice/paetzold2021cldice.pdf)] clDice-a Novel Topology-Preserving Loss Function for Tubular Structure Segmentation [[github](https://github.com/jocpae/clDice)]
+- [[CVPR2021](https://arxiv.org/pdf/2012.00230.pdf)] Point2Skeleton: Learning Skeletal Representations from Point Clouds [[pytorch](https://github.com/clinplayer/Point2Skeleton)]
 - [[Arxiv](https://arxiv.org/pdf/2012.03028.pdf)] ParaNet: Deep Regular Representation for 3D Point Clouds
 - [[Arxiv](https://arxiv.org/pdf/2012.05657.pdf)] Geometric Adversarial Attacks and Defenses on 3D Point Clouds [[tensorflow](https://github.com/itailang/geometric_adv)]
 - [[Arxiv](https://arxiv.org/pdf/2012.07290.pdf)] Learning Category-level Shape Saliency via Deep Implicit Surface Networks
@@ -556,6 +557,9 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[TPAMI2021](https://arxiv.org/abs/2109.05441v1)] Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR-based Perception [[github](https://github.com/xinge008/Cylinder3D)]
+- [[Arxiv](https://arxiv.org/abs/2109.05566v1)] PQ-Transformer: Jointly Parsing 3D Objects and Layouts from Point Clouds [[github](https://github.com/OPEN-AIR-SUN/PQ-Transformer)]
+- [[Arxiv](https://arxiv.org/abs/2109.04685v1)] Residual 3D Scene Flow Learning with Context-Aware Feature Extraction
 - [[ICCV2021](https://arxiv.org/abs/2109.02227v1)] Learning to Generate Scene Graph from Natural Language Supervision [[github](https://github.com/YiwuZhong/SGG_from_NLS)]
 - [[ICCV2021](https://arxiv.org/abs/2108.11550v1)] The Surprising Effectiveness of Visual Odometry Techniques for Embodied PointGoal Navigation [[Project](https://xiaoming-zhao.github.io/projects/pointnav-vo/)]
 - [[ICCV2021](https://arxiv.org/abs/2108.08841v1)] Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs
@@ -764,6 +768,7 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[NeurIPS2021](https://arxiv.org/abs/2109.07448v1)] Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering [[Project](https://youngjoongunc.github.io/nhp/)]
 - [[ICCV2021](https://arxiv.org/abs/2109.01750v1)] CodeNeRF: Disentangled Neural Radiance Fields for Object Categories [[github](https://github.com/wayne1123/code-nerf)]
 - [[ICCV2021](https://arxiv.org/abs/2109.01847v1)] Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering [[Project](https://zju3dv.github.io/object_nerf/)]
 - [[ICCV2021](https://arxiv.org/abs/2108.04886v1)] Differentiable Surface Rendering via Non-Differentiable Sampling
@@ -808,6 +813,7 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[ICCV2021](https://arxiv.org/abs/2109.05885v1)] Graph-Based 3D Multi-Person Pose Estimation Using Multi-View Images
 - [[ICCV2021](https://arxiv.org/abs/2109.02303v1)] Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation [[github](https://github.com/ziniuwan/maed)]
 - [[ICCV2021](https://arxiv.org/abs/2109.02563v1)] 3D Human Texture Estimation from a Single Image with Transformers
 - [[ICCV2021](https://arxiv.org/abs/2109.00033v1)] DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension
@@ -1062,6 +1068,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/abs/2111.00190)] Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation [[Project](https://dragonlong.github.io/equi-pose/)]
 - [[ICCV2021](https://arxiv.org/abs/2109.04310v1)] Deep Hough Voting for Robust Global Registration
 - [[Arxiv](https://arxiv.org/abs/2109.00182v1)] You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors [[Project](https://hpwang-whu.github.io/YOHO/)]
 - [[ICCV2021](https://arxiv.org/abs/2108.11682v1)] A Robust Loss for Point Cloud Registration
