@@ -22,6 +22,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/abs/2109.11835v1)] GSIP: Green Semantic Segmentation of Large-Scale Indoor Point Clouds
+- [[Arxiv](https://arxiv.org/abs/2109.10852v1)] Pix2seq: A Language Modeling Framework for Object Detection
+- [[Arxiv](https://arxiv.org/abs/2109.10473v1)] MVM3Det: A Novel Method for Multi-view Monocular 3D Detection
 - [[ICCV2021](https://arxiv.org/abs/2109.04456v1)] NEAT: Neural Attention Fields for End-to-End Autonomous Driving [[github](https://github.com/autonomousvision/neat)]
 - [[ICCV2021](https://arxiv.org/abs/2109.02499v1)] Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection
 - [[ICCV2021](https://arxiv.org/abs/2109.01066v1)] 4D-Net for Learned Multi-Modal Alignment
@@ -200,6 +203,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2112.05381)] UNIST: Unpaired Neural Implicit Shape Translation Network [[Project](https://qiminchen.github.io/unist/)]
 - [[Arxiv](https://arxiv.org/abs/2109.01605v1)] Representing Shape Collections with Alignment-Aware Linear Models [[Project](https://romainloiseau.github.io/deep-linear-shapes/)]
 - [[ICCV2021](https://arxiv.org/abs/2109.00179v1)] Spatio-temporal Self-Supervised Representation Learning for 3D Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2111.09383?context=cs.GR)] DeepCurrents: Learning Implicit Representations of Shapes with Boundaries
@@ -298,6 +302,9 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[IROS2021](https://arxiv.org/abs/2109.11453v1)] Semantic Segmentation-assisted Scene Completion for LiDAR Point Clouds [[github](https://github.com/jokester-zzz/SSA-SC)]
+- [[Arxiv](https://arxiv.org/abs/2109.10161v1)] 3D Point Cloud Completion with Geometric-Aware Adversarial Augmentation
+- [[Arxiv](https://arxiv.org/abs/2109.09337v1)] PC2-PU: Patch Correlation and Position Correction for Effective Point Cloud Upsampling
 - [[ICCV2021](https://arxiv.org/abs/2108.09936v1)] Voxel-based Network for Shape Completion by Leveraging Edge Generation [[github](https://github.com/xiaogangw/VE-PCN)]
 - [[ICCV2021](https://arxiv.org/abs/2108.08839v1)] PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers [[github](https://github.com/yuxumin/PoinTr)]
 - [[ICCV2021](https://arxiv.org/abs/2108.04444v1)] SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer [[github](https://github.com/AllenXiangX/SnowflakeNet)]
@@ -557,6 +564,9 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/abs/2109.13410v1)] KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D [[Project](http://www.cvlibs.net/datasets/kitti-360/)]
+- [[CVPR2021](https://arxiv.org/abs/2007.12868)] OpenRooms: An End-to-End Open Framework for Photorealistic Indoor Scene Datasets [[github](https://github.com/ViLab-UCSD/OpenRooms)]
+- [[Arxiv](https://arxiv.org/abs/2109.08553v1)] Pointly-supervised 3D Scene Parsing with Viewpoint Bottleneck [[github](https://github.com/OPEN-AIR-SUN/Viewpoint-Bottleneck)]
 - [[TPAMI2021](https://arxiv.org/abs/2109.05441v1)] Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR-based Perception [[github](https://github.com/xinge008/Cylinder3D)]
 - [[Arxiv](https://arxiv.org/abs/2109.05566v1)] PQ-Transformer: Jointly Parsing 3D Objects and Layouts from Point Clouds [[github](https://github.com/OPEN-AIR-SUN/PQ-Transformer)]
 - [[Arxiv](https://arxiv.org/abs/2109.04685v1)] Residual 3D Scene Flow Learning with Context-Aware Feature Extraction
@@ -669,6 +679,8 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[NeurIPS2021](https://arxiv.org/abs/2110.03675)] ATISS: Autoregressive Transformers for Indoor Scene Synthesis [[Project](https://nv-tlabs.github.io/ATISS/)]
+- [[ICCV2021](https://arxiv.org/abs/2109.06061)] Learning Indoor Inverse Rendering with 3D Spatially-Varying Lighting
 - [[Arxiv](https://arxiv.org/abs/2108.09911v1)] Black-Box Test-Time Shape REFINEment for Single View 3D Reconstruction
 - [[Arxiv](https://arxiv.org/abs/2108.09022v1)] Indoor Scene Generation from a Collection of Semantic-Segmented Depth Images
 - [[ICCV2021](https://arxiv.org/abs/2108.08378v1)] Vis2Mesh: Efficient Mesh Reconstruction from Unstructured Point Clouds of Large Scenes with Learned Virtual View Visibility [[github](https://github.com/GDAOSU/vis2mesh)]
@@ -768,6 +780,8 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2112.05598)] PERF: Performant, Explicit Radiance Fields
+- [[Arxiv](https://arxiv.org/abs/2112.05131)] Plenoxels: Radiance Fields without Neural Networks [[Project](https://alexyu.net/plenoxels/)]
 - [[NeurIPS2021](https://arxiv.org/abs/2109.07448v1)] Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering [[Project](https://youngjoongunc.github.io/nhp/)]
 - [[ICCV2021](https://arxiv.org/abs/2109.01750v1)] CodeNeRF: Disentangled Neural Radiance Fields for Object Categories [[github](https://github.com/wayne1123/code-nerf)]
 - [[ICCV2021](https://arxiv.org/abs/2109.01847v1)] Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering [[Project](https://zju3dv.github.io/object_nerf/)]
@@ -813,6 +827,9 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[NeurIPS2021](https://arxiv.org/abs/2111.07868)] Tracking People with 3D Representations [[github](https://github.com/brjathu/T3DP)]
+- [[Arxiv](https://arxiv.org/abs/2109.11399v1)] A Skeleton-Driven Neural Occupancy Representation for Articulated Hands
+- [[Arxiv](https://arxiv.org/abs/2109.08364v1)] GraFormer: Graph Convolution Transformer for 3D Pose Estimation [[github](https://github.com/Graformer/GraFormer)]
 - [[ICCV2021](https://arxiv.org/abs/2109.05885v1)] Graph-Based 3D Multi-Person Pose Estimation Using Multi-View Images
 - [[ICCV2021](https://arxiv.org/abs/2109.02303v1)] Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation [[github](https://github.com/ziniuwan/maed)]
 - [[ICCV2021](https://arxiv.org/abs/2109.02563v1)] 3D Human Texture Estimation from a Single Image with Transformers
@@ -921,6 +938,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2112.05682)] Self-attention Does Not Need $O(n^2)$ Memory
 - [[Arxiv](https://arxiv.org/abs/2109.01291v1)] CAP-Net: Correspondence-Aware Point-view Fusion Network for 3D Shape Analysis
 - [[Arxiv](https://arxiv.org/abs/2111.11187)] PointMixer: MLP-Mixer for Point Cloud Understanding
 - [[NeurIPS2021](https://arxiv.org/abs/2110.15156)] Blending Anti-Aliasing into Vision Transformer
@@ -1068,6 +1086,10 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[ICCV2021](https://arxiv.org/abs/2109.12484v1)] Excavating the Potential Capacity of Self-Supervised Monocular Depth Estimation
+- [[ICCV2021](https://arxiv.org/abs/2109.10115v2)] StereOBJ-1M: Large-scale Stereo Image Dataset for 6D Object Pose Estimation
+- [[IROS2021](https://arxiv.org/abs/2109.10127v1)] KDFNet: Learning Keypoint Distance Field for 6D Object Pose Estimation
+- [[ICCV2021](https://arxiv.org/abs/2109.09881v1)] Estimating and Exploiting the Aleatoric Uncertainty in Surface Normal Estimation [[github](https://github.com/baegwangbin/surface_normal_uncertainty)]
 - [[Arxiv](https://arxiv.org/abs/2111.00190)] Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation [[Project](https://dragonlong.github.io/equi-pose/)]
 - [[ICCV2021](https://arxiv.org/abs/2109.04310v1)] Deep Hough Voting for Robust Global Registration
 - [[Arxiv](https://arxiv.org/abs/2109.00182v1)] You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors [[Project](https://hpwang-whu.github.io/YOHO/)]
@@ -1204,6 +1226,7 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/abs/2109.08238v1)] Habitat-Matterport 3D Dataset (HM3D): 1000 Large-scale 3D Environments for Embodied AI
 - [[Arxiv](https://arxiv.org/abs/2107.06149)] MINERVAS: Massive INterior EnviRonments VirtuAl Synthesis [[Project](https://coohom.github.io/MINERVAS/)]
 - [[Arxiv](https://arxiv.org/abs/2107.04286v1)] UrbanScene3D: A Large Scale Urban Scene Dataset and Simulator [[Project](https://vcc.tech/UrbanScene3D/)]
 - [[Arxiv](https://arxiv.org/abs/2106.11118v2)] SODA10M: Towards Large-Scale Object Detection Benchmark for Autonomous Driving [[Project](https://soda-2d.github.io/documentation.html#data_collection)]
