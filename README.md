@@ -22,6 +22,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[NeurIPS2021](https://arxiv.org/abs/2111.06881v1)] Multimodal Virtual Point 3D Detection [[Project](https://tianweiy.github.io/mvp/)]
+- [[BMVC2021](https://arxiv.org/abs/2110.14921v1)] 3D Object Tracking with Transformer [[github](https://github.com/3bobo/lttr)]
 - [[3DV2021](https://arxiv.org/abs/2110.11325v1)] Learning 3D Semantic Segmentation with only 2D Image Supervision
 - [[3DV2021](https://arxiv.org/abs/2110.09936v1)] NeuralDiff: Segmenting 3D objects that move in egocentric videos [[Project](https://www.robots.ox.ac.uk/~vadim/neuraldiff/)]
 - [[BMVC2021](https://arxiv.org/abs/2110.09355v1)] FAST3D: Flow-Aware Self-Training for 3D Object Detectors
@@ -212,6 +214,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[NeurIPS2021](https://arxiv.org/abs/2111.07117v1)] Learning Object-Centric Representations of Multi-Object Scenes from Multiple Views [[github](https://github.com/NanboLi/MulMON)]
+- [[Arxiv](https://arxiv.org/abs/2111.13674)] Neural Fields as Learnable Kernels for 3D Reconstruction
+- [[NeurIPS2021](https://arxiv.org/abs/2111.01067v1)] OctField: Hierarchical Implicit Functions for 3D Modeling [[github](https://github.com/IGLICT/OctField)]
 - [[3DV2021](https://arxiv.org/abs/2110.11036v1)] RefRec: Pseudo-labels Refinement via Shape Reconstruction for Unsupervised 3D Domain Adaptation [[github](https://github.com/CVLAB-Unibo/RefRec)]
 - [[3DV2021](https://arxiv.org/abs/2110.07882v1)] PolyNet: Polynomial Neural Network for 3D Shape Recognition with PolyShape Representation [[Project](https://arxiv.org/pdf/2110.07882v1.pdf)]
 - [[Arxiv](https://arxiv.org/abs/2112.04645)] BACON: Band-limited Coordinate Networks for Multiscale Scene Representation [[Project](https://davidlindell.com/publications/bacon)]
@@ -314,6 +319,7 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[IROS2021](https://arxiv.org/abs/2112.01840v1)] Graph-Guided Deformation for Point Cloud Completion
 - [[IROS2021](https://arxiv.org/abs/2109.11453v1)] Semantic Segmentation-assisted Scene Completion for LiDAR Point Clouds [[github](https://github.com/jokester-zzz/SSA-SC)]
 - [[Arxiv](https://arxiv.org/abs/2109.10161v1)] 3D Point Cloud Completion with Geometric-Aware Adversarial Augmentation
 - [[Arxiv](https://arxiv.org/abs/2109.09337v1)] PC2-PU: Patch Correlation and Position Correction for Effective Point Cloud Upsampling
@@ -407,6 +413,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[NeurIPS2021](https://arxiv.org/abs/2111.04276v1)] Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis [[Project](https://nv-tlabs.github.io/DMTet/)]
+- [[ICML2021](https://arxiv.org/pdf/2011.13495.pdf)] Neural-Pull: Learning Signed Distance Functions from Point Clouds by Learning to Pull Space onto Surfaces [[tensorflow](https://github.com/mabaorui/NeuralPull)]
 - [[Arxiv](https://arxiv.org/abs/2112.11427)] StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation [[Project](https://stylesdf.github.io/)]
 - [[3DV2021](https://arxiv.org/abs/2110.11599v1)] High Fidelity 3D Reconstructions with Limited Physical Views [[Project](https://sites.google.com/view/high-fidelity-3d-neural-prior)]
 - [[3DV2021](https://arxiv.org/abs/2110.11256v1)] Multi-Category Mesh Reconstruction From Image Collections [[github](https://arxiv.org/pdf/2110.11256v1.pdf)]
@@ -584,6 +592,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[NeurIPS2021](https://arxiv.org/abs/2111.01253v1)] Neural Scene Flow Prior [[github](https://github.com/Lilac-Lee/Neural_Scene_Flow_Prior)]
 - [[ICCV2021](https://arxiv.org/abs/2110.01997v1)] Structured Bird's-Eye-View Traffic Scene Understanding from Onboard Images [[Project](https://github.com/ybarancan/STSU)]
 - [[Arxiv](https://arxiv.org/abs/2110.00644v1)] RoomStructNet: Learning to Rank Non-Cuboidal Room Layouts From Single View
 - [[EMNLP2021](https://arxiv.org/abs/2109.15207v1)] Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments [[Project](https://3dlg-hcvc.github.io/LAW-VLNCE/)]
@@ -702,6 +711,9 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[CoRL2021](https://arxiv.org/abs/2111.07418v1)] TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo [[Project](https://vision.in.tum.de/research/vslam/tandem)]
+- [[NeurIPS2021](https://arxiv.org/abs/2111.03098v1)] Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image [[Project](http://cvlab.cse.msu.edu/project-mdr.html)]
+- [[NeurIPS2021](https://arxiv.org/abs/2111.02444v1)] Panoptic 3D Scene Reconstruction From a Single RGB Image
 - [[Arxiv](https://arxiv.org/abs/2112.12130)] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM [[Project](https://pengsongyou.github.io/nice-slam)]
 - [[BMVC2021](https://arxiv.org/abs/2110.11219v1)] PlaneRecNet: Multi-Task Learning with Cross-Task Consistency for Piece-Wise Plane Detection and Reconstruction from a Single RGB Image [[github](https://github.com/EryiXie/PlaneRecNet)]
 - [[ICCV2021](https://arxiv.org/abs/2108.13499)] Scene Synthesis via Uncertainty-Driven Attribute Synchronization [[github](https://github.com/yanghtr/Sync2Gen)]
@@ -807,6 +819,7 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[NeurIPS2021](https://arxiv.org/abs/2110.14213v1)] Neural View Synthesis and Matching for Semi-Supervised Few-Shot Learning of 3D Pose [[github](https://github.com/Angtian/NeuralVS)]
 - [[Arxiv](https://arxiv.org/abs/2112.05598)] PERF: Performant, Explicit Radiance Fields
 - [[Arxiv](https://arxiv.org/abs/2112.05131)] Plenoxels: Radiance Fields without Neural Networks [[Project](https://alexyu.net/plenoxels/)]
 - [[NeurIPS2021](https://arxiv.org/abs/2109.07448v1)] Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering [[Project](https://youngjoongunc.github.io/nhp/)]
@@ -975,6 +988,8 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2111.06575v1)] Self-supervised GAN Detector [[github](https://github.com/ytongbai/ViTs-vs-CNNs)]
+- [[NeurIPS2021](https://arxiv.org/abs/2110.15348v1)] Residual Relaxation for Multi-view Representation Learning
 - [[ICCV2021](https://arxiv.org/abs/2110.02951v1)] Video Autoencoder: self-supervised disentanglement of static 3D structure and motion [[Project](https://zlai0.github.io/VideoAutoencoder/)]
 - [[NeurIPS2021](https://arxiv.org/abs/2104.09125)] SAPE: Spatially-Adaptive Progressive Encoding for Neural Optimization [[Project](https://amirhertz.github.io/sape/)]
 - [[Arxiv](https://matthew-a-chan.github.io/EG3D/media/eg3d.pdf)] Efficient Geometry-aware 3D Generative Adversarial Networks [[Project](https://matthew-a-chan.github.io/EG3D/)]
@@ -1126,6 +1141,13 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[NeurIPS2021](https://arxiv.org/abs/2111.07383v1)] Sparse Steerable Convolutions: An Efficient Learning of SE(3)-Equivariant Features for Estimation and Tracking of Object Poses in 3D Space [[github](https://github.com/Gorilla-Lab-SCUT/SS-Conv)]
+- [[Arxiv](https://arxiv.org/abs/2111.07624v1)] Attention Mechanisms in Computer Vision: A Survey
+- [[Arxiv](https://arxiv.org/abs/2111.05615v1)] Leveraging Geometry for Shape Estimation from a Single RGB Image [[github](https://github.com/florianlanger/leveraging_geometry_for_shape_estimation)]
+- [[Arxiv](https://arxiv.org/abs/2111.02045v1)] Deep Point Set Resampling via Gradient Fields [[github](https://github.com/luost26/score-denoise)]
+- [[Arxiv](https://arxiv.org/abs/2111.02135v1)] Efficient 3D Deep LiDAR Odometry [[github](https://github.com/IRMVLab/PWCLONet)]
+- [[NeurIPS2021](https://arxiv.org/abs/2111.00312v1)] 3DP3: 3D Scene Perception via Probabilistic Programming
+- [[NeurIPS2021](https://arxiv.org/abs/2110.14076v1)] CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration [[github](https://github.com/haoyu94/Coarse-to-fine-correspondences)]
 - [[BMVC2021](https://arxiv.org/abs/2110.12204v1)] Cascading Feature Extraction for Fast Point Cloud Registration
 - [[Arxiv](https://arxiv.org/abs/2110.11545v1)] Pseudo Supervised Monocular Depth Estimation with Teacher-Student Network
 - [[BMVC2021](https://arxiv.org/abs/2110.11608v1)] Multi-Stream Attention Learning for Monocular Vehicle Velocity and Inter-Vehicle Distance Estimation
