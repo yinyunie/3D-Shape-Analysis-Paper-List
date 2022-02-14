@@ -22,6 +22,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[AAAI2022](https://arxiv.org/abs/2112.04628v1)] Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection
+- [[Arxiv](https://arxiv.org/abs/2112.04764v1)] 3D-VField: Learning to Adversarially Deform Point Clouds for Robust 3D Object Detection
+- [[Arxiv](https://arxiv.org/abs/2112.04702v1)] Fast Point Transformer
+- [[3DV2021](https://arxiv.org/abs/2112.01135v1)] Open-set 3D Object Detection
 - [[Arxiv](https://arxiv.org/abs/2112.00322v1)] FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection [[Project](https://github.com/samsunglabs/fcaf3d)]
 - [[TPAMI2021](https://arxiv.org/abs/2111.15210v1)] Point Cloud Instance Segmentation with Semi-supervised Bounding-Box Mining
 - [[Arxiv](https://arxiv.org/abs/2111.12728v1)] Online Adaptation for Implicit Object Tracking and Shape Reconstruction in the Wild
@@ -219,6 +223,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2112.03221v1)] Text2Mesh: Text-Driven Neural Stylization for Meshes [[Project](https://threedle.github.io/text2mesh/)]
+- [[Arxiv](https://arxiv.org/abs/2112.02413v1)] PointCLIP: Point Cloud Understanding by CLIP [[github](https://github.com/ZrrSkywalker/PointCLIP)]
 - [[Arxiv](https://arxiv.org/abs/2111.15363v1)] Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding
 - [[Arxiv](https://arxiv.org/abs/2111.13652v1)] Gradient-SDF: A Semi-Implicit Surface Representation for 3D Reconstruction
 - [[Arxiv](https://arxiv.org/abs/2111.12488v1)] Intuitive Shape Editing in Latent Space
@@ -426,6 +432,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2112.03258v1)] DoodleFormer: Creative Sketch Drawing with Transformers
+- [[NeurIPS2021](https://arxiv.org/abs/2112.02091v1)] Class-agnostic Reconstruction of Dynamic Objects from Videos [[Project](https://jason718.github.io/redo/)]
 - [[Arxiv](https://arxiv.org/abs/2112.00584v1)] The Shape Part Slot Machine: Contact-based Reasoning for Generating 3D Shapes from Parts
 - [[Arxiv](https://arxiv.org/abs/2111.14549v1)] MeshUDF: Fast and Differentiable Meshing of Unsigned Distance Field Networks [[github](https://github.com/cvlab-epfl/MeshUDF)]
 - [[Arxiv](https://arxiv.org/abs/2111.14600v1)] TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers [[github](https://github.com/MegviiRobot/TransMVSNet)]
@@ -611,6 +619,12 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/abs/2112.02990v1)] 4DContrast: Contrastive Learning with Dynamic Correspondences for 3D Scene Understanding
+- [[Arxiv](https://arxiv.org/abs/2112.03030v1)] Pose2Room: Understanding 3D Scenes from Human Activities [[Project](https://yinyunie.github.io/pose2room-page/)]
+- [[NeurIPS2021](https://arxiv.org/abs/2112.01001v1)] SEAL: Self-supervised Embodied Active Learning using Exploration and 3D Consistency [[Project](https://devendrachaplot.github.io/projects/seal)]
+- [[Arxiv](https://arxiv.org/abs/2112.01551v1)] D3Net: A Speaker-Listener Architecture for Semi-supervised Dense Captioning and Visual Grounding in RGB-D Scans [[Project](https://daveredrum.github.io/D3Net/)]
+- [[Arxiv](https://arxiv.org/abs/2112.01520v1)] Recognizing Scenes from Novel Viewpoints
+- [[Arxiv](https://arxiv.org/abs/2112.01316v1)] Putting 3D Spatially Sparse Networks on a Diet
 - [[Arxiv](https://arxiv.org/abs/2111.12608v1)] Cerberus Transformer: Joint Semantic, Affordance and Attribute Parsing [[github](https://github.com/OPEN-AIR-SUN/Cerberus)]
 - [[NeurIPS2021](https://arxiv.org/abs/2111.01253v1)] Neural Scene Flow Prior [[github](https://github.com/Lilac-Lee/Neural_Scene_Flow_Prior)]
 - [[ICCV2021](https://arxiv.org/abs/2110.01997v1)] Structured Bird's-Eye-View Traffic Scene Understanding from Onboard Images [[Project](https://github.com/ybarancan/STSU)]
@@ -731,6 +745,10 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2112.05126v1)] IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo [[github](https://github.com/FangjinhuaWang/IterMVS)]
+- [[Arxiv](https://arxiv.org/abs/2112.04481v1)] What's Behind the Couch? Directed Ray Distance Functions (DRDF) for 3D Scene Reconstruction [[Project](https://nileshkulkarni.github.io/scene_drdf/)]
+- [[Arxiv](https://arxiv.org/abs/2112.03243v1)] Input-level Inductive Biases for 3D Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2112.01988v1)] ROCA: Robust CAD Model Retrieval and Alignment from a Single Image
 - [[Arxiv](https://arxiv.org/abs/2112.00336v1)] Multi-View Stereo with Transformer
 - [[3DV2021](https://arxiv.org/abs/2112.00202v1)] 3DVNet: Multi-View Depth Prediction and Volumetric Refinement
 - [[Arxiv](https://arxiv.org/abs/2112.00236v1)] VoRTX: Volumetric 3D Reconstruction With Transformers for Voxelwise View Selection and Fusion
@@ -844,6 +862,11 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2112.03517v1)] CG-NeRF: Conditional Generative Neural Radiance Fields
+- [[Arxiv](https://arxiv.org/abs/2112.03907v1)] Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields [[Project](https://dorverbin.github.io/refnerf/)]
+- [[Arxiv](https://arxiv.org/abs/2112.02308v1)] MoFaNeRF: Morphable Facial Neural Radiance Field
+- [[Arxiv](https://arxiv.org/abs/2112.03288v1)] Dense Depth Priors for Neural Radiance Fields from Sparse Input Views
+- [[Arxiv](https://arxiv.org/abs/2112.01759v1)] NeRF-SR: High-Quality Neural Radiance Fields using Super-Sampling [[Project](https://cwchenwang.github.io/nerf-sr/)]
 - [[Arxiv](https://arxiv.org/abs/2112.00724v1)] RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs [[Project](https://m-niemeyer.github.io/regnerf/index.html)]
 - [[Arxiv](https://arxiv.org/abs/2111.15234v1)] NeRFReN: Neural Radiance Fields with Reflections [[Project](https://bennyguo.github.io/nerfren/)]
 - [[Arxiv](https://arxiv.org/abs/2111.15552v1)] NeuSample: Neural Sample Field for Efficient View Synthesis [[Project](https://jaminfong.cn/neusample/)]
@@ -902,6 +925,12 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2112.04477v1)] Tracking People by Predicting 3D Appearance, Location &amp; Pose [[Project](http://people.eecs.berkeley.edu/~jathushan/PHALP/)]
+- [[Arxiv](https://arxiv.org/abs/2112.04203v1)] Adversarial Parametric Pose Prior
+- [[NeurIPS2021](https://arxiv.org/abs/2112.04159v1)] Garment4D: Garment Reconstruction from Point Cloud Sequences [[Project](https://hongfz16.github.io/projects/Garment4D.html)]
+- [[Arxiv](https://arxiv.org/abs/2112.02753v1)] MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image [[github](https://github.com/SeanChenxy/HandMesh)]
+- [[Arxiv](https://arxiv.org/abs/2112.02082v1)] Total Scale: Face-to-Body Detail Reconstruction from Sparse RGBD Sensors
+- [[Arxiv](https://arxiv.org/abs/2112.01524v1)] GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras [[Project](https://www.ye-yuan.com/glamr/)]
 - [[3DV2021](https://arxiv.org/abs/2111.15113v1)] LatentHuman: Shape-and-Pose Disentangled Latent Representation for Human Bodies [[Project](https://latenthuman.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2111.12696v1)] A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose
 - [[Arxiv](https://arxiv.org/abs/2111.12707v1)] MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation [[github](https://github.com/Vegetebird/MHFormer)]
@@ -1027,6 +1056,8 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2112.03777v1)] Variance-Aware Weight Initialization for Point Convolutional Neural Networks
+- [[Arxiv](https://arxiv.org/abs/2112.01698v1)] Learning to Detect Every Thing in an Open World [[Project](https://ksaito-ut.github.io/openworld_ldet/)]
 - [[Arxiv](https://arxiv.org/abs/2111.14819v1)] Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling [[Project](https://point-bert.ivg-research.xyz/)]
 - [[Arxiv](https://arxiv.org/abs/2111.10866v1)] CpT: Convolutional Point Transformer for 3D Point Cloud Processing
 - [[Arxiv](https://arxiv.org/abs/2111.09883v1)] Swin Transformer V2: Scaling Up Capacity and Resolution [[github](https://github.com/microsoft/Swin-Transformer)]
@@ -1184,6 +1215,8 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/abs/2112.02306v1)] Toward Practical Self-Supervised Monocular Indoor Depth Estimation
+- [[Arxiv](https://arxiv.org/abs/2112.00933v1)] PartImageNet: A Large, High-Quality Dataset of Parts [[github](https://github.com/TACJu/PartImageNet)]
 - [[Arxiv](https://arxiv.org/abs/2112.00246v1)] AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Objects via Few-shot Interactions
 - [[Arxiv](https://arxiv.org/abs/2111.11429v1)] Benchmarking Detection Transfer Learning with Vision Transformers
 - [[Arxiv](https://arxiv.org/abs/2111.10250v1)] Panoptic Segmentation: A Review [[github](https://github.com/elharroussomar/Awesome-Panoptic-Segmentation)]
@@ -1384,6 +1417,7 @@ Object Detection via Transformer Decoder
 - [[Survey](https://arxiv.org/abs/1906.01529)] Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy
 
 #### Before 2021
+- [[Dataset](https://arxiv.org/abs/1906.05797)] The Replica Dataset: A Digital Replica of Indoor Spaces [[github](https://github.com/facebookresearch/Replica-Dataset)]
 - [[IROS2021](https://arxiv.org/abs/2012.02924)] iGibson 1.0: a Simulation Environment for Interactive Tasks in Large Realistic Scenes [[Project](http://svl.stanford.edu/igibson/)]
 - [[Dataset](https://arxiv.org/pdf/2012.09988.pdf)] Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild with Pose Annotations [[Github](https://github.com/google-research-datasets/Objectron)]
 - [[Survey](https://arxiv.org/pdf/2012.12447.pdf)] Skeleton-based Approaches based on Machine Vision: A Survey
