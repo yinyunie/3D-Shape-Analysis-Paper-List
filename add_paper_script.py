@@ -18,7 +18,7 @@ if __name__ == '__main__':
     [0] 3D Detection & Segmentation;
     [1] Shape Representation;
     [2] Shape & Scene Completion;
-    [3] Shape Reconstruction;
+    [3] Shape Reconstruction & Generation;
     [4] 3D Scene Understanding;
     [5] 3D Scene Reconstruction;
     [6] NeRF;

@@ -5,7 +5,7 @@ A list of papers, libraries and datasets I recently read is collected for anyone
 - [3D Detection & Segmentation](#3d-detection--segmentation)
 - [Shape Representation](#shape-representation)
 - [Shape & Scene Completion](#shape--scene-completion)
-- [Shape Reconstruction](#shape-reconstruction)
+- [Shape Reconstruction](#shape-reconstruction--generation)
 - [3D Scene Understanding](#3d-scene-understanding)
 - [3D Scene Reconstruction](#3d-scene-reconstruction)
 - [NeRF](#nerf)
@@ -22,6 +22,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+#### Before 2022
 - [[AAAI2022](https://arxiv.org/abs/2112.09205v1)] AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds
 - [[AAAI2022](https://arxiv.org/abs/2112.07241v1)] Static-Dynamic Co-Teaching for Class-Incremental 3D Object Detection
 - [[NeurIPS2021](https://arxiv.org/abs/2112.07787v1)] Revisiting 3D Object Detection From an Egocentric Perspective
@@ -227,6 +228,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2201.00785v1)] Implicit Autoencoder for Point Cloud Self-supervised Representation Learning
+#### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.10196v1)] End-to-End Learning of Multi-category 3D Pose and Shape Estimation
 - [[Arxiv](https://arxiv.org/abs/2112.09329v1)] Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders
 - [[Arxiv](https://arxiv.org/abs/2112.05300v1)] Representing 3D Shapes with Probabilistic Directed Distance Fields
@@ -340,6 +343,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[Arxiv](https://arxiv.org/abs/2201.01858v1)] Towards realistic symmetry-based completion of previously unseen point clouds [[github](https://github.com/softserveinc-rnd/symmetry-3d-completion)]
+#### Before 2022
 - [[AAAI2022](https://arxiv.org/abs/2112.12925v1)] Not All Voxels Are Equal: Semantic Scene Completion from the Point-Voxel Perspective
 - [[AAAI2022](https://arxiv.org/abs/2112.05324v1)] Attention-based Transformation from Latent Features to Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2112.00726v1)] MonoScene: Monocular 3D Semantic Scene Completion [[Project](https://github.com/cv-rits/MonoScene)]
@@ -440,7 +445,10 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 
 ---
-## Shape Reconstruction
+## Shape Reconstruction & Generation
+- [[Arxiv](https://arxiv.org/abs/2201.01831v1)] POCO: Point Convolution for Surface Reconstruction [[Project](https://github.com/valeoai/POCO)]
+- [[ICCV2021](https://arxiv.org/abs/2201.00112v1)] SurfGen: Adversarial 3D Shape Synthesis with Explicit Surface Discriminators [[github](https://github.com/aluo-x/NeuralRaycaster)]
+#### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.03258v1)] DoodleFormer: Creative Sketch Drawing with Transformers
 - [[NeurIPS2021](https://arxiv.org/abs/2112.02091v1)] Class-agnostic Reconstruction of Dynamic Objects from Videos [[Project](https://jason718.github.io/redo/)]
 - [[Arxiv](https://arxiv.org/abs/2112.00584v1)] The Shape Part Slot Machine: Contact-based Reasoning for Generating 3D Shapes from Parts
@@ -628,6 +636,7 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+#### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.11340v1)] Transferable End-to-end Room Layout Estimation via Implicit Encoding [[Project](https://sites.google.com/view/transferrl/)]
 - [[Arxiv](https://arxiv.org/abs/2112.10482v1)] ScanQA: 3D Question Answering for Spatial Scene Understanding
 - [[Arxiv](https://arxiv.org/abs/2112.08359v1)] 3D Question Answering
@@ -759,6 +768,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+#### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.05126v1)] IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo [[github](https://github.com/FangjinhuaWang/IterMVS)]
 - [[Arxiv](https://arxiv.org/abs/2112.04481v1)] What's Behind the Couch? Directed Ray Distance Functions (DRDF) for 3D Scene Reconstruction [[Project](https://nileshkulkarni.github.io/scene_drdf/)]
 - [[Arxiv](https://arxiv.org/abs/2112.03243v1)] Input-level Inductive Biases for 3D Reconstruction
@@ -876,6 +886,9 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2201.00791v1)] DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering
+- [[Arxiv](https://arxiv.org/abs/2112.15399v1)] InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering [[Project](http://cvlab.snu.ac.kr/research/InfoNeRF)]
+#### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.10703v1)] Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs [[Project](https://meganerf.cmusatyalab.org/)]
 - [[Arxiv](https://arxiv.org/abs/2112.09687v1)] Light Field Neural Rendering [[Project](https://light-field-neural-rendering.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2112.03517v1)] CG-NeRF: Conditional Generative Neural Radiance Fields
@@ -941,6 +954,7 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+#### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.09251v1)] The Wanderings of Odysseus in 3D Scenes [[Project](https://yz-cnsdqz.github.io/eigenmotion/GAMMA/)]
 - [[Arxiv](https://arxiv.org/abs/2112.08274v1)] Putting People in their Place: Monocular Regression of 3D People in Depth [[github](https://github.com/Arthur151/ROMP)]
 - [[Arxiv](https://arxiv.org/abs/2112.04477v1)] Tracking People by Predicting 3D Appearance, Location &amp; Pose [[Project](http://people.eecs.berkeley.edu/~jathushan/PHALP/)]
@@ -1075,6 +1089,8 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2201.01922v1)] Contrastive Neighborhood Alignment
+#### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.09343v1)] Domain Adaptation on Point Clouds via Geometry-Aware Implicits
 - [[ICCV2021](https://arxiv.org/abs/2112.05213v1)] Progressive Seed Generation Auto-encoder for Unsupervised Point Cloud Learning
 - [[Arxiv](https://arxiv.org/abs/2112.03777v1)] Variance-Aware Weight Initialization for Point Convolutional Neural Networks
@@ -1236,6 +1252,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+#### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.13047v1)] Channel-Wise Attention-Based Network for Self-Supervised Monocular Depth Estimation
 - [[Arxiv](https://arxiv.org/abs/2112.02306v1)] Toward Practical Self-Supervised Monocular Indoor Depth Estimation
 - [[Arxiv](https://arxiv.org/abs/2112.00933v1)] PartImageNet: A Large, High-Quality Dataset of Parts [[github](https://github.com/TACJu/PartImageNet)]
@@ -1401,6 +1418,7 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+#### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.12988v1)] iSeg3D: An Interactive 3D Shape Segmentation Tool
 - [[Arxiv](https://arxiv.org/abs/2112.13018v1)] Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD) [[Project](https://repository.library.brown.edu/studio/item/bdr:p52vqgtg/)]
 - [[Arxiv](https://arxiv.org/abs/2112.12610v1)] PandaSet: Advanced Sensor Suite Dataset for Autonomous Driving [[Project](https://scale.com/open-datasets/pandaset)]
