@@ -22,6 +22,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/abs/2201.06493v1)] AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection
 #### Before 2022
 - [[AAAI2022](https://arxiv.org/abs/2112.09205v1)] AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds
 - [[AAAI2022](https://arxiv.org/abs/2112.07241v1)] Static-Dynamic Co-Teaching for Class-Incremental 3D Object Detection
@@ -228,6 +229,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2201.02279v1)] De-rendering 3D Objects in the Wild
 - [[Arxiv](https://arxiv.org/abs/2201.00785v1)] Implicit Autoencoder for Point Cloud Self-supervised Representation Learning
 #### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.10196v1)] End-to-End Learning of Multi-category 3D Pose and Shape Estimation
@@ -886,6 +888,9 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2111.13260)] NeSF: Neural Semantic Fields for Generalizable Semantic Segmentation of 3D Scenes [[Project](https://nesf3d.github.io/)]
+- [[Arxiv](https://arxiv.org/abs/2201.04127v1)] HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video [[github](https://grail.cs.washington.edu/projects/humannerf/)]
+- [[Arxiv](https://arxiv.org/abs/2201.02533v1)] NeROIC: Neural Rendering of Objects from Online Image Collections [[Projetc](https://formyfamily.github.io/NeROIC/)]
 - [[Arxiv](https://arxiv.org/abs/2201.00791v1)] DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering
 - [[Arxiv](https://arxiv.org/abs/2112.15399v1)] InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering [[Project](http://cvlab.snu.ac.kr/research/InfoNeRF)]
 #### Before 2022
@@ -1089,6 +1094,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[ICLR2022](https://arxiv.org/abs/2201.02767v1)] QuadTree Attention for Vision Transformers [[github](https://github.com/Tangshitao/QuadtreeAttention)]
 - [[Arxiv](https://arxiv.org/abs/2201.01922v1)] Contrastive Neighborhood Alignment
 #### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.09343v1)] Domain Adaptation on Point Clouds via Geometry-Aware Implicits
@@ -1418,6 +1424,8 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/abs/2201.05761v1)] A Survey on RGB-D Datasets
+- [[Arxiv](https://arxiv.org/abs/2201.03299v1)] Avoiding Overfitting: A Survey on Regularization Methods for Convolutional Neural Networks
 #### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.12988v1)] iSeg3D: An Interactive 3D Shape Segmentation Tool
 - [[Arxiv](https://arxiv.org/abs/2112.13018v1)] Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD) [[Project](https://repository.library.brown.edu/studio/item/bdr:p52vqgtg/)]
