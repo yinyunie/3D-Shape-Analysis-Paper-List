@@ -229,6 +229,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2202.03532)] MINER: Multiscale Implicit Neural Representations
 - [[Arxiv](https://arxiv.org/abs/2201.02279v1)] De-rendering 3D Objects in the Wild
 - [[Arxiv](https://arxiv.org/abs/2201.00785v1)] Implicit Autoencoder for Point Cloud Self-supervised Representation Learning
 #### Before 2022
@@ -448,6 +449,10 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[CVPR2022](https://arxiv.org/abs/2203.15536)] BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information [[Project](https://barc.is.tue.mpg.de/)]
+- [[CVPR2022](https://arxiv.org/pdf/2203.11938.pdf)] φ-SfT: Shape-from-Template with a Physics-Based Deformation Model [[Project](https://4dqv.mpi-inf.mpg.de/phi-SfT/)]
+- [[CVPR2022](https://arxiv.org/abs/2203.07977)] OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction [[Project](https://wenbin-lin.github.io/OcclusionFusion/)]
+- [[Arxiv](https://arxiv.org/abs/2202.01999)] Neural Dual Contouring
 - [[Arxiv](https://arxiv.org/abs/2201.01831v1)] POCO: Point Convolution for Surface Reconstruction [[Project](https://github.com/valeoai/POCO)]
 - [[ICCV2021](https://arxiv.org/abs/2201.00112v1)] SurfGen: Adversarial 3D Shape Synthesis with Explicit Surface Discriminators [[github](https://github.com/aluo-x/NeuralRaycaster)]
 #### Before 2022
@@ -770,6 +775,8 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[CVPR2022](https://arxiv.org/abs/2203.11283)] NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2202.00185v1)] ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis
 #### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.05126v1)] IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo [[github](https://github.com/FangjinhuaWang/IterMVS)]
 - [[Arxiv](https://arxiv.org/abs/2112.04481v1)] What's Behind the Couch? Directed Ray Distance Functions (DRDF) for 3D Scene Reconstruction [[Project](https://nileshkulkarni.github.io/scene_drdf/)]
@@ -888,6 +895,7 @@ Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2202.13162)] Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation
 - [[Arxiv](https://arxiv.org/abs/2111.13260)] NeSF: Neural Semantic Fields for Generalizable Semantic Segmentation of 3D Scenes [[Project](https://nesf3d.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2201.04127v1)] HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video [[github](https://grail.cs.washington.edu/projects/humannerf/)]
 - [[Arxiv](https://arxiv.org/abs/2201.02533v1)] NeROIC: Neural Rendering of Objects from Online Image Collections [[Projetc](https://formyfamily.github.io/NeROIC/)]
@@ -959,6 +967,9 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[CVPR2022](https://arxiv.org/abs/2203.14478)] Structured Local Radiance Fields for Human Avatar Modeling
+- [[CVPR2022](https://arxiv.org/abs/2203.14510)] ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations
+- [[Arxiv](https://arxiv.org/abs/2203.13817)] AutoAvatar: Autoregressive Neural Fields for Dynamic Avatar Modeling [[Project](https://zqbai-jeremy.github.io/autoavatar/)]
 #### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.09251v1)] The Wanderings of Odysseus in 3D Scenes [[Project](https://yz-cnsdqz.github.io/eigenmotion/GAMMA/)]
 - [[Arxiv](https://arxiv.org/abs/2112.08274v1)] Putting People in their Place: Monocular Regression of 3D People in Depth [[github](https://github.com/Arthur151/ROMP)]
@@ -1094,6 +1105,8 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[CVPR2022](https://arxiv.org/abs/2203.15102)] Rethinking Semantic Segmentation: A Prototype View [[github](https://github.com/tfzhou/ProtoSeg)]
+- [[Arxiv](https://arxiv.org/abs/2202.03670)] How to Understand Masked Autoencoders
 - [[ICLR2022](https://arxiv.org/abs/2201.02767v1)] QuadTree Attention for Vision Transformers [[github](https://github.com/Tangshitao/QuadtreeAttention)]
 - [[Arxiv](https://arxiv.org/abs/2201.01922v1)] Contrastive Neighborhood Alignment
 #### Before 2022
@@ -1258,6 +1271,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[CVPR2022](https://arxiv.org/abs/2203.03570)] Kubric: A scalable dataset generator
 #### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.13047v1)] Channel-Wise Attention-Based Network for Self-Supervised Monocular Depth Estimation
 - [[Arxiv](https://arxiv.org/abs/2112.02306v1)] Toward Practical Self-Supervised Monocular Indoor Depth Estimation
