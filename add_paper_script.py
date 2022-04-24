@@ -81,7 +81,8 @@ if __name__ == '__main__':
     markdown_line += '\n'
 
     '''Insert to README.md'''
-    paper_list = open('./README.md').read()
+    with open('./README.md', 'r') as file:
+        paper_list = file.read()
 
     # check if already existed
     if paper_title.strip() in paper_list:

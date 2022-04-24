@@ -851,8 +851,7 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 - [[NeurIPS2020](https://proceedings.neurips.cc/paper/2020/file/b4b758962f17808746e9bb832a6fa4b8-Paper.pdf)] Neural Sparse Voxel Fields [[Project](https://lingjie0206.github.io/papers/NSVF/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.02094.pdf?fbclid=IwAR03XwEdhXUl2lsLr20dOnFEsnthPBbdVi9VHDni6CYnhH9glzGaooU-DHM)] Towards Part-Based Understanding of RGB-D Scans
 - [[Arxiv](https://arxiv.org/pdf/2011.05813.pdf)] Dynamic Plane Convolutional Occupancy Networks
-- [[NeurIPS2020](https://arxiv.org/pdf/2010.13938.pdf)] Neural Unsigned Distance Fields for Implicit
-Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
+- [[NeurIPS2020](https://arxiv.org/pdf/2010.13938.pdf)] Neural Unsigned Distance Fields for Implicit Function Learning [[Project](http://virtualhumans.mpi-inf.mpg.de/ndf/)]
 - [[Arxiv](https://arxiv.org/pdf/2010.01549.pdf)] Holistic static and animated 3D scene generation from diverse text descriptions [[pytorch](https://github.com/oaishi/3DScene_from_text)]
 - [[Arxiv](https://arxiv.org/pdf/2010.04030.pdf)] Semi-Supervised Learning of Multi-Object 3D Scene Representations
 - [[ECCV2020](https://arxiv.org/pdf/2007.11965.pdf)] CAD-Deform: Deformable Fitting of CAD Models to 3D Scans
