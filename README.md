@@ -22,6 +22,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[CVPR2022](https://arxiv.org/abs/2204.05599)] HyperDet3D: Learning a Scene-conditioned 3D Object Detector
 - [[Arxiv](https://arxiv.org/abs/2201.06493v1)] AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection
 #### Before 2022
 - [[AAAI2022](https://arxiv.org/abs/2112.09205v1)] AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds
@@ -229,6 +230,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2202.04713v1)] PINs: Progressive Implicit Networks for Multi-Scale Neural Representations
+- [[Arxiv](https://arxiv.org/abs/2202.04241v1)] Distillation with Contrast is All You Need for Self-Supervised Point Cloud Representation Learning
+- [[Arxiv](https://arxiv.org/abs/2202.02444v1)] Spelunking the Deep: Guaranteed Queries for General Neural Implicit Surfaces
 - [[Arxiv](https://arxiv.org/abs/2202.03532)] MINER: Multiscale Implicit Neural Representations
 - [[Arxiv](https://arxiv.org/abs/2201.02279v1)] De-rendering 3D Objects in the Wild
 - [[Arxiv](https://arxiv.org/abs/2201.00785v1)] Implicit Autoencoder for Point Cloud Self-supervised Representation Learning
@@ -346,6 +350,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[Arxiv](https://arxiv.org/abs/2202.02669v1)] SRPCN: Structure Retrieval based Point Completion Network
+- [[ICRA2022](https://arxiv.org/abs/2202.03084v1)] Temporal Point Cloud Completion with Pose Disturbance
 - [[Arxiv](https://arxiv.org/abs/2201.01858v1)] Towards realistic symmetry-based completion of previously unseen point clouds [[github](https://github.com/softserveinc-rnd/symmetry-3d-completion)]
 #### Before 2022
 - [[AAAI2022](https://arxiv.org/abs/2112.12925v1)] Not All Voxels Are Equal: Semantic Scene Completion from the Point-Voxel Perspective
@@ -894,6 +900,8 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2202.04879v1)] PVSeRF: Joint Pixel-, Voxel- and Surface-Aligned Radiance Field for Single-Image Novel View Synthesis
+- [[Arxiv](https://arxiv.org/abs/2202.05263v1)] Block-NeRF: Scalable Large Scene Neural View Synthesis [[Project](https://waymo.com/intl/zh-cn/research/block-nerf/)]
 - [[Arxiv](https://arxiv.org/abs/2202.13162)] Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation
 - [[Arxiv](https://arxiv.org/abs/2111.13260)] NeSF: Neural Semantic Fields for Generalizable Semantic Segmentation of 3D Scenes [[Project](https://nesf3d.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2201.04127v1)] HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video [[github](https://grail.cs.washington.edu/projects/humannerf/)]
@@ -1104,6 +1112,8 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2202.07453v1)] Random Walks for Adversarial Meshes
+- [[ICLR2022](https://arxiv.org/abs/2202.07123v1)] Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework [[github](https://github.com/ma-xu/pointMLP-pytorch)]
 - [[CVPR2022](https://arxiv.org/abs/2203.15102)] Rethinking Semantic Segmentation: A Prototype View [[github](https://github.com/tfzhou/ProtoSeg)]
 - [[Arxiv](https://arxiv.org/abs/2202.03670)] How to Understand Masked Autoencoders
 - [[ICLR2022](https://arxiv.org/abs/2201.02767v1)] QuadTree Attention for Vision Transformers [[github](https://github.com/Tangshitao/QuadtreeAttention)]
@@ -1270,6 +1280,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[CVPR2022](https://arxiv.org/abs/2204.05145)] Focal Length and Object Pose Estimation via Render and Compare [[github](https://github.com/ponimatkin/focalpose)]
 - [[CVPR2022](https://arxiv.org/abs/2203.03570)] Kubric: A scalable dataset generator
 #### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.13047v1)] Channel-Wise Attention-Based Network for Self-Supervised Monocular Depth Estimation
@@ -1437,6 +1448,9 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/abs/2202.07183v1)] A Survey of Neural Trojan Attacks and Defenses in Deep Learning
+- [[Arxiv](https://arxiv.org/abs/2202.05659v1)] Tiny Object Tracking: A Large-scale Dataset and A Baseline [[github](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
+- [[Arxiv](https://arxiv.org/abs/2202.02656v1)] A survey of top-down approaches for human pose estimation
 - [[Arxiv](https://arxiv.org/abs/2201.05761v1)] A Survey on RGB-D Datasets
 - [[Arxiv](https://arxiv.org/abs/2201.03299v1)] Avoiding Overfitting: A Survey on Regularization Methods for Convolutional Neural Networks
 #### Before 2022
