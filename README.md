@@ -230,6 +230,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2204.07159)] A Level Set Theory for Neural Implicit Evolution under Explicit Flows
+- [[CVPR2022](https://arxiv.org/abs/2204.07126)] GIFS: Neural Implicit Function for General Shape Representation [[Project](https://jianglongye.com/gifs/)]
 - [[Arxiv](https://arxiv.org/abs/2202.04713v1)] PINs: Progressive Implicit Networks for Multi-Scale Neural Representations
 - [[Arxiv](https://arxiv.org/abs/2202.04241v1)] Distillation with Contrast is All You Need for Self-Supervised Point Cloud Representation Learning
 - [[Arxiv](https://arxiv.org/abs/2202.02444v1)] Spelunking the Deep: Guaranteed Queries for General Neural Implicit Surfaces
@@ -455,6 +457,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[Arxiv](https://arxiv.org/abs/2204.10235)] Planes vs. Chairs: Category-guided 3D shape learning without any 3D cues [[Project](https://zixuanh.com/multiclass3D)]
+- [[Arxiv](https://arxiv.org/abs/2204.06552)] Neural Vector Fields for Surface Representation and Inference
+- [[CVPR2022](https://arxiv.org/abs/2204.03642)] Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction [[Project](https://shubhtuls.github.io/ss3d/)]
 - [[CVPR2022](https://arxiv.org/abs/2203.15536)] BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information [[Project](https://barc.is.tue.mpg.de/)]
 - [[CVPR2022](https://arxiv.org/pdf/2203.11938.pdf)] φ-SfT: Shape-from-Template with a Physics-Based Deformation Model [[Project](https://4dqv.mpi-inf.mpg.de/phi-SfT/)]
 - [[CVPR2022](https://arxiv.org/abs/2203.07977)] OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction [[Project](https://wenbin-lin.github.io/OcclusionFusion/)]
@@ -649,6 +654,9 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[CVPR2022](https://arxiv.org/abs/2204.07548)] Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation [[github](https://github.com/drprojects/DeepViewAgg)]
+- [[CVPR2022](https://arxiv.org/abs/2204.06272)] 3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection
+- [[CVPR2022](https://arxiv.org/abs/2204.06950)] BEHAVE: Dataset and Method for Tracking Human Object Interactions [[Project](http://virtualhumans.mpi-inf.mpg.de/behave/)]
 #### Before 2022
 - [[Arxiv](https://arxiv.org/abs/2112.11340v1)] Transferable End-to-end Room Layout Estimation via Implicit Encoding [[Project](https://sites.google.com/view/transferrl/)]
 - [[Arxiv](https://arxiv.org/abs/2112.10482v1)] ScanQA: 3D Question Answering for Spatial Scene Understanding
@@ -974,6 +982,8 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[CVPR2022](https://arxiv.org/abs/2204.10211)] SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis
+- [[Arxiv](https://arxiv.org/abs/2204.03688)] DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image [[Project](https://www.pinatafarm.com/research/dad-3dheads)]
 - [[CVPR2022](https://arxiv.org/abs/2203.14478)] Structured Local Radiance Fields for Human Avatar Modeling
 - [[CVPR2022](https://arxiv.org/abs/2203.14510)] ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations
 - [[Arxiv](https://arxiv.org/abs/2203.13817)] AutoAvatar: Autoregressive Neural Fields for Dynamic Avatar Modeling [[Project](https://zqbai-jeremy.github.io/autoavatar/)]
