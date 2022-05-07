@@ -230,6 +230,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Siggraph2022](https://arxiv.org/abs/2205.02825)] Dual Octree Graph Networks for Learning Adaptive Volumetric Shape Representations [[Project](https://wang-ps.github.io/dualocnn)]
 - [[Arxiv](https://arxiv.org/abs/2204.07159)] A Level Set Theory for Neural Implicit Evolution under Explicit Flows
 - [[CVPR2022](https://arxiv.org/abs/2204.07126)] GIFS: Neural Implicit Function for General Shape Representation [[Project](https://jianglongye.com/gifs/)]
 - [[Arxiv](https://arxiv.org/abs/2202.04713v1)] PINs: Progressive Implicit Networks for Multi-Scale Neural Representations
