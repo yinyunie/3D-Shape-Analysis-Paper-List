@@ -1458,6 +1458,8 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[ICCVW2021](https://arxiv.org/abs/2202.08449v1)] V2X-Sim: A Virtual Collaborative Perception Dataset for Autonomous Driving [[Project](https://ai4ce.github.io/V2X-Sim/)]
+- [[Arxiv](https://arxiv.org/abs/2202.08471v1)] TransCG: A Large-Scale Real-World Dataset for Transparent Object Depth Completion and Grasping [[Project](https://graspnet.net/transcg)]
 - [[Arxiv](https://arxiv.org/abs/2202.07183v1)] A Survey of Neural Trojan Attacks and Defenses in Deep Learning
 - [[Arxiv](https://arxiv.org/abs/2202.05659v1)] Tiny Object Tracking: A Large-scale Dataset and A Baseline [[github](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
 - [[Arxiv](https://arxiv.org/abs/2202.02656v1)] A survey of top-down approaches for human pose estimation
