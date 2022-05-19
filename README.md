@@ -230,6 +230,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Siggraph2022](https://arxiv.org/abs/2202.08345)] Learning Smooth Neural Functions via Lipschitz Regularization [[Project](https://nv-tlabs.github.io/lip-mlp/)]
 - [[Siggraph2022](https://arxiv.org/abs/2205.02825)] Dual Octree Graph Networks for Learning Adaptive Volumetric Shape Representations [[Project](https://wang-ps.github.io/dualocnn)]
 - [[Arxiv](https://arxiv.org/abs/2204.07159)] A Level Set Theory for Neural Implicit Evolution under Explicit Flows
 - [[CVPR2022](https://arxiv.org/abs/2204.07126)] GIFS: Neural Implicit Function for General Shape Representation [[Project](https://jianglongye.com/gifs/)]
@@ -458,6 +459,7 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[CVPR2022](https://arxiv.org/abs/2205.06267)] Topologically-Aware Deformation Fields for Single-View 3D Reconstruction [[Project](https://shivamduggal4.github.io/tars-3D/)]
 - [[Arxiv](https://arxiv.org/abs/2204.10235)] Planes vs. Chairs: Category-guided 3D shape learning without any 3D cues [[Project](https://zixuanh.com/multiclass3D)]
 - [[Arxiv](https://arxiv.org/abs/2204.06552)] Neural Vector Fields for Surface Representation and Inference
 - [[CVPR2022](https://arxiv.org/abs/2204.03642)] Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction [[Project](https://shubhtuls.github.io/ss3d/)]
@@ -790,6 +792,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2205.02837)] BlobGAN: Spatially Disentangled Scene Representations [[Project](https://dave.ml/blobgan/)]
 - [[CVPR2022](https://arxiv.org/abs/2203.11283)] NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction
 - [[Arxiv](https://arxiv.org/abs/2202.00185v1)] ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis
 #### Before 2022
@@ -909,6 +912,8 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2205.04992)] KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints [[Project](https://markomih.github.io/KeypointNeRF/)]
+- [[Arxiv](https://arxiv.org/abs/2204.10850)] Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation
 - [[Arxiv](https://arxiv.org/abs/2202.04879v1)] PVSeRF: Joint Pixel-, Voxel- and Surface-Aligned Radiance Field for Single-Image Novel View Synthesis
 - [[Arxiv](https://arxiv.org/abs/2202.05263v1)] Block-NeRF: Scalable Large Scene Neural View Synthesis [[Project](https://waymo.com/intl/zh-cn/research/block-nerf/)]
 - [[Arxiv](https://arxiv.org/abs/2202.13162)] Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation
