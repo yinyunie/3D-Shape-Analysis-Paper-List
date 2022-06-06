@@ -459,6 +459,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[Arxiv](https://arxiv.org/abs/2205.13914)] 3DILG: Irregular Latent Grids for 3D Generative Modeling [[Project](https://1zb.github.io/3DILG/)]
+- [[CVPR2022](https://arxiv.org/abs/2205.07763)] FvOR: Robust Joint Shape and Pose Optimization for Few-view Object Reconstruction [[Project](https://github.com/zhenpeiyang/FvOR/)]
 - [[CVPR2022](https://arxiv.org/abs/2205.06267)] Topologically-Aware Deformation Fields for Single-View 3D Reconstruction [[Project](https://shivamduggal4.github.io/tars-3D/)]
 - [[Arxiv](https://arxiv.org/abs/2204.10235)] Planes vs. Chairs: Category-guided 3D shape learning without any 3D cues [[Project](https://zixuanh.com/multiclass3D)]
 - [[Arxiv](https://arxiv.org/abs/2204.06552)] Neural Vector Fields for Surface Representation and Inference
@@ -792,6 +794,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2206.00665)] MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction [[Project](https://niujinshuchong.github.io/monosdf/)]
 - [[Arxiv](https://arxiv.org/abs/2205.02837)] BlobGAN: Spatially Disentangled Scene Representations [[Project](https://dave.ml/blobgan/)]
 - [[CVPR2022](https://arxiv.org/abs/2203.11283)] NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction
 - [[Arxiv](https://arxiv.org/abs/2202.00185v1)] ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis
@@ -912,6 +915,8 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[Arxiv](https://d2nerf.github.io/D%5E2NeRF%20Self-Supervised%20Decoupling%20of%20Dynamic%20and%20Static%20Objects%20from%20a%20Monocular%20Video.pdf)] Self-D2NeRF: Supervised Decoupling of Dynamic and Static Objects from a Monocular Video [[Project](https://d2nerf.github.io/)]
+- [[Arxiv](https://arxiv.org/abs/2202.05628)] Artemis: Articulated Neural Pets with Appearance and Motion synthesis [[Project](https://haiminluo.github.io/publication/artemis/)]
 - [[Arxiv](https://arxiv.org/abs/2205.04992)] KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints [[Project](https://markomih.github.io/KeypointNeRF/)]
 - [[Arxiv](https://arxiv.org/abs/2204.10850)] Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation
 - [[Arxiv](https://arxiv.org/abs/2202.04879v1)] PVSeRF: Joint Pixel-, Voxel- and Surface-Aligned Radiance Field for Single-Image Novel View Synthesis
@@ -1464,6 +1469,8 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Dataset](https://aihabitat.org/datasets/replica_cad/)] ReplicaCAD [[Project](https://aihabitat.org/datasets/replica_cad/)]
+- [[PhDthesis](https://arxiv.org/abs/2202.12752v1)] Synthesizing Photorealistic Images with Deep Generative Learning
 - [[ICCVW2021](https://arxiv.org/abs/2202.08449v1)] V2X-Sim: A Virtual Collaborative Perception Dataset for Autonomous Driving [[Project](https://ai4ce.github.io/V2X-Sim/)]
 - [[Arxiv](https://arxiv.org/abs/2202.08471v1)] TransCG: A Large-Scale Real-World Dataset for Transparent Object Depth Completion and Grasping [[Project](https://graspnet.net/transcg)]
 - [[Arxiv](https://arxiv.org/abs/2202.07183v1)] A Survey of Neural Trojan Attacks and Defenses in Deep Learning
