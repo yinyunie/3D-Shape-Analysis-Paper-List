@@ -230,6 +230,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2206.05837v1)] NeuralODF: Learning Omnidirectional Distance Fields for 3D Shape Representation
 - [[Siggraph2022](https://arxiv.org/abs/2202.08345)] Learning Smooth Neural Functions via Lipschitz Regularization [[Project](https://nv-tlabs.github.io/lip-mlp/)]
 - [[Siggraph2022](https://arxiv.org/abs/2205.02825)] Dual Octree Graph Networks for Learning Adaptive Volumetric Shape Representations [[Project](https://wang-ps.github.io/dualocnn)]
 - [[Arxiv](https://arxiv.org/abs/2204.07159)] A Level Set Theory for Neural Implicit Evolution under Explicit Flows
@@ -794,6 +795,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[CVPR2022](https://drive.google.com/file/d/1E6xSbUzuu6soAA-jkaGCFl97LZ8SVRvr/view)] Learning 3D Object Shape and Layout without 3D Supervision [[Project](https://gkioxari.github.io/usl/index.html)]
 - [[Arxiv](https://arxiv.org/abs/2206.00665)] MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction [[Project](https://niujinshuchong.github.io/monosdf/)]
 - [[Arxiv](https://arxiv.org/abs/2205.02837)] BlobGAN: Spatially Disentangled Scene Representations [[Project](https://dave.ml/blobgan/)]
 - [[CVPR2022](https://arxiv.org/abs/2203.11283)] NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction
@@ -915,7 +917,10 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
-- [[Arxiv](https://d2nerf.github.io/D%5E2NeRF%20Self-Supervised%20Decoupling%20of%20Dynamic%20and%20Static%20Objects%20from%20a%20Monocular%20Video.pdf)] Self-D2NeRF: Supervised Decoupling of Dynamic and Static Objects from a Monocular Video [[Project](https://d2nerf.github.io/)]
+- [[Arxiv](https://arxiv.org/abs/2206.04669)] Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields
+- [[CVPR2022](https://arxiv.org/abs/2206.06481)] RigNeRF: Fully Controllable Neural 3D Portraits [[Project](http://shahrukhathar.github.io/2022/06/06/RigNeRF.html)]
+- [[Arxiv](https://arxiv.org/abs/2205.04334)] Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation
+- [[Arxiv](https://d2nerf.github.io/D%5E2NeRF%20Self-Supervised%20Decoupling%20of%20Dynamic%20and%20Static%20Objects%20from%20a%20Monocular%20Video.pdf)] D2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video [[Project](https://d2nerf.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2202.05628)] Artemis: Articulated Neural Pets with Appearance and Motion synthesis [[Project](https://haiminluo.github.io/publication/artemis/)]
 - [[Arxiv](https://arxiv.org/abs/2205.04992)] KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints [[Project](https://markomih.github.io/KeypointNeRF/)]
 - [[Arxiv](https://arxiv.org/abs/2204.10850)] Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation
