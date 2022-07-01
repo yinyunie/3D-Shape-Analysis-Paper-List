@@ -460,6 +460,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[Arxiv](https://arxiv.org/abs/2206.15258)] Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera [[Project](https://ustc3dv.github.io/ndr/)]
+- [[Arxiv](https://arxiv.org/abs/2206.08368)] Unbiased 4D: Monocular 4D Reconstruction with a Neural Deformation Model
 - [[Arxiv](https://arxiv.org/abs/2205.13914)] 3DILG: Irregular Latent Grids for 3D Generative Modeling [[Project](https://1zb.github.io/3DILG/)]
 - [[CVPR2022](https://arxiv.org/abs/2205.07763)] FvOR: Robust Joint Shape and Pose Optimization for Few-view Object Reconstruction [[Project](https://github.com/zhenpeiyang/FvOR/)]
 - [[CVPR2022](https://arxiv.org/abs/2205.06267)] Topologically-Aware Deformation Fields for Single-View 3D Reconstruction [[Project](https://shivamduggal4.github.io/tars-3D/)]
@@ -795,6 +797,9 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2204.02296)] iSDF: Real-Time Neural Signed Distance Fields for Robot Perception [[Project](https://joeaortiz.github.io/iSDF/)]
+- [[Arxiv](https://arxiv.org/abs/2206.13597)] NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors [[Project](https://jiepengwang.github.io/NeuRIS/)]
+- [[CVPR2022](https://arxiv.org/abs/2206.07710)] PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos [[Project](https://neu-vi.github.io/planarrecon/)]
 - [[CVPR2022](https://drive.google.com/file/d/1E6xSbUzuu6soAA-jkaGCFl97LZ8SVRvr/view)] Learning 3D Object Shape and Layout without 3D Supervision [[Project](https://gkioxari.github.io/usl/index.html)]
 - [[Arxiv](https://arxiv.org/abs/2206.00665)] MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction [[Project](https://niujinshuchong.github.io/monosdf/)]
 - [[Arxiv](https://arxiv.org/abs/2205.02837)] BlobGAN: Spatially Disentangled Scene Representations [[Project](https://dave.ml/blobgan/)]
@@ -998,6 +1003,8 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[CVPR2022](https://arxiv.org/abs/2206.09553)] Capturing and Inferring Dense Full-Body Human-Scene Contact [[Project](https://rich.is.tue.mpg.de/)]
+- [[Arxiv](https://arxiv.org/abs/2206.08343)] Realistic One-shot Mesh-based Head Avatars [[Project](https://samsunglabs.github.io/rome/)]
 - [[CVPR2022](https://arxiv.org/abs/2204.10211)] SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis
 - [[Arxiv](https://arxiv.org/abs/2204.03688)] DAD-3DHeads: A Large-scale Dense, Accurate and Diverse Dataset for 3D Head Alignment from a Single Image [[Project](https://www.pinatafarm.com/research/dad-3dheads)]
 - [[CVPR2022](https://arxiv.org/abs/2203.14478)] Structured Local Radiance Fields for Human Avatar Modeling
@@ -1138,6 +1145,11 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2206.11895)] Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space [[Project](https://www3.cs.stonybrook.edu/~jishang/3dtrl/3dtrl.html)]
+- [[Arxiv](https://arxiv.org/abs/2206.07706)] Masked Frequency Modeling for Self-Supervised Visual Pre-Training [[Project](https://www.mmlab-ntu.com/project/mfm/index.html)]
+- [[Arxiv](https://arxiv.org/abs/2206.07255)] GRAM-HD: 3D-Consistent Image Generation at High Resolution with Generative Radiance Manifolds [[Project](https://jeffreyxiang.github.io/GRAM-HD/)]
+- [[Arxiv](https://arxiv.org/abs/2206.07696)] Diffusion Models for Video Prediction and Infilling [[Project](https://arxiv.org/pdf/2206.07696.pdf)]
+- [[Arxiv](https://arxiv.org/abs/2206.11894)] MaskViT: Masked Visual Pre-Training for Video Prediction [[Project](https://maskedvit.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2202.07453v1)] Random Walks for Adversarial Meshes
 - [[ICLR2022](https://arxiv.org/abs/2202.07123v1)] Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework [[github](https://github.com/ma-xu/pointMLP-pytorch)]
 - [[CVPR2022](https://arxiv.org/abs/2203.15102)] Rethinking Semantic Segmentation: A Prototype View [[github](https://github.com/tfzhou/ProtoSeg)]
@@ -1474,6 +1486,7 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[NeurIPS2021](https://openreview.net/pdf?id=tjZjv_qh_CE)] ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data [[github](https://github.com/apple/ARKitScenes)]
 - [[Dataset](https://aihabitat.org/datasets/replica_cad/)] ReplicaCAD [[Project](https://aihabitat.org/datasets/replica_cad/)]
 - [[PhDthesis](https://arxiv.org/abs/2202.12752v1)] Synthesizing Photorealistic Images with Deep Generative Learning
 - [[ICCVW2021](https://arxiv.org/abs/2202.08449v1)] V2X-Sim: A Virtual Collaborative Perception Dataset for Autonomous Driving [[Project](https://ai4ce.github.io/V2X-Sim/)]
