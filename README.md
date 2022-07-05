@@ -22,6 +22,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/abs/2207.00531)] Masked Autoencoders for Self-Supervised Learning on Automotive Point Clouds
 - [[CVPR2022](https://arxiv.org/abs/2204.05599)] HyperDet3D: Learning a Scene-conditioned 3D Object Detector
 - [[Arxiv](https://arxiv.org/abs/2201.06493v1)] AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection
 #### Before 2022
@@ -230,6 +231,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2207.01545)] Masked Autoencoders in 3D Point Cloud Representation Learning
 - [[Arxiv](https://arxiv.org/abs/2206.05837v1)] NeuralODF: Learning Omnidirectional Distance Fields for 3D Shape Representation
 - [[Siggraph2022](https://arxiv.org/abs/2202.08345)] Learning Smooth Neural Functions via Lipschitz Regularization [[Project](https://nv-tlabs.github.io/lip-mlp/)]
 - [[Siggraph2022](https://arxiv.org/abs/2205.02825)] Dual Octree Graph Networks for Learning Adaptive Volumetric Shape Representations [[Project](https://wang-ps.github.io/dualocnn)]
@@ -797,6 +799,8 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2206.14735)] GO-Surf: Neural Feature Grid Optimization for Fast, High-Fidelity RGB-D Surface Reconstruction [[Project](https://jingwenwang95.github.io/go_surf/)]
+- [[Arxiv](https://arxiv.org/abs/2203.13296)] RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers
 - [[Arxiv](https://arxiv.org/abs/2204.02296)] iSDF: Real-Time Neural Signed Distance Fields for Robot Perception [[Project](https://joeaortiz.github.io/iSDF/)]
 - [[Arxiv](https://arxiv.org/abs/2206.13597)] NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors [[Project](https://jiepengwang.github.io/NeuRIS/)]
 - [[CVPR2022](https://arxiv.org/abs/2206.07710)] PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos [[Project](https://neu-vi.github.io/planarrecon/)]
@@ -922,6 +926,7 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2207.01583)] LaTeRF: Label and Text Driven Object Radiance Fields
 - [[Arxiv](https://arxiv.org/abs/2206.04669)] Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields
 - [[CVPR2022](https://arxiv.org/abs/2206.06481)] RigNeRF: Fully Controllable Neural 3D Portraits [[Project](http://shahrukhathar.github.io/2022/06/06/RigNeRF.html)]
 - [[Arxiv](https://arxiv.org/abs/2205.04334)] Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation
@@ -1145,6 +1150,8 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2205.14401)] Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training [[github](https://github.com/ZrrSkywalker/Point-M2AE)]
+- [[Arxiv](https://arxiv.org/abs/2206.14797)] 3D-Aware Video Generation [[Project](https://sherwinbahmani.github.io/3dvidgen/)]
 - [[Arxiv](https://arxiv.org/abs/2206.11895)] Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space [[Project](https://www3.cs.stonybrook.edu/~jishang/3dtrl/3dtrl.html)]
 - [[Arxiv](https://arxiv.org/abs/2206.07706)] Masked Frequency Modeling for Self-Supervised Visual Pre-Training [[Project](https://www.mmlab-ntu.com/project/mfm/index.html)]
 - [[Arxiv](https://arxiv.org/abs/2206.07255)] GRAM-HD: 3D-Consistent Image Generation at High Resolution with Generative Radiance Manifolds [[Project](https://jeffreyxiang.github.io/GRAM-HD/)]
