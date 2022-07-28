@@ -232,6 +232,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[ECCV2022](https://arxiv.org/abs/2207.11911)] NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing [[Project](https://zju3dv.github.io/neumesh/)]
 - [[Arxiv](https://arxiv.org/abs/2207.01545)] Masked Autoencoders in 3D Point Cloud Representation Learning
 - [[Arxiv](https://arxiv.org/abs/2206.05837v1)] NeuralODF: Learning Omnidirectional Distance Fields for 3D Shape Representation
 - [[Siggraph2022](https://arxiv.org/abs/2202.08345)] Learning Smooth Neural Functions via Lipschitz Regularization [[Project](https://nv-tlabs.github.io/lip-mlp/)]
@@ -358,6 +359,8 @@ Tree Structured Graph Convolutions [[pytorch](https://github.com/seowok/TreeGAN)
 
 ---
 ## Shape & Scene Completion
+- [[ECCV2022](https://arxiv.org/abs/2207.11467)] CompNVS: Novel View Synthesis with Scene Completion
+- [[ECCV2022](https://arxiv.org/abs/2207.11790)] PatchRD: Detail-Preserving Shape Completion by Learning Patch Retrieval and Deformation [[Project](https://github.com/GitBoSun/PatchRD)]
 - [[Arxiv](https://arxiv.org/abs/2202.02669v1)] SRPCN: Structure Retrieval based Point Completion Network
 - [[ICRA2022](https://arxiv.org/abs/2202.03084v1)] Temporal Point Cloud Completion with Pose Disturbance
 - [[Arxiv](https://arxiv.org/abs/2201.01858v1)] Towards realistic symmetry-based completion of previously unseen point clouds [[github](https://github.com/softserveinc-rnd/symmetry-3d-completion)]
@@ -463,6 +466,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[ECCV2022](https://arxiv.org/abs/2207.11795)] Cross-Modal 3D Shape Generation and Manipulation [[Project](https://people.cs.umass.edu/~zezhoucheng/edit3d/)]
+- [[ECCV2022](https://arxiv.org/abs/2207.12298)] Deforming Radiance Fields with Cages
+- [[NeurIPS2021](https://arxiv.org/abs/2110.07604)] NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild [[Project](https://jasonyzhang.com/ners/)]
 - [[CVPR2022](https://arxiv.org/abs/2110.02624)] CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation [[github](https://github.com/AutodeskAILab/Clip-Forge)]
 - [[CVPR2022](https://mworchel.github.io/assets/papers/neural_deferred_shading_with_supp.pdf)] Multi-View Mesh Reconstruction with Neural Deferred Shading [[Project](https://fraunhoferhhi.github.io/neural-deferred-shading/)]
 - [[Arxiv](https://arxiv.org/abs/2206.15258)] Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera [[Project](https://ustc3dv.github.io/ndr/)]
@@ -736,6 +742,7 @@ Estimation from Spherical Panoramas [[Project](https://vcl3d.github.io/SingleSho
 - [[Arxiv](https://arxiv.org/pdf/2101.02692.pdf)] Where2Act: From Pixels to Actions for Articulated 3D Objects [[Project](https://cs.stanford.edu/~kaichun/where2act/)]
 
 #### Before 2021
+- [[Arxiv](https://arxiv.org/abs/1903.01177)] PanopticFusion: Online Volumetric Semantic Mapping at the Level of Stuff and Things
 - [[Arxiv](https://arxiv.org/pdf/1712.05474.pdf)] AI2-THOR: An Interactive 3D Environment for Visual AI [[Project](https://ai2thor.allenai.org/)]
 - [[Arxiv](https://arxiv.org/pdf/2012.15470.pdf)] Audio-Visual Floorplan Reconstruction
 - [[Arxiv](https://arxiv.org/pdf/2012.00987.pdf)] PV-RAFT: Point-Voxel Correlation Fields for Scene Flow Estimation of Point Clouds
@@ -804,6 +811,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_PlaneMVS_3D_Plane_Reconstruction_From_Multi-View_Stereo_CVPR_2022_paper.pdf)] PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo
 - [[CVPR2022](https://arxiv.org/abs/2205.02836)] Neural 3D Scene Reconstruction with the Manhattan-world Assumption [[Project](https://zju3dv.github.io/manhattan_sdf/)]
 - [[CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Jeong_3D_Scene_Painting_via_Semantic_Image_Synthesis_CVPR_2022_paper.pdf)] 3D Scene Painting via Semantic Image Synthesis
 - [[Siggraph2022](https://arxiv.org/abs/2207.02363)] SNeRF: Stylized Neural Implicit Representations for 3D Scenes [[Project](https://research.facebook.com/publications/snerf-stylized-neural-implicit-representations-for-3d-scenes/)]
@@ -1017,6 +1025,10 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[ECCV2022](https://arxiv.org/abs/2207.12824)] Compositional Human-Scene Interaction Synthesis with Semantic Control [[Project](https://github.com/zkf1997/COINS)]
+- [[ECCV2022](https://arxiv.org/abs/2207.11770)] Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis [[Project](https://sstzal.github.io/DFRF/)]
+- [[CVPR2022](https://arxiv.org/abs/2204.08906)] Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing [[Project](https://www.liuyebin.com/diffustereo/diffustereo.html)]
+- [[ECCV2022](https://arxiv.org/abs/2207.08000)] DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras [[Project](https://www.liuyebin.com/diffustereo/diffustereo.html)]
 - [[CVPR2022](https://arxiv.org/abs/2206.09553)] Capturing and Inferring Dense Full-Body Human-Scene Contact [[Project](https://rich.is.tue.mpg.de/)]
 - [[Arxiv](https://arxiv.org/abs/2206.08343)] Realistic One-shot Mesh-based Head Avatars [[Project](https://samsunglabs.github.io/rome/)]
 - [[CVPR2022](https://arxiv.org/abs/2204.10211)] SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis
@@ -1159,6 +1171,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2207.11971v1)] Jigsaw-ViT: Learning Jigsaw Puzzles in Vision Transformer [[Project](https://yingyichen-cyy.github.io/Jigsaw-ViT/)]
 - [[Arxiv](https://arxiv.org/abs/2207.03111)] Masked Surfel Prediction for Self-Supervised Point Cloud Learning [[github](https://github.com/YBZh/MaskSurf)]
 - [[Arxiv](https://arxiv.org/abs/2205.14401)] Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training [[github](https://github.com/ZrrSkywalker/Point-M2AE)]
 - [[Arxiv](https://arxiv.org/abs/2206.14797)] 3D-Aware Video Generation [[Project](https://sherwinbahmani.github.io/3dvidgen/)]
