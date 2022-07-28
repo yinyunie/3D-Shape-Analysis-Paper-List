@@ -22,6 +22,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[ECCV2022](https://arxiv.org/abs/2207.06985)] ObjectBox: From Centers to Boxes for Anchor-Free Object Detection [[github](https://github.com/MohsenZand/ObjectBox)]
 - [[Arxiv](https://arxiv.org/abs/2207.00531)] Masked Autoencoders for Self-Supervised Learning on Automotive Point Clouds
 - [[CVPR2022](https://arxiv.org/abs/2204.05599)] HyperDet3D: Learning a Scene-conditioned 3D Object Detector
 - [[Arxiv](https://arxiv.org/abs/2201.06493v1)] AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection
@@ -462,6 +463,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[CVPR2022](https://arxiv.org/abs/2110.02624)] CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation [[github](https://github.com/AutodeskAILab/Clip-Forge)]
+- [[CVPR2022](https://mworchel.github.io/assets/papers/neural_deferred_shading_with_supp.pdf)] Multi-View Mesh Reconstruction with Neural Deferred Shading [[Project](https://fraunhoferhhi.github.io/neural-deferred-shading/)]
 - [[Arxiv](https://arxiv.org/abs/2206.15258)] Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera [[Project](https://ustc3dv.github.io/ndr/)]
 - [[Arxiv](https://arxiv.org/abs/2206.08368)] Unbiased 4D: Monocular 4D Reconstruction with a Neural Deformation Model
 - [[Arxiv](https://arxiv.org/abs/2205.13914)] 3DILG: Irregular Latent Grids for 3D Generative Modeling [[Project](https://1zb.github.io/3DILG/)]
@@ -664,6 +667,8 @@ Inference to Local Adjustment [[Project Page](https://yinyunie.github.io/SKPCN-p
 
 ---
 ## 3D Scene Understanding
+- [[CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Yeh_PhotoScene_Photorealistic_Material_and_Lighting_Transfer_for_Indoor_Scenes_CVPR_2022_paper.pdf)] PhotoScene: Photorealistic Material and Lighting Transfer for Indoor Scenes [[github](https://github.com/ViLab-UCSD/photoscene)]
+- [[Arxiv](https://arxiv.org/abs/2206.01203)] Semantic Instance Segmentation of 3D Scenes Through Weak Bounding Box Supervision [[Project](http://virtualhumans.mpi-inf.mpg.de/box2mask/)]
 - [[CVPR2022](https://arxiv.org/abs/2204.07548)] Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation [[github](https://github.com/drprojects/DeepViewAgg)]
 - [[CVPR2022](https://arxiv.org/abs/2204.06272)] 3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection
 - [[CVPR2022](https://arxiv.org/abs/2204.06950)] BEHAVE: Dataset and Method for Tracking Human Object Interactions [[Project](http://virtualhumans.mpi-inf.mpg.de/behave/)]
@@ -799,6 +804,10 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[CVPR2022](https://arxiv.org/abs/2205.02836)] Neural 3D Scene Reconstruction with the Manhattan-world Assumption [[Project](https://zju3dv.github.io/manhattan_sdf/)]
+- [[CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Jeong_3D_Scene_Painting_via_Semantic_Image_Synthesis_CVPR_2022_paper.pdf)] 3D Scene Painting via Semantic Image Synthesis
+- [[Siggraph2022](https://arxiv.org/abs/2207.02363)] SNeRF: Stylized Neural Implicit Representations for 3D Scenes [[Project](https://research.facebook.com/publications/snerf-stylized-neural-implicit-representations-for-3d-scenes/)]
+- [[Siggraph2022](https://arxiv.org/abs/2205.12955)] Neural 3D Reconstruction in the Wild [[Project](https://zju3dv.github.io/neuralrecon-w/)]
 - [[Arxiv](https://arxiv.org/abs/2206.14735)] GO-Surf: Neural Feature Grid Optimization for Fast, High-Fidelity RGB-D Surface Reconstruction [[Project](https://jingwenwang95.github.io/go_surf/)]
 - [[Arxiv](https://arxiv.org/abs/2203.13296)] RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers
 - [[Arxiv](https://arxiv.org/abs/2204.02296)] iSDF: Real-Time Neural Signed Distance Fields for Robot Perception [[Project](https://joeaortiz.github.io/iSDF/)]
@@ -1150,6 +1159,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2207.03111)] Masked Surfel Prediction for Self-Supervised Point Cloud Learning [[github](https://github.com/YBZh/MaskSurf)]
 - [[Arxiv](https://arxiv.org/abs/2205.14401)] Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training [[github](https://github.com/ZrrSkywalker/Point-M2AE)]
 - [[Arxiv](https://arxiv.org/abs/2206.14797)] 3D-Aware Video Generation [[Project](https://sherwinbahmani.github.io/3dvidgen/)]
 - [[Arxiv](https://arxiv.org/abs/2206.11895)] Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space [[Project](https://www3.cs.stonybrook.edu/~jishang/3dtrl/3dtrl.html)]
