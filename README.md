@@ -1171,6 +1171,8 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2207.14455)] Neural Density-Distance Fields [[Project](https://ueda0319.github.io/neddf/)]
+- [[Arxiv](https://arxiv.org/abs/2208.04164)] Understanding Masked Image Modeling via Learning Occlusion Invariant Feature
 - [[Arxiv](https://arxiv.org/abs/2207.11971v1)] Jigsaw-ViT: Learning Jigsaw Puzzles in Vision Transformer [[Project](https://yingyichen-cyy.github.io/Jigsaw-ViT/)]
 - [[Arxiv](https://arxiv.org/abs/2207.03111)] Masked Surfel Prediction for Self-Supervised Point Cloud Learning [[github](https://github.com/YBZh/MaskSurf)]
 - [[Arxiv](https://arxiv.org/abs/2205.14401)] Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training [[github](https://github.com/ZrrSkywalker/Point-M2AE)]
