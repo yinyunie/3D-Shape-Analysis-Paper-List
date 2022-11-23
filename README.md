@@ -466,6 +466,12 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[Arxiv](https://arxiv.org/abs/2211.12497)] MagicPony: Learning Articulated 3D Animals in the Wild [[Project](https://3dmagicpony.github.io/)]
+- [[Arxiv](https://arxiv.org/abs/2211.09869)] RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation [[Project](https://github.com/Anciukevicius/RenderDiffusion)]
+- [[Arxiv](https://arxiv.org/abs/2211.10440)] Magic3D: High-Resolution Text-to-3D Content Creation [[Project](https://deepimagination.cc/Magic3D/)]
+- [[Arxiv](https://arxiv.org/abs/2211.07600)] Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures
+- [[NeurIPS2022](https://arxiv.org/abs/2210.06978)] LION: Latent Point Diffusion Models for 3D Shape Generation [[Project](https://nv-tlabs.github.io/LION/)]
+- [[NeurIPS2022](https://nv-tlabs.github.io/GET3D/assets/paper.pdf)] GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images [[Project](https://nv-tlabs.github.io/GET3D/)]
 - [[ECCV2022](https://arxiv.org/abs/2207.11795)] Cross-Modal 3D Shape Generation and Manipulation [[Project](https://people.cs.umass.edu/~zezhoucheng/edit3d/)]
 - [[ECCV2022](https://arxiv.org/abs/2207.12298)] Deforming Radiance Fields with Cages
 - [[NeurIPS2021](https://arxiv.org/abs/2110.07604)] NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild [[Project](https://jasonyzhang.com/ners/)]
@@ -1025,6 +1031,8 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2211.12499)] Instant Volumetric Head Avatars [[Project](https://zielon.github.io/insta/)]
+- [[Arxiv](https://arxiv.org/abs/2210.04888)] EVA3D: Compositional 3D Human Generation from 2D Image Collections [[Project](https://hongfz16.github.io/projects/EVA3D.html)]
 - [[ECCV2022](https://arxiv.org/abs/2207.12824)] Compositional Human-Scene Interaction Synthesis with Semantic Control [[Project](https://github.com/zkf1997/COINS)]
 - [[ECCV2022](https://arxiv.org/abs/2207.11770)] Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis [[Project](https://sstzal.github.io/DFRF/)]
 - [[CVPR2022](https://arxiv.org/abs/2204.08906)] Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing [[Project](https://www.liuyebin.com/diffustereo/diffustereo.html)]
@@ -1171,6 +1179,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2211.07636)] EVA: Exploring the Limits of Masked Visual Representation Learning at Scale
 - [[Arxiv](https://arxiv.org/abs/2207.14455)] Neural Density-Distance Fields [[Project](https://ueda0319.github.io/neddf/)]
 - [[Arxiv](https://arxiv.org/abs/2208.04164)] Understanding Masked Image Modeling via Learning Occlusion Invariant Feature
 - [[Arxiv](https://arxiv.org/abs/2207.11971v1)] Jigsaw-ViT: Learning Jigsaw Puzzles in Vision Transformer [[Project](https://yingyichen-cyy.github.io/Jigsaw-ViT/)]
@@ -1518,6 +1527,7 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/abs/2207.10660)] Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild [[Project](https://garrickbrazil.com/omni3d/)]
 - [[NeurIPS2021](https://openreview.net/pdf?id=tjZjv_qh_CE)] ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data [[github](https://github.com/apple/ARKitScenes)]
 - [[Dataset](https://aihabitat.org/datasets/replica_cad/)] ReplicaCAD [[Project](https://aihabitat.org/datasets/replica_cad/)]
 - [[PhDthesis](https://arxiv.org/abs/2202.12752v1)] Synthesizing Photorealistic Images with Deep Generative Learning
