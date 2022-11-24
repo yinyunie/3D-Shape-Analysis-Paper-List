@@ -466,6 +466,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[Arxiv](https://arxiv.org/abs/2210.03158)] Neural Volumetric Mesh Generator
+- [[Arxiv](https://arxiv.org/abs/2211.13220)] Tetrahedral Diffusion Models for 3D Shape Generation
 - [[Arxiv](https://arxiv.org/abs/2211.12497)] MagicPony: Learning Articulated 3D Animals in the Wild [[Project](https://3dmagicpony.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2211.09869)] RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation [[Project](https://github.com/Anciukevicius/RenderDiffusion)]
 - [[Arxiv](https://arxiv.org/abs/2211.10440)] Magic3D: High-Resolution Text-to-3D Content Creation [[Project](https://deepimagination.cc/Magic3D/)]
