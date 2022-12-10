@@ -466,6 +466,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[Arxiv](https://arxiv.org/abs/2212.04493)] SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation [[Project](https://yccyenchicheng.github.io/SDFusion/)]
+- [[Arxiv](https://arxiv.org/abs/2212.03267)] NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors
+- [[Arxiv](https://arxiv.org/abs/2212.03293)] Diffusion-SDF: Text-to-Shape via Voxelized Diffusion [[Project](https://github.com/ttlmh/Diffusion-SDF)]
 - [[Arxiv](https://arxiv.org/abs/2212.00842)] 3D-LDM: Neural Implicit 3D Shape Generation with Latent Diffusion Models
 - [[Arxiv](https://arxiv.org/abs/2212.00774)] Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation [[Project](https://pals.ttic.edu/p/score-jacobian-chaining)]
 - [[Arxiv](https://arxiv.org/abs/2212.00792)] SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction [[Project](https://sparsefusion.github.io/)]
@@ -823,6 +826,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2212.04360)] MIME: Human-Aware 3D Scene Generation [[Project](https://mime.is.tue.mpg.de/)]
 - [[CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_PlaneMVS_3D_Plane_Reconstruction_From_Multi-View_Stereo_CVPR_2022_paper.pdf)] PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo
 - [[CVPR2022](https://arxiv.org/abs/2205.02836)] Neural 3D Scene Reconstruction with the Manhattan-world Assumption [[Project](https://zju3dv.github.io/manhattan_sdf/)]
 - [[CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Jeong_3D_Scene_Painting_via_Semantic_Image_Synthesis_CVPR_2022_paper.pdf)] 3D Scene Painting via Semantic Image Synthesis
@@ -955,6 +959,10 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2212.04247)] EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points
+- [[Arxiv](https://arxiv.org/abs/2212.03406)] SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields [[Project](https://arxiv.org/pdf/2212.03406.pdf)]
+- [[Arxiv](https://arxiv.org/abs/2212.03848)] NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing [[Project](https://chuny1.github.io/NeRFEditor/nerfeditor.html)]
+- [[Arxiv](https://arxiv.org/abs/2212.02766)] Ref-NPR: Reference-Based Non-Photorealistic Radiance Fields [[Project](https://ref-npr.github.io/)]
 - [[WACV2023](https://arxiv.org/abs/2211.13762)] ScanNeRF: a Scalable Benchmark for Neural Radiance Fields [[Project](https://eyecan-ai.github.io/scannerf/)]
 - [[Arxiv](https://arxiv.org/abs/2207.01583)] LaTeRF: Label and Text Driven Object Radiance Fields
 - [[Arxiv](https://arxiv.org/abs/2206.04669)] Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields
@@ -1038,6 +1046,10 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2212.04420)] Generating Holistic 3D Human Motion from Speech [[Project](https://talkshow.is.tue.mpg.de/)]
+- [[Arxiv](https://arxiv.org/abs/2212.04495)] MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis [[Project](https://vcai.mpi-inf.mpg.de/projects/MoFusion/)]
+- [[Arxiv](https://arxiv.org/abs/2212.03237)] RANA: Relightable Articulated Neural Avatars [[Project](https://nvlabs.github.io/RANA/)]
+- [[Arxiv](https://arxiv.org/abs/2212.03741)] Magic: Multi Art Genre Intelligent Choreography Dataset and Network for 3D Dance Generation
 - [[Arxiv](https://arxiv.org/abs/2212.02469)] One-shot Implicit Animatable Avatars with Model-based Priors [[Project](https://elicit3d.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2212.02500)] PhysDiff: Physics-Guided Human Motion Diffusion Model [[Project](https://nvlabs.github.io/PhysDiff/)]
 - [[Arxiv](https://arxiv.org/abs/2211.12499)] Instant Volumetric Head Avatars [[Project](https://zielon.github.io/insta/)]
@@ -1188,6 +1200,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2212.04098)] Frozen CLIP Model is Efficient Point Cloud Backbone
 - [[Arxiv](https://arxiv.org/abs/2211.15089)] Continuous diffusion for categorical data
 - [[Arxiv](https://arxiv.org/abs/2211.07636)] EVA: Exploring the Limits of Masked Visual Representation Learning at Scale
 - [[Arxiv](https://arxiv.org/abs/2207.14455)] Neural Density-Distance Fields [[Project](https://ueda0319.github.io/neddf/)]
