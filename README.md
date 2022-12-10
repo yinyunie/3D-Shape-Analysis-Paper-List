@@ -5,7 +5,7 @@ A list of papers, libraries and datasets I recently read is collected for anyone
 - [3D Detection & Segmentation](#3d-detection--segmentation)
 - [Shape Representation](#shape-representation)
 - [Shape & Scene Completion](#shape--scene-completion)
-- [Shape Reconstruction](#shape-reconstruction--generation)
+- [Shape Reconstruction & Generation](#shape-reconstruction--generation)
 - [3D Scene Understanding](#3d-scene-understanding)
 - [3D Scene Reconstruction](#3d-scene-reconstruction)
 - [NeRF](#nerf)
@@ -466,6 +466,10 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[Arxiv](https://arxiv.org/abs/2212.00842)] 3D-LDM: Neural Implicit 3D Shape Generation with Latent Diffusion Models
+- [[Arxiv](https://arxiv.org/abs/2212.00774)] Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation [[Project](https://pals.ttic.edu/p/score-jacobian-chaining)]
+- [[Arxiv](https://arxiv.org/abs/2212.00792)] SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction [[Project](https://sparsefusion.github.io/)]
+- [[Arxiv](https://arxiv.org/abs/2211.16677)] 3D Neural Field Generation using Triplane Diffusion [[Project](https://jryanshue.com/nfd/)]
 - [[Arxiv](https://arxiv.org/abs/2210.03158)] Neural Volumetric Mesh Generator
 - [[Arxiv](https://arxiv.org/abs/2211.13220)] Tetrahedral Diffusion Models for 3D Shape Generation
 - [[Arxiv](https://arxiv.org/abs/2211.12497)] MagicPony: Learning Articulated 3D Animals in the Wild [[Project](https://3dmagicpony.github.io/)]
@@ -951,6 +955,7 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[WACV2023](https://arxiv.org/abs/2211.13762)] ScanNeRF: a Scalable Benchmark for Neural Radiance Fields [[Project](https://eyecan-ai.github.io/scannerf/)]
 - [[Arxiv](https://arxiv.org/abs/2207.01583)] LaTeRF: Label and Text Driven Object Radiance Fields
 - [[Arxiv](https://arxiv.org/abs/2206.04669)] Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields
 - [[CVPR2022](https://arxiv.org/abs/2206.06481)] RigNeRF: Fully Controllable Neural 3D Portraits [[Project](http://shahrukhathar.github.io/2022/06/06/RigNeRF.html)]
@@ -1033,6 +1038,8 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2212.02469)] One-shot Implicit Animatable Avatars with Model-based Priors [[Project](https://elicit3d.github.io/)]
+- [[Arxiv](https://arxiv.org/abs/2212.02500)] PhysDiff: Physics-Guided Human Motion Diffusion Model [[Project](https://nvlabs.github.io/PhysDiff/)]
 - [[Arxiv](https://arxiv.org/abs/2211.12499)] Instant Volumetric Head Avatars [[Project](https://zielon.github.io/insta/)]
 - [[Arxiv](https://arxiv.org/abs/2210.04888)] EVA3D: Compositional 3D Human Generation from 2D Image Collections [[Project](https://hongfz16.github.io/projects/EVA3D.html)]
 - [[ECCV2022](https://arxiv.org/abs/2207.12824)] Compositional Human-Scene Interaction Synthesis with Semantic Control [[Project](https://github.com/zkf1997/COINS)]
@@ -1181,6 +1188,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2211.15089)] Continuous diffusion for categorical data
 - [[Arxiv](https://arxiv.org/abs/2211.07636)] EVA: Exploring the Limits of Masked Visual Representation Learning at Scale
 - [[Arxiv](https://arxiv.org/abs/2207.14455)] Neural Density-Distance Fields [[Project](https://ueda0319.github.io/neddf/)]
 - [[Arxiv](https://arxiv.org/abs/2208.04164)] Understanding Masked Image Modeling via Learning Occlusion Invariant Feature
