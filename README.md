@@ -466,6 +466,8 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[Arxiv](https://arxiv.org/abs/2212.08751)] Point-E: A System for Generating 3D Point Clouds from Complex Prompts [[Project](https://github.com/openai/point-e)]
+- [[Arxiv](https://arxiv.org/abs/2212.04981)] LoopDraw: a Loop-Based Autoregressive Model for Shape Synthesis and Editing
 - [[Arxiv](https://arxiv.org/abs/2212.04493)] SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation [[Project](https://yccyenchicheng.github.io/SDFusion/)]
 - [[Arxiv](https://arxiv.org/abs/2212.03267)] NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors
 - [[Arxiv](https://arxiv.org/abs/2212.03293)] Diffusion-SDF: Text-to-Shape via Voxelized Diffusion [[Project](https://github.com/ttlmh/Diffusion-SDF)]
@@ -959,6 +961,8 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2212.08070)] NeRF-Art: Text-Driven Neural Radiance Fields Stylization [[Projetc](https://cassiepython.github.io/nerfart/)]
+- [[Arxiv](https://arxiv.org/abs/2212.04701)] 4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions [[Project](https://github.com/frozoul/4K-NeRF)]
 - [[Arxiv](https://arxiv.org/abs/2212.04247)] EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points
 - [[Arxiv](https://arxiv.org/abs/2212.03406)] SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields [[Project](https://arxiv.org/pdf/2212.03406.pdf)]
 - [[Arxiv](https://arxiv.org/abs/2212.03848)] NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing [[Project](https://chuny1.github.io/NeRFEditor/nerfeditor.html)]
@@ -1046,6 +1050,10 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2212.08377)] PointAvatar: Deformable Point-based Head Avatars from Videos [[Project](https://zhengyuf.github.io/pointavatar/)]
+- [[Arxiv](https://arxiv.org/abs/2212.07275)] PhoMoH: Implicit Photorealistic 3D Models of Human Heads
+- [[Arxiv](https://arxiv.org/abs/2212.07378)] 3DHumanGAN: Towards Photo-Realistic 3D-Aware Human Image Generation
+- [[Arxiv](https://arxiv.org/abs/2212.06135)] Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion [[Project](https://3d-avatar-diffusion.microsoft.com/#/)]
 - [[Arxiv](https://arxiv.org/abs/2212.04420)] Generating Holistic 3D Human Motion from Speech [[Project](https://talkshow.is.tue.mpg.de/)]
 - [[Arxiv](https://arxiv.org/abs/2212.04495)] MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis [[Project](https://vcai.mpi-inf.mpg.de/projects/MoFusion/)]
 - [[Arxiv](https://arxiv.org/abs/2212.03237)] RANA: Relightable Articulated Neural Avatars [[Project](https://nvlabs.github.io/RANA/)]
@@ -1200,6 +1208,10 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2212.08974)] 3D Point Cloud Pre-training with Knowledge Distillation from 2D Images
+- [[Arxiv](https://arxiv.org/abs/2212.08320)] Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning? [[Project](https://github.com/RunpeiDong/ACT)]
+- [[Arxiv](https://arxiv.org/abs/2212.08653)] Attentive Mask CLIP
+- [[Arxiv](https://arxiv.org/abs/2212.04668)] Synthetic-to-Real Domain Generalized Semantic Segmentation for 3D Indoor Point Clouds
 - [[Arxiv](https://arxiv.org/abs/2212.04098)] Frozen CLIP Model is Efficient Point Cloud Backbone
 - [[Arxiv](https://arxiv.org/abs/2211.15089)] Continuous diffusion for categorical data
 - [[Arxiv](https://arxiv.org/abs/2211.07636)] EVA: Exploring the Limits of Masked Visual Representation Learning at Scale
@@ -1550,6 +1562,8 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://autonomousvision.github.io/sdfstudio/)] SDFStudio: A Unified Framework for Surface Reconstruction [[Project](https://github.com/autonomousvision/sdfstudio/blob/master/docs/sdfstudio-methods.md)]
+- [[Arxiv](https://arxiv.org/abs/2212.08051)] Objaverse: A Universe of Annotated 3D Objects [[Project](https://objaverse.allenai.org/)]
 - [[Arxiv](https://arxiv.org/abs/2207.10660)] Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild [[Project](https://garrickbrazil.com/omni3d/)]
 - [[NeurIPS2021](https://openreview.net/pdf?id=tjZjv_qh_CE)] ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data [[github](https://github.com/apple/ARKitScenes)]
 - [[Dataset](https://aihabitat.org/datasets/replica_cad/)] ReplicaCAD [[Project](https://aihabitat.org/datasets/replica_cad/)]
