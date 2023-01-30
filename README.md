@@ -467,6 +467,10 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[Arxiv](https://arxiv.org/abs/2301.09629)] LEGO-Net: Learning Regular Rearrangements of Objects in Rooms [[Project](https://ivl.cs.brown.edu/#/projects/lego-net)]
+- [[Arxiv](https://arxiv.org/abs/2212.11984)] DisCoScene: Spatially Disentangled Generative Radiance Fields for Controllable 3D-aware Scene Synthesis [[Project](https://snap-research.github.io/discoscene/)]
+- [[Arxiv](https://arxiv.org/abs/2212.11715)] GeoCode: Interpretable Shape Programs [[Project](https://threedle.github.io/GeoCode/)]
+- [[Arxiv](https://arxiv.org/abs/2212.14704)] Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models [[Project](https://bluestyle97.github.io/dream3d/)]
 - [[Arxiv](https://arxiv.org/abs/2212.08751)] Point-E: A System for Generating 3D Point Clouds from Complex Prompts [[Project](https://github.com/openai/point-e)]
 - [[Arxiv](https://arxiv.org/abs/2212.04981)] LoopDraw: a Loop-Based Autoregressive Model for Shape Synthesis and Editing
 - [[Arxiv](https://arxiv.org/abs/2212.04493)] SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation [[Project](https://yccyenchicheng.github.io/SDFusion/)]
@@ -829,6 +833,8 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2301.11280)] Text-To-4D Dynamic Scene Generation
+- [[Arxiv](https://arxiv.org/abs/2301.07668)] Behind the Scenes: Density Fields for Single View Reconstruction [[Project](https://fwmb.github.io/bts/)]
 - [[Arxiv](https://arxiv.org/abs/2212.04360)] MIME: Human-Aware 3D Scene Generation [[Project](https://mime.is.tue.mpg.de/)]
 - [[CVPR2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_PlaneMVS_3D_Plane_Reconstruction_From_Multi-View_Stereo_CVPR_2022_paper.pdf)] PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo
 - [[CVPR2022](https://arxiv.org/abs/2205.02836)] Neural 3D Scene Reconstruction with the Manhattan-world Assumption [[Project](https://zju3dv.github.io/manhattan_sdf/)]
@@ -962,6 +968,9 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2212.11966)] Removing Objects From Neural Radiance Fields
+- [[Arxiv](https://arxiv.org/abs/2212.13545)] Interactive Segmentation of Radiance Fields [[Project](https://rahul-goel.github.io/isrf/)]
+- [[Arxiv](https://arxiv.org/abs/2301.02239)] Robust Dynamic Radiance Fields [[Project](https://robust-dynrf.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2212.08070)] NeRF-Art: Text-Driven Neural Radiance Fields Stylization [[Projetc](https://cassiepython.github.io/nerfart/)]
 - [[Arxiv](https://arxiv.org/abs/2212.04701)] 4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions [[Project](https://github.com/frozoul/4K-NeRF)]
 - [[Arxiv](https://arxiv.org/abs/2212.04247)] EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points
@@ -1209,6 +1218,9 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[Arxiv](https://arxiv.org/abs/2301.09632)] HexPlane: A Fast Representation for Dynamic Scenes [[Project](https://caoang327.github.io/HexPlane/)]
+- [[Arxiv](https://arxiv.org/abs/2301.07584)] Joint Representation Learning for Text and 3D Point Cloud
+- [[Arxiv](https://arxiv.org/abs/2301.00157)] Ponder: Point Cloud Pre-training via Neural Rendering
 - [[Arxiv](https://arxiv.org/abs/2212.08974)] 3D Point Cloud Pre-training with Knowledge Distillation from 2D Images
 - [[Arxiv](https://arxiv.org/abs/2212.08320)] Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning? [[Project](https://github.com/RunpeiDong/ACT)]
 - [[Arxiv](https://arxiv.org/abs/2212.08653)] Attentive Mask CLIP
@@ -1563,6 +1575,7 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Arxiv](https://arxiv.org/abs/2301.07525)] OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation [[Project](https://omniobject3d.github.io/)]
 - [[Arxiv](https://autonomousvision.github.io/sdfstudio/)] SDFStudio: A Unified Framework for Surface Reconstruction [[Project](https://github.com/autonomousvision/sdfstudio/blob/master/docs/sdfstudio-methods.md)]
 - [[Arxiv](https://arxiv.org/abs/2212.08051)] Objaverse: A Universe of Annotated 3D Objects [[Project](https://objaverse.allenai.org/)]
 - [[Arxiv](https://arxiv.org/abs/2207.10660)] Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild [[Project](https://garrickbrazil.com/omni3d/)]
