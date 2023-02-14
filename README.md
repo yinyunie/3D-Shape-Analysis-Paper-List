@@ -968,6 +968,7 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2302.01226v1)] Factor Fields: A Unified Framework for Neural Fields and Beyond
 - [[Arxiv](https://arxiv.org/abs/2212.11966)] Removing Objects From Neural Radiance Fields
 - [[Arxiv](https://arxiv.org/abs/2212.13545)] Interactive Segmentation of Radiance Fields [[Project](https://rahul-goel.github.io/isrf/)]
 - [[Arxiv](https://arxiv.org/abs/2301.02239)] Robust Dynamic Radiance Fields [[Project](https://robust-dynrf.github.io/)]
