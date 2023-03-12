@@ -233,6 +233,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[Arxiv](https://arxiv.org/abs/2303.04341)] Neural Vector Fields: Implicit Representation by Explicit Learning
 - [[ECCV2022](https://arxiv.org/abs/2207.11911)] NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing [[Project](https://zju3dv.github.io/neumesh/)]
 - [[Arxiv](https://arxiv.org/abs/2207.01545)] Masked Autoencoders in 3D Point Cloud Representation Learning
 - [[Arxiv](https://arxiv.org/abs/2206.05837v1)] NeuralODF: Learning Omnidirectional Distance Fields for 3D Shape Representation
@@ -467,6 +468,9 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[Arxiv](https://arxiv.org/abs/2303.02375)] NeuDA: Neural Deformable Anchor for High-Fidelity Implicit Surface Reconstruction
+- [[Arxiv](https://arxiv.org/abs/2303.02091)] Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement [[Project](https://me.kiui.moe/nerf2mesh/)]
+- [[Arxiv](https://arxiv.org/abs/2303.01416)] 3D generation on ImageNet [[Project](https://snap-research.github.io/3dgp/)]
 - [[Arxiv](https://arxiv.org/abs/2302.08510)] Text-driven Visual Synthesis with Latent Diffusion Prior [[Project](https://latent-diffusion-prior.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2302.06833)] VQ3D: Learning a 3D-Aware Generative Model on ImageNet [[Project](https://kylesargent.github.io/vq3d)]
 - [[Arxiv](https://arxiv.org/abs/2302.01721)] TEXTure: Text-Guided Texturing of 3D Shapes [[Project](https://texturepaper.github.io/TEXTurePaper/)]
@@ -975,6 +979,7 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[CVPR2023](https://arxiv.org/abs/2303.03361)] Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervisio
 - [[CVPR2023](https://arxiv.org/abs/2302.14340)] HelixSurf: A Robust and Efficient Neural Implicit Surface Learning of Indoor Scenes with Iterative Intertwined Regularization [[github](https://github.com/Gorilla-Lab-SCUT/HelixSurf)]
 - [[Arxiv](https://arxiv.org/abs/2302.14859)] BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis [[Project](https://bakedsdf.github.io/)]
 - [[Arxiv](https://arxiv.org/abs/2302.10109)] NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion [[Project](https://jiataogu.me/nerfdiff/)]
@@ -1073,6 +1078,7 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2303.00167)] Sketch2Cloth: Sketch-based 3D Garment Generation with Unsigned Distance Fields
 - [[Arxiv](https://arxiv.org/abs/2212.08377)] PointAvatar: Deformable Point-based Head Avatars from Videos [[Project](https://zhengyuf.github.io/pointavatar/)]
 - [[Arxiv](https://arxiv.org/abs/2212.07275)] PhoMoH: Implicit Photorealistic 3D Models of Human Heads
 - [[Arxiv](https://arxiv.org/abs/2212.07378)] 3DHumanGAN: Towards Photo-Realistic 3D-Aware Human Image Generation
