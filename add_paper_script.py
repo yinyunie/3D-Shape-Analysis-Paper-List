@@ -20,7 +20,7 @@ if __name__ == '__main__':
     [2] Shape & Scene Completion;
     [3] Shape Reconstruction & Generation;
     [4] 3D Scene Understanding;
-    [5] 3D Scene Reconstruction;
+    [5] 3D Scene Reconstruction & Generation;
     [6] NeRF;
     [7] About Human Body;
     [8] General Methods;
