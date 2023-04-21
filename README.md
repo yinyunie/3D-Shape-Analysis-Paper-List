@@ -22,6 +22,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ## 3D Detection & Segmentation
+- [[Arxiv](https://arxiv.org/abs/2304.06906)] Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding [[Project](https://github.com/microsoft/Swin3D)]
+- [[Arxiv](https://arxiv.org/abs/2304.00962)] RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding [[Project](https://jihanyang.github.io/projects/RegionPLC)]
+- [[CVPR2023](https://arxiv.org/abs/2303.15440)] EFEM: Equivariant Neural Field Expectation Maximization for 3D Object Segmentation Without Scene Supervision [[Project](https://www.cis.upenn.edu/~leijh/projects/efem/)]
 - [[CVPR2023](https://arxiv.org/abs/2303.08129)] PiMAE: Point Cloud and Image Interactive Masked Autoencoders for 3D Object Detection [[Project](https://github.com/BLVLab/PiMAE)]
 - [[Arxiv](https://arxiv.org/abs/2210.03105)] Mask3D for 3D Semantic Instance Segmentation [[github](https://github.com/JonasSchult/Mask3D)]
 - [[ECCV2022](https://arxiv.org/abs/2207.06985)] ObjectBox: From Centers to Boxes for Anchor-Free Object Detection [[github](https://github.com/MohsenZand/ObjectBox)]
@@ -234,6 +237,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## Shape Representation
+- [[CVPR2023](https://arxiv.org/abs/2303.14191v1)] Masked Scene Contrast: A Scalable Framework for Unsupervised 3D Representation Learning [[github](https://github.com/Pointcept/Pointcept)]
 - [[Arxiv](https://arxiv.org/abs/2303.04341)] Neural Vector Fields: Implicit Representation by Explicit Learning
 - [[ECCV2022](https://arxiv.org/abs/2207.11911)] NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing [[Project](https://zju3dv.github.io/neumesh/)]
 - [[Arxiv](https://arxiv.org/abs/2207.01545)] Masked Autoencoders in 3D Point Cloud Representation Learning
@@ -469,6 +473,12 @@ from a Single Depth Image [[tensorflow](https://github.com/wangyida/forknet)]
 
 ---
 ## Shape Reconstruction & Generation
+- [[Arxiv](https://arxiv.org/abs/2304.01900)] PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion [[Project](https://gwang-kim.github.io/podia_3d/)]
+- [[Arxiv](https://arxiv.org/abs/2303.17905)] 3D-aware Image Generation using 2D Diffusion Models [[Project](https://jeffreyxiang.github.io/ivid/)]
+- [[Arxiv](https://arxiv.org/abs/2303.17015)] HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion [[Project](https://ziyaerkoc.com/hyperdiffusion/)]
+- [[Arxiv](https://arxiv.org/abs/2304.02827)] DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model [[Project](https://janeyeon.github.io/ditto-nerf/)]
+- [[Arxiv](https://arxiv.org/abs/2303.14184)] Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior [[Project](https://make-it-3d.github.io/)]
+- [[Arxiv](https://arxiv.org/abs/2302.10663)] RealFusion: 360° Reconstruction of Any Object from a Single Image [[Project](https://lukemelas.github.io/realfusion/)]
 - [[Arxiv](https://arxiv.org/abs/2303.05371)] 3DGen: Triplane Latent Diffusion for Textured Mesh Generation
 - [[Arxiv](https://arxiv.org/abs/2303.07937)] Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation [[Project](https://ku-cvlab.github.io/3DFuse/)]
 - [[CVPR2023](https://arxiv.org/abs/2303.07938)] Controllable Mesh Generation Through Sparse Latent Point Diffusion Models [[Project](https://slide-3d.github.io/)]
@@ -853,6 +863,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction & Generation
+- [[Arxiv](https://arxiv.org/abs/2303.15780)] Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion [[Project](https://sony.github.io/Instruct3Dto3D-doc/)]
 - [[Arxiv](https://arxiv.org/abs/2303.04508)] FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning
 - [[CVPR2023](https://arxiv.org/abs/2303.07634)] I$^2$-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs [[Project](https://jingsenzhu.github.io/i2-sdf/)]
 - [[Arxiv](https://arxiv.org/abs/2303.12074)] CC3D: Layout-Conditioned Generation of Compositional 3D Scenes [[Project](https://sherwinbahmani.github.io/cc3d/)]
@@ -998,6 +1009,8 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[CVPR2023](https://arxiv.org/abs/2303.13805)] Seeing Through the Glass: Neural 3D Reconstruction of Object Inside a Transparent Container [[Project](https://github.com/hirotong/ReNeuS)]
+- [[Arxiv](https://arxiv.org/abs/2303.13843)] CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout
 - [[Arxiv](https://arxiv.org/abs/2303.09553)] LERF: Language Embedded Radiance Fields [[Project](https://www.lerf.io/)]
 - [[CVPR2023](https://arxiv.org/abs/2303.03361)] Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervisio
 - [[CVPR2023](https://arxiv.org/abs/2302.14340)] HelixSurf: A Robust and Efficient Neural Implicit Surface Learning of Indoor Scenes with Iterative Intertwined Regularization [[github](https://github.com/Gorilla-Lab-SCUT/HelixSurf)]
@@ -1098,6 +1111,7 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/abs/2304.02013)] NPC: Neural Point Characters from Video [[Project](https://lemonatsu.github.io/npc/)]
 - [[Arxiv](https://arxiv.org/abs/2303.06504)] Normal-guided Garment UV Prediction for Human Re-texturing
 - [[Arxiv](https://arxiv.org/abs/2303.00167)] Sketch2Cloth: Sketch-based 3D Garment Generation with Unsigned Distance Fields
 - [[Arxiv](https://arxiv.org/abs/2212.08377)] PointAvatar: Deformable Point-based Head Avatars from Videos [[Project](https://zhengyuf.github.io/pointavatar/)]
@@ -1258,6 +1272,7 @@ snapshots from observations [[Project](https://graphics.stanford.edu/projects/pi
 
 ---
 ## General Methods
+- [[CVPR2023](https://arxiv.org/abs/2205.12551)] Masked Jigsaw Puzzle: A Versatile Position Embedding for Vision Transformers [[github](https://github.com/yhlleo/MJP)]
 - [[Arxiv](https://arxiv.org/abs/2301.09632)] HexPlane: A Fast Representation for Dynamic Scenes [[Project](https://caoang327.github.io/HexPlane/)]
 - [[Arxiv](https://arxiv.org/abs/2301.07584)] Joint Representation Learning for Text and 3D Point Cloud
 - [[Arxiv](https://arxiv.org/abs/2301.00157)] Ponder: Point Cloud Pre-training via Neural Rendering
@@ -1447,6 +1462,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://arxiv.org/abs/2304.07435)] Temporally Consistent Online Depth Estimation Using Point-Based Fusion [[Project](https://research.facebook.com/publications/temporally-consistent-online-depth-estimation-using-point-based-fusion/)]
 - [[CVPR2023](https://arxiv.org/abs/2303.04803)] Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models [[Project](https://jerryxu.net/ODISE/)]
 - [[Arxiv](https://arxiv.org/abs/2303.04671)] Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [[github](https://github.com/microsoft/visual-chatgpt)]
 - [[Arxiv](https://arxiv.org/abs/2303.12688)] Pix2Video: Video Editing using Image Diffusion [[Project](https://duyguceylan.github.io/pix2video.github.io/)]
