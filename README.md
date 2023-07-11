@@ -1009,6 +1009,7 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2304.06706)] Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields [[Project](https://jonbarron.info/zipnerf/)]
 - [[CVPR2023](https://arxiv.org/abs/2303.13805)] Seeing Through the Glass: Neural 3D Reconstruction of Object Inside a Transparent Container [[Project](https://github.com/hirotong/ReNeuS)]
 - [[Arxiv](https://arxiv.org/abs/2303.13843)] CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout
 - [[Arxiv](https://arxiv.org/abs/2303.09553)] LERF: Language Embedded Radiance Fields [[Project](https://www.lerf.io/)]
@@ -1462,6 +1463,7 @@ Object Detection via Transformer Decoder
 
 ---
 ## Others (inc. Networks in Classification, Matching, Registration, Alignment, Depth, Normal, Pose, Keypoints, etc.)
+- [[Arxiv](https://objaverse.allenai.org/objaverse-xl-paper.pdf)] Objaverse-XL: A Universe of 10M+ 3D Objects
 - [[Arxiv](https://arxiv.org/abs/2304.07435)] Temporally Consistent Online Depth Estimation Using Point-Based Fusion [[Project](https://research.facebook.com/publications/temporally-consistent-online-depth-estimation-using-point-based-fusion/)]
 - [[CVPR2023](https://arxiv.org/abs/2303.04803)] Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models [[Project](https://jerryxu.net/ODISE/)]
 - [[Arxiv](https://arxiv.org/abs/2303.04671)] Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [[github](https://github.com/microsoft/visual-chatgpt)]
@@ -1636,6 +1638,9 @@ Object Detection via Transformer Decoder
 
 
 ## Survey, Resources and Tools
+- [[Dataset](https://www.projectaria.com/datasets/ase/)] Aria Synthetic Environments Dataset
+- [[Dataset](https://arxiv.org/abs/2306.06362)] Aria Digital Twin: A New Benchmark Dataset for Egocentric 3D Machine Perception [[Project](https://www.projectaria.com/datasets/adt/)]
+- [[Dataset](https://arxiv.org/abs/2306.09011)] CAD-Estate: Large-scale CAD Model Annotation in RGB Videos [[github](https://github.com/google-research/cad-estate)]
 - [[Arxiv](https://arxiv.org/abs/2302.12066)] Teaching CLIP to Count to Ten
 - [[Arxiv](https://github.com/lllyasviel/ControlNet)] ControlNet
 - [[Arxiv](https://github.com/TencentARC/T2I-Adapter)] T2I-Adapter
