@@ -863,6 +863,7 @@ Forecasting with a Single Convolutional Net
 
 ---
 ## 3D Scene Reconstruction & Generation
+- [[CVPR2023](https://arxiv.org/abs/2306.03092)] Neuralangelo: High-Fidelity Neural Surface Reconstruction [[Project](https://research.nvidia.com/labs/dir/neuralangelo/)]
 - [[Arxiv](https://arxiv.org/abs/2303.15780)] Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion [[Project](https://sony.github.io/Instruct3Dto3D-doc/)]
 - [[Arxiv](https://arxiv.org/abs/2303.04508)] FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning
 - [[CVPR2023](https://arxiv.org/abs/2303.07634)] I$^2$-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs [[Project](https://jingsenzhu.github.io/i2-sdf/)]
