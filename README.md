@@ -1010,6 +1010,8 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2301.10241)] K-Planes: Explicit Radiance Fields in Space, Time, and Appearance
+- [[Arxiv](https://arxiv.org/abs/2311.12198)] PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics
 - [[ICCV2023](https://arxiv.org/abs/2307.15131)] Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields [[github](https://github.com/windingwind/seal-3d)]
 - [[Arxiv](https://arxiv.org/abs/2304.06706)] Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields [[Project](https://jonbarron.info/zipnerf/)]
 - [[CVPR2023](https://arxiv.org/abs/2303.13805)] Seeing Through the Glass: Neural 3D Reconstruction of Object Inside a Transparent Container [[Project](https://github.com/hirotong/ReNeuS)]
