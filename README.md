@@ -1114,6 +1114,8 @@ from Multi-View Stereo
 
 ---
 ## About Human Body
+- [[Arxiv](https://arxiv.org/pdf/2311.16096.pdf)] Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling [[Project](https://animatable-gaussians.github.io/)]
+- [[Arxiv](https://arxiv.org/abs/2311.08581)] D3GA - Drivable 3D Gaussian Avatars [[Project](https://zielon.github.io/d3ga/)]
 - [[Arxiv](https://arxiv.org/abs/2304.02013)] NPC: Neural Point Characters from Video [[Project](https://lemonatsu.github.io/npc/)]
 - [[Arxiv](https://arxiv.org/abs/2303.06504)] Normal-guided Garment UV Prediction for Human Re-texturing
 - [[Arxiv](https://arxiv.org/abs/2303.00167)] Sketch2Cloth: Sketch-based 3D Garment Generation with Unsigned Distance Fields
