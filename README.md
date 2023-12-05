@@ -1010,6 +1010,8 @@ for View Synthesis from a Single Image [[Project](https://worldsheet.github.io/)
 
 ---
 ## NeRF
+- [[Arxiv](https://arxiv.org/abs/2312.00109)] Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering [[https://city-super.github.io/scaffold-gs/]()]
+- [[NeurIPS2023](https://haithemturki.com/pynerf/resources/paper.pdf)] PyNeRF: Pyramidal Neural Radiance Fields
 - [[Arxiv](https://arxiv.org/abs/2301.10241)] K-Planes: Explicit Radiance Fields in Space, Time, and Appearance
 - [[Arxiv](https://arxiv.org/abs/2311.12198)] PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics
 - [[ICCV2023](https://arxiv.org/abs/2307.15131)] Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields [[github](https://github.com/windingwind/seal-3d)]
